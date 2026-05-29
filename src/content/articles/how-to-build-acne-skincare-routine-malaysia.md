@@ -18,9 +18,9 @@ faqs:
     a: "Scale back rather than stop entirely. Redness, stinging, and flaking usually mean you are using an active too often or layering too many. Drop to every second or third night, double down on moisturiser, and keep sunscreen daily. If skin stays raw, broken, or painful, pause actives and see a pharmacist or doctor."
 ---
 
-If you want a single answer: an effective acne routine is four steps, not ten. A gentle cleanser, **one** active ingredient, a moisturiser, and a daily sunscreen will clear most mild-to-moderate acne if you stick with it. The mistake almost everyone makes is the opposite of too little — they buy five "anti-acne" products at once, layer them all, wreck the skin barrier, and end up redder and more broken out than when they started. In Malaysia's heat and humidity, that overload happens even faster.
+If you want a single answer: an effective acne routine is four steps, not ten. A gentle cleanser, **one** active ingredient, a moisturiser, and a daily sunscreen will clear most mild-to-moderate acne if you stick with it. The mistake almost everyone makes is the opposite of too little. They buy five "anti-acne" products at once, layer them all, wreck the skin barrier, and end up redder and more broken out than when they started. In Malaysia's heat and humidity, that overload happens even faster.
 
-This is the routine builder we wish more people started with: what each step does, how to choose one active instead of five, and how to introduce it slowly without your face peeling off in the Klang Valley sun. This is educational, not medical advice — for prescription treatments, or for severe, painful, cystic, or persistent acne, please see a doctor or pharmacist.
+This is the routine builder we wish more people started with: what each step does, how to choose one active instead of five, and how to introduce it slowly without your face peeling off in the Klang Valley sun. This is educational, not medical advice. For prescription treatments, or for severe, painful, cystic, or persistent acne, please see a doctor or pharmacist.
 
 ## The four steps that actually matter
 
@@ -37,7 +37,7 @@ Notice what is missing: toners, essences, ten-step layering, "pore vacuums," har
 
 ## Step 1: Gentle cleanser
 
-The job of a cleanser is simply to lift off the day — sebum, sweat, sunscreen, and pollution — without stripping your skin raw. In a hot, humid climate you sweat and produce more oil, so cleansing morning and night makes sense. But "deep clean," squeaky-tight skin is a red flag. That tight feeling means you have removed your protective oils, and skin often responds by producing *more* oil.
+The job of a cleanser is simply to lift off the day (sebum, sweat, sunscreen, and pollution) without stripping your skin raw. In a hot, humid climate you sweat and produce more oil, so cleansing morning and night makes sense. But "deep clean," squeaky-tight skin is a red flag. That tight feeling means you have removed your protective oils, and skin often responds by producing *more* oil.
 
 Look for a gentle gel or low-foaming cleanser. Avoid anything with rough physical scrub beads or a strong "tingling" menthol effect, which can aggravate inflamed spots. A medicated cleanser with a small amount of salicylic acid can be useful for oily, congested skin, but treat it as your one active if you go that route, rather than stacking it on top of others.
 
@@ -45,12 +45,12 @@ Look for a gentle gel or low-foaming cleanser. Avoid anything with rough physica
 
 ## Step 2: ONE core active (this is the important part)
 
-This is where routines live or die. The active is the ingredient doing the real work on your acne — and the single biggest improvement most people can make is to use **one** properly instead of three badly.
+This is where routines live or die. The active is the ingredient doing the real work on your acne, and the single biggest improvement most people can make is to use **one** properly instead of three badly.
 
 Here is how the common over-the-counter actives work, so you can choose based on mechanism rather than marketing:
 
 - **Salicylic acid (BHA):** an oil-soluble acid that gets inside the pore and clears out the dead skin and sebum that block it. Best for blackheads, whiteheads, and general congestion. As [DermNet](https://dermnetnz.org/topics/salicylic-acid) explains, it works by slowing the shedding of cells inside the follicle so pores do not clog. Typical OTC strengths sit roughly around 0.5% to 2%. We cover it in depth in [Salicylic Acid for Acne](/my/articles/salicylic-acid-for-acne/).
-- **Benzoyl peroxide:** kills the acne-causing bacteria (*C. acnes*) directly and reduces inflammation. Best for angry, inflamed, pus-filled spots. Common strengths range roughly from 2.5% to 10% — and higher is not better, just more drying. It can bleach towels and pillowcases, so use white ones.
+- **Benzoyl peroxide:** kills the acne-causing bacteria (*C. acnes*) directly and reduces inflammation. Best for angry, inflamed, pus-filled spots. Common strengths range roughly from 2.5% to 10%, and higher is not better, just more drying. It can bleach towels and pillowcases, so use white ones.
 - **Adapalene (a retinoid):** speeds up skin cell turnover so pores do not clog in the first place, and calms inflammation over time. It is excellent for both clogged pores and inflamed acne, and in Malaysia some forms are available over the counter at pharmacies while stronger retinoids are prescription. Because it can be irritating and increases sun sensitivity, follow the label and start slowly. See [Retinol vs Retinoids for Acne](/my/articles/retinol-vs-retinoids-for-acne/) for where to begin.
 - **Niacinamide / azelaic acid:** gentler supporting actives that calm redness and help with post-acne marks. Good options if stronger actives are too harsh for you.
 
@@ -63,34 +63,34 @@ Which one? A rough guide:
 | Mix of clogged pores and inflammation | Adapalene at night |
 | Easily irritated, sensitive skin | Niacinamide or azelaic acid |
 
-If you are unsure which fits your skin, our pillar guide, [How to Treat Acne in Malaysia](/my/articles/how-to-treat-acne-malaysia/), walks through matching ingredient to acne type — including which textures suit very oily skin in our humidity.
+If you are unsure which fits your skin, our pillar guide, [How to Treat Acne in Malaysia](/my/articles/how-to-treat-acne-malaysia/), walks through matching ingredient to acne type, including which textures suit very oily skin in our humidity.
 
 A word on honesty here: you do not need an expensive serum to get these actives. A basic salicylic acid product or a pharmacy adapalene gel often outperforms a pricey "acne brightening glow" serum with a long, vague ingredient list. Spend on the active that works, not the packaging.
 
-## Step 3: Moisturiser — yes, even if you are oily
+## Step 3: Moisturiser, yes, even if you are oily
 
-This is the step oily-skinned Malaysians skip most, and it is a mistake. Acne actives work by exfoliating, drying, or speeding up turnover — all of which can stress the skin barrier. A damaged barrier leads to more redness, more sensitivity, and ironically more oil and breakouts. Moisturiser is what lets you keep using your active without your face rebelling.
+This is the step oily-skinned Malaysians skip most, and it is a mistake. Acne actives work by exfoliating, drying, or speeding up turnover, all of which can stress the skin barrier. A damaged barrier leads to more redness, more sensitivity, and ironically more oil and breakouts. Moisturiser is what lets you keep using your active without your face rebelling.
 
 The trick is texture. In our humidity you do not want a heavy cream sitting on your face. Reach for a lightweight gel or gel-cream labelled non-comedogenic (won't clog pores) and oil-free. Ingredients like hyaluronic acid, glycerin, and ceramides hydrate and rebuild the barrier without feeling greasy. These are easy to find at Watsons, Guardian, or on Shopee for roughly RM30 to RM80.
 
 > Rule of thumb: the more drying your active, the more important your moisturiser. They are a pair, not a choice.
 
-## Step 4: Sunscreen — the non-negotiable Malaysian step
+## Step 4: Sunscreen, the non-negotiable Malaysian step
 
 Malaysia sits near the equator, so UV is strong every single day, cloudy or not. Two reasons this matters enormously for acne:
 
-1. **Actives increase sun sensitivity.** Salicylic acid, benzoyl peroxide, and especially retinoids make your skin more vulnerable to sun damage — the [NHS](https://www.nhs.uk/conditions/acne/treatment/) notes that benzoyl peroxide makes your face more sensitive to sunlight and advises wearing sun cream. Skipping SPF undoes part of what your routine is trying to achieve.
+1. **Actives increase sun sensitivity.** Salicylic acid, benzoyl peroxide, and especially retinoids make your skin more vulnerable to sun damage. The [NHS](https://www.nhs.uk/conditions/acne/treatment/) notes that benzoyl peroxide makes your face more sensitive to sunlight and advises wearing sun cream. Skipping SPF undoes part of what your routine is trying to achieve.
 2. **Sun darkens marks.** Those brown or red patches left behind after a pimple heals (post-inflammatory hyperpigmentation) get worse and last longer with sun exposure. Much of what people think is "scarring" is actually sun-darkened marks that SPF would have faded faster.
 
 Pick a sunscreen you will actually wear daily, which usually means a lightweight gel, fluid, or "sunscreen serum" texture rather than a thick white cream. Look for broad-spectrum SPF 30 to 50, ideally non-comedogenic. The Korean and Japanese lightweight sunscreens widely sold on Shopee and at Watsons (roughly RM40 to RM90) are popular here precisely because they feel light in the heat.
 
 ## Where a spot treatment or patch fits
 
-Even with a solid routine, the occasional pimple still surfaces. That is where targeted spot care comes in — used *on top of* the four steps, not instead of them.
+Even with a solid routine, the occasional pimple still surfaces. That is where targeted spot care comes in, used *on top of* the four steps, not instead of them.
 
-For a single pimple that has come to a head with visible fluid, a hydrocolloid pimple patch absorbs that fluid, flattens the spot faster, and (just as usefully) physically stops you from picking, which is what turns a pimple into a scar. For a deeper bump under the skin, a microneedle patch can deliver soothing ingredients further down. Patches are a spot tool, not a daily all-over step — and they are reviewed neutrally alongside other brands in [Best Acne Patches in Malaysia (2026)](/my/articles/best-acne-patches-malaysia-2026/), with a breakdown of the two patch types in [Hydrocolloid vs Microneedle Acne Patches](/my/articles/hydrocolloid-vs-microneedle-acne-patches/). Brands you will find on Shopee and at Watsons include COSRX, Nexcare, the local option STIK, and the Watsons Acne Patch, a cheap hydrocolloid option (approximately RM10 to RM15 a pack) stocked in just about every Watsons store nationwide, so it is the easiest one to grab in a hurry. Apply to clean, dry skin, usually overnight.
+For a single pimple that has come to a head with visible fluid, a hydrocolloid pimple patch absorbs that fluid, flattens the spot faster, and (just as usefully) physically stops you from picking, which is what turns a pimple into a scar. For a deeper bump under the skin, a microneedle patch can deliver soothing ingredients further down. Patches are a spot tool, not a daily all-over step, and they are reviewed neutrally alongside other brands in [Best Acne Patches in Malaysia (2026)](/my/articles/best-acne-patches-malaysia-2026/), with a breakdown of the two patch types in [Hydrocolloid vs Microneedle Acne Patches](/my/articles/hydrocolloid-vs-microneedle-acne-patches/). Brands you will find on Shopee and at Watsons include COSRX, Nexcare, the value option STIK, and the Watsons Acne Patch, a cheap hydrocolloid option (approximately RM10 to RM15 a pack) stocked in just about every Watsons store nationwide, so it is the easiest one to grab in a hurry. Apply to clean, dry skin, usually overnight.
 
-What a patch will *not* do is treat acne you cannot see yet or fix oily, congested skin overall — that is your daily active's job.
+What a patch will *not* do is treat acne you cannot see yet or fix oily, congested skin overall. That is your daily active's job.
 
 ## Simple AM / PM template
 
@@ -100,7 +100,7 @@ Put it together and a beginner routine looks like this. Start gentle; you can al
 1. Gentle cleanser (or just rinse with water if your skin is dry)
 2. *(Optional)* a lightweight active like niacinamide
 3. Lightweight moisturiser
-4. Sunscreen — every day, no exceptions
+4. Sunscreen, every day, no exceptions
 
 **Night**
 1. Gentle cleanser (double cleanse only if you wore heavy sunscreen or makeup)
@@ -110,16 +110,16 @@ Put it together and a beginner routine looks like this. Start gentle; you can al
 
 ## How to introduce an active without wrecking your skin
 
-The fastest route to giving up is going too hard, too soon — common when humidity already has skin feeling reactive. A gentler on-ramp:
+The fastest route to giving up is going too hard, too soon, which is common when humidity already has skin feeling reactive. A gentler on-ramp:
 
 - **Start low and slow.** Two to three nights a week for the first couple of weeks, then build up as tolerated. This is especially true for retinoids like adapalene.
 - **One new product at a time.** Introduce a single active and wait two to three weeks before adding anything else, so you know what is helping and what is irritating.
 - **Buffer if needed.** Apply moisturiser first, then the active on top, to soften its effect on sensitive skin.
-- **Expect a settling-in phase.** Some dryness or a brief worsening (purging on retinoids) is normal. Genuine irritation — burning, raw or broken skin, spreading redness — is not. Scale back if you see it.
+- **Expect a settling-in phase.** Some dryness or a brief worsening (purging on retinoids) is normal. Genuine irritation (burning, raw or broken skin, spreading redness) is not. Scale back if you see it.
 - **Give it time.** Most actives need six to twelve weeks of consistent use. Switching products weekly is the number one reason routines fail.
 
-If acne is severe, deeply painful, cystic, scarring, or simply not improving after a few honest months, that is the point to see a doctor or pharmacist. Prescription options — stronger topical retinoids, oral medication, or other treatments — exist for a reason, and no over-the-counter routine replaces proper medical care for serious acne.
+If acne is severe, deeply painful, cystic, scarring, or simply not improving after a few honest months, that is the point to see a doctor or pharmacist. Prescription options like stronger topical retinoids, oral medication, or other treatments exist for a reason, and no over-the-counter routine replaces proper medical care for serious acne.
 
 ## Bottom line
 
-Keep it to four steps — gentle cleanse, one active, moisturiser, daily SPF — introduce actives slowly, protect your barrier in the humidity, and give it a couple of months before you judge it.
+Keep it to four steps (gentle cleanse, one active, moisturiser, daily SPF), introduce actives slowly, protect your barrier in the humidity, and give it a couple of months before you judge it.
