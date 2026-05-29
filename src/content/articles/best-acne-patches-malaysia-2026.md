@@ -21,6 +21,8 @@ If you've ever stood in a Watsons aisle (or scrolled Shopee at midnight) wonderi
 
 So we'll start with the part that actually matters.
 
+(Patches treat individual spots. For the bigger picture — the ingredients and routine that actually keep acne away — see our companion guide on [how to treat acne in Malaysia](/my/articles/how-to-treat-acne-malaysia/).)
+
 ## First: what kind of pimple do you have?
 
 There are two completely different technologies sold as "acne patches," and they do opposite jobs.

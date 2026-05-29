@@ -2,10 +2,36 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 
-const articles = (await getCollection('articles')).sort(
+const all = (await getCollection('articles')).sort(
   (a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf()
 );
 const fmt = (d: Date) => d.toLocaleDateString('en-MY', { year: 'numeric', month: 'short', day: 'numeric' });
+
+// Cluster routing (hub-and-spoke). Pillars surface first; everything else
+// partitions into the patches cluster vs the treatment/ingredients cluster.
+const PILLARS = new Set([
+  'best-acne-patches-malaysia-2026',
+  'how-to-treat-acne-malaysia',
+]);
+const PATCHES = new Set([
+  'best-acne-patches-malaysia-2026', 'hydrocolloid-vs-microneedle-acne-patches', 'do-pimple-patches-work-overnight',
+  'how-long-to-leave-a-pimple-patch-on', 'how-microneedle-acne-patches-work', 'where-do-acne-patches-fit-skincare-routine',
+  'best-patch-for-cystic-under-skin-acne-malaysia', 'best-acne-patches-oily-skin-malaysia', 'best-acne-patches-sensitive-skin',
+  'best-acne-patches-for-teens-malaysia', 'acne-patches-for-maskne-malaysia', 'salicylic-acid-patches-vs-hydrocolloid',
+  'korean-vs-western-acne-patches', 'where-to-buy-acne-patches-malaysia-price-guide', 'how-to-spot-fake-hydrocolloid-patch',
+  'can-you-wear-pimple-patches-under-makeup', 'are-pimple-patches-safe', 'do-acne-patches-leave-marks-or-scars',
+  'pimple-patch-not-sticking-fixes', 'pimple-patches-vs-popping', 'do-acne-patches-work-on-blackheads-whiteheads',
+]);
+
+const pillars = all.filter((a) => PILLARS.has(a.slug));
+const patches = all.filter((a) => PATCHES.has(a.slug) && !PILLARS.has(a.slug));
+const treatment = all.filter((a) => !PATCHES.has(a.slug) && !PILLARS.has(a.slug));
+
+const sections = [
+  { title: 'Start here', items: pillars },
+  { title: 'Acne Patches', items: patches },
+  { title: 'Treatment & Ingredients', items: treatment },
+];
 ---
 <BaseLayout
   title="TheBeautyGPT"
@@ -20,15 +46,20 @@ const fmt = (d: Date) => d.toLocaleDateString('en-MY', { year: 'numeric', month:
   </section>
 
   <div class="wrap">
-    <ul class="article-list">
-      {articles.map((a) => (
-        <li>
-          <a class="title" href={`/my/articles/${a.slug}/`}>{a.data.title}</a>
-          <p>{a.data.description}</p>
-          <span class="meta">{a.data.category} · {fmt(a.data.publishDate)}</span>
-        </li>
-      ))}
-      {articles.length === 0 && <li><p>First answers publishing soon.</p></li>}
-    </ul>
+    {sections.map((section) => section.items.length > 0 && (
+      <section class="cluster">
+        <h2 class="section-title">{section.title}</h2>
+        <ul class="article-list">
+          {section.items.map((a) => (
+            <li>
+              <a class="title" href={`/my/articles/${a.slug}/`}>{a.data.title}</a>
+              <p>{a.data.description}</p>
+              <span class="meta">{a.data.category} · {fmt(a.data.publishDate)}</span>
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))}
+    {all.length === 0 && <p>First answers publishing soon.</p>}
   </div>
 </BaseLayout>

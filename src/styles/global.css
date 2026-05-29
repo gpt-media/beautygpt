@@ -53,6 +53,11 @@ h3 { font-size: 1.25rem; margin: 1.5em 0 0.4em; }
 .article-list .meta { font-size: 0.85rem; color: var(--ink-soft); }
 .article-list p { margin: 8px 0 0; color: var(--ink-soft); font-size: 1rem; }
 
+/* Homepage cluster sections */
+.cluster { margin: 36px 0; }
+.section-title { font-family: var(--sans); font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.12em; color: var(--accent); margin: 0; padding-bottom: 10px; border-bottom: 1px solid var(--line); }
+.cluster .article-list { margin-top: 0; }
+
 /* Article body */
 .article { padding: 48px 0 24px; }
 .article .meta { font-size: 0.88rem; color: var(--ink-soft); margin-bottom: 28px; }
