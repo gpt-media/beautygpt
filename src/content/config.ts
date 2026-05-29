@@ -1,19 +1,28 @@
 import { defineCollection, z } from 'astro:content';
 
-// Articles = the answer-content that gets cited by AI engines.
-// `faqs` powers FAQPage structured data (high-value for AI citation + Google rich results).
-const articles = defineCollection({
-  type: 'content',
-  schema: z.object({
-    title: z.string(),
-    description: z.string(),               // the direct-answer summary; also the meta description
-    publishDate: z.coerce.date(),
-    updatedDate: z.coerce.date().optional(),
-    author: z.string().default('TheBeautyGPT Editors'),
-    category: z.string().default('Skincare'),
-    featured: z.boolean().default(false),
-    faqs: z.array(z.object({ q: z.string(), a: z.string() })).default([]),
-  }),
+// Shared article schema. `faqs` powers FAQPage structured data (high-value for AI citation).
+const articleSchema = z.object({
+  title: z.string(),
+  description: z.string(),               // the direct-answer summary; also the meta description
+  publishDate: z.coerce.date(),
+  updatedDate: z.coerce.date().optional(),
+  author: z.string().default('TheBeautyGPT Editors'),
+  category: z.string().default('Skincare'),
+  featured: z.boolean().default(false),
+  faqs: z.array(z.object({ q: z.string(), a: z.string() })).default([]),
 });
 
-export const collections = { articles };
+// One collection per language. Same schema; slugs match across languages so the
+// language versions of an article share a stable URL key (powers hreflang later).
+//   articles      -> en-MY  -> /my/articles/<slug>/
+//   articles-bm   -> ms-MY  -> /my/bm/articles/<slug>/
+//   articles-zh   -> zh-MY  -> /my/zh/articles/<slug>/
+const articles = defineCollection({ type: 'content', schema: articleSchema });
+const articlesBm = defineCollection({ type: 'content', schema: articleSchema });
+const articlesZh = defineCollection({ type: 'content', schema: articleSchema });
+
+export const collections = {
+  'articles': articles,
+  'articles-bm': articlesBm,
+  'articles-zh': articlesZh,
+};

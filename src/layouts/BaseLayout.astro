@@ -9,16 +9,20 @@ interface Props {
   /** Structured data objects (schema.org) injected as JSON-LD — the AIO backbone. */
   jsonLd?: Record<string, any>[];
   ogType?: string;
+  /** Content language. Drives <html lang> + og:locale. 'en' | 'bm' (Malay) | 'zh' (Chinese). */
+  lang?: 'en' | 'bm' | 'zh';
 }
 
-const { title, description, jsonLd = [], ogType = 'website' } = Astro.props;
+const { title, description, jsonLd = [], ogType = 'website', lang = 'en' } = Astro.props;
+const langCode = { en: 'en-MY', bm: 'ms-MY', zh: 'zh-MY' }[lang];
+const ogLocale = { en: 'en_MY', bm: 'ms_MY', zh: 'zh_MY' }[lang];
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
 const fullTitle = title === 'TheBeautyGPT'
   ? 'TheBeautyGPT — Smarter answers for your skin'
   : `${title} | TheBeautyGPT`;
 ---
 <!doctype html>
-<html lang="en-MY">
+<html lang={langCode}>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -32,7 +36,7 @@ const fullTitle = title === 'TheBeautyGPT'
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonical} />
     <meta property="og:site_name" content="TheBeautyGPT" />
-    <meta property="og:locale" content="en_MY" />
+    <meta property="og:locale" content={ogLocale} />
     <meta name="twitter:card" content="summary_large_image" />
 
     <!-- Organization structured data — establishes the publisher entity for AI engines -->
