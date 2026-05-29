@@ -9,7 +9,7 @@ const articles = defineCollection({
     description: z.string(),               // the direct-answer summary; also the meta description
     publishDate: z.coerce.date(),
     updatedDate: z.coerce.date().optional(),
-    author: z.string().default('The BeautyGPT Editors'),
+    author: z.string().default('TheBeautyGPT Editors'),
     category: z.string().default('Skincare'),
     featured: z.boolean().default(false),
     faqs: z.array(z.object({ q: z.string(), a: z.string() })).default([]),

@@ -8,7 +8,7 @@ export default defineConfig({
   site: 'https://thebeautygpt.com',
   integrations: [sitemap()],
   build: { format: 'directory' },
-  // Locale routing: all content lives under /my/ so adding /us/, /uk/ later is a clean copy.
-  // Root redirects to the Malaysian site (the only market live today).
-  redirects: { '/': '/my/' },
+  // Locale routing: all content lives under /my/ so adding /sg/, /us/, /uk/ later is a clean copy.
+  // Root (/) -> /my/ is handled by a SERVER-SIDE redirect in vercel.json (instant 307, no
+  // visible "Redirecting..." flash page that Astro's static meta-refresh redirect produced).
 });
