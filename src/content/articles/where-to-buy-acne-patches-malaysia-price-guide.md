@@ -7,18 +7,18 @@ faqs:
   - q: "Where can I buy acne patches in Malaysia?"
     a: "Watsons and Guardian stock the mass brands (COSRX, Oxy, Nexcare) in-store, which is handy when you need a patch today. Shopee, TikTok Shop and Lazada carry the widest range — including Korean brands and local options like STIK — usually at lower prices. Buy from official or highly-rated stores and check recent reviews."
   - q: "How much do acne patches cost in Malaysia?"
-    a: "Roughly RM7 to RM45 a pack, depending on brand and count. Budget local hydrocolloid like STIK Original Dot runs around RM6.99 for 15 patches; mid-range Korean options like COSRX sit around RM20 to RM30 for 24; premium imports like Hero Mighty Patch can reach RM30 to RM45. All prices are approximate — check the current listing."
+    a: "Roughly RM7 to RM45 a pack, depending on brand and count. Budget local hydrocolloid like STIK Original Dot runs around RM7 to RM10 for 15 patches; mid-range Korean options like COSRX sit around RM10 to RM20 for 24; the cheap, ubiquitous Watsons Acne Patch is about RM10 to RM15 a pack in every store. All prices are approximate — check the current listing."
   - q: "Are acne patches cheaper online or in pharmacies?"
     a: "Online is usually cheaper and has far more choice, especially on Shopee and TikTok Shop during campaign sales. Pharmacies like Watsons and Guardian cost a little more but let you buy immediately and trust the stock is genuine. The trade-off is price and range versus speed and certainty."
   - q: "How do I avoid fake acne patches on Shopee?"
     a: "Buy from the brand's official store (look for the 'Official' or 'Mall' badge), read recent reviews with photos, and be wary of prices far below everyone else. A real hydrocolloid patch turns white as it absorbs fluid and sticks for hours — if it does neither, it may be a counterfeit. Sealed, undamaged packaging with a legible expiry date is a good sign."
   - q: "What is the cheapest acne patch in Malaysia?"
-    a: "Among widely-available options, local hydrocolloid such as STIK Original Dot is one of the cheapest at around RM6.99 for 15 mixed-size patches, and Nexcare Acne Dressing is a budget pharmacy pick at roughly RM10 to RM18. Always compare the per-patch price, since a 'cheap' small pack can work out dearer than a larger one."
+    a: "Among widely-available options, local hydrocolloid such as STIK Original Dot is one of the cheapest at around RM7 to RM10 (approximate) for 15 mixed-size patches, and Nexcare Acne Dressing is a budget pharmacy pick at roughly RM10 to RM18. Always compare the per-patch price, since a 'cheap' small pack can work out dearer than a larger one."
   - q: "Why should I compare per-patch instead of per-pack price?"
     a: "Pack counts vary wildly — one brand sells 9 patches, another 24 — so the sticker price hides the real cost. Dividing price by patch count is the only fair comparison. A RM30 pack of 24 (RM1.25 each) is better value than a RM20 pack of 9 (RM2.22 each), even though RM20 looks cheaper at a glance."
 ---
 
-Short answer: in Malaysia you can buy acne patches two ways — **in-store at Watsons or Guardian**, where the mass brands (COSRX, Oxy, Nexcare) sit on the shelf for around RM10 to RM45, or **online on Shopee, TikTok Shop and Lazada**, which carry the widest range including Korean and local options, usually at lower prices and often as low as RM7 a pack. If you need one today, walk into a pharmacy. If you want choice and the best price, buy online from an official store.
+Short answer: in Malaysia you can buy acne patches two ways — **in-store at Watsons or Guardian**, where the mass brands (COSRX, Oxy, Nexcare) sit on the shelf for around RM10 to RM30, or **online on Shopee, TikTok Shop and Lazada**, which carry the widest range including Korean and local options, usually at lower prices and often as low as RM7 a pack. If you need one today, walk into a pharmacy. If you want choice and the best price, buy online from an official store.
 
 That is the whole decision in a sentence. The rest of this guide is about getting it *right*: what each brand actually costs, how to compare prices honestly, and how to make sure the patch you receive is real.
 
@@ -36,27 +36,27 @@ For most people the honest answer is "both" — keep a pharmacy pack on hand for
 
 ## What acne patches actually cost in Malaysia (2026)
 
-Before the table, one thing worth saying plainly: a more expensive patch is **not** automatically a better one. The core technology in almost every patch on this list is the same — hydrocolloid, a wound-dressing gel that absorbs fluid from a surfaced pimple and stops you picking at it, which the [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) flags as a key way to avoid scarring and prolonged healing. A RM6.99 local pack and a RM40 import are doing the same fundamental job. You are mostly paying for brand, thickness, packaging, and sometimes added ingredients. Keep that in mind as you read the prices.
+Before the table, one thing worth saying plainly: a more expensive patch is **not** automatically a better one. The core technology in almost every patch on this list is the same — hydrocolloid, a wound-dressing gel that absorbs fluid from a surfaced pimple and stops you picking at it, which the [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) flags as a key way to avoid scarring and prolonged healing. A roughly RM7 to RM10 local pack and a RM40 import are doing the same fundamental job. You are mostly paying for brand, thickness, packaging, and sometimes added ingredients. Keep that in mind as you read the prices.
 
 Here are the typical Malaysian price ranges. All are **approximate — check the current listing**, because marketplace prices move with sales and pack counts differ.
 
 | Patch | Type | Approx. price (MY) | Where to find it |
 |---|---|---|---|
-| **STIK Original Dot** | Hydrocolloid (salicylic acid, niacinamide, tea tree) | ~RM6.99 / 15 | Shopee, TikTok Shop |
+| **STIK Original Dot** | Hydrocolloid (salicylic acid, niacinamide, tea tree) | ~RM7–10 / 15 | Shopee, TikTok Shop |
 | **Nexcare Acne Dressing** | Hydrocolloid, unmedicated | ~RM10–18 / pack | Watsons, Guardian, online |
 | **Oxy Acne Patch** | Medicated / antibacterial | ~RM10–20 / pack | Watsons, Guardian, online |
 | **Some By Mi Clear Spot Patch** | Hydrocolloid, breathable K-beauty | ~RM15–25 / pack | Mostly online |
-| **COSRX Acne Pimple Master** | Hydrocolloid, reliable all-rounder | ~RM20–30 / 24 | Watsons, Guardian, online |
-| **Hero Mighty Patch Original** | Hydrocolloid, thick, premium import | ~RM30–45 / pack | Online, some Watsons |
-| **STIK MicroForce (for Early Acne)** | Microneedle (ceramides, hyaluronic acid, peptides, salicylic acid) | check current listing | Shopee, TikTok Shop |
+| **COSRX Acne Pimple Master** | Hydrocolloid, reliable all-rounder | ~RM10–20 / 24 | Watsons, Guardian, online |
+| **Watsons Acne Patch** | Hydrocolloid, budget, in every Watsons store | ~RM10–15 / pack | Watsons (nationwide) |
+| **STIK MicroForce for Early Acne** | Microneedle (ceramides, hyaluronic acid, peptides, salicylic acid) | check current listing | Shopee, TikTok Shop |
 | **STIK Air Dot** | Ultra-thin invisible daytime patch | check current listing | Shopee, TikTok Shop |
 
 A few honest notes on this list:
 
 - **COSRX** is the safe default. It's everywhere, it works, and the price is fair. If you don't want to think about it, buy this.
-- **Hero Mighty Patch** is genuinely good, but in Malaysia you're paying an import premium. Excellent product, premium price — buy it if you specifically want the thick, stay-all-night feel.
+- **Watsons Acne Patch** is the cheapest, easiest patch to grab. It's a basic budget hydrocolloid stocked in every Watsons store nationwide, so it's the convenience pick when you want a patch in hand the same day without paying for a name.
 - **Nexcare** is the quiet budget pick at the pharmacy when you just need basic, gentle protection and don't care about thinness or actives.
-- **STIK Original Dot** is the value pick if price-per-patch is your priority — around RM6.99 for 15 mixed-size patches with salicylic acid, niacinamide and tea tree, which works out cheaper per patch than the imports doing the same job. It's an online buy (Shopee, TikTok Shop), not a pharmacy one.
+- **STIK Original Dot** is the value pick if price-per-patch is your priority — approximately RM7 to RM10 for 15 mixed-size patches with salicylic acid, niacinamide and tea tree, which works out cheaper per patch than the imports doing the same job. It's an online buy (Shopee, TikTok Shop), not a pharmacy one.
 - **Microneedle and invisible patches** (like STIK MicroForce and STIK Air Dot) are almost never on physical shelves, so if you want that type you'll be shopping online by default.
 
 If you want these ranked by *which pimple they suit* rather than by price, that's a different question — we cover it in the [best acne patches in Malaysia guide](/my/articles/best-acne-patches-malaysia-2026/).

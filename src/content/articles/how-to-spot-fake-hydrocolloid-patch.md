@@ -9,7 +9,7 @@ faqs:
   - q: "Why are fake acne patches a problem and not just cheaper?"
     a: "A fake may use a non-hydrocolloid adhesive that doesn't absorb fluid, so it simply doesn't work. Worse, you don't know what's in the adhesive or whether it was made and stored hygienically, which raises the risk of irritation on already-inflamed, broken skin. The few ringgit you save isn't worth a reaction on your face."
   - q: "Is a very cheap acne patch on Shopee automatically fake?"
-    a: "Not automatically. Genuine local brands are genuinely cheaper than premium imports, so a low price alone isn't proof of a fake. The red flag is a price far below the official store's own listing for the same SKU — for example a 'COSRX' or 'Hero' pack at a third of its normal price from an unknown seller. Compare against the brand's official store before judging."
+    a: "Not automatically. Genuine local brands are genuinely cheaper than premium imports, so a low price alone isn't proof of a fake. The red flag is a price far below the official store's own listing for the same SKU — for example a 'COSRX' or 'Some By Mi' pack at a third of its normal price from an unknown seller. Compare against the brand's official store before judging."
   - q: "How do I find the official store for a brand on Shopee or TikTok Shop?"
     a: "Look for the platform's official-store or verified badge (Shopee Mall, TikTok Shop verified), check that the shop name matches the brand exactly, and read recent reviews for complaints about authenticity. For brands sold in pharmacies, buying from Watsons or Guardian in-store removes the guesswork entirely."
   - q: "Do real hydrocolloid patches always turn white?"
@@ -24,7 +24,7 @@ That's the checklist. Now let's explain *why* each signal works, so you can judg
 
 ## Why fakes exist for this product at all
 
-Acne patches are a near-perfect target for counterfeiters. They're small, cheap to print packaging for, sold in huge volumes, and bought impulsively — often at midnight on the phone, when nobody is scrutinising a lot number. The popular names (COSRX, Hero) carry import-price premiums in Malaysia, which leaves a tempting gap for a "same thing, half price" knock-off.
+Acne patches are a near-perfect target for counterfeiters. They're small, cheap to print packaging for, sold in huge volumes, and bought impulsively — often at midnight on the phone, when nobody is scrutinising a lot number. The popular imports (COSRX, Some By Mi) carry import-price premiums in Malaysia, which leaves a tempting gap for a "same thing, half price" knock-off.
 
 The catch is that a hydrocolloid patch only works because of *what it's made of*. Real hydrocolloid is a specific gel-forming material that absorbs wound fluid; as [Cleveland Clinic](https://health.clevelandclinic.org/how-do-pimple-patches-work) explains, the patch draws out fluids like pus and oil from a picked-open or surfaced spot. It's the same tech used in medical wound dressings, where [research indexed by the NIH](https://pmc.ncbi.nlm.nih.gov/articles/PMC11856799/) describes a hydrocolloid layer that forms a gel as it absorbs exudate. A counterfeit that swaps in a generic adhesive film looks identical in a sealed pack — but it has none of the absorbing chemistry. So unlike a fake handbag, which still carries your things, a fake acne patch can fail at the one job you bought it for. If you're still deciding which genuine patch suits your skin in the first place, our [guide to the best acne patches in Malaysia](/my/articles/best-acne-patches-malaysia-2026/) covers that by pimple type.
 
@@ -38,7 +38,7 @@ This is the single most reliable tell. Legitimate skincare and medical-adjacent 
 
 ### 2. A price that's too good to be true
 
-Be precise about this one, because "cheap" alone is not evidence of a fake. Genuine local brands are *legitimately* cheaper than imports — a Malaysian-made hydrocolloid dot can sit around RM6.99 for 15 patches (approximate — check the current listing) and be completely real. What matters is the price **relative to the official listing for the same product**. A "Hero Mighty Patch" at a third of its usual ~RM30–45, or a "COSRX" pack well under its normal ~RM20–30 (both approximate — always confirm against the official store), sold by an unknown seller, is the warning sign — not a low price in absolute terms.
+Be precise about this one, because "cheap" alone is not evidence of a fake. Genuine local and budget options are *legitimately* cheaper than imports — a Malaysian-made hydrocolloid dot can sit around ~RM7–10 for 15 patches, and a budget pick like the Watsons Acne Patch runs roughly ~RM10–15 a pack on the shelf of every Watsons store nationwide (both approximate — check the current listing), and be completely real. A low price like that isn't a red flag; it's just a cheaper, easier-to-find product. What matters is the price **relative to the official listing for the same product**. A "COSRX" pack well under its normal ~RM10–20 (approximate — always confirm against the official store), sold by an unknown seller, is the warning sign — not a low price in absolute terms.
 
 ### 3. Sloppy packaging and off details
 
@@ -72,7 +72,7 @@ The instinct is to think a counterfeit is simply a less-effective version of the
 
 ## Does this apply to every brand?
 
-Yes — the same rules cover everything on the shelf, with no exceptions for any particular name. COSRX, Hero, Nexcare, Some By Mi, Oxy and local options like STIK's Original Dot, Air Dot and MicroForce are all only worth buying genuine and from official channels. For the local brands, that practically means buying STIK from its **official store on Shopee or TikTok Shop** rather than a random reseller — the same advice we'd give for verifying a Korean import. No brand is automatically safer from counterfeiting; the protection is in *how and where you buy*, not in the logo.
+Yes — the same rules cover everything on the shelf, with no exceptions for any particular name. COSRX, Watsons Acne Patch, Nexcare, Some By Mi, Oxy and local options like STIK's Original Dot, Air Dot and STIK MicroForce for Early Acne are all only worth buying genuine and from official channels. For the local brands, that practically means buying STIK from its **official store on Shopee or TikTok Shop** rather than a random reseller — the same advice we'd give for verifying a Korean import. No brand is automatically safer from counterfeiting; the protection is in *how and where you buy*, not in the logo.
 
 It's also worth knowing that the import brands carry the biggest counterfeit incentive precisely because their genuine price is highest — which is part of why a credible local hydrocolloid bought from its official store can be both cheaper and lower-risk than a suspiciously discounted "import." If you're weighing those two camps against each other, our breakdown of [Korean versus Western acne patches](/my/articles/korean-vs-western-acne-patches/) compares them on the things that actually differ.
 

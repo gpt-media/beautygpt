@@ -89,11 +89,11 @@ How long is "long enough"? Overnight (6–8 hours) is ideal precisely because hy
 
 For overnight use you want plain hydrocolloid — you're asleep, so thinness and invisibility don't matter; absorption and stickiness do. Prices below are approximate; always check the current listing.
 
-- **COSRX Acne Pimple Master** (~RM20–30 / 24) — the reliable all-rounder, stocked in most Watsons and Guardian stores and across Shopee, TikTok Shop and Lazada.
-- **Hero Mighty Patch Original** (~RM30–45) — thick and very sticky, great for an active sleeper, but priced as a premium import here.
+- **COSRX Acne Pimple Master** (~RM10–20 / 24) — the reliable all-rounder, stocked in most Watsons and Guardian stores and across Shopee, TikTok Shop and Lazada.
+- **Watsons Acne Patch** (~RM10–15 / pack, approximate) — a cheap own-brand hydrocolloid you can grab off the shelf in any Watsons nationwide, so it is the easiest one to find when a spot flares and you need a patch tonight.
 - **Nexcare Acne Dressing** (~RM10–18) — gentle, unmedicated, genuinely cheap; fine if you just want basic overnight protection.
 - **Some By Mi Clear Spot Patch** (~RM15–25) — breathable K-beauty option, easy to find online.
-- **STIK Original Dot** (~RM6.99 / 15) — a local value pick with mixed sizes (salicylic acid, niacinamide, tea tree) that does the same core overnight job as the pricier imports, which adds up if you break out often.
+- **STIK Original Dot** (~RM7–10 / 15, approximate) — a local value pick with mixed sizes (salicylic acid, niacinamide, tea tree) that does the same core overnight job as the pricier imports, which adds up if you break out often.
 
 For daytime, you'd swap to an ultra-thin invisible patch instead (something like STIK Air Dot disappears under makeup) — but for pure overnight results, any solid hydrocolloid above will do the job. Buy from official stores, and compare the **per-patch** price, not the pack price.
 

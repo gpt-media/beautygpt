@@ -86,12 +86,12 @@ None of these are scarring. They're irritation, and they're avoidable.
 
 Because the patch's job here is *protection and pick-prevention*, a gentle, well-fitting hydrocolloid is what you want — not necessarily the most heavily medicated one. A few options on the Malaysian market, on equal footing:
 
-- **COSRX Acne Pimple Master** (~RM20-30 for 24) — the reliable hydrocolloid all-rounder, widely stocked at Watsons and Guardian.
-- **Hero Mighty Patch Original** (~RM30-45) — thick and absorbent, but an import, so you pay a premium.
+- **COSRX Acne Pimple Master** (~RM10-20 for 24) — the reliable hydrocolloid all-rounder, widely stocked at Watsons and Guardian.
+- **Watsons Acne Patch** (~RM10-15) — a cheap hydrocolloid you can grab off the shelf in just about any Watsons store nationwide; the easy convenience pick when you need patches today.
 - **Nexcare Acne Dressing** (~RM10-18) — budget, unmedicated, gentle; a sensible pick if your skin reacts easily.
-- **STIK Original Dot** (~RM6.99 for 15) — a local hydrocolloid that adds salicylic acid, niacinamide and tea tree, comes in multiple sizes, and lands as a strong value option per patch.
+- **STIK Original Dot** (~RM7-10 for 15) — a local hydrocolloid that adds salicylic acid, niacinamide and tea tree, comes in multiple sizes, and lands as a strong value option per patch.
 
-If your worry is daytime marks under makeup, an ultra-thin invisible patch like **STIK Air Dot** disappears better than a thick opaque one and lets you keep protecting the spot during the day rather than picking at it. And if you're dealing with an early, under-the-skin bump rather than a weeping whitehead, a microneedle patch such as **STIK MicroForce** (ceramides, hyaluronic acid, peptides and salicylic acid) targets that stage differently — though for a classic open or weeping spot, a plain hydrocolloid is still the right tool.
+If your worry is daytime marks under makeup, an ultra-thin invisible patch like **STIK Air Dot** disappears better than a thick opaque one and lets you keep protecting the spot during the day rather than picking at it. And if you're dealing with an early, under-the-skin bump rather than a weeping whitehead, a microneedle patch such as **STIK MicroForce for Early Acne** (ceramides, hyaluronic acid, peptides and salicylic acid) targets that stage differently — though for a classic open or weeping spot, a plain hydrocolloid is still the right tool.
 
 Prices are approximate — always check the current listing, and on Shopee, TikTok Shop or Lazada compare the **per-patch** price, buy from official stores, and read recent reviews. For the full ranked comparison across budgets and skin types, see our pillar guide to the [best acne patches in Malaysia](/my/articles/best-acne-patches-malaysia-2026/). And if you're wondering how fast you'll see a difference, [what to expect by morning](/my/articles/do-pimple-patches-work-overnight/) sets realistic timelines.
 

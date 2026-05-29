@@ -44,7 +44,7 @@ Overnight is the classic window for a thick hydrocolloid patch — you're not go
 
 In the morning, peel the patch off gently, cleanse, and carry on as normal. If you saw white "gunk" collect in the patch, that's it working — don't reapply to the same fully-drained spot indefinitely.
 
-For an overnight, treat-while-you-sleep patch, a standard hydrocolloid like **COSRX Acne Pimple Master**, **Hero Mighty Patch Original**, or a multi-size local option such as **STIK Original Dot** all do the same core job; pick on price and the size that fits the spot. If your blemish is an early, painful *under-skin* bump with nothing on the surface yet, a flat hydrocolloid has nothing to absorb — that's a different tool entirely, which we cover in [salicylic acid patches vs plain hydrocolloid](/my/articles/salicylic-acid-patches-vs-hydrocolloid/).
+For an overnight, treat-while-you-sleep patch, a standard hydrocolloid like **COSRX Acne Pimple Master**, the budget **Watsons Acne Patch** (a cheap, no-frills hydrocolloid you can grab off the shelf in just about any Watsons nationwide, roughly RM10-15 a pack — the convenience pick when you need one tonight), or a multi-size local option such as **STIK Original Dot** all do the same core job; pick on price and the size that fits the spot. If your blemish is an early, painful *under-skin* bump with nothing on the surface yet, a flat hydrocolloid has nothing to absorb — that's a different tool entirely, which we cover in [salicylic acid patches vs plain hydrocolloid](/my/articles/salicylic-acid-patches-vs-hydrocolloid/).
 
 ## The day routine (and the makeup question)
 

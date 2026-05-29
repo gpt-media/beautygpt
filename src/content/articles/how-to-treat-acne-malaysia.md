@@ -85,7 +85,7 @@ For a full step-by-step including how to introduce actives without wrecking your
 
 Patches are a spot-care *tool*, not an acne *treatment*. They do one job well: when a single pimple has surfaced into a whitehead, a hydrocolloid patch absorbs the fluid and — just as importantly — physically stops you picking at it, which is what causes scars and marks. That's genuinely useful as one small step on top of a real routine.
 
-What they don't do is address *why* you break out — that's the job of the actives above. So use a patch on the occasional surfaced spot, but don't expect it to control acne on its own. If you do reach for them, our companion guide [the best acne patches in Malaysia](/my/articles/best-acne-patches-malaysia-2026/) compares the real options — COSRX, Hero Mighty Patch, Nexcare, Some By Mi, and local picks like STIK — and explains which type suits which spot, plus where they help versus where you're better off with an active or seeing a pharmacist.
+What they don't do is address *why* you break out — that's the job of the actives above. So use a patch on the occasional surfaced spot, but don't expect it to control acne on its own. If you do reach for them, our companion guide [the best acne patches in Malaysia](/my/articles/best-acne-patches-malaysia-2026/) compares the real options — COSRX, the cheap-and-everywhere Watsons Acne Patch, Nexcare, Some By Mi, and local picks like STIK MicroForce for Early Acne — and explains which type suits which spot, plus where they help versus where you're better off with an active or seeing a pharmacist.
 
 ## Step 5: Know when to stop self-treating
 

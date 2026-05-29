@@ -93,7 +93,7 @@ You can build the whole routine from Watsons, Guardian, or the major e-commerce 
 - **Niacinamide serums (e.g. COSRX 5% niacinamide and many local/Korean options):** roughly **RM25–RM70**. A high-value, low-drama buy.
 - **Medicated benzoyl peroxide options (e.g. Oxy):** found at pharmacies for inflamed spots; benzoyl peroxide kills acne-causing bacteria, but it can be drying, so spot-apply and ease in. See [Benzoyl Peroxide for Acne](/my/articles/benzoyl-peroxide-for-acne/).
 - **Lightweight gel sunscreens:** plenty of fluid/gel SPF options around **RM30–RM80**; prioritise a texture you'll wear daily over the exact filter.
-- **Hydrocolloid spot patches (e.g. Hero Mighty Patch, Nexcare, COSRX, STIK):** roughly **RM15–RM45** a pack — useful as occasional spot-care, not a core oily-skin active.
+- **Hydrocolloid spot patches (e.g. Watsons Acne Patch, Nexcare, COSRX, STIK):** roughly **RM15–RM45** a pack — useful as occasional spot-care, not a core oily-skin active. The Watsons Acne Patch is a cheap, basic hydrocolloid option (around **RM10–RM15** a pack, approximate) and is the easy convenience pick since it's stocked in every Watsons store nationwide.
 
 For prescription-strength options — adapalene and other retinoids, or oral medication for stubborn or severe cases — talk to a doctor or pharmacist rather than self-prescribing. Adapalene is available in Malaysia and is genuinely effective for many people; we cover it in [Adapalene in Malaysia](/my/articles/adapalene-malaysia/), but dosing and suitability are a clinical call.
 

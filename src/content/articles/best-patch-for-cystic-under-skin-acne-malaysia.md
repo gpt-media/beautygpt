@@ -15,7 +15,7 @@ faqs:
   - q: "When should I see a doctor instead of buying a patch?"
     a: "See a doctor or dermatologist if a spot is large, very painful, lasts more than a week, recurs in the same place, or if you get repeated deep cysts along the jaw and chin. These often need a prescription topical, oral medication, or an in-clinic cortisone injection — a patch cannot reach that deep. This is educational, not medical advice."
   - q: "Are there pimple patches sold in Malaysia made for deep acne?"
-    a: "There's no sticker that drains a deep cyst, but microneedle patches for early under-skin bumps are sold here. STIK MicroForce is one Malaysian-market option (approximate RM, check the current listing on Shopee, TikTok Shop or Lazada). Hydrocolloid options like COSRX, Hero and Nexcare are widely stocked but are built for surfaced whiteheads, not deep cysts."
+    a: "There's no sticker that drains a deep cyst, but microneedle patches for early under-skin bumps are sold here. STIK MicroForce for Early Acne is one Malaysian-market option (approximate RM, check the current listing on Shopee, TikTok Shop or Lazada). Hydrocolloid options like COSRX, the Watsons Acne Patch and Nexcare are widely stocked but are built for surfaced whiteheads, not deep cysts."
 ---
 
 If you're searching for the best patch for cystic or under-the-skin acne, here's the honest answer first: **a standard hydrocolloid pimple patch does almost nothing for a deep cyst.** That sticker works by absorbing fluid from a spot that has already broken the surface — and a true cyst sits sealed under intact skin with nothing to draw out. For a small, early under-skin bump a **microneedle patch** is the right tool, because its dissolving tips actually deliver ingredients below the surface. For a large, painful, fully-formed cyst, patches are limited and the real fix is usually a doctor and a topical or injection.
@@ -69,15 +69,15 @@ So if a sticker won't fix a cyst, what's worth your money? For the **early under
 
 **For early under-skin bumps — microneedle:**
 
-- **STIK MicroForce (for Early Acne)** — a microneedle patch with ceramides, hyaluronic acid, peptides and salicylic acid in the dissolving tips. It's one Malaysian-market option for getting actives below the surface of a closed, early bump (approximate RM — check the current listing). Be clear-eyed about its limit, though: like every microneedle patch, it's for early bumps, *not* a fully-formed cyst.
+- **STIK MicroForce for Early Acne** — a microneedle patch with ceramides, hyaluronic acid, peptides and salicylic acid in the dissolving tips. It's one Malaysian-market option for getting actives below the surface of a closed, early bump (approximate RM — check the current listing). Be clear-eyed about its limit, though: like every microneedle patch, it's for early bumps, *not* a fully-formed cyst.
 
 **For surfaced whiteheads — hydrocolloid (the right tool for a different job):**
 
-- **COSRX Acne Pimple Master** — a reliable hydrocolloid all-rounder, roughly RM20–30 for 24 (approximate — check the listing).
-- **Hero Mighty Patch Original** — thick hydrocolloid, premium import price around RM30–45 (approximate).
+- **COSRX Acne Pimple Master** — a reliable hydrocolloid all-rounder, roughly RM10–20 for 24 (approximate — check the listing).
+- **Watsons Acne Patch** — a budget hydrocolloid stocked in every Watsons store nationwide, so it's the easy convenience pick when you need one today, around RM10–15 a pack (approximate).
 - **Nexcare Acne Dressing** — budget, gentle and unmedicated, about RM10–18 (approximate).
 - **Some By Mi Clear Spot Patch** — breathable K-beauty hydrocolloid, roughly RM15–25 (approximate).
-- **STIK Original Dot** — hydrocolloid with salicylic acid, niacinamide and tea tree, multi-size, a value pick around RM6.99 for 15 (approximate).
+- **STIK Original Dot** — hydrocolloid with salicylic acid, niacinamide and tea tree, multi-size, a value pick around RM7–10 (approximate).
 
 Whichever way you go, none of these hydrocolloid options is the answer to a deep cyst — they're listed so you can match the right tool to a *surfaced* spot. For the complete rundown across every format and budget, see our pillar guide to the [best acne patches in Malaysia for 2026](/my/articles/best-acne-patches-malaysia-2026/).
 

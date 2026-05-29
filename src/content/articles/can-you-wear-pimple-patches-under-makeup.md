@@ -10,8 +10,8 @@ faqs:
     a: "Before. Apply the patch to clean, dry, bare skin as the very first step, then build your makeup on top. Putting a patch over foundation means it has oils and product to grip instead of skin, so it won't stick — and peeling it off later drags your makeup with it."
   - q: "Will foundation make a pimple patch fall off?"
     a: "It can if you apply makeup roughly. Press a thin patch onto clean skin first, let it grip for a few seconds, then dab — don't drag — foundation and concealer over and around it with a fingertip or sponge. Heavy rubbing or a stiff brush will lift the edges, especially in Malaysia's heat once you start to sweat."
-  - q: "Can you wear a thick hydrocolloid patch like COSRX or Hero under makeup?"
-    a: "Not well. Standard COSRX Acne Pimple Master and Hero Mighty Patch patches are thicker and opaque — they're built for overnight wear, not concealment. Under makeup they create a visible raised circle. For daytime under foundation, choose an ultra-thin invisible patch instead, and save the thick ones for sleep."
+  - q: "Can you wear a thick hydrocolloid patch like COSRX or the Watsons Acne Patch under makeup?"
+    a: "Not well. The standard COSRX Acne Pimple Master and the budget Watsons Acne Patch are thicker and opaque — they're built for overnight wear, not concealment. Under makeup they create a visible raised circle. For daytime under foundation, choose an ultra-thin invisible patch instead, and save the thick ones for sleep."
   - q: "How do I take a pimple patch off without ruining my makeup?"
     a: "You generally don't reapply over the same spot mid-day — you wear one patch through the day and remove it at night with the rest of your makeup. When you do peel it, lift slowly from one edge; if it resists, a little micellar water or cleansing oil on a cotton pad loosens the adhesive without tugging the skin."
   - q: "Is it bad to wear a pimple patch all day under makeup in hot weather?"
@@ -43,12 +43,12 @@ Most of the patches you'll find in Watsons, Guardian, or on Shopee are the thick
 |---|---|---|---|
 | **STIK Air Dot** | Ultra-thin, invisible daytime | Yes — designed for daytime | check current listing |
 | **Some By Mi Clear Spot Patch** | Thin, breathable K-beauty | Usually yes, if applied gently | ~RM15–25 |
-| **COSRX Acne Pimple Master** | Standard hydrocolloid, opaque | Not well — visible bump | ~RM20–30 / 24 |
-| **Hero Mighty Patch Original** | Thick hydrocolloid | No — too raised | ~RM30–45 |
+| **COSRX Acne Pimple Master** | Standard hydrocolloid, opaque | Not well — visible bump | ~RM10–20 / 24 |
+| **Watsons Acne Patch** | Budget hydrocolloid, mass retail | Not well — visible bump | ~RM10–15 |
 | **Nexcare Acne Dressing** | Budget hydrocolloid, gentle | Marginal — varies by size | ~RM10–18 |
 | **Oxy Acne Patch** | Medicated/antibacterial | No — not designed for it | ~RM10–20 |
 
-A couple of honest notes here. The thick, reliable favourites — **COSRX** and **Hero** — are excellent *overnight* patches, and that's exactly why they fail under makeup: the thickness that helps at night works against you in daylight. There's no trick that makes a Mighty Patch invisible under foundation; it just isn't the tool for that job.
+A couple of honest notes here. The standard hydrocolloid options — **COSRX** and the cheap, everywhere-stocked **Watsons Acne Patch** — work as *overnight* patches, and that's exactly why they fail under makeup: the thickness that helps at night works against you in daylight. The Watsons one is the convenience pick — a low-price hydrocolloid you can grab off the shelf in almost any Watsons store nationwide — but there's no trick that makes a standard opaque patch invisible under foundation; it just isn't the tool for that job.
 
 For a genuinely under-makeup-friendly option, you want the ultra-thin category. Thin K-beauty options like **Some By Mi's Clear Spot Patch** sit here, alongside **STIK's Air Dot** — an ultra-thin, invisible daytime patch aimed at wearing under makeup or out during the day. None of these is magic; they're just thin enough that the edge disappears. Pick on price, availability, and whichever size matches your spot — on Shopee, TikTok Shop, and Lazada you'll find the widest range and the best prices, so buy from an official store, read recent reviews, and compare the *per-patch* price rather than the per-pack one.
 

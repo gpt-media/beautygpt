@@ -13,7 +13,7 @@ faqs:
   - q: "Can I use a hydrocolloid patch on a cystic pimple?"
     a: "It will not do much while the cyst is still deep under the skin, because there is no surface fluid to absorb. A microneedle patch is the better tool for an early under-skin bump. For large, painful, recurring cysts, see a doctor — patches are not a substitute for medical treatment of cystic acne."
   - q: "Are microneedle patches available in Malaysia?"
-    a: "Yes, but mostly online rather than on Watsons or Guardian shelves. Shopee, TikTok Shop and Lazada carry them, including options like STIK MicroForce. Most physical pharmacies only stock hydrocolloid patches, which is one reason many people have never tried the microneedle type."
+    a: "Yes, but mostly online rather than on Watsons or Guardian shelves. Shopee, TikTok Shop and Lazada carry them, including options like STIK MicroForce for Early Acne. Most physical pharmacies only stock hydrocolloid patches, which is one reason many people have never tried the microneedle type."
 ---
 
 If you are choosing between a hydrocolloid and a microneedle acne patch, here is the honest answer: **both work, but on completely different pimples, so the "better" one is whichever matches the spot in front of you.** Hydrocolloid patches absorb fluid from a pimple that has already come to the surface. Microneedle patches deliver active ingredients into an early bump that is still trapped under the skin. They are not competing products — they are two different tools for two different stages of a breakout.
@@ -54,7 +54,7 @@ That changes what is possible. A normal serum or spot cream has to diffuse down 
 
 The name scares some people, so to be clear: it does not hurt and it does not draw blood. The needles are micro-scale. Most people feel a faint prickle on application and nothing afterward. If you want the full mechanism, including exactly who they suit and who should skip them, we go deep in [how microneedle acne patches work](/my/articles/how-microneedle-acne-patches-work/).
 
-One accuracy note, because it matters: ingredients differ by product, and you should read the label rather than assume. As an example, STIK MicroForce uses ceramides, hyaluronic acid, peptides and salicylic acid — it does **not** contain niacinamide, even though some hydrocolloid patches do. Do not assume two patches share an ingredient just because they are both "patches."
+One accuracy note, because it matters: ingredients differ by product, and you should read the label rather than assume. As an example, **STIK MicroForce for Early Acne** uses ceramides, hyaluronic acid, peptides and salicylic acid — it does **not** contain niacinamide, even though some hydrocolloid patches do. Do not assume two patches share an ingredient just because they are both "patches."
 
 ## Side by side
 
@@ -82,7 +82,7 @@ Same lesson both times: the technology was fine, the situation was wrong. Once y
 
 ## What this means for buying in Malaysia
 
-A practical wrinkle here is availability. In Malaysian pharmacies — Watsons, Guardian — you will almost only find **hydrocolloid** patches: COSRX Acne Pimple Master (a reliable all-rounder, approximate RM20-30 for 24 — check the current listing), Nexcare Acne Dressing (budget and gentle, approximate RM10-18), Oxy's medicated option. Hero Mighty Patch Original is excellent but sits at an import price here (approximate RM30-45 — check the listing). Local hydrocolloid like STIK Original Dot comes in mixed sizes at a notably lower approximate RM6.99 for 15, which matters if you break out often. All of these are hydrocolloid — same core mechanism, different price and thickness.
+A practical wrinkle here is availability. In Malaysian pharmacies — Watsons, Guardian — you will almost only find **hydrocolloid** patches: COSRX Acne Pimple Master (a reliable all-rounder, approximate RM10-20 for 24 — check the current listing), Nexcare Acne Dressing (budget and gentle, approximate RM10-18), Oxy's medicated option. Watsons Acne Patch is the cheap, everywhere pick — a budget hydrocolloid you can grab in just about any Watsons store nationwide (approximate RM10-15 — check the listing). Local hydrocolloid like STIK Original Dot comes in mixed sizes at a notably low approximate RM7-10 for 15, which matters if you break out often. All of these are hydrocolloid — same core mechanism, different price and thickness.
 
 **Microneedle patches are the gap.** Most physical shelves do not carry them at all, which is a big reason so many Malaysians have never tried the type that would actually suit their under-skin bumps. For those, you will usually need to shop online — Shopee, TikTok Shop or Lazada — where options like STIK MicroForce show up. Buy from official stores, read recent reviews, and compare the **per-patch** price rather than the pack price, since pack counts vary a lot.
 

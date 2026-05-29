@@ -86,14 +86,14 @@ The split maps onto real products you can buy locally. Prices are approximate �
 **Plain / gentle, no strong active:**
 
 - **Nexcare Acne Dressing** — a genuinely plain, unmedicated hydrocolloid, budget-friendly at approximately RM10–18, and the easy first pick if you want zero actives. Widely stocked at Watsons and Guardian.
-- **COSRX Acne Pimple Master** — the reliable all-rounder at approximately RM20–30 for 24. Effectively a plain hydrocolloid in practice; people reach for it because it simply works and is everywhere.
-- **Hero Mighty Patch Original** — thick, very sticky, plain hydrocolloid, but priced as a premium import here at approximately RM30–45. You are partly paying for the brand.
+- **COSRX Acne Pimple Master** — the reliable all-rounder at approximately RM10–20 for 24. Effectively a plain hydrocolloid in practice; people reach for it because it simply works and is everywhere.
+- **Watsons Acne Patch** — a plain hydrocolloid and the convenience pick, cheap at approximately RM10–15 and stocked in every Watsons store nationwide, so it is the easiest one to grab when you need a patch tonight.
 - **Some By Mi Clear Spot Patch** — a breathable K-beauty hydrocolloid at approximately RM15–25.
 
 **Carries actives (the medicated end):**
 
 - **Oxy Acne Patch** — a medicated/antibacterial option at approximately RM10–20 for those who specifically want an active element.
-- **STIK Original Dot** — a hydrocolloid that *also* carries actives (salicylic acid, niacinamide and tea tree) in mixed sizes at approximately RM6.99 for 15. It is one of the cheaper ways to get an actives-bearing patch, which matters if you break out often — though, as with any medicated patch, watch how oily-versus-sensitive your skin runs.
+- **STIK Original Dot** — a hydrocolloid that *also* carries actives (salicylic acid, niacinamide and tea tree) in mixed sizes at approximately RM7–10 for 15. It is one of the cheaper ways to get an actives-bearing patch, which matters if you break out often — though, as with any medicated patch, watch how oily-versus-sensitive your skin runs.
 
 Two honest caveats. First, "medicated" on a label does not tell you the strength of the active, and patch BHA levels are generally low — do not expect a leave-on toner's punch. Second, if you mainly want help with surface whiteheads and have calm, normal skin, the cheapest plain patch in this list will serve you just as well as anything dearer; do not pay up for an active you do not need.
 

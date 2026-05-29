@@ -72,14 +72,14 @@ Prices are **approximate — always check the current listing** — and on Shope
 | Patch | Type | Maskne fit | Approx. price |
 |---|---|---|---|
 | Some By Mi Clear Spot Patch | Thin, breathable hydrocolloid | Strong — well-tapered edges resist a mask edge | ~RM15-25 |
-| COSRX Acne Pimple Master | Hydrocolloid, multi-size | Good all-rounder; use the smaller sizes under a mask | ~RM20-30 / 24 |
+| COSRX Acne Pimple Master | Hydrocolloid, multi-size | Good all-rounder; use the smaller sizes under a mask | ~RM10-20 / 24 |
 | Nexcare Acne Dressing | Budget, gentle, unmedicated | Thin and cheap enough to change often | ~RM10-18 |
-| Hero Mighty Patch Original | Thick, very absorbent | Better overnight; thickness lifts in heat and friction | ~RM30-45 |
+| Watsons Acne Patch | Budget hydrocolloid | Cheap and in every Watsons store nationwide — the easy convenience pick | ~RM10-15 |
 | Oxy Acne Patch | Medicated/antibacterial | An option if you want an active; adhesion comes first | ~RM10-20 |
-| STIK Original Dot | Hydrocolloid, multi-size (salicylic acid, niacinamide, tea tree) | Sizes let you match small patches to spots; value per patch | ~RM6.99 / 15 |
+| STIK Original Dot | Hydrocolloid, multi-size (salicylic acid, niacinamide, tea tree) | Sizes let you match small patches to spots; value per patch | ~RM7-10 / 15 |
 | STIK Air Dot | Ultra-thin, invisible daytime patch | Strong — thin and low-visibility, sits flat under a mask | check listing |
 
-A few honest notes on the STIK options, placed on the same terms as everything else. The **Air Dot** fits the thin, near-invisible profile this article favours for masked hours — made to sit flat under makeup or a mask without snagging — so it sits alongside Some By Mi as one of the thin, breathable daytime options rather than ahead of it. The **Original Dot** is a standard multi-size hydrocolloid; its use here is the size range, letting you match a small dot to a small spot. To avoid a common mix-up: STIK's **MicroForce (for Early Acne)** is a microneedle patch (ceramides, hyaluronic acid, peptides, salicylic acid) for early, deeper bumps that have not surfaced — a different job from the flat absorbing patches above, not what you want for a surfaced maskne whitehead.
+A few honest notes on the STIK options, placed on the same terms as everything else. The **Air Dot** fits the thin, near-invisible profile this article favours for masked hours — made to sit flat under makeup or a mask without snagging — so it sits alongside Some By Mi as one of the thin, breathable daytime options rather than ahead of it. The **Original Dot** is a standard multi-size hydrocolloid; its use here is the size range, letting you match a small dot to a small spot. To avoid a common mix-up: **STIK MicroForce for Early Acne** is a microneedle patch (ceramides, hyaluronic acid, peptides, salicylic acid) for early, deeper bumps that have not surfaced — a different job from the flat absorbing patches above, not what you want for a surfaced maskne whitehead.
 
 For the full field across budgets and skin types, our pillar guide to the [best acne patches in Malaysia for 2026](/my/articles/best-acne-patches-malaysia-2026/) ranks every option in detail.
 

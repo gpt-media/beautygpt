@@ -33,7 +33,7 @@ Hold onto that open-versus-closed distinction, because it's the entire reason a 
 
 ## How a hydrocolloid patch actually works
 
-Almost every standard acne patch — COSRX, Hero, Nexcare, Some By Mi, STIK and the rest — is built on **hydrocolloid**, a gel-forming dressing borrowed from wound care. It does its whole job through one mechanism: **it absorbs moisture.**
+Almost every standard acne patch — COSRX, Watsons Acne Patch, Nexcare, Some By Mi, STIK and the rest — is built on **hydrocolloid**, a gel-forming dressing borrowed from wound care. It does its whole job through one mechanism: **it absorbs moisture.**
 
 When hydrocolloid sits on a moist or surfaced spot, three things happen:
 
@@ -77,7 +77,7 @@ If patches are out, here's the route that genuinely moves the needle — and mos
 
 What to be sceptical of: **pore strips** rip the top off some plugs mechanically but do nothing to stop new ones forming and can irritate skin; and "blackhead vacuums" mostly bruise. They're cosmetic theatre, not treatment.
 
-A quick note on one product some readers ask about — the salicylic-acid-bearing patch (such as STIK's Original Dot, an approximately RM6.99-for-15 hydrocolloid that carries salicylic acid, niacinamide and tea tree). Even with an active, the BHA dose in a patch is low and it's only acting on the small area under the sticker for one wear. It is *not* a blackhead solution. If you want salicylic acid to work on congestion, you want it in a cleanser or leave-on across the whole oily zone, used regularly — not occluded on one dot overnight. We say this plainly because it's the honest read, regardless of which brand's patch is in your drawer.
+A quick note on one product some readers ask about — the salicylic-acid-bearing patch (such as STIK's Original Dot, a hydrocolloid priced at approximately RM7-10 that carries salicylic acid, niacinamide and tea tree). Even with an active, the BHA dose in a patch is low and it's only acting on the small area under the sticker for one wear. It is *not* a blackhead solution. If you want salicylic acid to work on congestion, you want it in a cleanser or leave-on across the whole oily zone, used regularly — not occluded on one dot overnight. We say this plainly because it's the honest read, regardless of which brand's patch is in your drawer.
 
 ## Where patches genuinely belong
 

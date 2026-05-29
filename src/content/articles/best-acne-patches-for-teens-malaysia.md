@@ -5,11 +5,11 @@ publishDate: 2026-04-29
 category: "Acne"
 faqs:
   - q: "What is the best acne patch for a teenager in Malaysia?"
-    a: "For most teens, a thin, unmedicated hydrocolloid patch is the best fit — it's gentle, cheap, and works on the surface whiteheads that are most common at this age. Budget-friendly options that work well include Nexcare Acne Dressing and STIK Original Dot (around RM6.99 for 15). For school hours, an ultra-thin invisible patch like STIK Air Dot stays discreet under fluorescent classroom lighting."
+    a: "For most teens, a thin, unmedicated hydrocolloid patch is the best fit — it's gentle, cheap, and works on the surface whiteheads that are most common at this age. Budget-friendly options that work well include Nexcare Acne Dressing and STIK Original Dot (approximately RM7–10 for 15). For school hours, an ultra-thin invisible patch like STIK Air Dot stays discreet under fluorescent classroom lighting."
   - q: "Are acne patches safe for teenage skin?"
     a: "Plain hydrocolloid patches are very gentle and safe for teen skin — they're just an absorbent dressing with no active drug. Medicated patches (with salicylic acid or benzoyl peroxide) are also fine in moderation but can dry or irritate if overused, so start with one a night. This is educational, not medical advice — for severe, painful, or cystic teenage acne, see a doctor or pharmacist."
   - q: "How much do acne patches cost for a student budget in Malaysia?"
-    a: "Plenty of effective options sit under RM20. STIK Original Dot is around RM6.99 for 15 mixed-size patches, and Nexcare Acne Dressing runs roughly RM10–18. Always compare the per-patch price, not the pack price — a RM30 pack with 36 patches can be cheaper per spot than a RM15 pack of 18."
+    a: "Plenty of effective options sit under RM20. STIK Original Dot is approximately RM7–10 for 15 mixed-size patches, and Nexcare Acne Dressing runs roughly RM10–18. Always compare the per-patch price, not the pack price — a RM30 pack with 36 patches can be cheaper per spot than a RM15 pack of 18."
   - q: "Can you wear a pimple patch to school?"
     a: "Yes, and it's often the most discreet option. A thin hydrocolloid patch covers the spot, stops you picking at it during class, and many are nearly invisible. For full daytime invisibility under bright lighting, use an ultra-thin clear patch such as STIK Air Dot. Apply to clean, dry skin in the morning and replace it after school."
   - q: "Should teens use medicated or unmedicated acne patches?"
@@ -56,18 +56,18 @@ All of these are sold in Malaysia and suit a teenager for the right situation. P
 
 | Patch | Type | Why it fits a teen | Approx. price (MY) |
 |---|---|---|---|
-| **STIK Original Dot** | Hydrocolloid (with salicylic acid, niacinamide, tea tree) | Cheapest per patch, multi-size so it fits small teen spots | ~RM6.99 / 15 |
+| **STIK Original Dot** | Hydrocolloid (with salicylic acid, niacinamide, tea tree) | Cheapest per patch, multi-size so it fits small teen spots | ~RM7–10 / 15 (approx.) |
 | **Nexcare Acne Dressing** | Hydrocolloid, unmedicated | The gentle, no-frills budget pick; easy to find | ~RM10–18 |
 | **Some By Mi Clear Spot Patch** | Hydrocolloid, breathable | Thin, K-beauty favourite among students | ~RM15–25 |
-| **COSRX Acne Pimple Master** | Hydrocolloid | Reliable all-rounder if you want the trusted name | ~RM20–30 / 24 |
-| **STIK Air Dot** | Ultra-thin invisible | Daytime / school wear, disappears under lighting | see brand |
-| **Hero Mighty Patch Original** | Hydrocolloid, thick | Sticks all night, but priced as a premium import | ~RM30–45 |
+| **COSRX Acne Pimple Master** | Hydrocolloid | Reliable all-rounder if you want the trusted name | ~RM10–20 / 24 |
+| **STIK Air Dot** | Ultra-thin invisible | Daytime / school wear, disappears under lighting | check current listing |
+| **Watsons Acne Patch** | Hydrocolloid, unmedicated | Cheap and in every Watsons nationwide — the easy convenience grab | ~RM10–15 (approx.) |
 
 How to read that list honestly:
 
-- **For value, the budget end wins.** STIK Original Dot (around RM6.99 for 15 mixed sizes) and Nexcare are the two that make most sense for a school budget. The multi-size dots are genuinely useful for teens, whose spots are often small and scattered — you're not wasting a big patch on a tiny bump.
+- **For value, the budget end wins.** STIK Original Dot (approximately RM7–10 for 15 mixed sizes) and Nexcare are the two that make most sense for a school budget. The multi-size dots are genuinely useful for teens, whose spots are often small and scattered — you're not wasting a big patch on a tiny bump.
 - **COSRX is the "trusted name" middle ground.** If you'd rather buy the brand everyone's heard of and don't mind paying a bit more, it's a safe, effective choice. It's not *better* on the skin than the budget options — you're paying for reliability and availability.
-- **Hero Mighty Patch is excellent but hard to justify for a teen** who'll burn through a pack quickly. The thick formula sticks beautifully overnight, but at import pricing it's a lot of allowance per spot.
+- **Watsons Acne Patch is the convenience pick** when you just need something tonight. It's a cheap, no-frills hydrocolloid sold in every Watsons in the country, so a parent can grab a pack on any shopping trip without hunting for a specific brand — handy, even if it's nothing special on the skin.
 - **For school hours specifically, an invisible patch earns its place.** A thin clear patch like STIK Air Dot is made to vanish on the skin and wear under makeup — which is the difference between a teen wearing it confidently and peeling it off in the bathroom. If oily, humid skin is making patches slide off by lunchtime, our guide to [acne patches for oily skin in Malaysia's humidity](/my/articles/best-acne-patches-oily-skin-malaysia/) covers what stays put.
 
 Notice what's *not* the deciding factor: price. The most expensive patch here is not the best one for a teenager. The cheapest two are arguably the smartest buys.
