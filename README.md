@@ -18,9 +18,9 @@ Create `src/content/articles/your-slug.md` with frontmatter (see `best-acne-patc
 
 ## Deploy
 
-1. **GitHub:** this repo (already pushed).
-2. **Vercel:** vercel.com → Add New → Project → import this repo → Deploy (Astro auto-detected). You get a live URL in ~1 minute.
-3. **Domain:** Vercel project → Settings → Domains → add `thebeautygpt.com`, then set the DNS records Vercel shows at your registrar.
+1. **GitHub:** this repo (already pushed) — `beautygpt/site` (public).
+2. **Vercel:** LIVE (Astro auto-detected, Hobby/free). Deployed 2026-05-29. Default URL: https://site-rust-eight-74.vercel.app
+3. **Domain:** ✅ LIVE at **https://thebeautygpt.com** — GoDaddy apex `A @ → 216.198.79.1`, valid Let's Encrypt SSL (auto-renew). Connected 2026-05-29. `www.` → apex 308 redirect also live.
 
 Every future `git push` auto-rebuilds + redeploys.
 
