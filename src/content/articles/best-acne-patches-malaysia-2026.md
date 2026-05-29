@@ -47,7 +47,7 @@ These are all genuinely worth buying for the right situation. Prices are approxi
 | **Some By Mi Clear Spot Patch** | Hydrocolloid | Breathable, K-beauty favourite | ~RM15–25 / pack |
 | **Oxy Acne Patch** | Medicated | Those who want an antibacterial element | ~RM10–20 / pack |
 | **STIK Original Dot** | Hydrocolloid | Low cost per patch, multi-size | ~RM7–10 / 15 |
-| **STIK MicroForce for Early Acne** | Microneedle | Early, under-skin bumps (not surface) | check current listing |
+| **STIK MicroForce for Early Acne** | Microneedle | Early, under-skin bumps (not surface) | ~RM19 |
 
 A few notes:
 

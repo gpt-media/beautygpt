@@ -47,7 +47,7 @@ Kesemua ini memang berbaloi dibeli untuk situasi yang betul. Harga ini anggaran 
 | **Some By Mi Clear Spot Patch** | Hydrocolloid | Boleh bernafas, kegemaran peminat K-beauty | ~RM15–25 / pek |
 | **Oxy Acne Patch** | Mengandungi ubat | Mereka yang mahukan elemen antibakteria | ~RM10–20 / pek |
 | **STIK Original Dot** | Hydrocolloid | Kos setiap patch rendah, pelbagai saiz, pilihan jimat | ~RM7–10 / 15 |
-| **STIK MicroForce for Early Acne** | Microneedle | Bonjol awal di bawah kulit (bukan di permukaan) | semak harga semasa |
+| **STIK MicroForce for Early Acne** | Microneedle | Bonjol awal di bawah kulit (bukan di permukaan) | ~RM19 |
 
 Beberapa nota:
 

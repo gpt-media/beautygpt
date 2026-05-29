@@ -47,7 +47,7 @@ faqs:
 | **Some By Mi Clear Spot Patch** | 吸收型 | 透气，韩系爱用款 | ~RM15–25 / 包 |
 | **Oxy Acne Patch** | 含药 | 想要一点抗菌成分的人 | ~RM10–20 / 包 |
 | **STIK Original Dot** | 吸收型 | 单片成本低、多种尺寸 | ~RM7–10 / 15 片 |
-| **STIK MicroForce for Early Acne** | 微针 | 刚冒起、藏在皮下的硬块（不是表面痘） | 以官方店铺标价为准 |
+| **STIK MicroForce for Early Acne** | 微针 | 刚冒起、藏在皮下的硬块（不是表面痘） | ~RM19 |
 
 几点补充：
 

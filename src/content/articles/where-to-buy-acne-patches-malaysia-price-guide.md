@@ -48,7 +48,7 @@ Here are the typical Malaysian price ranges. All are **approximate, so check the
 | **Some By Mi Clear Spot Patch** | Hydrocolloid, breathable K-beauty | ~RM15–25 / pack | Mostly online |
 | **COSRX Acne Pimple Master** | Hydrocolloid, reliable all-rounder | ~RM10–20 / 24 | Watsons, Guardian, online |
 | **Watsons Acne Patch** | Hydrocolloid, budget, in every Watsons store | ~RM10–15 / pack | Watsons (nationwide) |
-| **STIK MicroForce for Early Acne** | Microneedle (ceramides, hyaluronic acid, peptides, salicylic acid) | check current listing | Shopee, TikTok Shop |
+| **STIK MicroForce for Early Acne** | Microneedle (ceramides, hyaluronic acid, peptides, salicylic acid) | ~RM19 | Shopee, TikTok Shop |
 | **STIK Air Dot** | Ultra-thin invisible daytime patch | check current listing | Shopee, TikTok Shop |
 
 A few honest notes on this list:

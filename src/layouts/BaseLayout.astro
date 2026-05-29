@@ -6,17 +6,28 @@ import '../styles/global.css';
 interface Props {
   title: string;
   description: string;
-  /** Structured data objects (schema.org) injected as JSON-LD — the AIO backbone. */
+  /** Structured data objects (schema.org) injected as JSON-LD - the AIO backbone. */
   jsonLd?: Record<string, any>[];
   ogType?: string;
   /** Content language. Drives <html lang> + og:locale. 'en' | 'ms' (Malay) | 'zh' (Chinese). */
   lang?: 'en' | 'ms' | 'zh';
+  /** Language-agnostic path suffix (e.g. '/', '/about/', '/articles/foo/') used to build hreflang alternates. */
+  path?: string;
 }
 
-const { title, description, jsonLd = [], ogType = 'website', lang = 'en' } = Astro.props;
+const { title, description, jsonLd = [], ogType = 'website', lang = 'en', path } = Astro.props;
 const langCode = { en: 'en-MY', ms: 'ms-MY', zh: 'zh-MY' }[lang];
 const ogLocale = { en: 'en_MY', ms: 'ms_MY', zh: 'zh_MY' }[lang];
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
+// hreflang alternates (only when the page exists in all three languages — pass `path`).
+const alternates = path
+  ? [
+      { hreflang: 'en-MY', href: new URL(`/my${path}`, Astro.site).href },
+      { hreflang: 'ms-MY', href: new URL(`/my/ms${path}`, Astro.site).href },
+      { hreflang: 'zh-MY', href: new URL(`/my/zh${path}`, Astro.site).href },
+      { hreflang: 'x-default', href: new URL(`/my${path}`, Astro.site).href },
+    ]
+  : [];
 const fullTitle = title === 'TheBeautyGPT'
   ? 'TheBeautyGPT: Smarter answers for your skin'
   : `${title} | TheBeautyGPT`;
@@ -29,6 +40,9 @@ const fullTitle = title === 'TheBeautyGPT'
     <title>{fullTitle}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
+    {alternates.map((a) => (
+      <link rel="alternate" hreflang={a.hreflang} href={a.href} />
+    ))}
 
     <!-- Open Graph / social -->
     <meta property="og:type" content={ogType} />
@@ -39,7 +53,7 @@ const fullTitle = title === 'TheBeautyGPT'
     <meta property="og:locale" content={ogLocale} />
     <meta name="twitter:card" content="summary_large_image" />
 
-    <!-- Organization structured data — establishes the publisher entity for AI engines -->
+    <!-- Organization structured data - establishes the publisher entity for AI engines -->
     <script type="application/ld+json" set:html={JSON.stringify({
       '@context': 'https://schema.org',
       '@type': 'Organization',

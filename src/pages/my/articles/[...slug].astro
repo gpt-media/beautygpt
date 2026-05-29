@@ -42,7 +42,7 @@ const faqSchema = d.faqs.length
 
 const jsonLd = faqSchema ? [articleSchema, faqSchema] : [articleSchema];
 ---
-<BaseLayout title={d.title} description={d.description} jsonLd={jsonLd} ogType="article">
+<BaseLayout title={d.title} description={d.description} jsonLd={jsonLd} ogType="article" path={`/articles/${entry.slug}/`}>
   <article class="article">
     <div class="wrap">
       <p class="kicker">{d.category}</p>

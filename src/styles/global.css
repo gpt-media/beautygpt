@@ -3,7 +3,7 @@
   --ink-soft: #4a4a4a;
   --paper: #fbf9f6;
   --paper-2: #f3efe9;
-  --accent: #c8503c;        /* terracotta — warm, beauty-coded accent */
+  --accent: #c8503c;        /* terracotta - warm, beauty-coded accent */
   --line: #e6e0d8;
   --maxw: 720px;
   --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Times New Roman", serif;
@@ -32,6 +32,9 @@ a:hover { opacity: 0.8; }
 .logo span { color: var(--accent); }
 .site-header nav a { color: var(--ink-soft); text-decoration: none; margin-left: 20px; font-size: 16px; }
 .site-header nav a:hover { color: var(--accent); }
+.lang-switch { margin-left: 14px; }
+.lang-switch a { margin-left: 8px; font-size: 14px; color: var(--ink-soft); text-decoration: none; }
+.lang-switch a.on { color: var(--ink); font-weight: 700; }
 
 /* Headlines */
 h1, h2, h3 { font-family: var(--serif); line-height: 1.2; letter-spacing: -0.01em; }
