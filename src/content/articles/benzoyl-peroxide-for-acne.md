@@ -26,7 +26,7 @@ The catch is that it is also one of the easier actives to misuse. Go in too stro
 
 Inflamed acne — the red, swollen, sometimes painful kind — is driven largely by a bacterium called *Cutibacterium acnes* (you may still see its older name, *Propionibacterium acnes*). It lives happily in the low-oxygen environment of a clogged, oil-filled pore, multiplies, and triggers the immune response that turns a quiet blocked pore into a red, sore spot.
 
-Benzoyl peroxide attacks this cleverly. Applied to the skin, it breaks down and **releases oxygen into the pore**. Those bacteria cannot tolerate oxygen well, so their numbers crash. This is the core of why it works — it is, in effect, an antibacterial that does not rely on an antibiotic.
+Benzoyl peroxide attacks this cleverly. Applied to the skin, it breaks down and **releases oxygen into the pore**. Those bacteria cannot tolerate oxygen well, so their numbers crash. As [DermNet](https://dermnetnz.org/topics/benzoyl-peroxide) explains, it reduces the number of surface bacteria without promoting antibiotic resistance — it is, in effect, an antibacterial that does not rely on an antibiotic.
 
 That single mechanism gives it two practical advantages:
 
@@ -56,7 +56,7 @@ In short, benzoyl peroxide is the over-the-counter workhorse for **mild to moder
 
 Here is the most useful and counter-intuitive fact about this ingredient: **more is not better.**
 
-Over-the-counter benzoyl peroxide typically ranges roughly from **2.5% to 10%**. The instinct is to grab the 10% for a "stronger" result. But this has been studied repeatedly, and the consistent finding is that **2.5% clears acne about as well as 5% or 10% — while causing far less dryness, redness and stinging.** Higher concentrations mostly buy you more irritation, not more results.
+Over-the-counter benzoyl peroxide typically ranges roughly from **2.5% to 10%**. The instinct is to grab the 10% for a "stronger" result. But this has been studied repeatedly, and the consistent finding is that **2.5% clears acne about as well as 5% or 10% — while causing far less dryness, redness and stinging.** Higher concentrations mostly buy you more irritation, not more results, which is why the [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) lists lower-strength benzoyl peroxide among first-choice over-the-counter options.
 
 So the sensible starting point for nearly everyone is **2.5% or 5%**. Reserve higher strengths for skin you already know tolerates it. Whatever you choose, the directions on the label are your guide — they reflect that formula's tested use.
 

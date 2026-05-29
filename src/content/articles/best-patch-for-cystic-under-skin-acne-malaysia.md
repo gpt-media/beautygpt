@@ -26,7 +26,7 @@ That gap between what patches promise and what a cyst actually is — that's exa
 
 A hydrocolloid patch is a flat gel dressing. Its whole job is **absorption**: when a whitehead has come to a head and is open or oozing, the gel pulls that fluid up and out, flattens the spot, and protects it from your fingers overnight. It's genuinely good at that one job — which is why it's the right pick for surfaced whiteheads.
 
-A cyst is a different animal entirely. It's a pocket of inflammation, oil and debris trapped **deep in the skin, under an unbroken surface.** There's no opening. There's no fluid sitting at the top for a gel to soak up. So when you stick a hydrocolloid patch over a deep, painful lump and wake up to find it unchanged, the patch didn't fail — it was never built for that situation in the first place.
+A cyst is a different animal entirely. It's a pocket of inflammation, oil and debris trapped **deep in the skin, under an unbroken surface.** [DermNet](https://dermnetnz.org/topics/acne-vulgaris) classifies nodules and cyst-like lesions as "deeper lesions," which is exactly why a surface dressing has nothing to act on. There's no opening. There's no fluid sitting at the top for a gel to soak up. So when you stick a hydrocolloid patch over a deep, painful lump and wake up to find it unchanged, the patch didn't fail — it was never built for that situation in the first place.
 
 > Rule of thumb: if you can't see a white or yellow head, a hydrocolloid sticker has nothing to grab onto. No head, no absorption, no result.
 
@@ -58,7 +58,7 @@ The most common mistake is buying a thick hydrocolloid sticker for the bottom tw
 If you're nodding along to "large, deep, throbbing, been there a week" — please don't go shopping for a sticker. There is genuinely no patch on the Malaysian market that drains or shrinks a deep cyst. What actually works:
 
 - **Don't squeeze it.** A cyst has no surfaced head; pressing pushes the contents deeper and sideways, raising the risk of a lasting scar.
-- **See a doctor or dermatologist.** A short course of a prescription topical, an oral medication, or an in-clinic cortisone injection can settle a stubborn cyst in a way nothing over-the-counter can.
+- **See a doctor or dermatologist.** The [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) notes that clearing acne means matching the right treatment to each type of blemish — and for a deep cyst that can mean a prescription topical, an oral medication, or an in-clinic cortisone injection, which settles a stubborn cyst in a way nothing over-the-counter can.
 - **Look at the pattern.** Repeated deep cysts along the jaw and chin often track with hormones and respond best to a proper treatment plan, not single-spot fixes.
 
 *This is educational, not medical advice — for severe, persistent or painful cystic acne, please see a doctor.*

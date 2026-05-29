@@ -49,7 +49,7 @@ This is where routines live or die. The active is the ingredient doing the real 
 
 Here is how the common over-the-counter actives work, so you can choose based on mechanism rather than marketing:
 
-- **Salicylic acid (BHA):** an oil-soluble acid that gets inside the pore and clears out the dead skin and sebum that block it. Best for blackheads, whiteheads, and general congestion. Typical OTC strengths sit roughly around 0.5% to 2%. We cover it in depth in [Salicylic Acid for Acne](/my/articles/salicylic-acid-for-acne/).
+- **Salicylic acid (BHA):** an oil-soluble acid that gets inside the pore and clears out the dead skin and sebum that block it. Best for blackheads, whiteheads, and general congestion. As [DermNet](https://dermnetnz.org/topics/salicylic-acid) explains, it works by slowing the shedding of cells inside the follicle so pores do not clog. Typical OTC strengths sit roughly around 0.5% to 2%. We cover it in depth in [Salicylic Acid for Acne](/my/articles/salicylic-acid-for-acne/).
 - **Benzoyl peroxide:** kills the acne-causing bacteria (*C. acnes*) directly and reduces inflammation. Best for angry, inflamed, pus-filled spots. Common strengths range roughly from 2.5% to 10% — and higher is not better, just more drying. It can bleach towels and pillowcases, so use white ones.
 - **Adapalene (a retinoid):** speeds up skin cell turnover so pores do not clog in the first place, and calms inflammation over time. It is excellent for both clogged pores and inflamed acne, and in Malaysia some forms are available over the counter at pharmacies while stronger retinoids are prescription. Because it can be irritating and increases sun sensitivity, follow the label and start slowly. See [Retinol vs Retinoids for Acne](/my/articles/retinol-vs-retinoids-for-acne/) for where to begin.
 - **Niacinamide / azelaic acid:** gentler supporting actives that calm redness and help with post-acne marks. Good options if stronger actives are too harsh for you.
@@ -79,7 +79,7 @@ The trick is texture. In our humidity you do not want a heavy cream sitting on y
 
 Malaysia sits near the equator, so UV is strong every single day, cloudy or not. Two reasons this matters enormously for acne:
 
-1. **Actives increase sun sensitivity.** Salicylic acid, benzoyl peroxide, and especially retinoids make your skin more vulnerable to sun damage. Skipping SPF undoes part of what your routine is trying to achieve.
+1. **Actives increase sun sensitivity.** Salicylic acid, benzoyl peroxide, and especially retinoids make your skin more vulnerable to sun damage — the [NHS](https://www.nhs.uk/conditions/acne/treatment/) notes that benzoyl peroxide makes your face more sensitive to sunlight and advises wearing sun cream. Skipping SPF undoes part of what your routine is trying to achieve.
 2. **Sun darkens marks.** Those brown or red patches left behind after a pimple heals (post-inflammatory hyperpigmentation) get worse and last longer with sun exposure. Much of what people think is "scarring" is actually sun-darkened marks that SPF would have faded faster.
 
 Pick a sunscreen you will actually wear daily, which usually means a lightweight gel, fluid, or "sunscreen serum" texture rather than a thick white cream. Look for broad-spectrum SPF 30 to 50, ideally non-comedogenic. The Korean and Japanese lightweight sunscreens widely sold on Shopee and at Watsons (roughly RM40 to RM90) are popular here precisely because they feel light in the heat.

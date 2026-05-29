@@ -24,11 +24,11 @@ So most of this article is not about whether adapalene works. It does. It is abo
 
 ## What adapalene actually is, and how it works
 
-Adapalene is a **retinoid** — part of the vitamin A family of ingredients. Retinoids are the most evidence-backed topical actives in all of acne care, and adapalene is the version that became available over the counter at the 0.1% strength, which is why it is the realistic starting point for most people rather than a prescription-only product.
+Adapalene is a **retinoid** — part of the vitamin A family of ingredients. Retinoids are among the most evidence-backed topical actives in all of acne care; the [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) lists them as a first-line treatment for acne. Adapalene is the version that became available over the counter at the 0.1% strength, which is why it is the realistic starting point for most people rather than a prescription-only product.
 
 Here is the mechanism, because it explains everything else that follows.
 
-A pimple starts deep, before you can see it. Skin cells lining the pore stick together and don't shed cleanly, oil builds up behind them, the pore clogs, and bacteria and inflammation do the rest. Adapalene works on the **earliest step**: it normalises how those pore-lining cells turn over and shed, so the pore is less likely to clog in the first place. It also calms inflammation.
+A pimple starts deep, before you can see it. Skin cells lining the pore stick together and don't shed cleanly, oil builds up behind them, the pore clogs, and bacteria and inflammation do the rest. Adapalene works on the **earliest step**: it normalises how those pore-lining cells turn over and shed, so the pore is less likely to clog in the first place. It also calms inflammation. [DermNet](https://dermnetnz.org/topics/topical-retinoids) describes adapalene as one of the least irritating topical retinoids, which is part of why it became the over-the-counter option.
 
 That has two important consequences:
 

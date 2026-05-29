@@ -42,9 +42,9 @@ The key reading of this table: **retinol and adapalene are not "the same thing a
 
 ## How retinoids actually clear acne
 
-Here is the part that explains everything else. Acne starts inside the pore, before you ever see a spot. Dead skin cells that should shed cleanly instead stick together and mix with oil, forming a plug (a microcomedone). That plug is the seed of every whitehead, blackhead and inflamed pimple.
+Here is the part that explains everything else. Acne starts inside the pore, before you ever see a spot. Dead skin cells that should shed cleanly instead stick together and mix with oil, forming a plug (a microcomedone), as [DermNet](https://dermnetnz.org/topics/acne-vulgaris) describes. That plug is the seed of every whitehead, blackhead and inflamed pimple.
 
-Retinoids work on that root step. They:
+Retinoids work on that root step. As the [American Academy of Dermatology](https://www.aad.org/public/diseases/acne/derm-treat/treat) notes, they work to clear pores and are used both to treat acne and to keep it from coming back. They:
 
 - **Speed up and normalise cell turnover** so dead cells shed properly instead of clumping into plugs.
 - **Keep the pore lining from getting sticky and clogged**, which stops new spots forming in the first place.

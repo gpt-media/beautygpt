@@ -34,7 +34,7 @@ There's one more wrinkle specific to humid Malaysia: not every bumpy breakout is
 
 ### Salicylic acid (BHA) — the pore-clearer
 
-Salicylic acid is a beta-hydroxy acid, and its defining trait is that it's **oil-soluble**. Most exfoliating acids are water-soluble and work on the skin's surface. Salicylic acid mixes with oil, so it can travel down into a sebum-filled pore and exfoliate the lining from the inside, dissolving the dead skin and oil that form the plug.
+Salicylic acid is a beta-hydroxy acid, and its defining trait is that it's **oil-soluble**. Most exfoliating acids are water-soluble and work on the skin's surface. Salicylic acid mixes with oil, so it can travel down into a sebum-filled pore and exfoliate the lining from the inside, dissolving the dead skin and oil that form the plug. As [DermNet](https://dermnetnz.org/topics/salicylic-acid) explains, it works by slowing the shedding of cells inside the follicle that would otherwise cause clogging, and by helping to break down blackheads and whiteheads.
 
 That mechanism is exactly why it's the standout active for oily, congested skin, blackheads, and whiteheads. It's also mildly anti-inflammatory (it's chemically related to aspirin), so it can take some of the redness out of a spot.
 
@@ -79,7 +79,7 @@ You don't need ten steps. A lean routine you'll actually keep up with beats an e
 - **Morning:** gentle cleanser → niacinamide (optional) → light gel moisturiser → lightweight SPF.
 - **Night:** gentle cleanser → salicylic acid as your treatment step (start 2–3x/week) → light gel moisturiser.
 
-Cleanse to remove the day's oil and sunscreen, but don't over-wash or scrub — that strips the barrier and triggers more oil. A salicylic acid *cleanser* is a brief contact and counts as gentler than a leave-on, which is a reasonable starting point if a leave-on feels too much. For the full step-by-step logic of building this up, see [How to Build an Acne Skincare Routine in Malaysia](/my/articles/how-to-build-acne-skincare-routine-malaysia/), and for the bigger picture on what actually clears acne, [How to Treat Acne in Malaysia: The Ingredients and Routine That Actually Work](/my/articles/how-to-treat-acne-malaysia/).
+Cleanse to remove the day's oil and sunscreen, but don't over-wash or scrub — that strips the barrier and triggers more oil. The [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) offers general guidance on caring for acne-prone skin and the everyday habits that can make breakouts worse. A salicylic acid *cleanser* is a brief contact and counts as gentler than a leave-on, which is a reasonable starting point if a leave-on feels too much. For the full step-by-step logic of building this up, see [How to Build an Acne Skincare Routine in Malaysia](/my/articles/how-to-build-acne-skincare-routine-malaysia/), and for the bigger picture on what actually clears acne, [How to Treat Acne in Malaysia: The Ingredients and Routine That Actually Work](/my/articles/how-to-treat-acne-malaysia/).
 
 ### Where a spot patch fits — and where it doesn't
 

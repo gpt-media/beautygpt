@@ -30,13 +30,13 @@ The word "cica" is worth decoding because it confuses people. It is short for *C
 
 Centella's value comes down to two jobs.
 
-**1. It calms inflammation.** Acne is, at its core, an inflammatory process — the redness, the swelling, the angry look of a fresh spot. Centella's compounds have a soothing, anti-inflammatory effect on the skin, which visibly reduces that redness and the feeling of heat or irritation. This is why skin looks *calmer* on cica, even when the breakout itself is still there.
+**1. It calms inflammation.** Acne is, at its core, an inflammatory process — the redness, the swelling, the angry look of a fresh spot. [DermNet](https://dermnetnz.org/topics/acne-vulgaris) describes acne as a mixed eruption of inflammatory and non-inflammatory lesions, and it is the inflammatory side that cica targets. Centella's compounds have a soothing, anti-inflammatory effect on the skin, which visibly reduces that redness and the feeling of heat or irritation. This is why skin looks *calmer* on cica, even when the breakout itself is still there.
 
 **2. It supports the skin barrier.** Your skin barrier is the outer layer that holds moisture in and keeps irritants out. Acne treatments — retinoids, benzoyl peroxide, strong exfoliating acids — are effective precisely because they are aggressive, and that aggression often damages the barrier, leaving skin dry, flaky, tight and red. Centella helps the barrier hold onto water and recover. Some of its compounds are also linked to supporting collagen and the skin's natural repair process, which is why centella has a long history in wound-care products.
 
 > Rule of thumb: if an ingredient kills bacteria or clears pores, it is a treatment. If it calms and repairs, it is support. Centella is firmly in the second group — and a good acne routine needs both.
 
-That second job is where cica earns its place in an acne routine. The most common reason people quit a retinoid or benzoyl peroxide is not that it stopped working — it is that the irritation became unbearable. A soothing, barrier-supporting layer like centella lets you tolerate and stay consistent with the active that is actually doing the clearing. Consistency is what clears acne; cica protects your ability to stay consistent.
+That second job is where cica earns its place in an acne routine. The most common reason people quit a retinoid or benzoyl peroxide is not that it stopped working — it is that the irritation became unbearable. A soothing, barrier-supporting layer like centella lets you tolerate and stay consistent with the active that is actually doing the clearing — the proven [topical acne treatments](https://dermnetnz.org/topics/topical-treatment-for-acne) such as benzoyl peroxide, topical retinoids and salicylic acid. Consistency is what clears acne; cica protects your ability to stay consistent.
 
 ## Where cica fits in your routine
 

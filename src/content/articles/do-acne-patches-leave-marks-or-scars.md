@@ -24,7 +24,7 @@ That said, people ask this question for a good reason. After you peel a patch of
 
 ## First, what a scar actually is
 
-A scar is a permanent change in your skin's structure. It forms when the deeper layer of skin (the dermis) is damaged and your body repairs it imperfectly — laying down too little tissue (a pitted or "atrophic" scar) or too much (a raised or "keloid" scar). The key word is *deep*. Surface-level redness and shallow marks are not scars, even though people often call them that.
+A scar is a permanent change in your skin's structure. As the [American Academy of Dermatology](https://www.aad.org/public/diseases/acne/derm-treat/scars) explains, a scar forms when a deep breakout damages the deeper layer of skin (the dermis) and the body repairs it imperfectly — laying down too little tissue (a pitted or "atrophic" scar) or too much (a raised or "keloid" scar). The key word is *deep*. Surface-level redness and shallow marks are not scars, even though people often call them that.
 
 This is why the source of scarring matters so much:
 
@@ -64,7 +64,7 @@ The first three are mechanical and cosmetic. They are not damage, and they resol
 
 If you have a medium, tan, or deep skin tone — which describes a huge share of Malaysians across every background — your skin produces melanin readily. That's great for sun protection and not so great when a spot heals, because inflammation can trigger extra pigment to be deposited right where the acne was. The result is a flat brown, grey-brown, or sometimes purplish mark left behind after the actual pimple is gone. That's **post-inflammatory hyperpigmentation (PIH)**, and on brown skin it can linger for months.
 
-PIH is not a scar — the skin's texture is normal, only the colour is off — and it will fade. But two things drive how bad it gets: **how much inflammation** the spot had, and **how much you traumatised it**. Both are things a patch helps with.
+PIH is not a scar — the skin's texture is normal, only the colour is off — and it will fade. But two things drive how bad it gets: **how much inflammation** the spot had, and **how much you traumatised it**. As the [NHS](https://www.nhs.uk/conditions/acne/) notes, picking or squeezing spots can make acne worse and increases the chance of marks being left behind — so both factors are things a patch helps with.
 
 By covering the spot early, calming the area, and removing the temptation to squeeze, a patch reduces the inflammation-and-trauma cycle that makes PIH darker and longer-lasting. So while a patch can't fade a mark you already have, using one well can mean the next mark is lighter — or doesn't appear at all.
 

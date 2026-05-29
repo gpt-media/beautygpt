@@ -28,7 +28,7 @@ A standard pimple patch is **hydrocolloid** — an absorbent dressing that does 
 
 Hydrocolloid sticks to clean, dry skin. It does not stick to a film of moisturiser, a slick of facial oil, or a still-damp layer of serum. Put one on over any of that and the adhesive can't grip — the edges curl, it slides off, and it never forms the little vacuum that makes it work.
 
-There's a second, less obvious reason to keep actives off the spot itself. A patch is an *occlusive* — it seals whatever is underneath against your skin for hours. Sealing a layer of strong active (a high-percentage salicylic acid, a retinoid, an exfoliating acid) directly onto an already-inflamed, possibly broken spot can tip "treated" into "irritated and stinging." On a raw blemish, less under the patch is more.
+There's a second, less obvious reason to keep actives off the spot itself. A patch is an *occlusive* — it seals whatever is underneath against your skin for hours. Sealing a layer of strong active (a high-percentage salicylic acid, a retinoid, an exfoliating acid) directly onto an already-inflamed, possibly broken spot can tip "treated" into "irritated and stinging." The [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) advises matching the right treatment to each type of blemish, rather than piling everything onto one spot. On a raw blemish, less under the patch is more.
 
 > Rule of thumb: skincare goes around the spot; the patch goes over a bare, dry spot. Treat the rest of your face normally.
 
@@ -80,7 +80,7 @@ How long to leave it on once it's stuck is its own question — broadly, until i
 
 You can buy all of these locally: Watsons and Guardian stock COSRX, Oxy and Nexcare in-store; Shopee, TikTok Shop and Lazada carry the widest range — including thin day patches and Korean brands — usually at the best prices. Buy from official stores, read the reviews, and compare the **per-patch** price rather than the pack price. If you're still choosing a patch in the first place, start with our pillar guide, [the best acne patches in Malaysia](/my/articles/best-acne-patches-malaysia-2026/).
 
-This is educational, not medical advice. For severe, persistent, or painful cystic acne — the deep, under-skin kind that patches won't fix — see a doctor or a dermatologist rather than relying on stickers.
+This is educational, not medical advice. For severe, persistent, or painful cystic acne — the deep, under-skin kind that patches won't fix — [DermNet](https://dermnetnz.org/topics/acne-vulgaris) recommends seeing a doctor or dermatologist rather than relying on stickers.
 
 ## Bottom line
 

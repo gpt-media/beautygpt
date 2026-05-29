@@ -37,7 +37,7 @@ Hydrocolloid is not a skincare invention. It is a wound-care material that has b
 On a pimple, that does three useful things at once:
 
 - **It draws out fluid and pus.** Once a whitehead has surfaced, the patch pulls that fluid up and out. You will literally see the patch turn white where it has soaked up the gunk. That is the patch doing its job, not the pimple getting worse.
-- **It creates a moist healing environment.** Counter-intuitively, wounds heal faster and scar less when kept moist rather than dried out and scabbed. The patch seals the spot in that ideal condition.
+- **It creates a moist healing environment.** Counter-intuitively, wounds heal faster and scar less when kept moist rather than dried out and scabbed; [DermNet](https://dermnetnz.org/topics/acne-vulgaris) notes that picked or squeezed acne lesions are a route to scarring, which a sealed dressing helps avoid. The patch seals the spot in that ideal condition.
 - **It stops you touching it.** A huge part of acne scarring is mechanical — picking, squeezing, rubbing. A patch is a physical barrier between your fingers and the spot, which alone prevents a lot of damage.
 
 What hydrocolloid does **not** do is push anything *into* your skin. It is purely absorbent. So if the pimple is still a deep, closed bump with nothing on the surface, the patch has nothing to grab. It will sit there politely and achieve very little. This is the single most common reason people feel let down by patches.
@@ -92,7 +92,7 @@ A note on the humidity, since this is Malaysia: sweat and heat are hard on patch
 
 ## A quick word on when not to use either
 
-Patches are for ordinary spots. If you have severe, persistent, painful or widespread cystic acne, no sticker — hydrocolloid or microneedle — is the answer, and reaching for them can delay treatment that actually helps. This article is educational, not medical advice; please see a doctor or dermatologist for cystic or stubborn acne, especially if it is leaving scars.
+Patches are for ordinary spots. If you have severe, persistent, painful or widespread cystic acne, no sticker — hydrocolloid or microneedle — is the answer, and reaching for them can delay treatment that actually helps. The [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) recommends that severe or cystic acne be treated by a dermatologist. This article is educational, not medical advice; please see a doctor or dermatologist for cystic or stubborn acne, especially if it is leaving scars.
 
 ## Bottom line
 

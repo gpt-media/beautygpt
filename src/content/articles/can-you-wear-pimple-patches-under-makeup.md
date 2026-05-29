@@ -41,7 +41,7 @@ Most of the patches you'll find in Watsons, Guardian, or on Shopee are the thick
 
 | Patch | Thickness / type | Under makeup? | Approx. price (MY) |
 |---|---|---|---|
-| **STIK Air Dot** | Ultra-thin, invisible daytime | Yes — built for it | check current listing |
+| **STIK Air Dot** | Ultra-thin, invisible daytime | Yes — designed for daytime | check current listing |
 | **Some By Mi Clear Spot Patch** | Thin, breathable K-beauty | Usually yes, if applied gently | ~RM15–25 |
 | **COSRX Acne Pimple Master** | Standard hydrocolloid, opaque | Not well — visible bump | ~RM20–30 / 24 |
 | **Hero Mighty Patch Original** | Thick hydrocolloid | No — too raised | ~RM30–45 |
@@ -50,9 +50,9 @@ Most of the patches you'll find in Watsons, Guardian, or on Shopee are the thick
 
 A couple of honest notes here. The thick, reliable favourites — **COSRX** and **Hero** — are excellent *overnight* patches, and that's exactly why they fail under makeup: the thickness that helps at night works against you in daylight. There's no trick that makes a Mighty Patch invisible under foundation; it just isn't the tool for that job.
 
-For a genuinely under-makeup-friendly option, you want the ultra-thin category. **STIK's Air Dot** sits in this group — an ultra-thin, invisible daytime patch made specifically for wearing under makeup or out during the day, alongside thin K-beauty options like **Some By Mi's Clear Spot Patch**. None of these is magic; they're just thin enough that the edge disappears. Pick on price, availability, and whichever size matches your spot — on Shopee, TikTok Shop, and Lazada you'll find the widest range and the best prices, so buy from an official store, read recent reviews, and compare the *per-patch* price rather than the per-pack one.
+For a genuinely under-makeup-friendly option, you want the ultra-thin category. Thin K-beauty options like **Some By Mi's Clear Spot Patch** sit here, alongside **STIK's Air Dot** — an ultra-thin, invisible daytime patch aimed at wearing under makeup or out during the day. None of these is magic; they're just thin enough that the edge disappears. Pick on price, availability, and whichever size matches your spot — on Shopee, TikTok Shop, and Lazada you'll find the widest range and the best prices, so buy from an official store, read recent reviews, and compare the *per-patch* price rather than the per-pack one.
 
-One thing worth saying plainly: a daytime patch is for a spot that has already **surfaced** — a whitehead with something to absorb. If your problem is a deep, painful bump under the skin that hasn't come to a head, no patch, thin or thick, will hide it well or do much, because there's nothing at the surface for hydrocolloid to draw out. That's a different tool entirely.
+One thing worth saying plainly: a daytime patch is for a spot that has already **surfaced** — a whitehead with something to absorb. If your problem is a deep, painful bump under the skin that hasn't come to a head, no patch, thin or thick, will hide it well or do much, because there's nothing at the surface for hydrocolloid to draw out. As [DermNet](https://dermnetnz.org/topics/acne-vulgaris) describes, surface comedones like whiteheads and deep nodules are different kinds of lesion — and that's a different tool entirely.
 
 ## How to apply makeup over a pimple patch
 
@@ -87,7 +87,7 @@ The cleanest approach is to **wear one patch through the day and remove it at ni
 
 A saturated, white patch has finished its job and should be binned, not reused — once it's absorbed fluid it's lost its stickiness and its capacity, and re-sticking it puts bacteria back on a healing spot. How long it takes to turn white depends on the spot; for the full timing logic, see [how long you should leave a pimple patch on](/my/articles/how-long-to-leave-a-pimple-patch-on/).
 
-A light reminder: this is educational, not medical advice. Pimple patches are for ordinary surface spots. For severe, persistent, or painful cystic acne — the deep, under-skin kind — see a doctor or dermatologist rather than covering it with makeup and a sticker.
+A light reminder: this is educational, not medical advice. Pimple patches are for ordinary surface spots. For severe, persistent, or painful cystic acne — the deep, under-skin kind — the [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) advises seeing a dermatologist rather than covering it with makeup and a sticker.
 
 ## The bottom line
 

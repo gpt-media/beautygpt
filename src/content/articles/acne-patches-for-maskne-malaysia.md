@@ -24,7 +24,7 @@ Let us walk through why masks trigger breakouts in our climate specifically, whe
 
 ## What maskne actually is, and why Malaysia makes it worse
 
-"Maskne" is just acne mechanica — acne driven by friction and occlusion — appearing where a mask sits: the chin, jaw, cheeks, and the bridge of the nose. Three things happen under a mask, and a hot, humid country pushes all three further.
+"Maskne" is just acne mechanica — acne driven by friction and occlusion — appearing where a mask sits: the chin, jaw, cheeks, and the bridge of the nose. As [DermNet](https://dermnetnz.org/topics/acne-vulgaris) describes, acne forms when follicles become blocked with oil and dead skin and then inflame, so anything that clogs and irritates that follicle can set a spot off. Three things happen under a mask, and a hot, humid country pushes all three further.
 
 - **Occlusion traps a warm, damp microclimate.** Every breath you exhale is warm and moist, and sealed behind fabric it pools against your skin instead of escaping. Outdoors in Malaysian heat and humidity that becomes a genuinely hot, wet pocket within minutes, and softened, waterlogged skin clogs more easily.
 - **Friction irritates follicles.** As you talk, chew and move, the mask edge drags across the skin. Repeated rubbing inflames hair follicles and can nick the skin's surface, which is enough to tip a clog into a spot.
@@ -77,9 +77,9 @@ Prices are **approximate — always check the current listing** — and on Shope
 | Hero Mighty Patch Original | Thick, very absorbent | Better overnight; thickness lifts in heat and friction | ~RM30-45 |
 | Oxy Acne Patch | Medicated/antibacterial | An option if you want an active; adhesion comes first | ~RM10-20 |
 | STIK Original Dot | Hydrocolloid, multi-size (salicylic acid, niacinamide, tea tree) | Sizes let you match small patches to spots; value per patch | ~RM6.99 / 15 |
-| STIK Air Dot | Ultra-thin, invisible daytime patch | Built for this — thin, low-visibility, sits flat under a mask | check listing |
+| STIK Air Dot | Ultra-thin, invisible daytime patch | Strong — thin and low-visibility, sits flat under a mask | check listing |
 
-A few honest notes on the STIK options, placed on the same terms as everything else. The **Air Dot** is the kind of patch this article keeps pointing to — ultra-thin and near-invisible, made to sit flat under makeup or a mask without snagging — so it is a sensible masked-daytime pick alongside Some By Mi as the other thin, breathable option. The **Original Dot** is a standard multi-size hydrocolloid; its use here is the size range, letting you match a small dot to a small spot. To avoid a common mix-up: STIK's **MicroForce (for Early Acne)** is a microneedle patch (ceramides, hyaluronic acid, peptides, salicylic acid) for early, deeper bumps that have not surfaced — a different job from the flat absorbing patches above, not what you want for a surfaced maskne whitehead.
+A few honest notes on the STIK options, placed on the same terms as everything else. The **Air Dot** fits the thin, near-invisible profile this article favours for masked hours — made to sit flat under makeup or a mask without snagging — so it sits alongside Some By Mi as one of the thin, breathable daytime options rather than ahead of it. The **Original Dot** is a standard multi-size hydrocolloid; its use here is the size range, letting you match a small dot to a small spot. To avoid a common mix-up: STIK's **MicroForce (for Early Acne)** is a microneedle patch (ceramides, hyaluronic acid, peptides, salicylic acid) for early, deeper bumps that have not surfaced — a different job from the flat absorbing patches above, not what you want for a surfaced maskne whitehead.
 
 For the full field across budgets and skin types, our pillar guide to the [best acne patches in Malaysia for 2026](/my/articles/best-acne-patches-malaysia-2026/) ranks every option in detail.
 
@@ -96,7 +96,7 @@ This is the part a patch cannot do, and it is where maskne is actually won. The 
 
 ## When it is more than maskne
 
-Most maskne is mild and settles once the mask conditions improve. But know the line: **deep, painful, persistent bumps** — cystic spots with nothing on the surface — give a hydrocolloid patch nothing to lift, and widespread or worsening breakouts that do not respond to better mask hygiene are worth a professional eye rather than more stickers.
+Most maskne is mild and settles once the mask conditions improve. But know the line: **deep, painful, persistent bumps** — cystic spots with nothing on the surface — give a hydrocolloid patch nothing to lift, and widespread or worsening breakouts that do not respond to better mask hygiene are worth a professional eye rather than more stickers. The [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) notes that deep, painful acne is best treated by a dermatologist, who can prevent it from worsening or scarring.
 
 This is educational, not medical advice. For severe, persistent, or painful cystic acne, see a doctor or dermatologist.
 

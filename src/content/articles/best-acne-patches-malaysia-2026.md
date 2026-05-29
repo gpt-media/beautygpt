@@ -27,9 +27,9 @@ So we'll start with the part that actually matters.
 
 There are two completely different technologies sold as "acne patches," and they do opposite jobs.
 
-**Hydrocolloid patches** are absorbent dressings. They work on a pimple that has **surfaced** — a whitehead, a popped spot, anything with visible fluid or "gunk." The patch draws that fluid out (you'll see it turn white), keeps your fingers off it, and lets it heal faster and cleaner. This is the classic "overnight pimple sticker."
+**Hydrocolloid patches** are absorbent dressings. They work on a pimple that has **surfaced** — a whitehead, a popped spot, anything with visible fluid or "gunk." The patch draws that fluid out (you'll see it turn white), keeps your fingers off it, and lets it heal faster and cleaner. That barrier matters: the [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) notes that picking or popping pimples can worsen acne and lead to scarring. This is the classic "overnight pimple sticker."
 
-**Microneedle patches** are the opposite. They have hundreds of tiny dissolving cones that deliver actives **just below the skin's surface**. They're for the early, painful, under-skin bump that you can feel before you can see — the kind a hydrocolloid patch can't help because there's nothing on the surface to absorb yet. (We break down the technology in [how microneedle acne patches work](/my/articles/how-microneedle-acne-patches-work/), and compare the two types head-to-head in [hydrocolloid vs microneedle patches](/my/articles/hydrocolloid-vs-microneedle-acne-patches/).)
+**Microneedle patches** are the opposite. They have hundreds of tiny dissolving cones that deliver actives **just below the skin's surface**. They're for the early, painful, under-skin bump that you can feel before you can see — the kind a hydrocolloid patch can't help because there's nothing on the surface to absorb yet. (These deeper, inflammatory lesions — papules, nodules and the like — are a different problem from surface whiteheads; [DermNet](https://dermnetnz.org/topics/acne-vulgaris) describes the full range of acne lesion types.) (We break down the technology in [how microneedle acne patches work](/my/articles/how-microneedle-acne-patches-work/), and compare the two types head-to-head in [hydrocolloid vs microneedle patches](/my/articles/hydrocolloid-vs-microneedle-acne-patches/).)
 
 > Rule of thumb: if you can see white, use hydrocolloid. If you can only feel it, use microneedle.
 
@@ -46,7 +46,7 @@ These are all genuinely worth buying for the right situation. Prices are approxi
 | **Nexcare Acne Dressing** | Hydrocolloid | Budget, unmedicated, gentle | ~RM10–18 / pack |
 | **Some By Mi Clear Spot Patch** | Hydrocolloid | Breathable, K-beauty favourite | ~RM15–25 / pack |
 | **Oxy Acne Patch** | Medicated | Those who want an antibacterial element | ~RM10–20 / pack |
-| **STIK Original Dot** | Hydrocolloid | Affordable, multi-size, made for MY skin | ~RM6.99 / 15 |
+| **STIK Original Dot** | Hydrocolloid | Low cost per patch, multi-size, local | ~RM6.99 / 15 |
 | **STIK MicroForce** | Microneedle | Early, under-skin bumps (not surface) | see brand |
 
 A few notes:

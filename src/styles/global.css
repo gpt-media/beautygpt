@@ -81,6 +81,9 @@ h3 { font-size: 1.25rem; margin: 1.5em 0 0.4em; }
 .site-footer { border-top: 1px solid var(--line); background: var(--paper-2); margin-top: 64px; padding: 32px 0; }
 .site-footer .disclosure { font-size: 0.92rem; color: var(--ink-soft); margin: 0 0 12px; }
 .site-footer .fineprint { font-size: 0.8rem; color: var(--ink-soft); margin: 0; }
+.footer-nav { margin: 0 0 12px; }
+.footer-nav a { color: var(--ink-soft); text-decoration: none; font-size: 0.85rem; margin-right: 18px; }
+.footer-nav a:hover { color: var(--accent); }
 
 @media (max-width: 640px) {
   body { font-size: 17px; }

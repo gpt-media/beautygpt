@@ -26,7 +26,7 @@ That nuance matters, because tea tree oil sits in an odd place. It is "natural,"
 
 Tea tree oil is an essential oil distilled from the leaves of *Melaleuca alternifolia*, an Australian plant. Its activity comes mostly from a compound called **terpinen-4-ol**, and it works on acne in two broad ways:
 
-- **It is antibacterial.** Acne involves an overgrowth of *Cutibacterium acnes* (the bacteria once called *P. acnes*) inside a blocked pore. Terpinen-4-ol has antimicrobial activity against a range of microbes, including the bacteria implicated in acne, which is the main reason it ever showed up in blemish products.
+- **It is antibacterial.** Acne involves an overgrowth of *Cutibacterium acnes* (the bacteria once called *P. acnes*) inside a blocked pore, one of the factors [DermNet](https://dermnetnz.org/topics/acne-vulgaris) lists in how acne develops. Terpinen-4-ol has antimicrobial activity against a range of microbes, including the bacteria implicated in acne, which is the main reason it ever showed up in blemish products.
 - **It is anti-inflammatory.** A lot of what makes a pimple red, swollen and sore is inflammation, not just bacteria. Tea tree oil appears to dampen some of that inflammatory response, which is why a dab can make an angry spot look calmer.
 
 So the mechanism is real and sensible. The catch is *strength*. Tea tree's antibacterial action is gentler and slower than that of dedicated acne actives, and the concentrations used in skincare are low for safety reasons. You are nudging the spot in the right direction, not hitting it hard.
@@ -37,7 +37,7 @@ So the mechanism is real and sensible. The catch is *strength*. Tea tree's antib
 
 This is where honesty earns its keep. Tea tree oil for acne is **not** backed by the kind of large, repeated trials that support benzoyl peroxide or retinoids. What exists is a handful of smaller studies, and they point in a consistent direction:
 
-- A well-known older trial compared a tea tree oil gel against benzoyl peroxide lotion for mild to moderate acne. **Both reduced spots. Tea tree caused fewer side effects, but it worked more slowly** than the benzoyl peroxide.
+- A well-known older trial compared a tea tree oil gel against benzoyl peroxide lotion for mild to moderate acne. **Both reduced spots. Tea tree caused fewer side effects, but it worked more slowly** than the benzoyl peroxide — and benzoyl peroxide is among the first-line acne treatments the [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) points patients toward.
 - Later small placebo-controlled studies of tea tree gels also found a reduction in acne severity versus doing nothing, again over a span of weeks rather than days.
 
 Put plainly: the signal is positive but modest, the studies are small, and the consistent theme is *gentler but slower and weaker*. That is a perfectly respectable profile for a mild adjunct. It is not the profile of a primary treatment, and any product promising dramatic clearing from tea tree alone is overselling it.

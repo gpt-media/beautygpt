@@ -28,7 +28,7 @@ Acne starts inside the pore. Dead skin cells and excess oil (sebum) get trapped,
 
 Here's why solubility is everything:
 
-- **BHA (beta hydroxy acid) = salicylic acid. Oil-soluble.** Because it dissolves in oil, it can travel *into* the sebum-filled pore and exfoliate from the inside. It also has a calming, anti-inflammatory quality, which is why it's the classic acne ingredient.
+- **BHA (beta hydroxy acid) = salicylic acid. Oil-soluble.** Because it dissolves in oil, it can travel *into* the sebum-filled pore and exfoliate from the inside. As [DermNet](https://dermnetnz.org/topics/salicylic-acid) explains, salicylic acid is a keratolytic that helps slow the shedding of cells inside the follicle and breaks down the plugs that clog pores. It also has a calming, anti-inflammatory quality, which is why it's the classic acne ingredient.
 - **AHA (alpha hydroxy acid) = glycolic, lactic, mandelic, and others. Water-soluble.** These work on the *surface*, dissolving the bonds between dead skin cells on the very top layer. That smooths texture, brightens, and helps fade discolouration — but they don't get deep into an oily pore.
 
 > Rule of thumb: if the problem is *inside* the pore (blackheads, whiteheads, breakouts), reach for BHA. If the problem is *on* the surface (rough texture, dull tone, old marks), reach for AHA.
@@ -89,7 +89,7 @@ Our heat, humidity, and sweat change the game in a few practical ways:
 
 - **Start low and infrequent.** Two to three nights a week is plenty at first. Daily acid use is rarely necessary and often counterproductive in this climate, where skin is already dealing with sweat and sebum.
 - **Apply at night, on clean dry skin.** Wait a minute or two after cleansing, apply the acid, then follow with a lightweight moisturiser. Heavy creams can feel suffocating here — gel or lotion textures sit better.
-- **Sunscreen every morning, no exceptions.** Both acids increase sun sensitivity (AHAs especially), and Malaysia's UV is strong year-round. Skipping SPF undoes your progress and darkens marks. This is the single most important step in any acne routine.
+- **Sunscreen every morning, no exceptions.** Both acids increase sun sensitivity (AHAs especially), and Malaysia's UV is strong year-round. Skipping SPF undoes your progress and darkens marks. The [American Academy of Dermatology](https://www.aad.org/public/diseases/acne/skin-care/tips) lists daily sun protection among its core habits for managing acne-prone skin. This is the single most important step in any acne routine.
 - **Don't double up with physical scrubs.** Chemical exfoliant *plus* a gritty scrub is too much. Pick one.
 
 Where to buy locally: salicylic acid and AHA toners, serums, and exfoliating liquids are easy to find at **Watsons** and **Guardian**, and across **Shopee**, **TikTok Shop**, and **Lazada**. Widely available reference points include COSRX salicylic and AHA/BHA options (roughly RM50–RM90 depending on the product) and Some By Mi's AHA-BHA-PHA range (around RM60–RM100). Drugstore brands like Oxy carry medicated salicylic options at lower prices. These are approximate — check the current listing, since prices and sizes shift with promotions. Don't assume pricier means stronger; a simple, well-formulated 2% salicylic product can outperform an expensive multi-acid blend for everyday acne.

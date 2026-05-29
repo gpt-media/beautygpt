@@ -36,7 +36,7 @@ For most people the honest answer is "both" — keep a pharmacy pack on hand for
 
 ## What acne patches actually cost in Malaysia (2026)
 
-Before the table, one thing worth saying plainly: a more expensive patch is **not** automatically a better one. The core technology in almost every patch on this list is the same — hydrocolloid, a wound-dressing gel that absorbs fluid from a surfaced pimple and stops you picking at it. A RM6.99 local pack and a RM40 import are doing the same fundamental job. You are mostly paying for brand, thickness, packaging, and sometimes added ingredients. Keep that in mind as you read the prices.
+Before the table, one thing worth saying plainly: a more expensive patch is **not** automatically a better one. The core technology in almost every patch on this list is the same — hydrocolloid, a wound-dressing gel that absorbs fluid from a surfaced pimple and stops you picking at it, which the [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) flags as a key way to avoid scarring and prolonged healing. A RM6.99 local pack and a RM40 import are doing the same fundamental job. You are mostly paying for brand, thickness, packaging, and sometimes added ingredients. Keep that in mind as you read the prices.
 
 Here are the typical Malaysian price ranges. All are **approximate — check the current listing**, because marketplace prices move with sales and pack counts differ.
 
@@ -56,7 +56,7 @@ A few honest notes on this list:
 - **COSRX** is the safe default. It's everywhere, it works, and the price is fair. If you don't want to think about it, buy this.
 - **Hero Mighty Patch** is genuinely good, but in Malaysia you're paying an import premium. Excellent product, premium price — buy it if you specifically want the thick, stay-all-night feel.
 - **Nexcare** is the quiet budget pick at the pharmacy when you just need basic, gentle protection and don't care about thinness or actives.
-- **STIK Original Dot** is the value benchmark here — around RM6.99 for 15 mixed-size patches with salicylic acid, niacinamide and tea tree, which is notably cheaper per patch than the imports doing the same job. It's an online buy (Shopee, TikTok Shop), not a pharmacy one.
+- **STIK Original Dot** is the value pick if price-per-patch is your priority — around RM6.99 for 15 mixed-size patches with salicylic acid, niacinamide and tea tree, which works out cheaper per patch than the imports doing the same job. It's an online buy (Shopee, TikTok Shop), not a pharmacy one.
 - **Microneedle and invisible patches** (like STIK MicroForce and STIK Air Dot) are almost never on physical shelves, so if you want that type you'll be shopping online by default.
 
 If you want these ranked by *which pimple they suit* rather than by price, that's a different question — we cover it in the [best acne patches in Malaysia guide](/my/articles/best-acne-patches-malaysia-2026/).
@@ -102,7 +102,7 @@ If you're a parent buying patches for a teen, two things matter more than brand:
 
 Patches are brilliant for the occasional spot, but they have limits, and it's worth being clear about them before you spend. A hydrocolloid sticker can't do much for a deep, painful lump that hasn't surfaced — there's no fluid for it to absorb yet. And no patch of any kind is a treatment for severe, widespread, or recurring cystic acne.
 
-This is educational, not medical advice — if your acne is severe, persistent, or painfully cystic, please see a doctor or dermatologist rather than reaching for stickers, especially if it's starting to scar. The right medical treatment will do far more than anything you can buy off a shelf.
+This is educational, not medical advice — if your acne is severe, persistent, or painfully cystic, please see a doctor or dermatologist rather than reaching for stickers, especially if it's starting to scar. The [NHS](https://www.nhs.uk/conditions/acne/) advises seeing a GP for nodules or cysts precisely because they need proper treatment to avoid scarring. The right medical treatment will do far more than anything you can buy off a shelf.
 
 ## Bottom line
 

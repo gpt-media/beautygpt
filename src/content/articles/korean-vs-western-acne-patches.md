@@ -26,7 +26,7 @@ So this is less "Korea versus the West" and more "thin-and-varied versus thick-a
 
 Before the differences, the part that matters most: the active mechanism is the same on both sides.
 
-Most acne patches — Korean, Western, or local — are built on **hydrocolloid**, a gel-forming wound dressing that has been used on blisters and minor wounds for decades. It works the same way no matter whose logo is on the packet: it sits on a pimple that has surfaced, absorbs the fluid and oil, turns white where it has soaked up the gunk, and shields the spot from your fingers so it heals cleaner. There is no special "Korean hydrocolloid" that absorbs more because it is Korean. The chemistry is the chemistry.
+Most acne patches — Korean, Western, or local — are built on **hydrocolloid**, a gel-forming wound dressing that has been used on blisters and minor wounds for decades. It works the same way no matter whose logo is on the packet: it sits on a pimple that has surfaced, absorbs the fluid and oil, turns white where it has soaked up the gunk, and shields the spot from your fingers so it heals cleaner. The [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) notes that picking or squeezing pimples is what tends to make them worse and scar, which is exactly the friction a patch removes. There is no special "Korean hydrocolloid" that absorbs more because it is Korean. The chemistry is the chemistry.
 
 > Rule of thumb: judge a patch by its thickness, stickiness, size range and ingredients — never by the flag on the box.
 
@@ -100,7 +100,7 @@ Whichever side you land on, our climate is the real test. Heat and sweat are har
 
 ## When a patch isn't the right call at all
 
-A quick honesty note, because this is health-adjacent. Acne patches of any origin are for ordinary, occasional spots. If you have severe, persistent, painful or widespread cystic acne, no patch — Korean, Western, thin, thick, medicated or microneedle — is the answer, and leaning on stickers can delay treatment that would actually help. This article is educational, not medical advice; please see a doctor or dermatologist for cystic or stubborn acne, especially if it is leaving scars.
+A quick honesty note, because this is health-adjacent. Acne patches of any origin are for ordinary, occasional spots. If you have severe, persistent, painful or widespread cystic acne, no patch — Korean, Western, thin, thick, medicated or microneedle — is the answer, and leaning on stickers can delay treatment that would actually help; [Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/12233-acne) advises seeking help early for cystic or nodular acne, which can scar permanently without proper treatment. This article is educational, not medical advice; please see a doctor or dermatologist for cystic or stubborn acne, especially if it is leaving scars.
 
 ## Bottom line
 

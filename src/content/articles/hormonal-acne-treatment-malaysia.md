@@ -28,7 +28,7 @@ This guide explains how to recognise the pattern, why it's driven from the insid
 
 Here's the mechanism, because it explains why creams have limits.
 
-Androgens — a group of hormones everyone has, just in different amounts — tell the oil glands in your skin to produce more sebum. When androgen activity rises or your glands are particularly sensitive to it, those glands pump out more oil and the pore lining gets stickier. Oil and dead cells build up, the pore clogs, acne bacteria multiply in that environment, and inflammation does the rest — producing the deep, tender, slow-to-heal bumps that are typical of hormonal breakouts.
+Androgens — a group of hormones everyone has, just in different amounts — tell the oil glands in your skin to produce more sebum. When androgen activity rises or your glands are particularly sensitive to it, those glands pump out more oil and the pore lining gets stickier. The [American Academy of Dermatology](https://www.aad.org/public/diseases/acne/really-acne/adult-acne) notes that these hormonal fluctuations are a major reason acne can persist or first appear well into adulthood. Oil and dead cells build up, the pore clogs, acne bacteria multiply in that environment, and inflammation does the rest — producing the deep, tender, slow-to-heal bumps that are typical of hormonal breakouts.
 
 The key point: the *trigger* is internal signalling, not just what's sitting on the surface of your skin. A topical can unclog the pore and calm the inflammation, but it doesn't switch off the hormonal message telling the gland to overproduce in the first place. That single fact is why purely topical approaches sometimes plateau — and why, for some people, an oral treatment that works on the hormonal driver is what finally turns it around.
 
@@ -61,7 +61,7 @@ A few honest limits. Topicals are preventive and gradual — they reduce the *ne
 
 ## When topicals aren't enough — and a doctor is the answer
 
-This is the section the skincare internet tends to skip, so we'll be direct. For genuinely hormonal acne — deep, cyclical, persistent — topicals frequently take you part of the way and then stall, because they can't touch the internal driver. The treatments that *can* are prescription-only and must come from a doctor:
+This is the section the skincare internet tends to skip, so we'll be direct. For genuinely hormonal acne — deep, cyclical, persistent — topicals frequently take you part of the way and then stall, because they can't touch the internal driver. The treatments that *can* are prescription-only and must come from a doctor — the [NHS](https://www.nhs.uk/conditions/acne/treatment/) lists hormonal therapies such as the combined contraceptive pill among the options for acne that doesn't respond to other treatments:
 
 - **Certain combined contraceptive pills** can be prescribed specifically to help hormonal acne in women, by steadying the hormonal swings that drive flares.
 - **Spironolactone** is a tablet that reduces the effect of androgens on the oil glands, and is commonly used off-label for persistent hormonal acne in women under medical supervision.

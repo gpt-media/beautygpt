@@ -51,7 +51,7 @@ If you're seeing true scarring forming, that's a signal the acne is doing lastin
 
 ### 3. You've tried consistently for ~3 months and seen no real improvement
 
-This is the most common — and most missed — threshold. Acne treatment is slow: most actives need 8 to 12 weeks to show what they can do. But if you've used a sensible regimen *consistently* (not chopping and changing) for around three months and your skin is no better, that's useful information. It means first-line treatment isn't enough for you, and a dermatologist can offer something stronger rather than leaving you to cycle through more shelf products.
+This is the most common — and most missed — threshold. Acne treatment is slow: most actives need 8 to 12 weeks to show what they can do, and the [NHS notes that it can take several months of treatment before acne improves](https://www.nhs.uk/conditions/acne/treatment/). But if you've used a sensible regimen *consistently* (not chopping and changing) for around three months and your skin is no better, that's useful information. It means first-line treatment isn't enough for you, and a dermatologist can offer something stronger rather than leaving you to cycle through more shelf products.
 
 > Rule of thumb: give a treatment a fair ~3 months before judging it — but if you've done that honestly and nothing's shifted, stop buying more products and book a professional instead.
 
@@ -79,7 +79,7 @@ Two things matter more than the specific names on that list.
 
 **First, the diagnosis itself.** A lot of "acne that won't clear" turns out to be something adjacent — fungal acne (which doesn't respond to normal acne treatment), rosacea, or a reaction to a product. A dermatologist can tell the difference, which alone can end months of treating the wrong thing.
 
-**Second, the strong stuff is genuinely medical.** Oral isotretinoin (you may know it by the brand Roaccutane) is remarkably effective for severe acne, but it has real side effects, requires blood tests and reviews, and is strictly unsafe in pregnancy. This is precisely the kind of treatment that *should* sit behind a specialist — and absolutely not something to buy from an online seller. If your acne is severe enough to need it, it's severe enough to deserve proper medical care.
+**Second, the strong stuff is genuinely medical.** Oral isotretinoin (you may know it by the brand Roaccutane) is remarkably effective for severe acne, but it has real side effects, requires blood tests and reviews, and is strictly unsafe in pregnancy — the [American Academy of Dermatology explains why isotretinoin demands close medical supervision and pregnancy prevention](https://www.aad.org/public/diseases/acne/derm-treat/isotretinoin). This is precisely the kind of treatment that *should* sit behind a specialist — and absolutely not something to buy from an online seller. If your acne is severe enough to need it, it's severe enough to deserve proper medical care.
 
 ## How it works in Malaysia: public vs private
 

@@ -15,7 +15,7 @@ faqs:
   - q: "Does STIK make a patch for sensitive skin?"
     a: "STIK Original Dot is a hydrocolloid patch that contains salicylic acid, niacinamide and tea tree — useful actives, but for very reactive skin those are exactly the ingredients you might want to avoid in an occluded patch. For genuinely sensitive skin a plain dressing like Nexcare is often the safer call. Honesty matters here: the cheaper, simpler patch can be the better one for you."
   - q: "Is this medical advice?"
-    a: "No. This is educational information to help you choose a product. If your acne is severe, persistent, painful or cystic, or if a patch causes a reaction that doesn't settle, see a doctor or dermatologist. Sensitive skin that flares easily is also worth a professional opinion."
+    a: "No. This is educational information to help you choose a product. If your acne is severe, persistent, painful or cystic, or if a patch causes a reaction that doesn't settle, see a doctor or dermatologist — [DermNet](https://dermnetnz.org/topics/acne-vulgaris) notes that moderate-to-severe acne is best assessed and treated professionally. Sensitive skin that flares easily is also worth a professional opinion."
 ---
 
 If you have sensitive, reactive skin, the best acne patch is usually the **plainest one** — an unmedicated hydrocolloid dressing with no added actives. The patch heals the spot simply by absorbing fluid and protecting it; there's nothing in it to sting, redden or trigger a flare. In Malaysia that points you toward gentle options like **Nexcare Acne Dressing** or **Some By Mi Clear Spot Patch** rather than the medicated or active-loaded patches that get marketed harder.
@@ -89,7 +89,7 @@ If you want the wider landscape of options and how to match a patch to a pimple,
 
 ## A quick word on safety
 
-This is educational, not medical advice. Pimple patches are for ordinary surface spots. If your acne is severe, persistent, painful, or cystic — the deep, sore kind that sits under the skin — patches aren't the answer, and a doctor or dermatologist can help with treatments that are. Likewise, if any patch causes a reaction that doesn't settle within a day, stop using it and get it looked at.
+This is educational, not medical advice. Pimple patches are for ordinary surface spots. If your acne is severe, persistent, painful, or cystic — the deep, sore kind that sits under the skin — patches aren't the answer, and a doctor or dermatologist can help with treatments that are. The [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) notes that deeper, persistent acne usually needs proper medical treatment to clear and to avoid scarring. Likewise, if any patch causes a reaction that doesn't settle within a day, stop using it and get it looked at.
 
 ## Bottom line
 

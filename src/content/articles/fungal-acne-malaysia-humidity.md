@@ -26,7 +26,7 @@ If you take nothing else from this article, take that. Treating fungal folliculi
 
 Most acne advice quietly assumes a temperate climate. Malaysia is not that. We live in steady heat, high humidity and a lot of sweat — and *Malassezia* yeast loves exactly those conditions: warm, moist, and oily.
 
-This yeast is not an invader. It lives on nearly everyone's skin already, all the time, as a normal resident. The problem starts when something tips the balance and lets it overgrow inside hair follicles. In a tropical climate, the tipping factors are everywhere:
+This yeast is not an invader. It lives on nearly everyone's skin already, all the time, as a normal resident. The problem starts when something tips the balance and lets it overgrow inside hair follicles. [DermNet](https://dermnetnz.org/topics/malassezia-folliculitis) describes Malassezia folliculitis as small, uniform, itchy bumps driven by these yeasts, with a hot, humid climate and heavy sweating among the main triggers. In a tropical climate, the tipping factors are everywhere:
 
 - Sweating through the day and not rinsing it off
 - Sitting in damp gym clothes, a sweaty work uniform, or a motorbike jacket
@@ -60,7 +60,7 @@ One honest caveat: you can have both at once, and they can genuinely be hard to 
 
 It's worth understanding the mechanism, because it explains the frustration so many people feel.
 
-Ordinary acne is, simplified, a clogged-pore-plus-bacteria problem. Dead skin and oil plug a pore, and a bacterium (*Cutibacterium acnes*) drives the inflammation. That's the entire target our usual actives are designed around. [Salicylic acid](/my/articles/salicylic-acid-for-acne/) is an oil-soluble exfoliant that clears the clog; [benzoyl peroxide](/my/articles/benzoyl-peroxide-for-acne/) kills that acne bacterium. Both are excellent — at *bacterial, oil-driven acne*.
+Ordinary acne is, simplified, a clogged-pore-plus-bacteria problem. As the [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) explains, dead skin and oil plug a pore, and a bacterium (*Cutibacterium acnes*) drives the inflammation. That's the entire target our usual actives are designed around. [Salicylic acid](/my/articles/salicylic-acid-for-acne/) is an oil-soluble exfoliant that clears the clog; [benzoyl peroxide](/my/articles/benzoyl-peroxide-for-acne/) kills that acne bacterium. Both are excellent — at *bacterial, oil-driven acne*.
 
 Fungal folliculitis is a different organism entirely: a **yeast**, not a bacterium, overgrowing inside the follicle. So the standard kit misses on the mechanism:
 

@@ -27,7 +27,7 @@ This is one of the most common misunderstandings in skincare, and it's an easy o
 Both start the same way: a pore gets clogged with a mix of excess oil (sebum) and dead skin cells. What happens next depends on one detail — whether the top of that pore is **open or closed**.
 
 - **Whitehead (closed comedo).** The clog is sealed under a thin layer of skin. Because it's covered and cut off from air, the trapped material stays pale, and as the body responds it can fill with fluid and pus, doming up into the white-tipped spot you recognise.
-- **Blackhead (open comedo).** The pore stays open at the surface. The top of the plug is exposed to air, and the oils and pigment in it **oxidise** — react with oxygen and darken. That dark dot isn't trapped dirt, and it isn't because you didn't wash; it's simply oxidised oil. You cannot scrub it out.
+- **Blackhead (open comedo).** The pore stays open at the surface. The top of the plug is exposed to air, and the oils and pigment in it **oxidise** — react with oxygen and darken. That dark dot isn't trapped dirt, and it isn't because you didn't wash; as [Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/22038-blackheads) explains, it's simply oxidised oil and skin, not dirt. You cannot scrub it out.
 
 Hold onto that open-versus-closed distinction, because it's the entire reason a patch helps one and ignores the other.
 
@@ -71,7 +71,7 @@ So the patch sticks on, the gel has nothing to absorb, and the plug stays exactl
 
 If patches are out, here's the route that genuinely moves the needle — and most of it is cheap and available at any Malaysian Watsons or Guardian.
 
-- **Salicylic acid (BHA), used consistently.** This is the mainstay. Salicylic acid is *oil-soluble*, which means — unlike a water-based exfoliant — it can actually get down into an oily pore and loosen the plug from the inside over time. A gentle BHA cleanser or a leave-on treatment used a few times a week does far more than any sticker. The key word is *consistently*: blackheads clear over weeks, not overnight.
+- **Salicylic acid (BHA), used consistently.** This is the mainstay, and salicylic acid is among the topical treatments [DermNet](https://dermnetnz.org/topics/comedonal-acne) lists for comedonal acne. Salicylic acid is *oil-soluble*, which means — unlike a water-based exfoliant — it can actually get down into an oily pore and loosen the plug from the inside over time. A gentle BHA cleanser or a leave-on treatment used a few times a week does far more than any sticker. The key word is *consistently*: blackheads clear over weeks, not overnight.
 - **Professional extraction.** For stubborn, well-established blackheads, a proper facial with hygienic extraction physically clears the pore. Done by someone trained, it's safe; done by your own fingers at 1am in the bathroom mirror, it usually ends in a bigger, redder mark.
 - **A non-stripping cleanse and daily sunscreen.** Over-washing and harsh scrubs make oil glands work harder and can worsen congestion. A simple routine plus SPF (which keeps the pore lining healthier) supports everything else.
 

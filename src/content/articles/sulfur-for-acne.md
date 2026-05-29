@@ -30,7 +30,7 @@ Sulfur tackles acne on three fronts at once, which is part of why it's been arou
 
 **It's mildly keratolytic.** "Keratolytic" means it helps shed and loosen the top layer of dead skin cells. When those cells and oil plug a pore, you get a clogged bump. By gently encouraging that plug to clear, sulfur helps unclog pores and smooth rough, congested patches. This action is milder than salicylic acid's, which is why sulfur rarely stings.
 
-**It's mildly antibacterial and anti-inflammatory.** Acne involves a bacterium (often called *C. acnes*) that thrives in clogged, oily pores and triggers the redness and swelling of an inflamed pimple. Sulfur creates a less friendly environment for it and helps settle inflammation, which is why it shines on red, raised pustules — those whiteheads that have come to a head.
+**It's mildly antibacterial and anti-inflammatory.** Acne involves a bacterium (often called *C. acnes*) that thrives in clogged, oily pores and triggers the redness and swelling of an inflamed pimple; [DermNet](https://dermnetnz.org/topics/acne-vulgaris) describes acne as a mixed eruption centred on the oil-producing follicle, ranging from non-inflamed comedones to inflamed pustules and nodules. Sulfur creates a less friendly environment for it and helps settle inflammation, which is why it shines on red, raised pustules — those whiteheads that have come to a head.
 
 > Rule of thumb: sulfur is best for surface pustules and whiteheads on oily or sensitive skin. It does very little for deep, painful, under-the-skin cysts, which need a different approach.
 
@@ -46,7 +46,7 @@ Most people choosing an over-the-counter spot treatment are really deciding betw
 | **Benzoyl peroxide** | Killing acne bacteria, all-round inflamed acne | Strong | Moderate-high; can bleach fabric | Low |
 | **Salicylic acid (BHA)** | Unclogging pores, blackheads, whiteheads | Mild-moderate | Low-moderate | Low |
 
-The honest summary: [benzoyl peroxide](/my/articles/benzoyl-peroxide-for-acne/) is the most proven all-rounder for inflamed acne, and for many people it's the more effective first choice. It kills acne bacteria directly and works faster. But it's also the most likely to leave skin dry, flaky, red, or stinging — and it can bleach towels, pillowcases, and dark clothing.
+The honest summary: [benzoyl peroxide](/my/articles/benzoyl-peroxide-for-acne/) is the most proven all-rounder for inflamed acne, and for many people it's the more effective first choice — the [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) lists it among the core treatments for the inflamed lesions sulfur also targets. It kills acne bacteria directly and works faster. But it's also the most likely to leave skin dry, flaky, red, or stinging — and it can bleach towels, pillowcases, and dark clothing.
 
 That's exactly where sulfur becomes valuable. If benzoyl peroxide is too harsh for you, or your skin is sensitive and reactive, sulfur offers a gentler way to target the same kind of pimple. It won't bleach your bedding either. Think of sulfur less as a benzoyl-peroxide rival and more as the calmer alternative for skin that can't handle the stronger stuff.
 

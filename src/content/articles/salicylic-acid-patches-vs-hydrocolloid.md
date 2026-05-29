@@ -38,7 +38,7 @@ Crucially, hydrocolloid does all of this **without any active ingredient**. It i
 
 A salicylic acid patch is that same hydrocolloid base with an active layer built in — most often salicylic acid (a BHA), frequently paired with niacinamide and tea tree. Here is what each one is actually for:
 
-- **Salicylic acid (BHA).** Oil-soluble, so it can penetrate into a sebum-filled pore and loosen the dead skin and oil clogging it. It also has a mild anti-inflammatory effect. This is the part that does something a plain patch cannot: act *inside* the pore rather than just on the surface.
+- **Salicylic acid (BHA).** Oil-soluble, so it can penetrate into a sebum-filled pore and loosen the dead skin and oil clogging it. It also has a mild anti-inflammatory effect; [DermNet](https://dermnetnz.org/topics/salicylic-acid) notes that in acne it slows the shedding of cells inside the follicle to prevent clogging and helps break down blackheads and whiteheads. This is the part that does something a plain patch cannot: act *inside* the pore rather than just on the surface.
 - **Niacinamide.** Helps calm redness and regulate oil over time. A supporting actor, not a spot-zapper.
 - **Tea tree.** A plant-derived ingredient with a long traditional use for blemishes and a gentle antibacterial reputation.
 
@@ -105,7 +105,7 @@ Two Malaysia-specific things. Heat and sweat are hard on adhesion, so both types
 
 ## When neither is the right call
 
-Patches — plain or medicated — are for ordinary, occasional spots. If you have severe, persistent, painful or widespread cystic acne, no sticker and no low-dose BHA in a patch is going to resolve it, and leaning on them can delay treatment that actually works. This is educational, not medical advice; please see a doctor or dermatologist for cystic, painful or stubborn acne, especially if it is scarring.
+Patches — plain or medicated — are for ordinary, occasional spots. If you have severe, persistent, painful or widespread cystic acne, no sticker and no low-dose BHA in a patch is going to resolve it, and leaning on them can delay treatment that actually works. The [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) recommends seeing a board-certified dermatologist for acne that does not clear with over-the-counter care, particularly when it is deep, painful or scarring. This is educational, not medical advice; please see a doctor or dermatologist for cystic, painful or stubborn acne, especially if it is scarring.
 
 ## Bottom line
 

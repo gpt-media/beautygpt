@@ -52,13 +52,13 @@ A few honest clarifications, because there's a lot of myth here:
 
 Here's where we have to be straight with you, because this is the single biggest reason people feel let down by patches.
 
-A **deep, blind, under-skin pimple** — the hard, painful lump that you can feel for days before anything appears on the surface — will not respond to a hydrocolloid patch overnight. Often it won't respond at all. There's no opening and no surface fluid, so the "sponge" has nothing to absorb. You'll wake up, peel off a blank patch, and the bump will be exactly as it was.
+A **deep, blind, under-skin pimple** — the hard, painful lump that you can feel for days before anything appears on the surface — will not respond to a hydrocolloid patch overnight. The [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) describes this as a deeper, more inflamed type of acne that sits beneath the surface, which is exactly why a surface-absorbing sticker has nothing to act on. Often it won't respond at all. There's no opening and no surface fluid, so the "sponge" has nothing to absorb. You'll wake up, peel off a blank patch, and the bump will be exactly as it was.
 
 That's not a faulty patch. It's the wrong tool for that pimple.
 
 For those early, under-skin bumps, the relevant tool is a **microneedle patch** — a completely different technology with hundreds of tiny dissolving cones that deliver actives *just below* the skin's surface, rather than absorbing from the top. Even then, set your expectations: a microneedle patch is a *head-start*, not an overnight miracle on a deep cyst either. Deep stuff takes time. We go deeper on matching patch-type to pimple-type in our [full guide to the best acne patches in Malaysia](/my/articles/best-acne-patches-malaysia-2026/).
 
-And if a bump is large, hot, genuinely painful, or has been there for a week-plus? That's a "see a doctor," not a "buy a sticker." (This is educational, not medical advice — persistent or cystic acne deserves a professional.)
+And if a bump is large, hot, genuinely painful, or has been there for a week-plus? That's a "see a doctor," not a "buy a sticker." (This is educational, not medical advice — persistent or cystic acne deserves a professional, and [Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/12233-acne) advises seeing a dermatologist for deep, painful cystic breakouts.)
 
 ## A realistic timeline: what 8 hours gets you
 

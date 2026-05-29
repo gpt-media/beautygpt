@@ -26,7 +26,7 @@ That is the whole answer. The rest of this article is the *why* and the *how*, b
 
 Most exfoliating acids people talk about — glycolic, lactic — are water-soluble. They work on the surface of the skin, loosening the bonds between dead cells so they shed more evenly. Useful, but surface-level.
 
-Salicylic acid is different in one decisive way: it is **oil-soluble (lipophilic)**. Your pores are lined with sebum, and a clogged pore is essentially a plug of oil and dead skin. Because salicylic acid mixes with oil, it can penetrate that oily environment and work *inside* the pore lining, breaking down the debris that forms the plug. That is the mechanism that makes it a "pore" ingredient rather than just a "surface" one.
+Salicylic acid is different in one decisive way: it is **oil-soluble (lipophilic)**. Your pores are lined with sebum, and a clogged pore is essentially a plug of oil and dead skin. Because salicylic acid mixes with oil, it can penetrate that oily environment and work *inside* the pore lining, breaking down the debris that forms the plug. As [DermNet](https://dermnetnz.org/topics/salicylic-acid) notes, it softens keratin and slows the shedding of cells inside the follicles, which is what helps stop them clogging. That is the mechanism that makes it a "pore" ingredient rather than just a "surface" one.
 
 It does a few related things at once:
 
@@ -99,7 +99,7 @@ Two practical notes. First, heat and sweat can make skin *feel* more reactive, s
 
 It is genuinely good, but it is not a cure-all, and pretending otherwise would not help you.
 
-- **Deep, painful cystic acne** sits too far down for a topical exfoliant to reach meaningfully. If you have tender, under-the-skin lumps, that is a conversation for a doctor — not a stronger BHA.
+- **Deep, painful cystic acne** sits too far down for a topical exfoliant to reach meaningfully. If you have tender, under-the-skin lumps, that is a conversation for a doctor — not a stronger BHA. The [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) recommends seeing a dermatologist for acne that is deep, painful or leaving scars.
 - **Already dry or sensitive skin** can find any leave-on acid too much. A gentle salicylic *cleanser* may be all such skin wants.
 - **A single pimple that has already surfaced** does not need a whole-face active. For one angry, come-to-a-head spot, occluding and protecting it can do more than dabbing acid on top. A salicylic-acid hydrocolloid patch is a neat middle ground here — it shields the spot from picking while delivering a little of the active to the surface. Whether the active version is worth it over a plain one depends on the spot, which we cover in [salicylic acid patches vs plain hydrocolloid](/my/articles/salicylic-acid-patches-vs-hydrocolloid/). Patches are a spot tool, though — not a replacement for treating the whole area.
 

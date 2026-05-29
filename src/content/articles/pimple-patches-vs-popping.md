@@ -26,7 +26,7 @@ The one honest exception, which we'll get to, is the deep painful cyst — a pat
 
 A whitehead is a clogged pore: trapped oil, dead skin, and bacteria, with the body's inflammatory response building pressure behind it. It *feels* like all that needs to come out, and squeezing seems like the fast way to do it. The problem is direction.
 
-When you press from the sides with your fingers or nails, the contents don't politely exit through the top. The pressure is uncontrolled, so a portion gets forced **downward and sideways** — deeper into the dermis and into neighbouring pores. That does three damaging things at once:
+When you press from the sides with your fingers or nails, the contents don't politely exit through the top. The pressure is uncontrolled, so a portion gets forced **downward and sideways** — deeper into the dermis and into neighbouring pores. The [American Academy of Dermatology](https://www.aad.org/public/diseases/acne/skin-care/popping) warns that pushing the contents of a pimple deeper into the skin — which it says often happens when you pop one yourself — increases inflammation and risks scarring and infection from the bacteria on your hands. That does three damaging things at once:
 
 1. **It spreads the infection.** Bacteria and inflammatory fluid that get pushed deeper or into adjacent skin can trigger new spots nearby, or turn one small pimple into a bigger, angrier one a day or two later.
 2. **It ruptures the skin barrier.** Squeezing tears the follicle wall and the surface skin. An open, broken wound is what scabs over — and the deeper the rupture, the higher the chance of a permanent indented scar.
@@ -70,7 +70,7 @@ That does **not** mean you should pop it. A blind cyst has no exit point, so squ
 
 - Leave it alone. Resist completely.
 - A clean, warm compress a few times a day can sometimes coax it toward the surface.
-- If it's large, very painful, or hangs around for weeks, see a doctor — cystic acne often needs prescription treatment, not stickers.
+- If it's large, very painful, or hangs around for weeks, see a doctor — cystic acne often needs prescription treatment, not stickers, and the [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) outlines the medical options for it.
 
 For the surface-level version of this question, a **microneedle patch** (with dissolving micro-tips that deliver actives like hyaluronic acid, peptides, and salicylic acid a little deeper) is a closer fit than flat hydrocolloid for *early* under-skin spots — though even those aren't a fix for a true deep cyst. We compared the two formats in [hydrocolloid vs microneedle patches](/my/articles/hydrocolloid-vs-microneedle-acne-patches/), and dermatologists weighed in on the safety question in [are pimple patches safe](/my/articles/are-pimple-patches-safe/).
 

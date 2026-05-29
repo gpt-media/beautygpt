@@ -69,7 +69,7 @@ This is where honesty earns its keep, because microneedle patches are genuinely 
 
 ## What's actually inside them — and a Malaysian example
 
-The actives vary by brand, because the cones can be loaded with different ingredients. Common ones include hydrating and barrier-supporting agents (hyaluronic acid, ceramides), soothing peptides, and a mild exfoliating acid such as salicylic acid to help clear the pore.
+The actives vary by brand, because the cones can be loaded with different ingredients. Common ones include hydrating and barrier-supporting agents (hyaluronic acid, ceramides), soothing peptides, and a mild exfoliating acid such as salicylic acid to help clear the pore — [DermNet](https://dermnetnz.org/topics/salicylic-acid) notes that salicylic acid works inside the follicle, slowing the shedding of cells that would otherwise clog it.
 
 As a concrete example available locally: **STIK MicroForce (for Early Acne)** is a microneedle patch built around **ceramides, hyaluronic acid, peptides and salicylic acid** — a blend aimed at that early, under-skin bump, pairing hydration and barrier support with a touch of pore-clearing acid. (One accuracy note: MicroForce does *not* contain niacinamide, even though some flat patches do — so if niacinamide is what you specifically want, check the label.) It is one option among several, and only makes sense if your problem is genuinely the early, pre-surface kind; for a spot that has already come to a head, a plain hydrocolloid patch serves you better and costs less.
 
@@ -108,7 +108,7 @@ Prices vary widely by brand and pack size and shift with platform promotions, so
 
 ## A note on safety
 
-Microneedle patches are gentle, surface-level tools for the occasional early bump. They are **not** a treatment for severe, persistent or painful cystic acne — deep nodules that keep recurring can scar and need professional care. If that sounds like you, see a doctor or dermatologist. This article is educational, not medical advice.
+Microneedle patches are gentle, surface-level tools for the occasional early bump. They are **not** a treatment for severe, persistent or painful cystic acne — deep nodules that keep recurring can scar and need professional care. The [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) advises that this kind of deep, painful acne is treated by a dermatologist, who can prevent the scarring it often leaves behind. If that sounds like you, see a doctor or dermatologist. This article is educational, not medical advice.
 
 ## The bottom line
 

@@ -73,7 +73,7 @@ The patch needs healthy skin around the blemish to anchor to. Too small and ther
 
 ### 6. Pick the right patch for the *conditions*, not just the spot
 
-This is the climate-aware part. For **overnight** wear, a slightly thicker patch survives a sweaty pillow better — but it's visible. For **daytime** in the heat, a thick patch will sweat off and look obvious, so an ultra-thin, near-invisible patch like the **STIK Air Dot** is designed to disappear under daytime conditions and (for some) under light makeup. If your problem is specifically that patches slide off your oily face by lunchtime, that's less about brand loyalty and more about thin-patch-plus-good-prep; we go deep on this in [acne patches for oily skin in Malaysia's humidity](/my/articles/best-acne-patches-oily-skin-malaysia/).
+This is the climate-aware part. For **overnight** wear, a slightly thicker patch survives a sweaty pillow better — but it's visible. For **daytime** in the heat, a thick patch will sweat off and look obvious, so an ultra-thin, near-invisible patch — options here include the **STIK Air Dot** and the clear/thin patches from COSRX — tends to stay flatter and less visible, and (for some) sits under light makeup. If your problem is specifically that patches slide off your oily face by lunchtime, that's less about brand loyalty and more about thin-patch-plus-good-prep; we go deep on this in [acne patches for oily skin in Malaysia's humidity](/my/articles/best-acne-patches-oily-skin-malaysia/).
 
 ### 7. Rule out expired or fake
 
@@ -87,13 +87,13 @@ Sometimes the patch isn't falling off too early — your expectation is just off
 
 Honesty matters here, because a patch that won't stick is sometimes a patch you shouldn't be using on that spot at all:
 
-- **Closed, under-the-skin bumps** (no open head, nothing to draw out) give hydrocolloid almost nothing to absorb, and a domed bump also makes a flat patch lift. A patch may not help much, and it'll struggle to stay on.
+- **Closed, under-the-skin bumps** (no open head, nothing to draw out) give hydrocolloid almost nothing to absorb, and a domed bump also makes a flat patch lift. As [DermNet](https://dermnetnz.org/topics/acne-vulgaris) describes, acne ranges from these closed comedones through to deeper inflammatory lesions, and not every type sits at the surface. A patch may not help much, and it'll struggle to stay on.
 - **Large, raised, or oddly shaped areas** are hard to seal — the patch tents over the high point and peels.
 - **Cystic, painful, deep acne** is beyond what any patch is built for.
 
 > If a spot is deep, painful, and won't come to a head, a patch is the wrong tool — and that's a doctor conversation, not a stickiness problem.
 
-This is educational, not medical advice. For severe, persistent, or painful cystic acne, please see a doctor or dermatologist — patches treat the surface, not the underlying cause.
+This is educational, not medical advice. For severe, persistent, or painful cystic acne, please see a doctor or dermatologist — the [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) notes that severe acne often needs prescription treatment, and patches treat the surface, not the underlying cause.
 
 ## Bottom line
 

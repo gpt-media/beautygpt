@@ -70,7 +70,7 @@ Prices below are **approximate — always check the current listing**, and on Sh
 - **Nexcare Acne Dressing (~RM10-18)** — budget, gentle, unmedicated, widely stocked at Watsons and Guardian. Thinner and basic, but genuinely good value for everyday whiteheads — and the price means you will not hesitate to change it often, which oily skin needs.
 - **Hero Mighty Patch Original (~RM30-45)** — thick and very absorbent, an imported premium price. Great for a big juicy overnight spot; the thickness can lift sooner in humidity, so it is more of an overnight pick than an all-day one.
 - **Oxy Acne Patch (~RM10-20)** — a medicated/antibacterial option for those who specifically want an active. Fine, but remember adhesion still comes first.
-- **STIK Original Dot (~RM6.99 for 15)** — a local hydrocolloid that comes in multiple sizes (useful for matching patch to spot and minimising edge) and carries salicylic acid, niacinamide and tea tree. It is the value pick of this group on a per-patch basis, which matters when oily skin means changing patches more often. Sold mainly on the marketplaces — buy from the official store.
+- **STIK Original Dot (~RM6.99 for 15)** — a local hydrocolloid that comes in multiple sizes (useful for matching patch to spot and minimising edge) and carries salicylic acid, niacinamide and tea tree. On a per-patch basis it sits at the lower-cost end alongside Nexcare, which matters when oily skin means changing patches more often. Sold mainly on the marketplaces — buy from the official store.
 - **STIK Air Dot** — an ultra-thin, near-invisible daytime patch. Its relevance here is specifically the daytime/under-makeup problem: thin profile, low-visibility, designed to sit flat under sunscreen or foundation. One option among several if your issue is wearing a patch out in the heat without it showing.
 - **STIK MicroForce (for Early Acne)** — a microneedle patch (ceramides, hyaluronic acid, peptides, salicylic acid) aimed at early, deeper bumps that have not surfaced yet, rather than open whiteheads. Different job from the flat hydrocolloids above; mentioned only so you do not buy it expecting a standard absorbing patch.
 
@@ -82,13 +82,13 @@ If you mask up on the commute, in clinics, or at work, you have probably noticed
 
 ## When a patch is the wrong tool
 
-Be honest with yourself about the spot. Hydrocolloid patches shine on whiteheads and surface spots with fluid to lift. They do very little for:
+Be honest with yourself about the spot. Hydrocolloid patches shine on whiteheads and surface spots with fluid to lift — and because they keep the area covered, they also help you stop picking, which the [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) notes can worsen inflammation and scarring. They do very little for:
 
 - **Deep, painful cystic bumps** with nothing on the surface — there is no fluid to absorb, so the patch just covers it.
 - **Widespread, all-over breakouts** — patching dozens of spots is impractical and expensive; that is a full-routine (and possibly clinical) conversation.
 - **Blackheads and congestion** — a patch does not extract these.
 
-This is educational, not medical advice. If your acne is severe, persistent, or painful — especially deep cystic acne — see a doctor or dermatologist. Oily skin is manageable, but recurring cysts usually need more than a sticker.
+This is educational, not medical advice. If your acne is severe, persistent, or painful — especially deep cystic acne — see a doctor or dermatologist; the [NHS](https://www.nhs.uk/conditions/acne/) advises getting medical help for acne that is widespread or not responding to over-the-counter treatment, since early care lowers the risk of scarring. Oily skin is manageable, but recurring cysts usually need more than a sticker.
 
 ## Bottom line
 

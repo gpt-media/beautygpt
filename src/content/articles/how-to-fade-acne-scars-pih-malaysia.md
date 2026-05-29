@@ -40,7 +40,7 @@ There is also a close cousin worth naming: **post-inflammatory erythema (PIE)**,
 
 ## Why PIH is such a big deal for Malaysian skin
 
-PIH is arguably *the* defining acne complaint in Malaysia, for a real biological reason. Medium-to-deep skin tones — common across our Malay, Indian, Chinese, and mixed communities — have more active melanocytes, the cells that produce pigment. When a pimple inflames the skin, those cells dump out melanin more readily and hold the result longer than fair skin does.
+PIH is arguably *the* defining acne complaint in Malaysia, for a real biological reason. Medium-to-deep skin tones — common across our Malay, Indian, Chinese, and mixed communities — have more active melanocytes, the cells that produce pigment. When a pimple inflames the skin, those cells dump out melanin more readily and hold the result longer than fair skin does — as [DermNet](https://dermnetnz.org/topics/postinflammatory-hyperpigmentation) explains, inflammation in the epidermis stimulates melanocytes to increase melanin and transfer it to the surrounding skin cells you actually see.
 
 The practical consequence: a spot might clear in a week, but the brown shadow can linger for three, six, even twelve months. For many people here, **the marks are more bothersome and longer-lasting than the original acne** — which is exactly why two things matter so much locally: not picking (more trauma equals more pigment) and sun protection (UV deepens every mark).
 
@@ -89,7 +89,7 @@ A sensible routine for most people: a gentle cleanser, **one** fading active (az
 
 ## Prevention: stop making new marks
 
-Fading old marks is only half the job. The other half is not creating fresh ones — and the biggest cause of bad PIH is entirely in your control: **picking, squeezing, and popping.** Every time you traumatise a spot, you drive more inflammation deeper into the skin, and on Malaysian skin tones that reliably means a darker, longer-lasting mark than the pimple would have left alone.
+Fading old marks is only half the job. The other half is not creating fresh ones — and the biggest cause of bad PIH is entirely in your control: **picking, squeezing, and popping.** Every time you traumatise a spot, you drive more inflammation deeper into the skin, and on Malaysian skin tones that reliably means a darker, longer-lasting mark than the pimple would have left alone. The [American Academy of Dermatology](https://www.aad.org/public/diseases/acne/derm-treat/scars) is blunt about it: never pick, pop, scratch, or squeeze breakouts, because doing so increases inflammation and the risk of discoloration.
 
 The hard part is that picking is a *habit*, not a decision, so "just stop" rarely works. One practical trick is to physically cover a surfaced spot so your fingers cannot reach it. A hydrocolloid pimple patch does exactly that — it sits over the spot as a barrier and removes the temptation to squeeze. It will not fade an existing brown mark (no patch does), but by stopping the picking it keeps the *next* one from being worse. We cover that link between popping and marks in [do acne patches leave marks or scars?](/my/articles/do-acne-patches-leave-marks-or-scars/). Affordable options are easy to find at Watsons, Guardian, and online, from Hero Mighty Patch and Nexcare to local value options like STIK.
 

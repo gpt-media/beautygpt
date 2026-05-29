@@ -26,7 +26,7 @@ This matters because the two situations call for opposite responses. Purging usu
 
 Your skin is constantly replacing itself. Dead cells form deep in the pore, work their way up, and shed from the surface. This full cycle takes roughly four to six weeks in healthy adult skin. Acne starts when that process clogs — dead cells and oil get trapped, bacteria multiply, and a microcomedone (a tiny, invisible blockage) forms below the surface. Some of these were always going to become visible pimples. They just hadn't surfaced yet.
 
-Certain ingredients speed the whole cycle up. **Retinoids** (retinol, and prescription-strength adapalene and tretinoin) tell skin cells to turn over faster and stop them clumping inside the pore. **Exfoliating acids** — AHAs like glycolic and lactic acid, and the BHA salicylic acid — loosen and dissolve the glue holding dead cells together. When you start one of these, every microcomedone that was already forming gets pushed to the surface sooner than it otherwise would have.
+Certain ingredients speed the whole cycle up. **Retinoids** (retinol, and prescription-strength adapalene and tretinoin) tell skin cells to turn over faster and stop them clumping inside the pore — the [American Academy of Dermatology](https://www.aad.org/public/diseases/acne/derm-treat/treat) notes that retinoids work to clear pores and treat blackheads, whiteheads and some pimples. **Exfoliating acids** — AHAs like glycolic and lactic acid, and the BHA salicylic acid — loosen and dissolve the glue holding dead cells together. When you start one of these, every microcomedone that was already forming gets pushed to the surface sooner than it otherwise would have.
 
 > Rule of thumb: purging isn't new acne. It's the acne you were *going to* get anyway, arriving early and all at once.
 
@@ -104,7 +104,7 @@ The biggest mistake during a purge is doing *more*. Resist it. Strip your routin
 
 - **Gentle cleanser, nothing harsh.** A simple low-pH gel cleanser is plenty. Cetaphil, CeraVe and Hada Labo are all widely stocked at Watsons and Guardian for around RM30-60.
 - **A barrier-supporting moisturiser.** Look for ceramides, hyaluronic acid or panthenol. CeraVe Moisturising Lotion or a Hada Labo lotion both sit well under Malaysia's humidity without feeling heavy (roughly RM40-70).
-- **Sunscreen, every single day.** This is non-negotiable on retinoids and acids — both make skin more sun-sensitive, and our UV index sits high year-round. A lightweight gel or fluid SPF50 (Biore, Anessa, Skin Aqua — RM30-90, easy to find on Shopee, Lazada and TikTok Shop) is ideal. Heavy, greasy sunscreens can clog and make things worse in the heat.
+- **Sunscreen, every single day.** This is non-negotiable on retinoids and acids — the [American Academy of Dermatology](https://www.aad.org/public/diseases/acne/skin-care/tips) cautions that some acne medications can make skin very sensitive to ultraviolet rays, and our UV index sits high year-round. A lightweight gel or fluid SPF50 (Biore, Anessa, Skin Aqua — RM30-90, easy to find on Shopee, Lazada and TikTok Shop) is ideal. Heavy, greasy sunscreens can clog and make things worse in the heat.
 - **Don't add new actives mid-purge.** If you introduce a second product now, you'll never know which one caused what. One change at a time.
 - **Don't pick.** Squeezing a surfacing spot is the fastest route to a mark or scar.
 
