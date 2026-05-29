@@ -3,7 +3,7 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../../../layouts/BaseLayout.astro';
 
 export async function getStaticPaths() {
-  const articles = await getCollection('articles-bm');
+  const articles = await getCollection('articles-ms');
   return articles.map((entry) => ({ params: { slug: entry.slug }, props: { entry } }));
 }
 
@@ -11,7 +11,7 @@ const { entry } = Astro.props;
 const { Content } = await entry.render();
 const d = entry.data;
 const fmt = (dt: Date) => dt.toLocaleDateString('ms-MY', { year: 'numeric', month: 'long', day: 'numeric' });
-const url = new URL(`/my/bm/articles/${entry.slug}/`, Astro.site).href;
+const url = new URL(`/my/ms/articles/${entry.slug}/`, Astro.site).href;
 
 const articleSchema = {
   '@context': 'https://schema.org',
@@ -40,7 +40,7 @@ const faqSchema = d.faqs.length
 
 const jsonLd = faqSchema ? [articleSchema, faqSchema] : [articleSchema];
 ---
-<BaseLayout title={d.title} description={d.description} jsonLd={jsonLd} ogType="article" lang="bm">
+<BaseLayout title={d.title} description={d.description} jsonLd={jsonLd} ogType="article" lang="ms">
   <article class="article">
     <div class="wrap">
       <p class="kicker">{d.category}</p>
