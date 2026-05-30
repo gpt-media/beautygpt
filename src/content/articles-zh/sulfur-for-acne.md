@@ -11,7 +11,7 @@ faqs:
   - q: "硫磺 (sulfur) 祛痘产品为什么会有味道？"
     a: "硫磺 (sulfur) 化合物天生带有一股淡淡的臭鸡蛋味或火柴味。现代配方遮得还算不错，多数人只在凑近闻或刚涂上去的时候才会闻到。等产品干了，味道就会散掉。如果你受不了这股味道，可以拿它来晚上局部点涂，而不是涂满全脸当面膜用。"
   - q: "硫磺 (sulfur) 可以和水杨酸 (salicylic acid) 或烟酰胺 (niacinamide) 一起用吗？"
-    a: "通常可以。硫磺 (sulfur) 和烟酰胺 (niacinamide)、温和的保湿成分都搭得很好。但在同一套流程里把它和水杨酸 (salicylic acid)、过氧化苯甲酰 (benzoyl peroxide) 或类视黄醇 (retinoid) 叠在一起，可能会让皮肤过度变干，所以一次只引入一种活性成分，并且把它们错开（例如早上用水杨酸 (salicylic acid)，晚上用硫磺 (sulfur)），同时留意有没有刺激反应。"
+    a: "通常可以。硫磺 (sulfur) 和烟酰胺 (niacinamide)、温和的保湿成分都搭得很好。但在同一套流程里把它和水杨酸 (salicylic acid)、过氧化苯甲酰 (benzoyl peroxide) 或类视黄醇 (retinoid) 叠在一起，可能会让皮肤过度变干，所以一次只引入一种活性成分，并且把它们错开，例如早上用水杨酸 (salicylic acid)，晚上用硫磺 (sulfur)，同时留意有没有刺激反应。"
   - q: "在马来西亚哪里可以买到硫磺 (sulfur) 祛痘产品？"
     a: "含硫磺 (sulfur) 的药用皂和药膏在 Watsons、Guardian、Caring 这类药房很常见，网上也能在 Shopee、Lazada 和 TikTok Shop 买到。进口的硫磺 (sulfur) 点涂产品和面膜（比如一些韩国和美国品牌）大多只在网上有售。价格从基础药皂的几令吉，到品牌产品大约 RM40–90 不等。"
   - q: "什么情况下应该看医生，而不是用硫磺 (sulfur)？"
@@ -44,13 +44,13 @@ faqs:
 |---|---|---|---|---|
 | **硫磺 (sulfur)** | 脓疱、控油、敏感肌 | 温和 | 低 | 明显（硫磺／鸡蛋味） |
 | **过氧化苯甲酰 (benzoyl peroxide)** | 杀灭痘痘细菌、全面对付发炎痘痘 | 强 | 中到高；可能漂白布料 | 低 |
-| **水杨酸 (salicylic acid)（BHA）** | 疏通毛孔、黑头、白头 | 温和到中等 | 低到中 | 低 |
+| **水杨酸 (salicylic acid) (BHA)** | 疏通毛孔、黑头、白头 | 温和到中等 | 低到中 | 低 |
 
-说句老实话：[过氧化苯甲酰 (benzoyl peroxide)](/my/zh/articles/benzoyl-peroxide-for-acne/) 是对付发炎痘痘最经得起验证的综合表现稳定的选择，对很多人来说，它是更有效的首选。[美国皮肤病学会](https://www.aad.org/public/diseases/acne)把它列为核心治疗手段之一，针对的正是硫磺 (sulfur) 也在对付的那种发炎皮损。它直接杀灭痘痘细菌，见效也更快。但它同时也是最容易让皮肤变干、起皮、发红或刺痛的成分，还可能把毛巾、枕套和深色衣物漂白。
+说句老实话：[过氧化苯甲酰 (benzoyl peroxide)](/my/zh/articles/benzoyl-peroxide-for-acne/) 是对付发炎痘痘最经得起验证的综合表现稳定的选择，对很多人来说，它是更有效的首选。[美国皮肤病学会](https://www.aad.org/public/diseases/acne) 把它列为核心治疗手段之一，针对的正是硫磺 (sulfur) 也在对付的那种发炎皮损。它直接杀灭痘痘细菌，见效也更快。但它同时也是最容易让皮肤变干、起皮、发红或刺痛的成分，还可能把毛巾、枕套和深色衣物漂白。
 
 而这恰恰是硫磺 (sulfur) 体现价值的地方。如果过氧化苯甲酰 (benzoyl peroxide) 对你太刺激，或者你的皮肤敏感、易泛红，硫磺 (sulfur) 提供了一种更温和的方式，去对付同一类痘痘。它也不会漂白你的床品。与其把硫磺 (sulfur) 当成过氧化苯甲酰 (benzoyl peroxide) 的对手，不如把它看成那些受不了强效成分的肌肤的温和替代选择。
 
-[水杨酸 (salicylic acid)](/my/zh/articles/salicylic-acid-for-acne/) 自成一派：它是一种油溶性的 BHA，所以能钻进毛孔*内部*，清掉黑头、预防堵塞。硫磺 (sulfur) 和水杨酸 (salicylic acid) 甚至可以互补（用水杨酸 (salicylic acid) 做预防和改善质地，用硫磺 (sulfur) 安抚正在冒的脓疱），不过你得小心地引入它们，避免过度变干。
+[水杨酸 (salicylic acid)](/my/zh/articles/salicylic-acid-for-acne/) 自成一派：它是一种油溶性的 BHA，所以能钻进毛孔*内部*，清掉黑头、预防堵塞。硫磺 (sulfur) 和水杨酸 (salicylic acid) 甚至可以互补，用水杨酸 (salicylic acid) 做预防和改善质地，用硫磺 (sulfur) 安抚正在冒的脓疱，不过你得小心地引入它们，避免过度变干。
 
 ### 为什么「更温和」才是重点所在
 
@@ -75,7 +75,7 @@ faqs:
 - **从一周两三个晚上开始**，别天天用，只有在皮肤耐受的前提下再慢慢往上加。
 - **用完一定要跟上一款清爽的保湿产品。** 就算是油性肌肤也需要补水，而且这能抵消变干的效果。
 - **白天要擦防晒。** 任何祛痘活性成分都可能让皮肤稍微更敏感一点，而马来西亚一年到头紫外线都很强。
-- **别一次全堆上去。** 如果你已经在用水杨酸 (salicylic acid)、过氧化苯甲酰 (benzoyl peroxide) 或类视黄醇 (retinoid)，就隔天晚上加上硫磺 (sulfur)，看看皮肤怎么反应。关于活性成分怎么叠用的完整拆解，在我们这篇[打造一套真正管用的祛痘流程](/my/zh/articles/how-to-treat-acne-malaysia/)的指南里。
+- **别一次全堆上去。** 如果你已经在用水杨酸 (salicylic acid)、过氧化苯甲酰 (benzoyl peroxide) 或类视黄醇 (retinoid)，就隔天晚上加上硫磺 (sulfur)，看看皮肤怎么反应。关于活性成分怎么叠用的完整拆解，在我们这篇[打造一套真正管用的祛痘流程](/my/zh/articles/how-to-treat-acne-malaysia/) 的指南里。
 
 ### 在本地货架上该挑什么
 

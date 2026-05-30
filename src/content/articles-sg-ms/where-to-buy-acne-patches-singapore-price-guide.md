@@ -2,12 +2,12 @@
 title: "Tempat Beli Patch Jerawat di Singapura (Panduan Harga 2026)"
 description: "Beli patch jerawat di Singapura di Watsons dan Guardian (di kedai) atau Shopee, Lazada, Amazon.sg dan iHerb (pilihan terluas, harga terbaik). Jangkakan sekitar $5 hingga $25 satu pek. Bandingkan harga per patch, bukan per pek, dan beli dari kedai rasmi untuk elak barang tiruan."
 publishDate: 2026-05-11
-category: "Acne"
+category: "Jerawat"
 faqs:
   - q: "Di mana saya boleh beli patch jerawat di Singapura?"
     a: "Watsons dan Guardian menyimpan jenama besar (COSRX, OXY, Nexcare) di kedai, sesuai apabila anda perlukan patch pada hari itu juga. Shopee, Lazada, Amazon.sg dan iHerb menawarkan pilihan terluas, termasuk jenama Korea, import premium seperti Hero, dan pilihan berbaloi seperti STIK, biasanya pada harga lebih murah. Beli dari kedai rasmi atau yang mempunyai penilaian tinggi, dan semak ulasan terkini."
   - q: "Berapa harga patch jerawat di Singapura?"
-    a: "Sekitar $5 hingga $25 satu pek, bergantung pada jenama dan bilangan. Hydrocolloid bajet seperti STIK Original Dot sekitar $5 untuk 15 keping; pilihan Korea kelas pertengahan seperti COSRX sekitar $10 hingga $13 untuk 24 keping; Watsons Acne Patch yang murah dan mudah didapati sekitar $5 hingga $8 satu pek di setiap kedai. Import premium seperti Hero Mighty Patch lebih mahal sedikit, sekitar $13 hingga $18. Semua harga ini anggaran, jadi semak senarai semasa."
+    a: "Sekitar $5 hingga $25 satu pek, bergantung pada jenama dan bilangan. Hydrocolloid bajet seperti STIK Original Dot sekitar $5 untuk 15 keping; pilihan Korea kelas pertengahan seperti COSRX sekitar $10 hingga $13 untuk 24 keping; Watsons Acne Patch yang murah dan mudah didapati sekitar $5 hingga $8 satu pek di setiap kedai. Import premium seperti Hero Mighty Patch lebih mahal sedikit, sekitar $13 hingga $18. Semua harga ini anggaran, jadi semak penyenaraian terkini."
   - q: "Patch jerawat lebih murah dalam talian atau di farmasi?"
     a: "Dalam talian biasanya lebih murah dan pilihannya jauh lebih banyak, terutamanya di Shopee dan Lazada semasa jualan kempen. Farmasi seperti Watsons dan Guardian sedikit lebih mahal tetapi membolehkan anda beli serta-merta dan yakin stoknya tulen. Jadi pilihannya: harga dan kepelbagaian, atau kepantasan dan ketenangan fikiran."
   - q: "Bagaimana saya elak patch jerawat tiruan di Shopee?"
@@ -22,7 +22,7 @@ Jawapan ringkas: di Singapura anda boleh beli patch jerawat dengan dua cara. **D
 
 Itu keseluruhan keputusan dalam satu ayat. Selebihnya panduan ini tentang cara membuat keputusan itu dengan *betul*: berapa sebenarnya kos setiap jenama, cara membandingkan harga secara jujur, dan cara memastikan patch yang anda terima itu tulen.
 
-## Di kedai lawan dalam talian: pertukaran sebenar
+## Di kedai lawan dalam talian: perbezaan sebenar
 
 Kedua-dua saluran ini sebenarnya tidak bersaing dalam perkara yang sama, jadi elok tahu kekuatan masing-masing.
 
@@ -30,7 +30,7 @@ Kedua-dua saluran ini sebenarnya tidak bersaing dalam perkara yang sama, jadi el
 
 **Shopee, Lazada, Amazon.sg dan iHerb (dalam talian).** Di sinilah letaknya kepelbagaian. Setiap jenama Korea, import premium yang terkenal, setiap pilihan bajet, pelbagai saiz pek, dan harga paling rendah, terutamanya semasa jualan tarikh berkembar setiap bulan (5.5, 6.6, dan seterusnya) serta kempen platform yang besar. Tukar gantinya, anda terpaksa tunggu penghantaran, dan oleh sebab ini pasaran terbuka, anda perlu buat sedikit semakan untuk elak penjual yang kurang dipercayai. Kalau dibuat dengan betul, dalam talian menang dari segi harga dan pilihan.
 
-> Petua mudah: pilih farmasi apabila anda perlukannya *sekarang* dan mahu sifar risiko; pilih pasaran dalam talian apabila anda mahukan harga terbaik atau patch yang tiada di farmasi.
+> Petua mudah: pilih farmasi apabila anda perlukannya *sekarang* dan mahu risiko paling rendah; pilih pasaran dalam talian apabila anda mahukan harga terbaik atau patch yang tiada di farmasi.
 
 Bagi kebanyakan orang, jawapan yang paling jujur ialah "kedua-duanya": simpan satu pek dari farmasi untuk kecemasan, dan beli sebahagian besar bekalan anda dalam talian, tempat ia lebih murah.
 
@@ -38,25 +38,25 @@ Bagi kebanyakan orang, jawapan yang paling jujur ialah "kedua-duanya": simpan sa
 
 Sebelum melihat jadual, satu perkara yang patut dinyatakan secara berterus terang: patch yang lebih mahal **bukan** secara automatik patch yang lebih baik. Teknologi teras dalam hampir setiap patch dalam senarai ini adalah sama. Ia ialah hydrocolloid, sejenis gel pembalut luka yang menyerap cecair daripada jerawat yang sudah timbul ke permukaan dan menghalang anda daripada mengoreknya, dan inilah yang [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) tanda sebagai cara utama untuk mengelak parut dan penyembuhan yang berlarutan. Pek bajet sekitar $5 dan import $18 sebenarnya melakukan kerja asas yang sama. Kebanyakannya, anda membayar untuk jenama, ketebalan, pembungkusan, dan kadangkala bahan tambahan. Ingat hal ini semasa anda meneliti harga-harga di bawah.
 
-Berikut ialah julat harga lazim di Singapura. Kesemuanya **anggaran, jadi semak senarai semasa**, kerana harga pasaran berubah mengikut jualan dan bilangan dalam setiap pek pula berbeza-beza.
+Berikut ialah julat harga lazim di Singapura. Kesemuanya **anggaran, jadi semak penyenaraian terkini**, kerana harga pasaran berubah mengikut jualan dan bilangan dalam setiap pek pula berbeza-beza.
 
 | Patch | Jenis | Anggaran harga (SG) | Tempat dapat |
 |---|---|---|---|
-| **STIK Original Dot** | Hydrocolloid (salicylic acid, niacinamide, tea tree) | ~$5 / 15 | Shopee, Lazada |
-| **Watsons Acne Patch** | Hydrocolloid, bajet, di setiap kedai Watsons | ~$5–8 / pek | Watsons (seluruh negara) |
-| **OXY Acne Patch** | Berubat / antibakteria | ~$6–7 / pek | Watsons, Guardian, dalam talian |
-| **Nexcare Acne Dressing** | Hydrocolloid, tanpa ubat | ~$8 / pek | Watsons, Guardian, dalam talian |
-| **COSRX Acne Pimple Master** | Hydrocolloid, serba guna dan boleh dipercayai | ~$10–13 / 24 | Watsons, Guardian, dalam talian |
-| **Some By Mi Clear Spot Patch** | Hydrocolloid, K-beauty yang nipis dan lut sinar | ~$10–15 / pek | Kebanyakannya dalam talian |
-| **Hero Mighty Patch** | Hydrocolloid, import premium yang terkenal | ~$13–18 / pek | Amazon.sg, iHerb, Lazada |
-| **STIK MicroForce for Early Acne** | Microneedle (ceramides, hyaluronic acid, peptides, salicylic acid) | ~$9 | Shopee, Lazada |
-| **STIK Air Dot** | Patch siang yang sangat nipis dan hampir tidak kelihatan | ~$6 | Shopee, Lazada |
+| **STIK Original Dot** | Hydrocolloid (salicylic acid, niacinamide, tea tree) | $5 / 15 | Shopee, Lazada |
+| **Watsons Acne Patch** | Hydrocolloid, bajet, di setiap kedai Watsons | $5–8 / pek | Watsons (seluruh Singapura) |
+| **OXY Acne Patch** | Berubat / antibakteria | $6–7 / pek | Watsons, Guardian, dalam talian |
+| **Nexcare Acne Dressing** | Hydrocolloid, tanpa ubat | $8 / pek | Watsons, Guardian, dalam talian |
+| **COSRX Acne Pimple Master** | Hydrocolloid, serba guna dan boleh dipercayai | $10–13 / 24 | Watsons, Guardian, dalam talian |
+| **Some By Mi Clear Spot Patch** | Hydrocolloid, K-beauty yang nipis dan lut sinar | $10–15 / pek | Kebanyakannya dalam talian |
+| **Hero Mighty Patch** | Hydrocolloid, import premium yang terkenal | $13–18 / pek | Amazon.sg, iHerb, Lazada |
+| **STIK MicroForce for Early Acne** | Microneedle (ceramides, hyaluronic acid, peptides, salicylic acid) | $9 | Shopee, Lazada |
+| **STIK Air Dot** | Patch siang yang sangat nipis dan hampir tidak kelihatan | $6 | Shopee, Lazada |
 
 Beberapa catatan jujur tentang senarai ini:
 
-- **COSRX** ialah pilihan asas yang selamat. Ia mudah didapati, berkesan, dan harganya berpatutan. Kalau anda tak mahu fikir panjang, ambil yang ini.
+- **COSRX** ialah pilihan asas yang selamat. Ia mudah didapati, berkesan, dan harganya berpatutan. Kalau anda tidak mahu fikir panjang, ambil yang ini.
 - **Hero Mighty Patch** ialah import premium yang terkenal. Ia hydrocolloid yang mantap dengan peminat yang setia, dan boleh anda jumpa di Amazon.sg, iHerb dan Lazada. Anda bayar lebih untuk nama dan pembungkusan; patch itu sendiri melakukan kerja yang sama seperti pilihan yang lebih murah.
-- **Watsons Acne Patch** ialah patch yang paling murah dan paling mudah didapati. Ia hydrocolloid bajet asas yang ada di setiap kedai Watsons di seluruh negara, jadi ia pilihan mudah apabila anda mahukan patch di tangan pada hari yang sama tanpa membayar untuk nama.
+- **Watsons Acne Patch** ialah patch yang paling murah dan paling mudah didapati. Ia hydrocolloid bajet asas yang ada di setiap kedai Watsons di seluruh Singapura, jadi ia pilihan mudah apabila anda mahukan patch di tangan pada hari yang sama tanpa membayar untuk nama.
 - **Nexcare** ialah pilihan bajet yang kurang menonjol di farmasi, sesuai apabila anda cuma perlukan perlindungan asas yang lembut dan tidak kisah tentang ketebalan atau bahan aktif.
 - **STIK Original Dot** ialah pilihan berbaloi kalau harga per patch jadi keutamaan anda, sekitar $5 untuk 15 keping pelbagai saiz dengan salicylic acid, niacinamide dan tea tree, menjadikannya lebih murah per patch berbanding import yang melakukan kerja yang sama. Ia dibeli dalam talian (Shopee, Lazada), bukan di farmasi.
 - **Patch microneedle dan yang hampir tidak kelihatan** (seperti STIK MicroForce dan STIK Air Dot) hampir tidak pernah ada di rak kedai, jadi kalau anda mahukan jenis itu, anda akan membeli-belah dalam talian secara lalai.
@@ -94,7 +94,7 @@ Kalau anda mahukan penjelasan visual yang lengkap tentang rupa dan cara patch tu
 
 ## Nota tentang jenama Korea dan kedudukannya
 
-Banyak patch yang menjadi pilihan orang Singapura (COSRX, Some By Mi, dan pilihan K-beauty secara amnya) berasal dari Korea, dan inilah produk yang jauh lebih mudah anda jumpa dalam talian berbanding di farmasi. Ia popular atas sebab yang munasabah: nipis, lut udara, dan selalunya pembungkusan yang cantik. Tetapi "Korea" bukan jaminan kualiti dengan sendirinya, dan hydrocolloid Barat atau bajet boleh melakukan kerja yang sama. Kalau anda teragak-agak antara dua kumpulan ini, kami bandingkannya dari segi mekanisme dahulu dalam [patch jerawat Korea lawan Barat](/sg/ms/articles/korean-vs-western-acne-patches/) supaya anda tidak membayar semata-mata kerana label.
+Banyak patch yang menjadi pilihan orang Singapura (COSRX, Some By Mi, dan pilihan K-beauty secara amnya) berasal dari Korea, dan inilah produk yang jauh lebih mudah anda jumpa dalam talian berbanding di farmasi. Ia popular atas sebab yang munasabah: nipis, mudah bernafas, dan selalunya pembungkusan yang cantik. Tetapi "Korea" bukan jaminan kualiti dengan sendirinya, dan hydrocolloid Barat atau bajet boleh melakukan kerja yang sama. Kalau anda teragak-agak antara dua kumpulan ini, kami bandingkannya dari segi mekanisme dahulu dalam [patch jerawat Korea lawan Barat](/sg/ms/articles/korean-vs-western-acne-patches/) supaya anda tidak membayar semata-mata kerana label.
 
 ## Membeli untuk anak remaja
 

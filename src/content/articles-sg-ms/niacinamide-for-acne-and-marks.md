@@ -2,19 +2,19 @@
 title: "Niacinamide untuk Jerawat dan Bekas Gelap: Apa Sebenarnya Fungsinya"
 description: "Niacinamide ialah sejenis terbitan vitamin B3 yang menenangkan keradangan, membantu mengawal minyak, dan secara beransur-ansur memudarkan bekas jerawat gelap (PIH) dengan memperlahankan perpindahan pigmen. Ia bahan sokongan yang stabil, bukan penghapus jerawat serta-merta mahupun pemutih kulit. Jangkakan hasil yang senyap dan beransur-ansur dalam masa 8 hingga 12 minggu."
 publishDate: 2026-04-17
-category: "Acne"
+category: "Jerawat"
 faqs:
   - q: "Adakah niacinamide benar-benar memudarkan bekas jerawat gelap?"
-    a: "Ya, tetapi secara beransur-ansur dan separa. Niacinamide mengganggu perpindahan pigmen (melanin) daripada sel yang menghasilkannya kepada sel kulit di permukaan, jadi dalam beberapa minggu bekas perang yang ditinggalkan jerawat lama akan kelihatan lebih cerah dan lebih sekata. Ia paling berkesan pada hiperpigmentasi pasca-keradangan (PIH) yang rata, bukan pada parut yang timbul atau berlekuk, dan ia memudarkan, bukan memutihkan. Beri ia masa 8 hingga 12 minggu pemakaian setiap hari."
+    a: "Ya, tetapi secara beransur-ansur dan separa. Niacinamide mengganggu perpindahan pigmen (melanin) daripada sel yang menghasilkannya kepada sel kulit di permukaan, jadi dalam beberapa minggu bekas perang yang ditinggalkan jerawat lama akan kelihatan lebih cerah dan lebih sekata. Ia paling berkesan pada hiperpigmentasi pasca-radang (PIH) yang rata, bukan pada parut yang timbul atau berlekuk, dan ia memudarkan, bukan memutihkan. Beri ia masa 8 hingga 12 minggu pemakaian setiap hari."
   - q: "Berapa peratus niacinamide yang terbaik untuk kulit berjerawat?"
-    a: "Kebanyakan serum yang diformulasi dengan baik berada sekitar 4 hingga 10 peratus, dan tidak banyak bukti yang menunjukkan peratusan lebih tinggi memberi kesan lebih baik. Sekitar 4 hingga 5 peratus sudah memadai untuk kebanyakan orang dan kurang berkemungkinan menyebabkan muka memerah atau terasa pedih. Kalau produk 10 peratus terasa pedih atau membuatkan kulit anda kelihatan kemerahan, turunkan ke kepekatan yang lebih rendah. Banyak tak semestinya bagus dalam hal ini."
-  - q: "Boleh tak saya guna niacinamide dengan vitamin C, retinol atau salicylic acid?"
+    a: "Kebanyakan serum yang diformulasi dengan baik berada sekitar 4 hingga 10 peratus, dan tidak banyak bukti yang menunjukkan peratusan lebih tinggi memberi kesan lebih baik. Sekitar 4 hingga 5 peratus sudah memadai untuk kebanyakan orang dan kurang berkemungkinan menyebabkan muka memerah atau terasa pedih. Kalau produk 10 peratus terasa pedih atau membuatkan kulit anda kelihatan kemerahan, turunkan ke kepekatan yang lebih rendah. Banyak tidak semestinya bagus dalam hal ini."
+  - q: "Boleh tidak saya guna niacinamide dengan vitamin C, retinol atau salicylic acid?"
     a: "Boleh. Amaran lama di internet yang mengatakan niacinamide membatalkan kesan vitamin C bukanlah kebimbangan sebenar untuk produk siap yang biasa. Niacinamide boleh dilapis dengan selesa bersama vitamin C, retinoid, salicylic acid dan benzoyl peroxide, malah boleh membuatkan bahan aktif yang lebih kuat lebih mudah diterima kulit dengan menyokong lapisan pelindung kulit. Kalau anda guna beberapa bahan aktif, cuba satu demi satu supaya anda tahu yang mana satu membuatkan kulit anda bertindak balas."
   - q: "Berapa lama niacinamide mengambil masa untuk berkesan pada jerawat dan bekas?"
     a: "Untuk minyak dan keadaan kulit yang lebih tenang, sesetengah orang perasan kulit terasa kurang berminyak dalam beberapa minggu. Untuk memudarkan bekas gelap, fikir dalam kiraan bulan, bukan hari, biasanya 8 hingga 12 minggu pemakaian setiap hari secara konsisten sebelum perubahan jelas kelihatan di cermin. Pigmen pudar perlahan-lahan kerana sel kulit pun berganti perlahan-lahan. Pelindung matahari setiap hari banyak mempengaruhi berapa cepat bekas itu cerah."
   - q: "Niacinamide atau azelaic acid yang lebih baik untuk bekas jerawat?"
     a: "Kedua-duanya melakukan kerja yang bertindih dan saling melengkapi, bukan bersaing. Niacinamide ialah bahan serba boleh harian yang lembut untuk minyak, kemerahan, bekas dan lapisan pelindung. Azelaic acid pula lebih menyasar jerawat aktif dan pigmentasi sekali gus serta boleh berkesan lebih cepat pada bekas degil, tetapi lebih berkemungkinan terasa pedih pada mulanya. Ramai orang guna niacinamide setiap hari dan tambah azelaic acid sebagai pemudar pigmen yang lebih aktif."
-  - q: "Boleh tak niacinamide menyebabkan purging atau jerawat baru?"
+  - q: "Boleh tidak niacinamide menyebabkan purging atau jerawat baru?"
     a: "Niacinamide tidak mengeksfoliasi atau mempercepat penggantian sel, jadi ia tidak menyebabkan purging sebenar seperti yang boleh berlaku dengan retinoid atau asid. Kalau anda mendapat jerawat selepas mula guna produk niacinamide, puncanya lebih berkemungkinan bahan lain dalam formula, tekstur yang berat atau menyumbat liang, atau sekadar kebetulan. Serum niacinamide yang ringan dan biasa jarang mencetuskan jerawat dengan sendirinya."
 ---
 
@@ -36,7 +36,7 @@ Niacinamide telah terbukti mengurangkan penghasilan sebum (minyak) dari semasa k
 
 ### Ia memudarkan bekas gelap dengan memperlahankan perpindahan pigmen
 
-Inilah bahagian yang paling diharapkan orang dan paling disalah faham. Apabila jerawat sembuh, ia selalunya meninggalkan tanda perang atau perang muda yang rata yang dipanggil **hiperpigmentasi pasca-keradangan (PIH)**, iaitu melanin tambahan yang dihasilkan kulit sebagai tindak balas terhadap keradangan. [DermNet](https://dermnetnz.org/topics/postinflammatory-hyperpigmentation) menyenaraikan niacinamide antara bahan topikal yang digunakan untuk mencerahkan jenis pigmentasi ini. Niacinamide tidak memutihkan melanin itu. Sebaliknya, ia mengganggu *perpindahan* melanin daripada melanosit (sel yang menghasilkan pigmen) kepada keratinosit (sel kulit di permukaan yang anda nampak). Kurang pigmen yang sampai ke permukaan, dan apabila kulit anda luruh serta membaharui diri secara semula jadi, bekas yang sedia ada akan kelihatan semakin cerah dan lebih sekata.
+Inilah bahagian yang paling diharapkan orang dan paling disalah faham. Apabila jerawat sembuh, ia selalunya meninggalkan tanda perang atau perang muda yang rata yang dipanggil **hiperpigmentasi pasca-radang (PIH)**, iaitu melanin tambahan yang dihasilkan kulit sebagai tindak balas terhadap keradangan. [DermNet](https://dermnetnz.org/topics/postinflammatory-hyperpigmentation) menyenaraikan niacinamide antara bahan topikal yang digunakan untuk mencerahkan jenis pigmentasi ini. Niacinamide tidak memutihkan melanin itu. Sebaliknya, ia mengganggu *perpindahan* melanin daripada melanosit (sel yang menghasilkan pigmen) kepada keratinosit (sel kulit di permukaan yang anda nampak). Kurang pigmen yang sampai ke permukaan, dan apabila kulit anda luruh serta membaharui diri secara semula jadi, bekas yang sedia ada akan kelihatan semakin cerah dan lebih sekata.
 
 > Ingat: niacinamide memudarkan, bukan memadam. Ia mencerahkan bekas perang yang rata dalam beberapa minggu; ia tidak boleh berbuat apa-apa pada parut yang timbul atau berlekuk, kerana itu masalah tekstur, bukan masalah pigmen.
 
@@ -57,7 +57,7 @@ Niacinamide ialah salah satu bahan aktif yang paling mudah digunakan kerana jula
 | ~10% | Kulit berminyak yang boleh menerimanya dengan baik | Popular di rak; tidak terbukti lebih baik daripada 5% untuk kebanyakan orang, dan lebih berkemungkinan terasa pedih |
 | >10% | Jarang diperlukan | Risiko muka memerah dan kerengsaan lebih tinggi dengan manfaat tambahan yang sedikit sahaja |
 
-Intinya: **banyak tak semestinya bagus.** Kajian dan persetujuan pakar dermatologi meletakkan kesan yang berguna dalam julat satu angka sehingga 10 peratus, dan muka yang pedih serta kemerahan akibat produk berperatusan tinggi bukanlah tanda "ia berfungsi lebih kuat." Itu kerengsaan, yang pada kulit yang mudah mendapat PIH boleh secara ironinya *menyebabkan* lebih banyak bekas. Kalau serum 10 peratus mengganggu kulit anda, serum 4 hingga 5 peratus berkemungkinan memberi anda hasil jangka panjang yang sama dengan lebih selesa.
+Intinya: **banyak tidak semestinya bagus.** Kajian dan persetujuan pakar dermatologi meletakkan kesan yang berguna dalam julat satu angka sehingga 10 peratus, dan muka yang pedih serta kemerahan akibat produk berperatusan tinggi bukanlah tanda "ia berfungsi lebih kuat." Itu kerengsaan, yang pada kulit yang mudah mendapat PIH boleh secara ironinya *menyebabkan* lebih banyak bekas. Kalau serum 10 peratus mengganggu kulit anda, serum 4 hingga 5 peratus berkemungkinan memberi anda hasil jangka panjang yang sama dengan lebih selesa.
 
 ## Berapa lama ia mengambil masa (uruskan jangkaan anda)
 
@@ -74,7 +74,7 @@ Niacinamide terkenal mudah dilapis, dan itulah sebahagian besar daya tarikannya.
 
 1. **Bersihkan muka**, kemudian sapu niacinamide pada kulit yang bersih. Serum ialah bentuk yang paling biasa, lazimnya pada waktu pagi, malam, atau kedua-duanya.
 2. **Lapis sesuka hati.** Ia sesuai disapu di bawah atau di atas kebanyakan produk lain dan berfungsi dengan baik dalam rutin ringkas bersama pencuci muka yang lembut, pelembap dan pelindung matahari.
-3. **Tutup rutin pagi dengan pelindung matahari.** Ini tidak boleh dikompromi kalau bekas ialah matlamat anda.
+3. **Tutup rutin pagi dengan pelindung matahari.** Ini tidak boleh diabaikan kalau bekas ialah matlamat anda.
 
 Ada satu mitos lama di internet yang mengatakan niacinamide dan **vitamin C** membatalkan kesan satu sama lain. Untuk produk penjagaan kulit siap yang biasa, ini bukan masalah dalam keadaan sebenar. Kedua-duanya boleh dilapis dengan baik, dan anda tidak perlu mengasingkannya ke waktu yang berbeza. Niacinamide juga sesuai digandingkan dengan retinoid, salicylic acid dan benzoyl peroxide, serta boleh membuatkan bahan aktif yang lebih kuat itu lebih mudah diterima kulit dengan menyokong lapisan pelindung kulit. Satu-satunya amaran praktikal: apabila menyusun rutin dengan beberapa bahan aktif, **tambah satu demi satu** dalam beberapa minggu supaya kalau ada sesuatu yang merengsa kulit anda, anda tahu yang mana satu. Untuk rutin lengkap yang mengutamakan cara ia berfungsi, lihat [cara merawat jerawat di Singapura: bahan dan rutin yang benar-benar berkesan](/sg/ms/articles/how-to-treat-acne-singapore/).
 

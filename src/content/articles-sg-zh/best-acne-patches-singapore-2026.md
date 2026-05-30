@@ -27,13 +27,13 @@ faqs:
 
 市面上有两种完全不同的技术都被叫做「痘痘贴」，而它们做的其实是相反的工作。
 
-**吸收型痘痘贴**是一种吸收性敷料。它适合已经**冒头**的痘：白头痘、被挤破的痘，或者任何看得到分泌物、「脓液」的痘。这种贴会把分泌物吸出来（你会看到它变白），同时挡住你的手指别去碰它，让痘痘好得更快、更干净。这层屏障很重要：[美国皮肤病学会（American Academy of Dermatology）](https://www.aad.org/public/diseases/acne)指出，抠或挤痘痘可能让痘情恶化、留下疤痕。这就是经典的「过夜痘痘贴」。
+**吸收型痘痘贴**是一种吸收性敷料。它适合已经**冒头**的痘：白头痘、被挤破的痘，或者任何看得到分泌物、「脓液」的痘。这种贴会把分泌物吸出来（你会看到它变白），同时挡住你的手指别去碰它，让痘痘好得更快、更干净。这层屏障很重要：[美国皮肤病学会 (American Academy of Dermatology)](https://www.aad.org/public/diseases/acne) 指出，抠或挤痘痘可能让痘情恶化、留下疤痕。这就是经典的「过夜痘痘贴」。
 
-**微针贴**则恰恰相反。它带有数百个会溶解的微小锥体，把有效成分送到**皮肤表层下方**。它适合那种早期、又痛、埋在皮下的小肿块，也就是你摸得到却还看不见的那种，而吸收型痘痘贴对它无能为力，因为表面根本还没东西可吸。（这类更深、带炎症的痘，比如丘疹和结节，跟表面的白头痘是两回事；[DermNet](https://dermnetnz.org/topics/acne-vulgaris) 完整介绍了各种痘痘的类型。）（我们在[微针痘痘贴是怎么起作用的](/sg/zh/articles/how-microneedle-acne-patches-work/)里拆解了它的原理，并在[吸收型痘痘贴 vs 微针贴](/sg/zh/articles/hydrocolloid-vs-microneedle-acne-patches/)里把两种类型做了正面对比。）
+**微针贴**则恰恰相反。它带有数百个会溶解的微小锥体，把有效成分送到**皮肤表层下方**。它适合那种早期、又痛、埋在皮下的小肿块，也就是你摸得到却还看不见的那种，而吸收型痘痘贴对它无能为力，因为表面根本还没东西可吸。这类更深、带炎症的痘，比如丘疹和结节，跟表面的白头痘是两回事；[DermNet](https://dermnetnz.org/topics/acne-vulgaris) 完整介绍了各种痘痘的类型。我们在[微针痘痘贴是怎么起作用的](/sg/zh/articles/how-microneedle-acne-patches-work/) 里拆解了它的原理，并在[吸收型痘痘贴 vs 微针贴](/sg/zh/articles/hydrocolloid-vs-microneedle-acne-patches/) 里把两种类型做了正面对比。
 
 > 一个简单的判断标准：看得到白色「脓液」，用吸收型；只摸得到、看不到，用微针贴。
 
-至于那些又深又痛、始终没怎么冒出来的硬块，我们在[囊肿型与皮下痘痘最佳贴片](/sg/zh/articles/best-patch-for-cystic-under-skin-acne-singapore/)指南里讲得更深入。
+至于那些又深又痛、始终没怎么冒出来的硬块，我们在[囊肿型与皮下痘痘最佳贴片](/sg/zh/articles/best-patch-for-cystic-under-skin-acne-singapore/) 指南里讲得更深入。
 
 ## 精选清单（新加坡，2026）
 
@@ -44,7 +44,7 @@ faqs:
 | **COSRX Acne Pimple Master** | 吸收型 | 可靠的全能型，到处都买得到 | 约 $10–13 / 24 片 |
 | **Hero Mighty Patch** | 吸收型 | 知名度高的进口高端款，有一批死忠粉 | 约 $13–18 / 包 |
 | **Watsons Acne Patch** | 吸收型 | 便宜，全岛每家 Watsons 都有，最方便的应急之选 | 约 $5–8 / 包 |
-| **Nexcare Acne Dressing** | 吸收型 | 平价、无药性、温和 | 约 $8 / 包 |
+| **Nexcare Acne Dressing** | 吸收型 | 平价、不含药用成分、温和 | 约 $8 / 包 |
 | **Some By Mi Clear Spot Patch** | 吸收型 | 透气，韩妆爱用款 | 约 $10–15 / 包 |
 | **OXY Acne Patch** | 含药型 | 想要点抗菌成分的人 | 约 $6–7 / 包 |
 | **STIK Original Dot** | 吸收型 | 单片成本低，多尺寸 | 约 $5 / 15 片 |
@@ -60,9 +60,9 @@ faqs:
 
 ## 多数清单都漏掉的两件事：高性价比和微针选项
 
-**性价比。** 想要好用的吸收型痘痘贴，不一定要付进口价。像 **STIK Original Dot**（约 $5 买 15 片混合尺寸，含水杨酸 (salicylic acid)、烟酰胺 (niacinamide) 和茶树 (tea tree) 成分）这样的高性价比选项，核心功效跟 Hero 这类更贵的进口贴一样，对常爆痘的人来说，这点很关键。
+**性价比。** 想要好用的吸收型痘痘贴，不一定要付进口价。像 **STIK Original Dot**，约 $5 买 15 片混合尺寸，含水杨酸 (salicylic acid)、烟酰胺 (niacinamide) 和茶树 (tea tree) 成分，这样的高性价比选项，核心功效跟 Hero 这类更贵的进口贴一样，对常爆痘的人来说，这点很关键。
 
-**微针的可及性。** 新加坡大多数货架上根本不卖微针贴。所以如果你要处理的是早期、皮下的小肿块，通常得上网找。像 **STIK MicroForce**（含神经酰胺 (ceramides)、透明质酸 (hyaluronic acid)、胜肽 (peptides) 和水杨酸 (salicylic acid)）这样的选项，针对的正是吸收型贴够不到的皮下小肿块。
+**微针的可及性。** 新加坡大多数货架上根本不卖微针贴。所以如果你要处理的是早期、皮下的小肿块，通常得上网找。像 **STIK MicroForce**，含神经酰胺 (ceramides)、透明质酸 (hyaluronic acid)、胜肽 (peptides) 和水杨酸 (salicylic acid)，这样的选项，针对的正是吸收型贴够不到的皮下小肿块。
 
 ## 在新加坡哪里买
 

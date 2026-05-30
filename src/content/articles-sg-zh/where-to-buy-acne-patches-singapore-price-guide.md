@@ -36,20 +36,20 @@ faqs:
 
 ## 痘痘贴在新加坡实际多少钱（2026）
 
-放表格之前，有一点值得直说：贵的痘痘贴**不等于**就是好的。这份清单上几乎每一款痘痘贴，核心技术都一样：都是吸收型材料，一种伤口敷料凝胶，能把已经冒头的痘痘里的脓液和分泌物吸出来，又挡住你去抠它；[美国皮肤科学会](https://www.aad.org/public/diseases/acne)指出，这是避免留疤、又不拖慢愈合的关键方法之一。一包大概 $5 的平价货，和一包 $18 的进口货，做的是同一件根本的事。你多付的钱，主要是付给品牌、厚度、包装，有时还有额外添加的成分。看价钱的时候，把这点记在心里。
+放表格之前，有一点值得直说：贵的痘痘贴**不等于**就是好的。这份清单上几乎每一款痘痘贴，核心技术都一样：都是吸收型材料，一种伤口敷料凝胶，能把已经冒头的痘痘里的脓液和分泌物吸出来，又挡住你去抠它；[美国皮肤科学会](https://www.aad.org/public/diseases/acne) 指出，这是避免留疤、又不拖慢愈合的关键方法之一。一包大概 $5 的平价货，和一包 $18 的进口货，做的是同一件根本的事。你多付的钱，主要是付给品牌、厚度、包装，有时还有额外添加的成分。看价钱的时候，把这点记在心里。
 
 下面是新加坡常见的价钱区间。全部都是**约数，请以当下的实际标价为准**，因为平台价钱会随促销变动，片数也各不相同。
 
 | 痘痘贴 | 类型 | 约略价钱（新加坡） | 哪里买 |
 |---|---|---|---|
-| **STIK Original Dot** | 吸收型痘痘贴（含水杨酸 (salicylic acid)、烟酰胺 (niacinamide)、茶树 (tea tree)） | ~$5 / 15 片 | Shopee、Lazada |
+| **STIK Original Dot** | 吸收型痘痘贴，含水杨酸 (salicylic acid)、烟酰胺 (niacinamide)、茶树 (tea tree) | ~$5 / 15 片 | Shopee、Lazada |
 | **Watsons Acne Patch** | 吸收型痘痘贴，平价，每家 Watsons 都有 | ~$5–8 / 包 | Watsons（全岛） |
 | **OXY Acne Patch** | 药用 / 抗菌 | ~$6–7 / 包 | Watsons、Guardian、网购 |
 | **Nexcare Acne Dressing** | 吸收型痘痘贴，不含药用成分 | ~$8 / 包 | Watsons、Guardian、网购 |
 | **COSRX Acne Pimple Master** | 吸收型痘痘贴，靠谱的全能款 | ~$10–13 / 24 片 | Watsons、Guardian、网购 |
 | **Some By Mi Clear Spot Patch** | 吸收型痘痘贴，透气韩系 | ~$10–15 / 包 | 主要在网购 |
 | **Hero Mighty Patch** | 吸收型痘痘贴，知名的进口高端货 | ~$13–18 / 包 | Amazon.sg、iHerb、Lazada |
-| **STIK MicroForce for Early Acne** | 微针贴（含神经酰胺 (ceramides)、透明质酸 (hyaluronic acid)、胜肽 (peptides)、水杨酸 (salicylic acid)） | ~$9 | Shopee、Lazada |
+| **STIK MicroForce for Early Acne** | 微针贴，含神经酰胺 (ceramides)、透明质酸 (hyaluronic acid)、胜肽 (peptides)、水杨酸 (salicylic acid) | ~$9 | Shopee、Lazada |
 | **STIK Air Dot** | 超薄隐形日间痘痘贴 | ~$6 | Shopee、Lazada |
 
 关于这份清单的几句实话：
@@ -61,7 +61,7 @@ faqs:
 - **STIK Original Dot** 是性价比之选，如果你最在意的是每片单价的话：大概 $5 一包 15 片混合尺寸，含水杨酸 (salicylic acid)、烟酰胺 (niacinamide) 和茶树 (tea tree)，每片算下来比做同样工作的进口货还便宜。它是网购款（Shopee、Lazada），不是药妆店款。
 - **微针贴和隐形痘痘贴**（像 STIK MicroForce 和 STIK Air Dot）几乎从来不会出现在实体货架上，所以你想要这种类型的话，预设就是上网买。
 
-如果你想按*哪款适合哪种痘痘*来排，而不是按价钱排，那是另一个问题，我们在[新加坡最佳痘痘贴指南](/sg/zh/articles/best-acne-patches-singapore-2026/)里有讲。
+如果你想按*哪款适合哪种痘痘*来排，而不是按价钱排，那是另一个问题，我们在[新加坡最佳痘痘贴指南](/sg/zh/articles/best-acne-patches-singapore-2026/) 里有讲。
 
 ## 帮你省钱的一个习惯：比每片单价，别比每包总价
 
@@ -94,11 +94,11 @@ faqs:
 
 ## 关于韩国品牌以及它们的定位
 
-新加坡人想买的痘痘贴里，很多（COSRX、Some By Mi，以及整体的韩系选择）都是韩国货，而这些正是你上网比在药妆店容易找到得多的产品。它们受欢迎是有道理的：薄、透气，包装通常也美。但 "韩国" 本身并不是一个品质等级，一款西方或平价的吸收型痘痘贴，也能做一模一样的工作。如果你在这两派之间犹豫，我们在[韩系 vs 西式痘痘贴](/sg/zh/articles/korean-vs-western-acne-patches/)里以作用机制为先做了比较，让你不必为一个标签多花钱。
+新加坡人想买的痘痘贴里，很多（COSRX、Some By Mi，以及整体的韩系选择）都是韩国货，而这些正是你上网比在药妆店容易找到得多的产品。它们受欢迎是有道理的：薄、透气，包装通常也美。但 "韩国" 本身并不是一个品质等级，一款西方或平价的吸收型痘痘贴，也能做一模一样的工作。如果你在这两派之间犹豫，我们在[韩系 vs 西式痘痘贴](/sg/zh/articles/korean-vs-western-acne-patches/) 里以作用机制为先做了比较，让你不必为一个标签多花钱。
 
 ## 帮青少年买痘痘贴
 
-如果你是家长，要帮青少年买痘痘贴，有两件事比品牌更重要：温和和价钱，因为青春期的皮肤经常长痘痘，你会一直回购。不含药用成分的吸收型痘痘贴（Nexcare，或者大多数品牌的基础款）是安全、低刺激的起点，而片数多的高性价比包装，能在频繁使用时压低每片单价。如果你想要有指引的选项，我们在[新加坡青少年最佳痘痘贴](/sg/zh/articles/best-acne-patches-for-teens-singapore/)里整理了具体的推荐。
+如果你是家长，要帮青少年买痘痘贴，有两件事比品牌更重要：温和和价钱，因为青春期的皮肤经常长痘痘，你会一直回购。不含药用成分的吸收型痘痘贴（Nexcare，或者大多数品牌的基础款）是安全、低刺激的起点，而片数多的高性价比包装，能在频繁使用时压低每片单价。如果你想要有指引的选项，我们在[新加坡青少年最佳痘痘贴](/sg/zh/articles/best-acne-patches-for-teens-singapore/) 里整理了具体的推荐。
 
 ## 什么时候痘痘贴不是答案
 

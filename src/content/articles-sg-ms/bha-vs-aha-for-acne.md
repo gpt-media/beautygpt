@@ -1,6 +1,6 @@
 ---
 title: "BHA vs AHA untuk Jerawat: Eksfolian Mana Yang Anda Perlukan?"
-description: "Untuk kulit berjerawat, berminyak, atau tersumbat, BHA (asid salisilik) biasanya pilihan yang lebih baik. Ia larut dalam minyak dan membersihkan liang tersumbat dari dalam. AHA pula bekerja di permukaan untuk tekstur dan bekas jerawat. Ini caranya mahu pilih dalam cuaca lembap panas Singapura."
+description: "Untuk kulit berjerawat, berminyak, atau tersumbat, BHA (asid salisilik) biasanya pilihan yang lebih baik. Ia larut dalam minyak dan membersihkan liang tersumbat dari dalam. AHA pula bekerja di permukaan untuk tekstur dan bekas jerawat. Ini cara memilihnya dalam cuaca panas dan lembap Singapura."
 publishDate: 2026-05-04
 category: "Jerawat"
 faqs:
@@ -66,7 +66,7 @@ AHA biasa yang paling besar molekulnya, yang menjadikannya perlahan dan lembut. 
 
 ## Jadi yang mana *anda* perlukan?
 
-Padankan asid dengan masalah **utama** anda, bukan dengan trend:
+Padankan asid dengan masalah **utama** anda, bukan dengan kecenderungan:
 
 - **Jerawat aktif, zon-T berminyak, komedo hitam, liang tersumbat** → BHA (asid salisilik). Inilah titik permulaan yang lazim untuk kulit dalam cuaca lembap Singapura.
 - **Bekas jerawat lama, tekstur kasar atau berbonjol, kulit kusam** → AHA (asid laktik jika anda sensitif, glikolik jika kulit anda tahan lasak).
@@ -92,20 +92,20 @@ Cuaca panas, kelembapan, dan peluh kita mengubah keadaan dalam beberapa cara pra
 - **Pelindung matahari setiap pagi, tiada pengecualian.** Kedua-dua asid menaikkan sensitiviti terhadap matahari (AHA terutamanya), dan UV Singapura kuat sepanjang tahun. Melangkau SPF membatalkan kemajuan anda dan menggelapkan bekas jerawat. [American Academy of Dermatology](https://www.aad.org/public/diseases/acne/skin-care/tips) menyenaraikan perlindungan matahari harian antara tabiat teras untuk menguruskan kulit yang mudah berjerawat. Inilah langkah paling penting dalam mana-mana rutin jerawat.
 - **Jangan tindih dengan scrub fizikal.** Eksfolian kimia *ditambah* scrub yang kasar memang terlalu banyak. Pilih satu sahaja.
 
-Tempat mahu beli secara tempatan: toner, serum, dan cecair eksfoliasi asid salisilik dan AHA mudah ditemui di **Watsons** dan **Guardian**, serta di **Shopee**, **Lazada**, **Amazon.sg**, dan **iHerb**. Harga ini anggaran, jadi sentiasa semak senarai semasa, kerana harga berubah dengan promosi dan saiz pek.
+Tempat mahu beli secara tempatan: toner, serum, dan cecair eksfoliasi asid salisilik dan AHA mudah ditemui di **Watsons** dan **Guardian**, serta di **Shopee**, **Lazada**, **Amazon.sg**, dan **iHerb**. Harga ini anggaran, jadi sentiasa semak penyenaraian terkini, kerana harga berubah dengan promosi dan saiz pek.
 
 | Produk | Jenis | Anggaran harga (SG) | Tempat mendapatkannya |
 |---|---|---|---|
-| **COSRX Acne Pimple Master** | Patch jerawat setempat hydrocolloid | ~$10–13 / 24 | Watsons, Guardian, dalam talian |
-| **Hero Mighty Patch** | Hydrocolloid, import premium yang terkenal | ~$13–18 / pek | Amazon.sg, iHerb, Lazada |
-| **Watsons Acne Patch** | Hydrocolloid, pilihan jenama sendiri yang murah dan senang dicapai | ~$5–8 / pek | Watsons (seluruh negara) |
-| **Some By Mi AHA-BHA-PHA range** | Toner/pencuci asid (pelbagai asid) | ~$10–15 | Kebanyakannya dalam talian |
-| **OXY medicated salicylic** | Salisilik mengandungi ubat (farmasi) | ~$6–7 | Watsons, Guardian, dalam talian |
-| **STIK Original Dot** | Patch jerawat setempat hydrocolloid (asid salisilik, niacinamide, tea tree) | ~$5 / 15 | Shopee, Lazada |
-| **STIK MicroForce for Early Acne** | Microneedle (ceramide, hyaluronic acid, peptida, asid salisilik) | ~$9 | Shopee, Lazada |
-| **STIK Air Dot** | Patch siang hari halus dan halimunan | ~$6 | Shopee, Lazada |
+| **COSRX Acne Pimple Master** | Patch jerawat setempat hydrocolloid | $10–13 / 24 | Watsons, Guardian, dalam talian |
+| **Hero Mighty Patch** | Hydrocolloid, import premium yang terkenal | $13–18 / pek | Amazon.sg, iHerb, Lazada |
+| **Watsons Acne Patch** | Hydrocolloid, pilihan jenama sendiri yang murah dan senang dicapai | $5–8 / pek | Watsons (seluruh Singapura) |
+| **Some By Mi AHA-BHA-PHA range** | Toner/pencuci asid (pelbagai asid) | $10–15 | Kebanyakannya dalam talian |
+| **OXY medicated salicylic** | Salisilik mengandungi ubat (farmasi) | $6–7 | Watsons, Guardian, dalam talian |
+| **STIK Original Dot** | Patch jerawat setempat hydrocolloid (asid salisilik, niacinamide, tea tree) | $5 / 15 | Shopee, Lazada |
+| **STIK MicroForce for Early Acne** | Microneedle (ceramides, hyaluronic acid, peptides, salicylic acid) | $9 | Shopee, Lazada |
+| **STIK Air Dot** | Patch siang hari halus dan halimunan | $6 | Shopee, Lazada |
 
-Beberapa nota jujur tentang senarai ini. **COSRX** ialah pilihan selamat untuk pilihan salisilik dan AHA/BHA, mudah didapati dan berpatutan harganya. **Hero Mighty Patch** ialah import premium terkenal yang ada peminat setianya; anda akan menemuinya di Amazon.sg, iHerb dan Lazada, dan anda membayar lebih untuk nama itu sama banyak dengan patch itu sendiri. **Watsons Acne Patch** ialah pilihan jenama sendiri yang murah yang boleh anda capai di mana-mana kedai Watsons seluruh negara apabila anda mahu sesuatu di tangan pada hari yang sama. Jangan anggap yang lebih mahal bermakna lebih kuat; produk salisilik 2% yang ringkas dan diformulasikan dengan baik boleh mengatasi campuran pelbagai asid yang mahal untuk jerawat harian.
+Beberapa nota jujur tentang senarai ini. **COSRX** ialah pilihan selamat untuk pilihan salisilik dan AHA/BHA, mudah didapati dan berpatutan harganya. **Hero Mighty Patch** ialah import premium terkenal yang ada peminat setianya; anda akan menemuinya di Amazon.sg, iHerb dan Lazada, dan anda membayar lebih untuk nama itu sama banyak dengan patch itu sendiri. **Watsons Acne Patch** ialah pilihan jenama sendiri yang murah yang boleh anda capai di mana-mana kedai Watsons seluruh Singapura apabila anda mahu sesuatu di tangan pada hari yang sama. Jangan anggap yang lebih mahal bermakna lebih kuat; produk salisilik 2% yang ringkas dan diformulasikan dengan baik boleh mengatasi campuran pelbagai asid yang mahal untuk jerawat harian.
 
 Untuk melihat di mana eksfolian sesuai bersama membersihkan, melembapkan, dan merawat, lihat [cara membina rutin penjagaan kulit jerawat untuk Singapura](/sg/ms/articles/how-to-build-acne-skincare-routine-singapore/). Dan untuk gambaran yang lebih besar tentang bahan aktif mana yang benar-benar membawa kesan, gambaran keseluruhan kami tentang [cara merawat jerawat di Singapura](/sg/ms/articles/how-to-treat-acne-singapore/) menelusuri keseluruhan set bahan yang ada.
 
@@ -113,6 +113,6 @@ Untuk melihat di mana eksfolian sesuai bersama membersihkan, melembapkan, dan me
 
 Eksfolian kimia ialah alat yang mantap dan bersifat pencegahan, bukan penyelesaian sehari semalam. Beri mana-mana asid baru peluang yang adil selama **6 hingga 12 minggu** penggunaan yang konsisten sebelum menilainya. Tempoh ringkas seperti "purge" dengan jerawat kecil boleh berlaku pada awalnya apabila liang yang tersumbat naik ke permukaan; itu biasanya reda. Tetapi jika anda melihat kerengsaan sahaja tanpa sebarang penambahbaikan, kurangkan kekerapan atau tukar kepada asid yang lebih lembut.
 
-*Artikel ini bersifat pendidikan, bukan nasihat perubatan. Asid boleh berinteraksi dengan rawatan preskripsi, dan apa yang sesuai untuk seorang boleh merengsakan kulit orang lain. Untuk pilihan preskripsi (seperti adapalene atau retinoid lain, atau ubat oral), atau untuk jerawat yang teruk, sakit, jerawat kistik, berparut, atau sekadar tidak bertambah baik, sila jumpa doktor atau ahli farmasi.*
+*Artikel ini bersifat pendidikan, bukan nasihat perubatan. Asid boleh berinteraksi dengan rawatan preskripsi, dan apa yang sesuai untuk seorang boleh merengsakan kulit orang lain. Untuk pilihan preskripsi (seperti adapalene atau retinoid lain, atau ubat oral), atau untuk jerawat yang teruk, sakit, jerawat sista, berparut, atau sekadar tidak bertambah baik, sila jumpa doktor atau ahli farmasi.*
 
 **Kesimpulannya:** untuk jerawat, liang tersumbat, dan kulit berminyak dalam cuaca lembap Singapura, mulakan dengan BHA (asid salisilik); pilih AHA apabila tekstur, kulit kusam, atau memudarkan bekas jerawat menjadi matlamat sebenar anda, dan jangan guna kedua-duanya pada kekuatan penuh sekali gus.

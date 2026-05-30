@@ -2,20 +2,20 @@
 title: "Salicylic Acid untuk Jerawat: Cara Ia Berfungsi dan Cara Menggunakannya"
 description: "Salicylic acid ialah BHA larut minyak yang menanggalkan sel kulit mati dalam liang roma, sebab itulah ia berkesan untuk komedo, jerawat putih dan kulit berminyak yang tersumbat. Mulakan sekali sehari, naikkan perlahan-lahan, dan gandingkan dengan berhati-hati. Ini panduan penuh untuk kulit di Singapura."
 publishDate: 2026-04-09
-category: "Acne"
+category: "Jerawat"
 faqs:
   - q: "Berapa kerap saya patut guna salicylic acid untuk jerawat?"
     a: "Mulakan sekali sehari, biasanya pada waktu malam, atau dua hari sekali kalau kulit anda baru mengenali bahan ini atau cenderung kering. Kebanyakan orang akhirnya selesa dengan sekali sehari untuk produk yang dibiarkan pada kulit. Kalau anda guna pencuci muka salicylic sekali, itu hanya sentuhan singkat dan dikira lebih lembut, tetapi dua bahan aktif kuat yang dibiarkan pada kulit serentak biasanya terlalu banyak ketika anda baru bermula."
   - q: "Salicylic acid atau benzoyl peroxide yang lebih baik untuk jerawat?"
-    a: "Kedua-duanya buat kerja yang berbeza. Salicylic acid menanggalkan sel kulit mati dalam liang roma dan sesuai untuk komedo, jerawat putih dan kulit tersumbat secara umum. Benzoyl peroxide membunuh bakteria penyebab jerawat dan sesuai untuk jerawat meradang yang bernanah. Ramai orang yang ada jerawat campuran guna satu pada waktu pagi dan satu lagi pada waktu malam, tetapi cuba satu demi satu supaya anda tahu yang mana satu kulit anda boleh terima."
-  - q: "Boleh tak saya guna salicylic acid setiap hari dalam cuaca lembap Singapura?"
-    a: "Boleh, penggunaan harian tiada masalah bagi kebanyakan orang setelah kulit anda dah biasa, dan kulit berminyak yang tersumbat dalam cuaca lembap selalunya bertindak balas dengan baik terhadap BHA yang digunakan secara tetap. Kelembapan tak mengubah cara bahan ini berfungsi, tetapi peluh dan cuaca panas boleh buat kulit terasa lebih sensitif, jadi tetap naikkan perlahan-lahan dan berhenti kalau anda nampak kulit terkelupas atau terasa pedih."
-  - q: "Apa yang tak patut saya campur dengan salicylic acid?"
+    a: "Kedua-duanya mempunyai fungsi yang berbeza. Salicylic acid menanggalkan sel kulit mati dalam liang roma dan sesuai untuk komedo, jerawat putih dan kulit tersumbat secara umum. Benzoyl peroxide membunuh bakteria penyebab jerawat dan sesuai untuk jerawat meradang yang bernanah. Ramai orang yang ada jerawat campuran guna satu pada waktu pagi dan satu lagi pada waktu malam, tetapi cuba satu demi satu supaya anda tahu yang mana satu kulit anda boleh terima."
+  - q: "Boleh tidak saya guna salicylic acid setiap hari dalam cuaca lembap Singapura?"
+    a: "Boleh, penggunaan harian tiada masalah bagi kebanyakan orang setelah kulit anda sudah biasa, dan kulit berminyak yang tersumbat dalam cuaca lembap selalunya bertindak balas dengan baik terhadap BHA yang digunakan secara tetap. Kelembapan tidak mengubah cara bahan ini berfungsi, tetapi peluh dan cuaca panas boleh menjadikan kulit terasa lebih sensitif, jadi tetap naikkan perlahan-lahan dan berhenti kalau anda nampak kulit terkelupas atau terasa pedih."
+  - q: "Apa yang tidak patut saya campur dengan salicylic acid?"
     a: "Elakkan menggunakannya dalam rutin yang sama dengan bahan aktif penanggal sel kulit mati yang lain dan kuat (AHA seperti glycolic acid, atau retinoid seperti adapalene) ketika anda baru bermula, sebab menggabungkan dua-duanya serentak meningkatkan risiko kerengsaan. Selalunya anda boleh selang-selikan ikut malam sebagai ganti. Niacinamide, hyaluronic acid, ceramide dan kebanyakan pelembap pula sesuai digandingkan dengannya."
   - q: "Berapa lama salicylic acid mengambil masa untuk berkesan pada jerawat?"
     a: "Beri ia peluang yang munasabah selama kira-kira 4 hingga 8 minggu penggunaan yang konsisten. Anda mungkin perasan kulit terasa lebih licin dan kurang tersumbat dalam masa seminggu dua, tetapi proses membersihkan komedo dan mengurangkan jerawat berlaku secara beransur-ansur. Kalau tiada penambahbaikan selepas dua bulan, atau jerawat anda makin teruk, jumpa doktor atau ahli farmasi untuk pilihan lain."
-  - q: "Salicylic acid boleh tak bantu hilangkan parut jerawat dan bekas hitam?"
-    a: "Tak secara langsung untuk parut sebenar, iaitu perubahan pada tekstur kulit. Ia boleh membantu sedikit pembaharuan sel di permukaan, yang lama-kelamaan mungkin menambah baik rupa bekas hitam atau kemerahan yang rata, yang tinggal selepas jerawat sembuh. Khusus untuk bekas hitam, bahan seperti niacinamide dan pelindung matahari yang konsisten buat lebih banyak kerja."
+  - q: "Salicylic acid boleh tidak bantu hilangkan parut jerawat dan bekas hitam?"
+    a: "Tidak secara langsung untuk parut sebenar, iaitu perubahan pada tekstur kulit. Ia boleh membantu sedikit pembaharuan sel di permukaan, yang lama-kelamaan mungkin menambah baik rupa bekas hitam atau kemerahan yang rata, yang tinggal selepas jerawat sembuh. Khusus untuk bekas hitam, bahan seperti niacinamide dan pelindung matahari yang konsisten buat lebih banyak kerja."
 ---
 
 Kalau anda mahu versi ringkas: **salicylic acid ialah beta-hydroxy acid (BHA) yang larut dalam minyak, jadi ia boleh menembusi liang roma dan menanggalkan sel kulit mati dari dalam, lalu membersihkan kulit mati dan sebum yang menyumbatnya. Sifatnya yang gemar minyak inilah sebabnya ia menjadi bahan aktif paling utama untuk komedo, jerawat putih dan kulit berminyak yang tersumbat, dan sebab juga ia cenderung mengecewakan pada jerawat sista yang dalam dan meradang.** Untuk menggunakannya dengan betul, mulakan sekali sehari, naikkan perlahan-lahan, gandingkan dengan bahan yang menenangkan kulit dan bukannya asid kuat yang lain, dan beri ia beberapa minggu.
@@ -49,7 +49,7 @@ Anda akan nampak salicylic acid dalam beberapa format dan kepekatan di rak kedai
 | Gel sasaran untuk jerawat | sehingga ~2% (OTC) | Disapu pada jerawat tertentu | Kekal, setempat |
 | Peeling di klinik | Lebih tinggi, untuk profesional sahaja | Sumbatan degil, dibuat oleh profesional | Diselia |
 
-Untuk penjagaan jerawat harian, produk yang dibiarkan pada kulit dan dijual bebas dalam **lingkungan kira-kira 2%** ialah kebiasaannya. Lebih tinggi tidak semestinya lebih baik. Menggunakan yang lebih kuat kebanyakannya menaikkan kemungkinan kerengsaan tanpa peningkatan manfaat yang setara untuk penggunaan biasa. Jenama yang anda akan cam di Watsons, Guardian dan di Shopee atau Lazada termasuk COSRX (cecair BHA-nya sudah lama menjadi kegemaran), Some By Mi, dan rangkaian berubat seperti Oxy. Julat harganya luas: pencuci muka salicylic boleh berada sekitar $15–30, manakala serum BHA terkenal yang dibiarkan pada kulit selalunya kira-kira $20–40 (anggaran sahaja, jadi semak senarai semasa, kerana promosi di Shopee dan Lazada kerap mengubah harga ini).
+Untuk penjagaan jerawat harian, produk yang dibiarkan pada kulit dan dijual bebas dalam **lingkungan kira-kira 2%** ialah kebiasaannya. Lebih tinggi tidak semestinya lebih baik. Menggunakan yang lebih kuat kebanyakannya menaikkan kemungkinan kerengsaan tanpa peningkatan manfaat yang setara untuk penggunaan biasa. Jenama yang anda akan cam di Watsons, Guardian dan di Shopee atau Lazada termasuk COSRX (cecair BHA-nya sudah lama menjadi kegemaran), Some By Mi, dan rangkaian berubat seperti Oxy. Julat harganya luas: pencuci muka salicylic boleh berada sekitar $15–30, manakala serum BHA terkenal yang dibiarkan pada kulit selalunya kira-kira $20–40 (anggaran sahaja, jadi semak penyenaraian terkini, kerana promosi di Shopee dan Lazada kerap mengubah harga ini).
 
 ## Cara sebenar menggunakannya, langkah demi langkah
 
@@ -61,7 +61,7 @@ Kalau kulit anda baru mengenali asid, mulakan dengan **produk salicylic yang dib
 
 ### 2. Di mana kedudukannya dalam rutin
 
-Untuk cecair atau serum yang dibiarkan pada kulit: bersihkan muka, biarkan kulit kering, sapu produk salicylic ke **seluruh kawasan yang tersumbat** (bukan pada satu jerawat sahaja, kerana ini langkah penyelenggaraan), tunggu seminit dua, kemudian pakai pelembap. Pada waktu pagi, pelindung matahari memang wajib; asid penanggal sel kulit mati boleh buat kulit sedikit lebih sensitif kepada matahari, dan sinaran UV di Singapura kuat sepanjang tahun.
+Untuk cecair atau serum yang dibiarkan pada kulit: bersihkan muka, biarkan kulit kering, sapu produk salicylic ke **seluruh kawasan yang tersumbat** (bukan pada satu jerawat sahaja, kerana ini langkah penyelenggaraan), tunggu seminit dua, kemudian pakai pelembap. Pada waktu pagi, pelindung matahari memang wajib; asid penanggal sel kulit mati boleh menjadikan kulit sedikit lebih sensitif kepada matahari, dan sinaran UV di Singapura kuat sepanjang tahun.
 
 ### 3. Rawat seluruh kawasannya, bukan satu titik sahaja
 
@@ -69,9 +69,9 @@ Kesilapan biasa ialah menggunakan salicylic acid hanya pada jerawat yang kelihat
 
 ### 4. Susun ia dalam gambaran yang lebih besar
 
-Salicylic acid ialah satu bahagian rutin, bukan keseluruhannya. Rutin jerawat yang ringkas dan berkesan ialah pencuci muka yang lembut, satu bahan aktif yang buat kerja berat, satu pelembap dan pelindung matahari setiap hari. Kalau anda mahu rangka kerja penuh (apa yang perlu diguna pada waktu pagi berbanding malam, dan bagaimana setiap bahagian saling melengkapi), lihat panduan utama kami tentang [cara merawat jerawat di Singapura: bahan dan rutin yang benar-benar berkesan](/sg/ms/articles/how-to-treat-acne-singapore/).
+Salicylic acid ialah satu bahagian rutin, bukan keseluruhannya. Rutin jerawat yang ringkas dan berkesan ialah pencuci muka yang lembut, satu bahan aktif utama, satu pelembap dan pelindung matahari setiap hari. Kalau anda mahu rangka kerja penuh (apa yang perlu diguna pada waktu pagi berbanding malam, dan bagaimana setiap bahagian saling melengkapi), lihat panduan utama kami tentang [cara merawat jerawat di Singapura: bahan dan rutin yang benar-benar berkesan](/sg/ms/articles/how-to-treat-acne-singapore/).
 
-## Apa yang nak digandingkan dengannya, dan apa yang nak diasingkan
+## Apa yang mahu digandingkan dengannya, dan apa yang mahu diasingkan
 
 Salicylic acid sesuai dengan kebanyakan produk penjagaan kulit. Masalah hanya bermula apabila anda menggabungkan dua penanggal sel kulit mati yang kuat.
 
@@ -91,21 +91,21 @@ Salicylic acid sesuai dengan kebanyakan produk penjagaan kulit. Masalah hanya be
 
 ## Sudut Singapura: kelembapan dan kulit berminyak
 
-Cuaca panas dan lembap tak mengubah kimia salicylic acid, tetapi ia menentukan siapa yang mendapat manfaat. Cuaca panas yang berterusan mengekalkan pengeluaran sebum yang tinggi, peluh bercampur dengan pelindung matahari dan kotoran, lalu liang roma mudah tersumbat. Ciri-ciri itu, **berminyak, tersumbat, mudah berkomedo**, ialah tepat dengan apa yang dimaksudkan oleh BHA yang digunakan secara tetap, sebab itulah salicylic acid menjadi salah satu bahan aktif paling berguna untuk kebanyakan orang Singapura.
+Cuaca panas dan lembap tidak mengubah kimia salicylic acid, tetapi ia menentukan siapa yang mendapat manfaat. Cuaca panas yang berterusan mengekalkan pengeluaran sebum yang tinggi, peluh bercampur dengan pelindung matahari dan kotoran, lalu liang roma mudah tersumbat. Ciri-ciri itu, **berminyak, tersumbat, mudah berkomedo**, ialah tepat dengan apa yang dimaksudkan oleh BHA yang digunakan secara tetap, sebab itulah salicylic acid menjadi salah satu bahan aktif paling berguna untuk kebanyakan orang Singapura.
 
-Dua nota praktikal. Pertama, cuaca panas dan peluh boleh buat kulit *terasa* lebih sensitif, jadi nasihat "mula perlahan" itu lebih penting lagi di sini; jangan terus melompat ke penggunaan setiap malam berserta penggosok. Kedua, pelindung matahari memang memainkan peranan yang penting. Antara sinaran UV yang kuat dan asid yang sedikit menyebabkan sensitif cahaya, SPF harian ialah langkah yang melindungi semua usaha anda.
+Dua nota praktikal. Pertama, cuaca panas dan peluh boleh menjadikan kulit *terasa* lebih sensitif, jadi nasihat "mula perlahan" itu lebih penting lagi di sini; jangan terus melompat ke penggunaan setiap malam berserta penggosok. Kedua, pelindung matahari memang memainkan peranan yang penting. Antara sinaran UV yang kuat dan asid yang sedikit menyebabkan sensitif cahaya, SPF harian ialah langkah yang melindungi semua usaha anda.
 
 ## Bila salicylic acid bukan jawapannya (bahagian yang jujur)
 
 Ia memang bagus, tetapi ia bukan penyelesaian untuk segala masalah, dan menganggap sebaliknya takkan membantu anda.
 
-- **Jerawat sista yang dalam dan menyakitkan** berada terlalu jauh di bawah untuk dijangkau secara berkesan oleh penanggal sel kulit mati topikal. Kalau anda ada benjolan yang lembut dan menyakitkan di bawah kulit, itu hal untuk dibincangkan dengan doktor, bukan BHA yang lebih kuat. [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) mengesyorkan supaya berjumpa pakar dermatologi untuk jerawat yang dalam, menyakitkan atau yang meninggalkan parut.
+- **Jerawat sista yang dalam dan menyakitkan** berada terlalu jauh di bawah untuk dijangkau secara berkesan oleh penanggal sel kulit mati topikal. Kalau anda ada bonjol yang lembut dan menyakitkan di bawah kulit, itu hal untuk dibincangkan dengan doktor, bukan BHA yang lebih kuat. [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) mengesyorkan supaya berjumpa pakar dermatologi untuk jerawat yang dalam, menyakitkan atau yang meninggalkan parut.
 - **Kulit yang sememangnya kering atau sensitif** mungkin mendapati apa-apa asid yang dibiarkan pada kulit terlalu kuat. *Pencuci muka* salicylic yang lembut mungkin sudah memadai untuk kulit sebegitu.
-- **Satu jerawat yang sudah timbul ke permukaan** tak perlukan bahan aktif untuk seluruh muka. Untuk satu jerawat yang meradang dan sudah bernanah, menutup dan melindunginya boleh buat lebih banyak daripada menyapu asid di atasnya. Patch jerawat hydrocolloid yang mengandungi salicylic acid ialah jalan tengah yang kemas di sini. Ia melindungi jerawat daripada dipetik sambil menyalurkan sedikit bahan aktif ke permukaan. Sama ada versi yang ada bahan aktif itu berbaloi berbanding versi biasa, ia bergantung pada jerawat itu sendiri, dan kami menghuraikannya dalam [patch salicylic acid lawan hydrocolloid biasa](/sg/ms/articles/salicylic-acid-patches-vs-hydrocolloid/). Namun patch ialah alat untuk satu jerawat, bukan pengganti rawatan seluruh kawasan.
+- **Satu jerawat yang sudah timbul ke permukaan** tidak perlukan bahan aktif untuk seluruh muka. Untuk satu jerawat yang meradang dan sudah bernanah, menutup dan melindunginya boleh lebih membantu daripada menyapu asid di atasnya. Patch jerawat hydrocolloid yang mengandungi salicylic acid ialah jalan tengah yang kemas di sini. Ia melindungi jerawat daripada dipetik sambil menyalurkan sedikit bahan aktif ke permukaan. Sama ada versi yang ada bahan aktif itu berbaloi berbanding versi biasa, ia bergantung pada jerawat itu sendiri, dan kami menghuraikannya dalam [patch salicylic acid lawan hydrocolloid biasa](/sg/ms/articles/salicylic-acid-patches-vs-hydrocolloid/). Namun patch ialah alat untuk satu jerawat, bukan pengganti rawatan seluruh kawasan.
 
-Dan hakikat ringkas tentang kos: pencuci muka salicylic yang asas berserta pelembap dan pelindung matahari yang ringkas mampu mengatasi satu laci penuh serum mahal yang separuh guna. Anda tak perlu belanja banyak untuk bahan ini berkesan.
+Dan hakikat ringkas tentang kos: pencuci muka salicylic yang asas berserta pelembap dan pelindung matahari yang ringkas mampu mengatasi satu laci penuh serum mahal yang separuh guna. Anda tidak perlu belanja banyak untuk bahan ini berkesan.
 
-**Artikel ini bersifat pendidikan, bukan nasihat perubatan.** Salicylic acid ialah bahan yang dijual bebas dan sesuai untuk ramai orang, tetapi kulit setiap orang berbeza. Jumpa doktor atau ahli farmasi sebelum memulakan rawatan preskripsi seperti adapalene atau ubat oral, dan untuk jerawat yang teruk, menyakitkan, meninggalkan parut atau yang tak bertambah baik selepas beberapa bulan penjagaan yang konsisten.
+**Artikel ini bersifat pendidikan, bukan nasihat perubatan.** Salicylic acid ialah bahan yang dijual bebas dan sesuai untuk ramai orang, tetapi kulit setiap orang berbeza. Jumpa doktor atau ahli farmasi sebelum memulakan rawatan preskripsi seperti adapalene atau ubat oral, dan untuk jerawat yang teruk, menyakitkan, meninggalkan parut atau yang tidak bertambah baik selepas beberapa bulan penjagaan yang konsisten.
 
 ## Kesimpulan
 

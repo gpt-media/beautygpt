@@ -1,8 +1,8 @@
 ---
-title: "Retinol Berbanding Retinoid untuk Jerawat: Di Mana Nak Mula"
+title: "Retinol Berbanding Retinoid untuk Jerawat: Di Mana Hendak Bermula"
 description: "Retinol dan retinoid datang daripada keluarga yang sama. Retinol ialah versi yang lebih lemah dan boleh dibeli tanpa preskripsi; retinoid seperti adapalene dan tretinoin lebih kuat dan merawat jerawat di puncanya dengan mempercepat penggantian sel kulit serta membersihkan liang yang tersumbat. Kebanyakan orang yang baru bermula dan mudah berjerawat di Singapura lebih baik bermula dengan adapalene."
 publishDate: 2026-04-21
-category: "Acne"
+category: "Jerawat"
 faqs:
   - q: "Apa beza antara retinol dan retinoid?"
     a: "Retinoid ialah istilah payung untuk seluruh keluarga vitamin A. Retinol pula salah satu ahli keluarga itu, iaitu bentuk yang lebih lembut dan boleh dibeli tanpa preskripsi, yang biasa ditemui dalam serum kosmetik. Retinoid yang lebih kuat seperti adapalene dan tretinoin bertindak pada kulit dengan lebih terus dan digunakan khusus untuk jerawat. Jadi semua retinol ialah retinoid, tetapi bukan semua retinoid ialah retinol."
@@ -12,7 +12,7 @@ faqs:
     a: "Ini selalunya purging. Retinoid mempercepat kadar penggantian sel kulit, jadi sumbat yang sebenarnya sudah terbentuk jauh di dalam liang naik ke permukaan lebih cepat daripada biasa dalam beberapa minggu pertama. Purging muncul di kawasan yang anda memang biasa berjerawat dan kebiasaannya reda dalam masa empat hingga lapan minggu. Jerawat di kawasan yang betul-betul baharu, atau yang terus bertambah teruk selepas dua bulan, lebih cenderung kepada kerengsaan atau tindak balas, bukan purging."
   - q: "Perlukah saya pakai pelindung matahari kalau saya guna retinol atau retinoid?"
     a: "Ya, dan di Singapura ini memang wajib. Retinoid menjadikan kulit lebih sensitif terhadap UV dan boleh menggelapkan bekas jerawat yang baharu kalau anda terbakar matahari. Gunakan retinoid pada waktu malam dan sapu pelindung matahari spektrum luas SPF 30 hingga 50 setiap pagi, kemudian sapu semula sepanjang hari kalau anda berada di luar. Melangkau pelindung matahari menghilangkan sebahagian besar manfaatnya dan menambah risiko pigmentasi."
-  - q: "Boleh tak saya guna retinoid bersama salicylic acid atau benzoyl peroxide?"
+  - q: "Boleh tidak saya guna retinoid bersama salicylic acid atau benzoyl peroxide?"
     a: "Boleh, tetapi kena berhati-hati, dan biasanya bukan semuanya sekali gus pada hari pertama. Melapiskan banyak bahan aktif sekali gus menambah kemungkinan kerengsaan, kulit kering dan kulit mengelupas. Pendekatan lembut yang biasa ialah memperkenalkan satu bahan aktif pada satu masa, menggunakannya berselang-seli pada malam yang berbeza, dan menaikkan kekerapannya secara perlahan-lahan. Kalau anda mahu menggunakannya bersekali, minta ahli farmasi atau doktor membantu menyusunnya mengikut keadaan kulit anda."
   - q: "Adakah retinoid selamat semasa kehamilan?"
     a: "Retinoid oral tidak selamat semasa hamil, dan kebanyakan doktor menasihatkan supaya berhenti menggunakan retinoid sapuan (termasuk adapalene, tretinoin dan retinol) ketika hamil atau ketika cuba hamil, sebagai langkah berjaga-jaga. Kalau anda hamil, menyusu, atau merancang untuk hamil, berhenti dahulu dan berbincang dengan doktor atau ahli farmasi tentang pilihan rawatan jerawat yang dianggap lebih selamat untuk tempoh itu."
@@ -95,7 +95,7 @@ Retinoid menjadikan kulit anda lebih sensitif terhadap UV, dan ia menipiskan lap
 
 Dua tabiat yang tidak boleh dirunding membetulkan hal ini: **gunakan retinoid hanya pada waktu malam**, dan **pakai pelindung matahari spektrum luas SPF 30 hingga 50 setiap pagi tanpa gagal**, sapu semula kalau anda berada di luar. Dalam kelembapan udara kita, pelindung matahari jenis gel atau cecair yang ringan lebih senang dipakai secara konsisten berbanding krim yang pekat, dan konsistensilah yang melindungi anda. Melangkau pelindung matahari ketika guna retinoid, sejujurnya, ialah membazirkan retinoid itu.
 
-## Di mana nak mula, mengikut jenis kulit dan matlamat
+## Di mana mahu mula, mengikut jenis kulit dan matlamat
 
 Untuk menjadikannya jelas:
 
@@ -108,11 +108,11 @@ Untuk menjadikannya jelas:
 
 Anda akan menemui keluarga ini di Watsons dan Guardian di kedai, dan dalam talian di Shopee, Lazada, Amazon.sg dan iHerb:
 
-- **Adapalene (Differin 0.1% gel)**: retinoid jerawat OTC yang paling menonjol, lebih kurang $25 hingga $40 bergantung pada saiz dan penjual (anggaran, semak senarai semasa).
+- **Adapalene (Differin 0.1% gel)**: retinoid jerawat OTC yang paling menonjol, lebih kurang $25 hingga $40 bergantung pada saiz dan penjual (anggaran, semak penyenaraian terkini).
 - **Serum retinol**: pelbagai jenis, daripada pilihan farmasi yang berpatutan sekitar $15 hingga $30 sehingga jenama premium yang jauh melebihi $80. Some By Mi dan jenama Korea lain banyak distok; banyak serum retinol Barat juga dijual melalui Watsons dan dalam talian.
 - **Retinaldehyde (retinal)**: kurang biasa di rak tempatan dan biasanya lebih mahal, kebanyakannya ditemui dalam talian.
 
-Satu nota tentang membeli bahan aktif daripada penjual pihak ketiga di marketplace: berpegang pada kedai rasmi atau yang bereputasi. Haba dan penyimpanan yang buruk merosakkan vitamin A, dan bahan aktif yang tiruan atau luput tarikh kedua-duanya tidak berkesan dan lebih cenderung merengsakan.
+Satu nota tentang membeli bahan aktif daripada penjual pihak ketiga di pasaran dalam talian: berpegang pada kedai rasmi atau yang bereputasi. Haba dan penyimpanan yang buruk merosakkan vitamin A, dan bahan aktif yang tiruan atau luput tarikh kedua-duanya tidak berkesan dan lebih cenderung merengsakan.
 
 ## Kesimpulan yang jujur
 
