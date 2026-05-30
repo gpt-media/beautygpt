@@ -1,11 +1,13 @@
 ---
 const year = 2026;
-// Language-aware footer links (same language as the page the reader is on).
+// Market + language-aware footer links (same market + language as the page).
 const p = Astro.url.pathname;
+const isSG = p === '/sg' || p.startsWith('/sg/');
+let rest = isSG ? (p.slice(3) || '/') : p;
 let lang: 'en' | 'ms' | 'zh' = 'en';
-if (p === '/ms' || p.startsWith('/ms/')) lang = 'ms';
-else if (p === '/zh' || p.startsWith('/zh/')) lang = 'zh';
-const base = { en: '', ms: '/ms', zh: '/zh' }[lang];
+if (rest === '/ms' || rest.startsWith('/ms/')) lang = 'ms';
+else if (rest === '/zh' || rest.startsWith('/zh/')) lang = 'zh';
+const base = `${isSG ? '/sg' : ''}${lang === 'en' ? '' : '/' + lang}`;
 const t = {
   about: { en: 'About', ms: 'Tentang', zh: '关于' }[lang],
   standards: { en: 'Editorial Standards', ms: 'Piawaian Editorial', zh: '编辑标准' }[lang],

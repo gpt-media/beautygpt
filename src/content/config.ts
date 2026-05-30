@@ -20,9 +20,12 @@ const articleSchema = z.object({
 const articles = defineCollection({ type: 'content', schema: articleSchema });
 const articlesMs = defineCollection({ type: 'content', schema: articleSchema });
 const articlesZh = defineCollection({ type: 'content', schema: articleSchema });
+// Singapore market (en-SG first; ms-SG / zh-SG to follow).
+const articlesSg = defineCollection({ type: 'content', schema: articleSchema });
 
 export const collections = {
   'articles': articles,
   'articles-ms': articlesMs,
   'articles-zh': articlesZh,
+  'articles-sg': articlesSg,
 };

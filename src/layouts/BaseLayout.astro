@@ -11,13 +11,16 @@ interface Props {
   ogType?: string;
   /** Content language. Drives <html lang> + og:locale. 'en' | 'ms' (Malay) | 'zh' (Chinese). */
   lang?: 'en' | 'ms' | 'zh';
+  /** Market region. 'my' (Malaysia) | 'sg' (Singapore). Sets the region in <html lang> + og:locale. */
+  market?: 'my' | 'sg';
   /** Language-agnostic path suffix (e.g. '/', '/about/', '/articles/foo/') used to build hreflang alternates. */
   path?: string;
 }
 
-const { title, description, jsonLd = [], ogType = 'website', lang = 'en', path } = Astro.props;
-const langCode = { en: 'en-MY', ms: 'ms-MY', zh: 'zh-MY' }[lang];
-const ogLocale = { en: 'en_MY', ms: 'ms_MY', zh: 'zh_MY' }[lang];
+const { title, description, jsonLd = [], ogType = 'website', lang = 'en', market = 'my', path } = Astro.props;
+const reg = market === 'sg' ? 'SG' : 'MY';
+const langCode = `${ { en: 'en', ms: 'ms', zh: 'zh' }[lang] }-${reg}`;
+const ogLocale = `${ { en: 'en', ms: 'ms', zh: 'zh' }[lang] }_${reg}`;
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
 // hreflang alternates (only when the page exists in all three languages — pass `path`).
 const alternates = path
