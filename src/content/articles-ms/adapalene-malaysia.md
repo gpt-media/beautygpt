@@ -35,7 +35,7 @@ Ini membawa dua kesan penting:
 - **Ia bersifat pencegahan, bukan rawatan setempat.** Adapalene bukan benda yang anda calit pada satu jerawat besar malam sebelum sesuatu majlis. Ia bertindak ke atas seluruh kawasan selama berminggu-minggu, menghalang pusingan jerawat *seterusnya* daripada terbentuk. Sebab itulah anda sapu lapisan nipis ke seluruh muka, bukan satu titik pada satu jerawat.
 - **Ia mempercepat pusing ganti, dan itu sebab kulit mengelupas dan kemerahan pada mulanya.** Tindakan yang sama yang membuka liang tersumbat juga membawa kulit baharu yang lebih sensitif ke permukaan lebih cepat daripada biasa. Kekeringan dan pengelupasan awal ialah tanda bahan aktif sedang bekerja, bukan tanda ia tidak sesuai untuk anda, selagi masih dalam had munasabah.
 
-Jika anda mahu gambaran lebih besar tentang di mana retinoid berdiri berbanding pilihan vitamin A yang lebih lembut seperti retinol, ada penjelasannya dalam [retinol lawan retinoid untuk jerawat dan di mana mahu mula](/my/articles/retinol-vs-retinoids-for-acne/). Versi ringkasnya: retinol lebih lembut dan lebih perlahan; adapalene ialah retinoid sebenar dan lebih banyak dikaji untuk jerawat.
+Jika anda mahu gambaran lebih besar tentang di mana retinoid berdiri berbanding pilihan vitamin A yang lebih lembut seperti retinol, ada penjelasannya dalam [retinol lawan retinoid untuk jerawat dan di mana mahu mula](/ms/articles/retinol-vs-retinoids-for-acne/). Versi ringkasnya: retinol lebih lembut dan lebih perlahan; adapalene ialah retinoid sebenar dan lebih banyak dikaji untuk jerawat.
 
 ## Di mana boleh dapatkannya di Malaysia, dan lebih kurang berapa harganya
 
@@ -73,7 +73,7 @@ Jika dua hingga tiga malam seminggu rasa selesa selama beberapa minggu (tiada ku
 
 ### 5. Pelindung matahari setiap pagi tanpa gagal
 
-Ini memang wajib. Adapalene membawa kulit yang lebih baharu ke permukaan dan kulit itu lebih mudah terbakar, manakala indeks UV Malaysia tinggi sepanjang tahun, sama ada mendung atau cerah. Gunakan **SPF spektrum luas 30 atau lebih tinggi** setiap pagi, dan sapu semula jika anda berada di luar untuk tempoh yang lama. Tidak memakai SPF meningkatkan risiko bekas jerawat gelap. (Benzoyl peroxide, satu lagi bahan utama, ada peraturan penggunaannya sendiri; ada penjelasannya dalam [panduan lengkap benzoyl peroxide untuk jerawat](/my/articles/benzoyl-peroxide-for-acne/).)
+Ini memang wajib. Adapalene membawa kulit yang lebih baharu ke permukaan dan kulit itu lebih mudah terbakar, manakala indeks UV Malaysia tinggi sepanjang tahun, sama ada mendung atau cerah. Gunakan **SPF spektrum luas 30 atau lebih tinggi** setiap pagi, dan sapu semula jika anda berada di luar untuk tempoh yang lama. Tidak memakai SPF meningkatkan risiko bekas jerawat gelap. (Benzoyl peroxide, satu lagi bahan utama, ada peraturan penggunaannya sendiri; ada penjelasannya dalam [panduan lengkap benzoyl peroxide untuk jerawat](/ms/articles/benzoyl-peroxide-for-acne/).)
 
 ## Fasa purging, dan mengapa kesabaran ialah keseluruhan strateginya
 
@@ -97,7 +97,7 @@ Beli tiub sendiri memang munasabah untuk jerawat liang tersumbat atau jerawat me
 - Anda **mengandung, menyusu, atau cuba hamil.** Retinoid topikal, termasuk adapalene, biasanya tidak digalakkan. Label produk pun cakap seperti itu. Tanya tentang pilihan yang lebih selamat untuk kehamilan seperti azelaic acid.
 - Anda sudah pun guna **ubat jerawat preskripsi**, sama ada oral atau topikal, dan mahu tambah adapalene. Biar pihak yang beri preskripsi susun turutannya.
 - Anda ada **kulit yang sangat sensitif, mudah ekzema atau kulit yang terjejas**, atau anda pernah cuba adapalene sebelum ini dan bertindak balas dengan teruk.
-- Anda tidak pasti cara **gabungkannya** dengan benzoyl peroxide, produk salicylic acid, atau asid eksfoliasi. Ahli farmasi boleh atur jadual pagi/malam atau berselang malam supaya anda tidak menimbun kerengsaan. Untuk rutin yang lebih lengkap (pembersih, bahan aktif, pelembap, SPF dan cara setiap bahagian itu bersatu), lihat [cara merawat jerawat di Malaysia: bahan dan rutin yang benar-benar berkesan](/my/articles/how-to-treat-acne-malaysia/).
+- Anda tidak pasti cara **gabungkannya** dengan benzoyl peroxide, produk salicylic acid, atau asid eksfoliasi. Ahli farmasi boleh atur jadual pagi/malam atau berselang malam supaya anda tidak menimbun kerengsaan. Untuk rutin yang lebih lengkap (pembersih, bahan aktif, pelembap, SPF dan cara setiap bahagian itu bersatu), lihat [cara merawat jerawat di Malaysia: bahan dan rutin yang benar-benar berkesan](/ms/articles/how-to-treat-acne-malaysia/).
 
 Yang paling penting, jangan kejar retinoid preskripsi yang lebih kuat sendiri sebab adapalene "tidak berkesan" pada minggu keempat. Sembilan daripada sepuluh kali, penyelesaiannya ialah lebih banyak masa dan kurang kerengsaan, bukan lebih banyak kekuatan.
 

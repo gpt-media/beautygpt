@@ -30,13 +30,13 @@ Jerawat kistik pula berbeza sama sekali. Ia ialah kantung keradangan, minyak dan
 
 > Petua mudah: jika anda tidak kelihatan mata putih atau kuning, pelekat hydrocolloid tiada apa-apa untuk dipaut. Tiada mata, tiada penyerapan, tiada hasil.
 
-Inilah perkara paling berguna yang perlu anda faham tentang jerawat kistik dan patch, dan ia jimatkan banyak ringgit yang terbuang. Jika anda mahu perbandingan penuh sebelah-menyebelah antara dua format ini, kami kupas secara mendalam dalam [hydrocolloid lawan patch jerawat microneedle](/my/articles/hydrocolloid-vs-microneedle-acne-patches/).
+Inilah perkara paling berguna yang perlu anda faham tentang jerawat kistik dan patch, dan ia jimatkan banyak ringgit yang terbuang. Jika anda mahu perbandingan penuh sebelah-menyebelah antara dua format ini, kami kupas secara mendalam dalam [hydrocolloid lawan patch jerawat microneedle](/ms/articles/hydrocolloid-vs-microneedle-acne-patches/).
 
 ## Di mana patch microneedle benar-benar membantu
 
 Sekarang bahagian yang lebih menarik. **Patch microneedle** (kadangkala dipanggil patch hujung larut atau micro-dart) dibina secara berbeza. Daripada melekap rata di atas, ia ada ratusan kon larut yang kecil di bahagian bawahnya. Anda tekan dan biarkan beberapa jam; hujungnya menembusi lapisan atas kulit dengan lembut lalu larut, melepaskan bahan aktifnya **di bawah permukaan, tepat di tempat benjolan tertutup itu berada.**
 
-Itu mengubah apa yang mungkin dicapai. Untuk **benjolan awal bawah kulit** (jenis yang keras, sakit dan belum timbul ke permukaan), patch microneedle boleh menghantar bahan yang menenangkan dan anti-radang ke tempat masalahnya berada, dan mungkin membantu meredakannya sebelum ia membesar. Inilah satu-satunya format patch yang mempunyai mekanisme sebenar untuk jerawat tertutup. Kami menerangkan caranya dan kumpulan yang sesuai menggunakannya dengan terperinci dalam [cara patch jerawat microneedle berfungsi](/my/articles/how-microneedle-acne-patches-work/).
+Itu mengubah apa yang mungkin dicapai. Untuk **benjolan awal bawah kulit** (jenis yang keras, sakit dan belum timbul ke permukaan), patch microneedle boleh menghantar bahan yang menenangkan dan anti-radang ke tempat masalahnya berada, dan mungkin membantu meredakannya sebelum ia membesar. Inilah satu-satunya format patch yang mempunyai mekanisme sebenar untuk jerawat tertutup. Kami menerangkan caranya dan kumpulan yang sesuai menggunakannya dengan terperinci dalam [cara patch jerawat microneedle berfungsi](/ms/articles/how-microneedle-acne-patches-work/).
 
 Tetapi di sinilah kejujuran paling penting: **patch microneedle adalah untuk benjolan awal yang kecil bawah kulit, bukan untuk jerawat kistik yang sudah matang sepenuhnya.** Bila jerawat kistik sudah besar, dalam, tegang dan sakit, hujung mikro itu memang tidak mampu mencapai kedalaman masalah, dan menekan jerawat kistik yang meradang pula menyakitkan serta tidak membantu. Tetapkan jangkaan anda ikut *peringkat* jerawat itu, bukan iklannya.
 
@@ -79,14 +79,14 @@ Jadi jika pelekat tidak mampu baiki jerawat kistik, apa yang berbaloi dengan dui
 - **Some By Mi Clear Spot Patch**: hydrocolloid K-beauty yang mudah bernafas, lebih kurang RM15–25 (anggaran).
 - **STIK Original Dot**: hydrocolloid dengan salicylic acid, niacinamide dan tea tree, pelbagai saiz, pilihan berbaloi sekitar RM7–10 (anggaran).
 
-Apa pun pilihan anda, tiada satu pun pilihan hydrocolloid ini jadi jawapan kepada jerawat kistik yang dalam. Semuanya disenaraikan supaya anda boleh padankan alat yang betul dengan jerawat yang *sudah timbul*. Untuk rumusan lengkap merentas setiap format dan bajet, lihat panduan tunggak kami untuk [patch jerawat terbaik di Malaysia untuk 2026](/my/articles/best-acne-patches-malaysia-2026/).
+Apa pun pilihan anda, tiada satu pun pilihan hydrocolloid ini jadi jawapan kepada jerawat kistik yang dalam. Semuanya disenaraikan supaya anda boleh padankan alat yang betul dengan jerawat yang *sudah timbul*. Untuk rumusan lengkap merentas setiap format dan bajet, lihat panduan tunggak kami untuk [patch jerawat terbaik di Malaysia untuk 2026](/ms/articles/best-acne-patches-malaysia-2026/).
 
 ### Di mana dan bagaimana mahu beli
 
 - **Watsons dan Guardian** ada hydrocolloid harian di kedai. COSRX, Oxy dan Nexcare mudah dicari bila anda mahu guna hari ini.
 - **Shopee, TikTok Shop dan Lazada** menawarkan pilihan paling luas, harga paling baik, dan format yang lebih susah ditemui termasuk jenama Korea serta pilihan seperti STIK. Beli daripada kedai rasmi, baca ulasan terkini sepintas lalu, dan **bandingkan setiap keping, bukan setiap kotak**. Kotak yang lebih murah dengan keping yang lebih sedikit atau lebih kecil tidak semestinya tawaran yang lebih baik.
 
-Satu nota keselamatan ringkas tentang format microneedle: sebab hujungnya memecah permukaan kulit, tampal pada kulit yang bersih, guna patch baru setiap kali, dan jangan tampal pada kulit yang pecah atau berair. Jika anda pernah tertanya-tanya sama ada semua ini selamat dibuat kerap-kerap, kami teliti buktinya dalam [adakah patch jerawat selamat](/my/articles/are-pimple-patches-safe/).
+Satu nota keselamatan ringkas tentang format microneedle: sebab hujungnya memecah permukaan kulit, tampal pada kulit yang bersih, guna patch baru setiap kali, dan jangan tampal pada kulit yang pecah atau berair. Jika anda pernah tertanya-tanya sama ada semua ini selamat dibuat kerap-kerap, kami teliti buktinya dalam [adakah patch jerawat selamat](/ms/articles/are-pimple-patches-safe/).
 
 ## Kesimpulan jujurnya
 

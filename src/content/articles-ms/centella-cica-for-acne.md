@@ -52,7 +52,7 @@ Anggap centella sebagai orang sedang antara kulit anda dan produk yang lebih kua
 
 Beberapa nota praktikal. Anda boleh sapu esen atau serum centella selepas bahan aktif anda untuk kurangkan rasa pedih, satu langkah "penampan". Pada malam bila retinoid anda menjadikan kulit terasa mentah, anda malah boleh abaikan bahan aktif itu dan guna centella sahaja untuk biarkan lapisan pelindung pulih. Dan sebab cica ini lembut sangat, anda tidak perlu selang-selikan hari atau "mengitar" ia seperti yang mungkin anda buat dengan bahan aktif yang kuat.
 
-Jika anda mahu gambaran penuh tentang bahan aktif yang memainkan peranan utama, panduan tunjang TheBeautyGPT tentang [cara merawat jerawat di Malaysia](/my/articles/how-to-treat-acne-malaysia/) menerangkan bahan yang terbukti dan cara melapisnya. Centella paling baik difahami sebagai lapisan sokongan yang membaluti rutin teras itu.
+Jika anda mahu gambaran penuh tentang bahan aktif yang memainkan peranan utama, panduan tunjang TheBeautyGPT tentang [cara merawat jerawat di Malaysia](/ms/articles/how-to-treat-acne-malaysia/) menerangkan bahan yang terbukti dan cara melapisnya. Centella paling baik difahami sebagai lapisan sokongan yang membaluti rutin teras itu.
 
 ## Kemerahan dan kesan: uruskan jangkaan anda
 
@@ -60,7 +60,7 @@ Di sinilah orang selalu salah faham tentang cica, jadi jom kita betulkan.
 
 Centella sangat baik untuk **kemerahan aktif dan kerengsaan**: merahnya jerawat baru yang beradang, rupa merah meradang kulit yang bertindak balas terhadap bahan aktif baru, sensitiviti umum. Di sini ia benar-benar membantu, dan dengan cepat.
 
-Centella *bukan* rawatan khusus untuk **kesan pasca-radang**, iaitu tompok perang atau merah jambu rata yang ditinggalkan jerawat selepas ia sembuh. Itu bertindak balas lebih baik dengan bahan yang menumpukan pada pigmen. Untuk kesan perang, [niacinamide](/my/articles/niacinamide-for-acne-and-marks/) dan azelaic acid ialah bahan yang lebih berkesan; vitamin C dan tabiat pakai pelindung matahari yang tekun pun sangat penting. Cica boleh berada bersama bahan-bahan ini dan mengekalkan kulit tetap tenang sementara ia buat kerja memudarkan, tetapi jangan harap krim cica sahaja akan padamkan kesan lama. Sesiapa yang janji seperti itu sebenarnya melebih-lebih.
+Centella *bukan* rawatan khusus untuk **kesan pasca-radang**, iaitu tompok perang atau merah jambu rata yang ditinggalkan jerawat selepas ia sembuh. Itu bertindak balas lebih baik dengan bahan yang menumpukan pada pigmen. Untuk kesan perang, [niacinamide](/ms/articles/niacinamide-for-acne-and-marks/) dan azelaic acid ialah bahan yang lebih berkesan; vitamin C dan tabiat pakai pelindung matahari yang tekun pun sangat penting. Cica boleh berada bersama bahan-bahan ini dan mengekalkan kulit tetap tenang sementara ia buat kerja memudarkan, tetapi jangan harap krim cica sahaja akan padamkan kesan lama. Sesiapa yang janji seperti itu sebenarnya melebih-lebih.
 
 Jadi: cica untuk *yang merah dan meradang sekarang*; niacinamide, azelaic acid dan rakan-rakannya untuk *yang perang dan berlarutan kemudian*.
 
@@ -68,7 +68,7 @@ Jadi: cica untuk *yang merah dan meradang sekarang*; niacinamide, azelaic acid d
 
 Berita baik untuk kulit berminyak dan kombinasi (dan itu ramai antara kita dalam cuaca panas dan lembap Malaysia): centella sendiri ringan dan tidak menyumbat liang. Yang jadi masalah ialah *format* yang membawanya. "Balm cica" yang pekat atau krim pembaikan yang berat, yang direka untuk kulit kering di iklim sejuk, boleh terasa berminyak dan menyumbat di sini. Sebaliknya, cari **toner, esen, ampul, gel atau serum centella yang ringan**, yang bagi manfaat menenangkan tanpa kesan akhir yang berat.
 
-Jika kerisauan utama anda ialah kulit berminyak dan jerawat, bukannya sensitiviti, centella patut jadi anggota sokongan, bukan bintang utama. Lihat huraian penuh tentang [bahan jerawat terbaik untuk kulit berminyak di Malaysia](/my/articles/best-acne-ingredients-for-oily-skin-malaysia/) untuk bahan aktif yang benar-benar mengawal minyak dan membersihkan liang. Lapis cica di atas bahan-bahan itu bila kulit anda terasa rengsa atau terlebih dirawat.
+Jika kerisauan utama anda ialah kulit berminyak dan jerawat, bukannya sensitiviti, centella patut jadi anggota sokongan, bukan bintang utama. Lihat huraian penuh tentang [bahan jerawat terbaik untuk kulit berminyak di Malaysia](/ms/articles/best-acne-ingredients-for-oily-skin-malaysia/) untuk bahan aktif yang benar-benar mengawal minyak dan membersihkan liang. Lapis cica di atas bahan-bahan itu bila kulit anda terasa rengsa atau terlebih dirawat.
 
 ### Apa yang ada di pasaran tempatan, dan harga anggaran
 

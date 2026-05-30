@@ -53,11 +53,11 @@ For maskne specifically, patch *thickness* matters more than it does anywhere el
 - A **thin, tapered patch** gives the mask almost nothing to catch. The fabric glides over a low, feathered edge and the patch stays put.
 - A **thick patch** stands proud of the skin. The mask edge snags that raised rim, and combined with heat softening the glue and sweat creeping under the edge, it lifts and rolls off, sometimes ending up stuck to the inside of your mask.
 
-So the patch that "works best" under a mask in our climate is the thin, breathable, near-invisible kind, not the thickest, most absorbent one on the shelf. Thick, very-absorbent patches still have their place, but it is overnight, mask-free, on a big juicy spot. The same thin-versus-thick logic applies to wearing patches under foundation, which we cover in [whether you can wear pimple patches under makeup](/my/articles/can-you-wear-pimple-patches-under-makeup/). The broader adhesion problem in our climate is the same one oily skin fights, detailed in [the best acne patches for oily skin in Malaysia's humidity](/my/articles/best-acne-patches-oily-skin-malaysia/).
+So the patch that "works best" under a mask in our climate is the thin, breathable, near-invisible kind, not the thickest, most absorbent one on the shelf. Thick, very-absorbent patches still have their place, but it is overnight, mask-free, on a big juicy spot. The same thin-versus-thick logic applies to wearing patches under foundation, which we cover in [whether you can wear pimple patches under makeup](/articles/can-you-wear-pimple-patches-under-makeup/). The broader adhesion problem in our climate is the same one oily skin fights, detailed in [the best acne patches for oily skin in Malaysia's humidity](/articles/best-acne-patches-oily-skin-malaysia/).
 
 ### Getting a patch to survive a masked, humid day
 
-Heat, sweat and friction are all working to lift the patch, so application discipline matters even more than usual. If yours keep falling off, our deeper guide on [why pimple patches stop sticking and how to fix it](/my/articles/pimple-patch-not-sticking-fixes/) covers every cause, but the essentials:
+Heat, sweat and friction are all working to lift the patch, so application discipline matters even more than usual. If yours keep falling off, our deeper guide on [why pimple patches stop sticking and how to fix it](/articles/pimple-patch-not-sticking-fixes/) covers every cause, but the essentials:
 
 1. **Cleanse and fully dry the spot.** On skin that is about to spend hours in a warm mask, "feels dry" is not dry. Give it a few extra seconds under a fan.
 2. **Bare skin only under the patch.** No moisturiser or sunscreen directly beneath it. Apply skincare around the spot, place the patch on clean skin, then mask up.
@@ -81,7 +81,7 @@ Prices are **approximate, so always check the current listing**, and on Shopee, 
 
 A few honest notes on the STIK options, placed on the same terms as everything else. The **Air Dot** fits the thin, near-invisible profile this article favours for masked hours (made to sit flat under makeup or a mask without snagging), so it sits alongside Some By Mi as one of the thin, breathable daytime options rather than ahead of it. The **Original Dot** is a standard multi-size hydrocolloid; its use here is the size range, letting you match a small dot to a small spot. To avoid a common mix-up: **STIK MicroForce for Early Acne** is a microneedle patch (ceramides, hyaluronic acid, peptides, salicylic acid) for early, deeper bumps that have not surfaced, a different job from the flat absorbing patches above, not what you want for a surfaced maskne whitehead.
 
-For the full field across budgets and skin types, our pillar guide to the [best acne patches in Malaysia for 2026](/my/articles/best-acne-patches-malaysia-2026/) ranks every option in detail.
+For the full field across budgets and skin types, our pillar guide to the [best acne patches in Malaysia for 2026](/articles/best-acne-patches-malaysia-2026/) ranks every option in detail.
 
 ## Prevention does the real work
 

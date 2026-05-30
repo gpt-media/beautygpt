@@ -53,9 +53,9 @@ Retinoid bertindak pada langkah punca itu. Seperti yang dinyatakan oleh [America
 
 Perkara terakhir itu sangat penting untuk kulit orang Malaysia, kerana bekas jerawat (kesan perang atau gelap yang tertinggal selepas jerawat sembuh) biasanya lebih degil dan lebih ketara daripada jerawat itu sendiri.
 
-Perhatikan apa maksudnya: retinoid ialah rawatan *pencegahan*, bukan pelenyap jerawat segera. Ia berfungsi dengan menghentikan jerawat bulan depan, bukan dengan mengecilkan jerawat malam ini. Sebab itulah anda perlu beri masa berminggu-minggu, dan sebab itulah ia jadi tulang belakang rutin jerawat yang sebenar dan bukannya penyelesaian segera. Kami terangkan bagaimana ia digabungkan bersama pencuci muka, bahan aktif dan pelembap dalam panduan kami tentang [cara membina rutin penjagaan kulit jerawat di Malaysia](/my/articles/how-to-build-acne-skincare-routine-malaysia/).
+Perhatikan apa maksudnya: retinoid ialah rawatan *pencegahan*, bukan pelenyap jerawat segera. Ia berfungsi dengan menghentikan jerawat bulan depan, bukan dengan mengecilkan jerawat malam ini. Sebab itulah anda perlu beri masa berminggu-minggu, dan sebab itulah ia jadi tulang belakang rutin jerawat yang sebenar dan bukannya penyelesaian segera. Kami terangkan bagaimana ia digabungkan bersama pencuci muka, bahan aktif dan pelembap dalam panduan kami tentang [cara membina rutin penjagaan kulit jerawat di Malaysia](/ms/articles/how-to-build-acne-skincare-routine-malaysia/).
 
-Benzoyl peroxide dan salicylic acid menyerang jerawat dari sudut lain. Benzoyl peroxide membunuh bakteria penyebab jerawat, manakala salicylic acid pula BHA yang mengeksfoliasi di dalam liang. Retinoid ialah tonggak ketiga, yang bertindak pada pusing ganti sel. Ketiga-tiganya bukan pesaing; rutin yang paling berkesan biasanya menggabungkan kesemuanya, yang kami jelaskan dalam [cara merawat jerawat di Malaysia](/my/articles/how-to-treat-acne-malaysia/).
+Benzoyl peroxide dan salicylic acid menyerang jerawat dari sudut lain. Benzoyl peroxide membunuh bakteria penyebab jerawat, manakala salicylic acid pula BHA yang mengeksfoliasi di dalam liang. Retinoid ialah tonggak ketiga, yang bertindak pada pusing ganti sel. Ketiga-tiganya bukan pesaing; rutin yang paling berkesan biasanya menggabungkan kesemuanya, yang kami jelaskan dalam [cara merawat jerawat di Malaysia](/ms/articles/how-to-treat-acne-malaysia/).
 
 ## Purging: bahagian yang tiada siapa beritahu anda
 
@@ -84,7 +84,7 @@ Jadual yang munasabah untuk pemula kelihatan seperti ini:
 
 > Jika kulit anda terasa pedih, terkelupas dan merah, itu bukan "retinoid sedang bekerja lebih kuat." Itu lapisan pelindung kulit anda meminta anda perlahankan. Berundur, baik pulih, bina semula.
 
-Untuk panduan khusus adapalene (kekuatan, cara melapiskannya, dan apa yang patut dijangka minggu demi minggu), lihat panduan khas kami tentang [adapalene (Differin) di Malaysia](/my/articles/adapalene-malaysia/).
+Untuk panduan khusus adapalene (kekuatan, cara melapiskannya, dan apa yang patut dijangka minggu demi minggu), lihat panduan khas kami tentang [adapalene (Differin) di Malaysia](/ms/articles/adapalene-malaysia/).
 
 ## Sensitiviti terhadap matahari: amaran khusus untuk Malaysia
 

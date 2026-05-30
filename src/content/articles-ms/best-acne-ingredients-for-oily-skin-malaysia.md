@@ -28,7 +28,7 @@ Sebum, iaitu minyak semula jadi kulit anda, dihasilkan lebih banyak bila cuaca p
 
 Jadi tugas rutin kulit berminyak yang baik ada dua: **pastikan liang bersih** dan **mengelakkan tambah minyak di atasnya**. Banyak nasihat jerawat yang ditulis untuk iklim sederhana bergantung pada pelembap occlusive yang pekat dan krim berat. Di Kuala Lumpur atau Pulau Pinang pada kelembapan 90%, produk yang sama itu boleh berada di atas kulit, memerangkap haba dan peluh, dan jadikan sumbatan lebih teruk. Bahan aktifnya mungkin tidak ada masalah. Teksturnya yang jadi punca masalah.
 
-Ada satu lagi hal yang khusus untuk iklim lembap Malaysia: bukan setiap benjolan jerawat itu jerawat biasa. Jika "jerawat" anda ini banyak benjolan kecil, gatal dan sama saiz di dahi, dada atau belakang yang menjadi-jadi bila berpeluh dalam cuaca panas, ia mungkin **jerawat kulat** (malassezia folliculitis), yang langsung tidak bertindak balas dengan bahan aktif jerawat biasa. Kami bincangkan cara membezakannya dalam [Jerawat Kulat dalam Iklim Lembap Malaysia: Cara Kenal dan Rawat](/my/articles/fungal-acne-malaysia-humidity/). Berbaloi ketepikan kemungkinan ini terlebih dahulu sebelum anda salahkan salicylic acid sebab "tidak berkesan."
+Ada satu lagi hal yang khusus untuk iklim lembap Malaysia: bukan setiap benjolan jerawat itu jerawat biasa. Jika "jerawat" anda ini banyak benjolan kecil, gatal dan sama saiz di dahi, dada atau belakang yang menjadi-jadi bila berpeluh dalam cuaca panas, ia mungkin **jerawat kulat** (malassezia folliculitis), yang langsung tidak bertindak balas dengan bahan aktif jerawat biasa. Kami bincangkan cara membezakannya dalam [Jerawat Kulat dalam Iklim Lembap Malaysia: Cara Kenal dan Rawat](/ms/articles/fungal-acne-malaysia-humidity/). Berbaloi ketepikan kemungkinan ini terlebih dahulu sebelum anda salahkan salicylic acid sebab "tidak berkesan."
 
 ## Bahan aktif teras, dan bagaimana setiap satu berfungsi
 
@@ -38,7 +38,7 @@ Salicylic acid ialah beta-hydroxy acid, dan ciri utamanya ialah ia **larut dalam
 
 Mekanisme itu jugalah sebabnya ia jadi bahan aktif yang paling menonjol untuk kulit berminyak yang tersumbat, komedo hitam dan komedo putih. Ia pun ada sedikit sifat anti-radang (dari segi kimia ia berkait dengan aspirin), jadi ia boleh kurangkan sebahagian kemerahan pada jerawat.
 
-Produk tanpa bilas tanpa preskripsi biasanya sekitar **0.5% hingga 2%** salicylic acid, dengan 2% sebagai kepekatan berkesan yang biasa, tetapi anggap itu sebagai julat umum dan ikut label produk, bukan satu angka tetap. Mula dua hingga tiga kali seminggu dan tambah dari situ. Ada panduan cara menggunakan yang lebih mendalam dalam [Salicylic Acid untuk Jerawat: Seperti Mana Ia Berfungsi dan Cara Guna](/my/articles/salicylic-acid-for-acne/).
+Produk tanpa bilas tanpa preskripsi biasanya sekitar **0.5% hingga 2%** salicylic acid, dengan 2% sebagai kepekatan berkesan yang biasa, tetapi anggap itu sebagai julat umum dan ikut label produk, bukan satu angka tetap. Mula dua hingga tiga kali seminggu dan tambah dari situ. Ada panduan cara menggunakan yang lebih mendalam dalam [Salicylic Acid untuk Jerawat: Seperti Mana Ia Berfungsi dan Cara Guna](/ms/articles/salicylic-acid-for-acne/).
 
 > Petua ringkas: jika masalah utama anda ialah kulit berminyak, liang tersumbat, komedo hitam dan komedo putih, salicylic acid ialah bahan aktif pertama yang patut anda cuba.
 
@@ -46,7 +46,7 @@ Produk tanpa bilas tanpa preskripsi biasanya sekitar **0.5% hingga 2%** salicyli
 
 Niacinamide (vitamin B3) ialah pasangan ideal untuk kulit berminyak sebab ia buat beberapa perkara berguna serentak dan sangat mudah diterima kulit. Ia membantu **kawal pengeluaran sebum**, menguatkan lapisan pelindung kulit supaya kulit mengekalkan air tanpa terasa berminyak, menenangkan keradangan, dan perlahan-lahan **memudarkan kesan kecoklatan yang rata** yang ditinggalkan selepas jerawat sembuh, satu masalah besar di Malaysia memandangkan UV yang kuat menggelapkan lagi kesan itu.
 
-Formula biasa sekitar 4% hingga 5%, dan ia selesa dilapis di bawah pelindung matahari atau pelembap. Sebab ia lembut, ia antara sedikit bahan aktif yang biasanya boleh anda guna pagi dan malam tanpa masalah. Butiran penuh dalam [Niacinamide untuk Jerawat dan Kesan Gelap: Apa Sebenarnya Ia Buat](/my/articles/niacinamide-for-acne-and-marks/).
+Formula biasa sekitar 4% hingga 5%, dan ia selesa dilapis di bawah pelindung matahari atau pelembap. Sebab ia lembut, ia antara sedikit bahan aktif yang biasanya boleh anda guna pagi dan malam tanpa masalah. Butiran penuh dalam [Niacinamide untuk Jerawat dan Kesan Gelap: Apa Sebenarnya Ia Buat](/ms/articles/niacinamide-for-acne-and-marks/).
 
 ### SPF harian yang ringan: yang tidak boleh ditawar
 
@@ -79,7 +79,7 @@ Anda tidak perlukan sepuluh langkah. Rutin ringkas yang anda benar-benar kekalka
 - **Pagi:** pencuci muka yang lembut → niacinamide (pilihan) → pelembap gel ringan → SPF ringan.
 - **Malam:** pencuci muka yang lembut → salicylic acid sebagai langkah rawatan anda (mula 2–3 kali seminggu) → pelembap gel ringan.
 
-Cuci muka untuk buang minyak dan pelindung matahari sepanjang hari, tetapi jangan terlalu kerap mencuci atau menggosok, sebab itu menanggalkan lapisan pelindung dan mencetuskan lebih banyak minyak. [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) ada panduan umum tentang menjaga kulit yang mudah berjerawat dan tabiat harian yang boleh memburukkan jerawat. *Pencuci muka* salicylic acid pilihan yang mudah dan dikira lebih lembut berbanding tanpa bilas, jadi tempat mula yang munasabah jika produk tanpa bilas terasa terlalu kuat. Untuk logik langkah demi langkah membina rutin ini, lihat [Cara Membina Rutin Skincare Jerawat di Malaysia](/my/articles/how-to-build-acne-skincare-routine-malaysia/), dan untuk gambaran lebih besar tentang apa yang benar-benar membersihkan jerawat, [Cara Merawat Jerawat di Malaysia: Bahan dan Rutin yang Betul-Betul Berkesan](/my/articles/how-to-treat-acne-malaysia/).
+Cuci muka untuk buang minyak dan pelindung matahari sepanjang hari, tetapi jangan terlalu kerap mencuci atau menggosok, sebab itu menanggalkan lapisan pelindung dan mencetuskan lebih banyak minyak. [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) ada panduan umum tentang menjaga kulit yang mudah berjerawat dan tabiat harian yang boleh memburukkan jerawat. *Pencuci muka* salicylic acid pilihan yang mudah dan dikira lebih lembut berbanding tanpa bilas, jadi tempat mula yang munasabah jika produk tanpa bilas terasa terlalu kuat. Untuk logik langkah demi langkah membina rutin ini, lihat [Cara Membina Rutin Skincare Jerawat di Malaysia](/ms/articles/how-to-build-acne-skincare-routine-malaysia/), dan untuk gambaran lebih besar tentang apa yang benar-benar membersihkan jerawat, [Cara Merawat Jerawat di Malaysia: Bahan dan Rutin yang Betul-Betul Berkesan](/ms/articles/how-to-treat-acne-malaysia/).
 
 ### Bila patch jerawat sesuai, dan bila tidak
 
@@ -91,11 +91,11 @@ Anda boleh bina keseluruhan rutin dari Watsons, Guardian atau platform e-dagang 
 
 - **Serum/toner salicylic acid (cth. COSRX, Some By Mi):** banyak distok; kira-kira **RM30–RM70**. Rangkaian AHA-BHA-PHA daripada Some By Mi popular untuk kulit yang tersumbat; COSRX ada pilihan BHA yang mudah didapati.
 - **Serum niacinamide (cth. COSRX 5% niacinamide dan banyak pilihan tempatan/Korea):** kira-kira **RM25–RM70**. Belian berbaloi dan tidak banyak kerenah.
-- **Pilihan benzoyl peroxide yang mengandungi ubat (cth. Oxy):** ada di farmasi untuk jerawat yang meradang; benzoyl peroxide membunuh bakteria penyebab jerawat, tetapi ia boleh mengeringkan, jadi sapu setempat dan biasakan perlahan-lahan. Lihat [Benzoyl Peroxide untuk Jerawat](/my/articles/benzoyl-peroxide-for-acne/).
+- **Pilihan benzoyl peroxide yang mengandungi ubat (cth. Oxy):** ada di farmasi untuk jerawat yang meradang; benzoyl peroxide membunuh bakteria penyebab jerawat, tetapi ia boleh mengeringkan, jadi sapu setempat dan biasakan perlahan-lahan. Lihat [Benzoyl Peroxide untuk Jerawat](/ms/articles/benzoyl-peroxide-for-acne/).
 - **Pelindung matahari gel yang ringan:** banyak pilihan SPF cecair/gel sekitar **RM30–RM80**; utamakan tekstur yang anda akan pakai setiap hari berbanding jenis filter yang tepat.
 - **Patch jerawat hydrocolloid (cth. Watsons Acne Patch, Nexcare, COSRX, STIK):** kira-kira **RM15–RM45** sekotak, berguna sebagai penjagaan setempat sekali-sekala, bukan bahan aktif teras untuk kulit berminyak. Watsons Acne Patch ialah pilihan hydrocolloid yang murah dan asas (sekitar **RM10–RM15** sekotak, anggaran) dan memang mudah mahu dapat sebab ia distok di setiap kedai Watsons di seluruh negara.
 
-Untuk pilihan gred preskripsi (adapalene dan retinoid lain, atau ubat oral untuk kes degil atau teruk), berbincang dengan doktor atau ahli farmasi, jangan beri preskripsi sendiri. Adapalene ada di Malaysia dan benar-benar berkesan untuk ramai orang; kami bincangkannya dalam [Adapalene di Malaysia](/my/articles/adapalene-malaysia/), tetapi dos dan kesesuaiannya ialah keputusan klinikal.
+Untuk pilihan gred preskripsi (adapalene dan retinoid lain, atau ubat oral untuk kes degil atau teruk), berbincang dengan doktor atau ahli farmasi, jangan beri preskripsi sendiri. Adapalene ada di Malaysia dan benar-benar berkesan untuk ramai orang; kami bincangkannya dalam [Adapalene di Malaysia](/ms/articles/adapalene-malaysia/), tetapi dos dan kesesuaiannya ialah keputusan klinikal.
 
 ## Kesimpulan
 

@@ -30,7 +30,7 @@ Bahan tertentu mempercepat keseluruhan kitaran ini. **Retinoid** (retinol, serta
 
 > Petua mudah: purging bukan jerawat baru. Ia jerawat yang *memang akan* anda dapat, hanya datang lebih awal dan serentak.
 
-Itu idea utamanya. Bahan aktif itu tidak cipta sumbatan baru. Ia mempercepat sumbatan yang memang sudah dalam barisan. Lepas longgokan itu habis, kulit anda biasanya jadi lebih bersih daripada sebelumnya. Kami terangkan bagaimana bahan-bahan ini sesuai dimasukkan ke dalam rutin penuh dalam [cara merawat jerawat di Malaysia: bahan dan rutin yang benar-benar berkesan](/my/articles/how-to-treat-acne-malaysia/).
+Itu idea utamanya. Bahan aktif itu tidak cipta sumbatan baru. Ia mempercepat sumbatan yang memang sudah dalam barisan. Lepas longgokan itu habis, kulit anda biasanya jadi lebih bersih daripada sebelumnya. Kami terangkan bagaimana bahan-bahan ini sesuai dimasukkan ke dalam rutin penuh dalam [cara merawat jerawat di Malaysia: bahan dan rutin yang benar-benar berkesan](/ms/articles/how-to-treat-acne-malaysia/).
 
 ## Tiga soalan yang memberitahu anda yang mana satu
 
@@ -112,7 +112,7 @@ Satu nota khusus untuk iklim kita: cuaca lembap Malaysia maksudnya krim yang ber
 
 ## Di mana sebenarnya tempat retinoid dan asid
 
-Jika semua ini buat anda teragak-agak sama ada patut mula guna retinoid langsung: purging itu sementara, hasilnya tahan lama, dan rahsianya ialah mula dengan kekuatan rendah dan perlahan-lahan. Retinoid yang lebih lemah dua malam seminggu, dibantu dengan pelembap, beri kebanyakan orang perjalanan yang jauh lebih lancar berbanding terus guna setiap malam pada kekuatan penuh. Kami pecahkan pilihan-pilihannya, termasuk beza antara retinol jualan bebas dan retinoid preskripsi, dalam [retinol vs retinoid untuk jerawat: di mana patut anda mula](/my/articles/retinol-vs-retinoids-for-acne/), dan cara mahu selitkannya ke dalam rutin yang mampan dalam [cara bina rutin penjagaan kulit jerawat di Malaysia](/my/articles/how-to-build-acne-skincare-routine-malaysia/).
+Jika semua ini buat anda teragak-agak sama ada patut mula guna retinoid langsung: purging itu sementara, hasilnya tahan lama, dan rahsianya ialah mula dengan kekuatan rendah dan perlahan-lahan. Retinoid yang lebih lemah dua malam seminggu, dibantu dengan pelembap, beri kebanyakan orang perjalanan yang jauh lebih lancar berbanding terus guna setiap malam pada kekuatan penuh. Kami pecahkan pilihan-pilihannya, termasuk beza antara retinol jualan bebas dan retinoid preskripsi, dalam [retinol vs retinoid untuk jerawat: di mana patut anda mula](/ms/articles/retinol-vs-retinoids-for-acne/), dan cara mahu selitkannya ke dalam rutin yang mampan dalam [cara bina rutin penjagaan kulit jerawat di Malaysia](/ms/articles/how-to-build-acne-skincare-routine-malaysia/).
 
 Ini bertujuan pendidikan, bukan nasihat perubatan. Untuk rawatan preskripsi (termasuk adapalene, tretinoin dan ubat jerawat oral) dan untuk apa-apa jerawat yang teruk, sakit, kistik, atau berterusan, jumpa doktor atau ahli farmasi. Mereka boleh beritahu anda sama ada apa yang anda lihat itu purging yang normal atau satu reaksi yang perlukan rancangan yang berbeza.
 

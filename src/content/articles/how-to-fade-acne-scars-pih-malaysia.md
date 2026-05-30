@@ -62,11 +62,11 @@ Now the ingredients. The key thing to understand is that several different activ
 
 ### Niacinamide, the gentle all-rounder
 
-Niacinamide (vitamin B3) fades marks by interrupting the *transfer* of pigment from the cells that make it to the surface skin cells you actually see. It does not bleach existing melanin; it slows the supply, so as skin renews, marks lighten gradually. It is the most forgiving option: rarely irritating, layers with everything, and also calms redness and helps with oil. It is a steady supporting act rather than a dramatic fader. We go deeper in [niacinamide for acne and dark marks](/my/articles/niacinamide-for-acne-and-marks/).
+Niacinamide (vitamin B3) fades marks by interrupting the *transfer* of pigment from the cells that make it to the surface skin cells you actually see. It does not bleach existing melanin; it slows the supply, so as skin renews, marks lighten gradually. It is the most forgiving option: rarely irritating, layers with everything, and also calms redness and helps with oil. It is a steady supporting act rather than a dramatic fader. We go deeper in [niacinamide for acne and dark marks](/articles/niacinamide-for-acne-and-marks/).
 
 ### Azelaic acid, the targeted multitasker
 
-Azelaic acid inhibits tyrosinase, the enzyme that drives melanin production, specifically in overactive cells, so it fades marks without lightening your normal skin tone. It also gently treats active acne and calms inflammation at the same time, which makes it one of the best-value single ingredients if you have both spots *and* marks. It suits sensitive and deeper skin tones well. Full detail in [azelaic acid for acne and pigmentation](/my/articles/azelaic-acid-for-acne-and-pigmentation/).
+Azelaic acid inhibits tyrosinase, the enzyme that drives melanin production, specifically in overactive cells, so it fades marks without lightening your normal skin tone. It also gently treats active acne and calms inflammation at the same time, which makes it one of the best-value single ingredients if you have both spots *and* marks. It suits sensitive and deeper skin tones well. Full detail in [azelaic acid for acne and pigmentation](/articles/azelaic-acid-for-acne-and-pigmentation/).
 
 ### Vitamin C, the antioxidant brightener
 
@@ -74,7 +74,7 @@ Vitamin C (most studied as L-ascorbic acid) both inhibits melanin production and
 
 ### Retinoids, the turnover accelerators
 
-Retinoids (over-the-counter retinol, or the stronger pharmacy/prescription adapalene) speed up skin cell turnover, pushing pigmented cells out faster, and treat the underlying acne too. They are among the most effective options but also the most likely to irritate at first, and irritation on PIH-prone skin can backfire, so start low and slow. For how these differ, see [retinol versus retinoids for acne](/my/articles/retinol-vs-retinoids-for-acne/); for the prescription end, ask a doctor or pharmacist rather than self-dosing.
+Retinoids (over-the-counter retinol, or the stronger pharmacy/prescription adapalene) speed up skin cell turnover, pushing pigmented cells out faster, and treat the underlying acne too. They are among the most effective options but also the most likely to irritate at first, and irritation on PIH-prone skin can backfire, so start low and slow. For how these differ, see [retinol versus retinoids for acne](/articles/retinol-vs-retinoids-for-acne/); for the prescription end, ask a doctor or pharmacist rather than self-dosing.
 
 Here is a quick way to choose:
 
@@ -85,13 +85,13 @@ Here is a quick way to choose:
 | Brightening plus daytime antioxidant | Vitamin C | Pair with sunscreen; watch for irritation/oxidation |
 | The strongest push, and you can handle it | A retinoid | Most effective, most irritating; go slow, ask a pharmacist |
 
-A sensible routine for most people: a gentle cleanser, **one** fading active (azelaic acid or niacinamide is the easiest place to start), a simple moisturiser, and sunscreen every morning. That is it. For how actives fit a complete anti-acne routine, see [how to treat acne in Malaysia](/my/articles/how-to-treat-acne-malaysia/).
+A sensible routine for most people: a gentle cleanser, **one** fading active (azelaic acid or niacinamide is the easiest place to start), a simple moisturiser, and sunscreen every morning. That is it. For how actives fit a complete anti-acne routine, see [how to treat acne in Malaysia](/articles/how-to-treat-acne-malaysia/).
 
 ## Prevention: stop making new marks
 
 Fading old marks is only half the job. The other half is not creating fresh ones, and the biggest cause of bad PIH is entirely in your control: **picking, squeezing, and popping.** Every time you traumatise a spot, you drive more inflammation deeper into the skin, and on Malaysian skin tones that reliably means a darker, longer-lasting mark than the pimple would have left alone. The [American Academy of Dermatology](https://www.aad.org/public/diseases/acne/derm-treat/scars) is blunt about it: never pick, pop, scratch, or squeeze breakouts, because doing so increases inflammation and the risk of discoloration.
 
-The hard part is that picking is a *habit*, not a decision, so "just stop" rarely works. One practical trick is to physically cover a surfaced spot so your fingers cannot reach it. A hydrocolloid pimple patch does exactly that: it sits over the spot as a barrier and removes the temptation to squeeze. It will not fade an existing brown mark (no patch does), but by stopping the picking it keeps the *next* one from being worse. We cover that link between popping and marks in [do acne patches leave marks or scars?](/my/articles/do-acne-patches-leave-marks-or-scars/). Affordable options are easy to find at Watsons, Guardian, and online: the cheap, ubiquitous Watsons Acne Patch (a basic hydrocolloid sticker stocked in just about every Watsons nationwide, roughly RM10 to 15 a pack, approximate) is the convenience pick, with Nexcare and value options like STIK alongside it.
+The hard part is that picking is a *habit*, not a decision, so "just stop" rarely works. One practical trick is to physically cover a surfaced spot so your fingers cannot reach it. A hydrocolloid pimple patch does exactly that: it sits over the spot as a barrier and removes the temptation to squeeze. It will not fade an existing brown mark (no patch does), but by stopping the picking it keeps the *next* one from being worse. We cover that link between popping and marks in [do acne patches leave marks or scars?](/articles/do-acne-patches-leave-marks-or-scars/). Affordable options are easy to find at Watsons, Guardian, and online: the cheap, ubiquitous Watsons Acne Patch (a basic hydrocolloid sticker stocked in just about every Watsons nationwide, roughly RM10 to 15 a pack, approximate) is the convenience pick, with Nexcare and value options like STIK alongside it.
 
 > Rule of thumb: you cannot fade a mark and pick the spot that made it at the same time. Protect the spot, and you protect your future skin tone.
 

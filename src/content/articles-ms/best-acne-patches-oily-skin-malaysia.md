@@ -50,7 +50,7 @@ Perhatikan apa yang **tiada** dalam senarai itu: bahan ubat. Ramai orang berkuli
 
 ## Cara menampal patch supaya ia bertahan sepanjang hari di Malaysia
 
-Di sinilah datangnya kebanyakan hasil. Sebab paling besar patch gagal pada kulit berminyak di sini ialah menampal atas kulit yang lembap, berminyak, atau bersalut produk. Huraian penuh kami tentang [mengapa patch jerawat berhenti melekat dan cara membetulkannya](/my/articles/pimple-patch-not-sticking-fixes/) masuk lebih mendalam, tetapi inilah perkara asasnya:
+Di sinilah datangnya kebanyakan hasil. Sebab paling besar patch gagal pada kulit berminyak di sini ialah menampal atas kulit yang lembap, berminyak, atau bersalut produk. Huraian penuh kami tentang [mengapa patch jerawat berhenti melekat dan cara membetulkannya](/ms/articles/pimple-patch-not-sticking-fixes/) masuk lebih mendalam, tetapi inilah perkara asasnya:
 
 1. **Bersihkan dan keringkan tempat itu benar-benar.** Lap dengan tuala bersih, kemudian biarkan beberapa saat lagi depan kipas atau penghawa dingin. "Rasa kering" tidak sama dengan benar-benar kering pada kulit berminyak.
 2. **Jangan sapu pelembap dan pelindung matahari terus di bawah patch.** Sapu penjagaan kulit anda di sekeliling jerawat, biarkan jerawat itu sendiri kosong, selepas itu letak patch atas kulit yang bersih. Sapu pelindung matahari di atasnya selepas itu jika perlu.
@@ -74,11 +74,11 @@ Harga di bawah ialah **anggaran sahaja, jadi sentiasa semak harga terkini**, dan
 - **STIK Air Dot.** Patch waktu siang yang nipis halus dan hampir tidak kelihatan. Kaitannya di sini khusus pada masalah waktu siang / di bawah solekan: profil nipis, kurang ketara, direka untuk terletak rata di bawah pelindung matahari atau alas bedak. Salah satu pilihan jika masalah anda ialah mahu pakai patch keluar dalam cuaca panas tanpa kelihatan.
 - **STIK MicroForce for Early Acne.** Patch microneedle (ceramides, hyaluronic acid, peptides, salicylic acid) yang menyasarkan benjolan awal yang lebih dalam dan belum timbul ke permukaan, bukan komedo putih yang sudah terbuka. Kerjanya berbeza daripada hydrocolloid rata di atas; disebut di sini hanya supaya anda tidak beli sambil ingat ia patch penyerap biasa.
 
-Jika anda mahu gambaran yang lebih luas dengan perbandingan penuh merentas pelbagai bajet dan jenis kulit, panduan tunjang kami tentang [patch jerawat terbaik di Malaysia untuk 2026](/my/articles/best-acne-patches-malaysia-2026/) susun semuanya. Mereka yang berkulit lebih muda dan lebih berminyak khususnya mungkin rasa nota kami tentang [patch jerawat terbaik untuk remaja di Malaysia](/my/articles/best-acne-patches-for-teens-malaysia/) berguna, sebab kulit remaja cenderung lebih berminyak dan lebih mudah berjerawat.
+Jika anda mahu gambaran yang lebih luas dengan perbandingan penuh merentas pelbagai bajet dan jenis kulit, panduan tunjang kami tentang [patch jerawat terbaik di Malaysia untuk 2026](/ms/articles/best-acne-patches-malaysia-2026/) susun semuanya. Mereka yang berkulit lebih muda dan lebih berminyak khususnya mungkin rasa nota kami tentang [patch jerawat terbaik untuk remaja di Malaysia](/ms/articles/best-acne-patches-for-teens-malaysia/) berguna, sebab kulit remaja cenderung lebih berminyak dan lebih mudah berjerawat.
 
 ### Satu masalah iklim lembap yang berkaitan: maskne
 
-Jika anda pakai pelitup muka masa berulang-alik, di klinik, atau di tempat kerja, mungkin anda sudah perasan jerawat timbul di sepanjang rahang dan dagu. Itu geseran campur haba dan peluh terperangkap, musuh pelekatan yang sama, jadi lebih teruk. Patch nipis yang terletak rata di bawah tepi pelitup biasanya paling bertahan; kami terangkan butirannya dalam [merawat jerawat pelitup muka dalam iklim panas](/my/articles/acne-patches-for-maskne-malaysia/).
+Jika anda pakai pelitup muka masa berulang-alik, di klinik, atau di tempat kerja, mungkin anda sudah perasan jerawat timbul di sepanjang rahang dan dagu. Itu geseran campur haba dan peluh terperangkap, musuh pelekatan yang sama, jadi lebih teruk. Patch nipis yang terletak rata di bawah tepi pelitup biasanya paling bertahan; kami terangkan butirannya dalam [merawat jerawat pelitup muka dalam iklim panas](/ms/articles/acne-patches-for-maskne-malaysia/).
 
 ## Bila patch ialah alat yang salah
 

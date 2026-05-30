@@ -22,10 +22,10 @@ const canonical = new URL(Astro.url.pathname, Astro.site).href;
 // hreflang alternates (only when the page exists in all three languages — pass `path`).
 const alternates = path
   ? [
-      { hreflang: 'en-MY', href: new URL(`/my${path}`, Astro.site).href },
-      { hreflang: 'ms-MY', href: new URL(`/my/ms${path}`, Astro.site).href },
-      { hreflang: 'zh-MY', href: new URL(`/my/zh${path}`, Astro.site).href },
-      { hreflang: 'x-default', href: new URL(`/my${path}`, Astro.site).href },
+      { hreflang: 'en-MY', href: new URL(`${path}`, Astro.site).href },
+      { hreflang: 'ms-MY', href: new URL(`/ms${path}`, Astro.site).href },
+      { hreflang: 'zh-MY', href: new URL(`/zh${path}`, Astro.site).href },
+      { hreflang: 'x-default', href: new URL(`${path}`, Astro.site).href },
     ]
   : [];
 const fullTitle = title === 'TheBeautyGPT'

@@ -1,20 +1,21 @@
 ---
 // Detect current language + the language-agnostic path suffix, so the logo, nav,
 // and language switcher all point to the right place for the page you're on.
+// Home market (Malaysia) lives at the root: '/', '/ms/', '/zh/'.
 const p = Astro.url.pathname;
 let lang: 'en' | 'ms' | 'zh' = 'en';
 let suffix = '/';
-if (p === '/my/ms' || p.startsWith('/my/ms/')) { lang = 'ms'; suffix = p.slice(6) || '/'; }
-else if (p === '/my/zh' || p.startsWith('/my/zh/')) { lang = 'zh'; suffix = p.slice(6) || '/'; }
-else if (p === '/my' || p.startsWith('/my/')) { lang = 'en'; suffix = p.slice(3) || '/'; }
+if (p === '/ms' || p.startsWith('/ms/')) { lang = 'ms'; suffix = p.slice(3) || '/'; }
+else if (p === '/zh' || p.startsWith('/zh/')) { lang = 'zh'; suffix = p.slice(3) || '/'; }
+else { lang = 'en'; suffix = p || '/'; }
 
-const home = { en: '/my/', ms: '/my/ms/', zh: '/my/zh/' }[lang];
-const about = { en: '/my/about/', ms: '/my/ms/about/', zh: '/my/zh/about/' }[lang];
+const home = { en: '/', ms: '/ms/', zh: '/zh/' }[lang];
+const about = { en: '/about/', ms: '/ms/about/', zh: '/zh/about/' }[lang];
 const t = {
   home: { en: 'Home', ms: 'Laman Utama', zh: '首页' }[lang],
   about: { en: 'About', ms: 'Tentang', zh: '关于' }[lang],
 };
-const sw = { en: `/my${suffix}`, ms: `/my/ms${suffix}`, zh: `/my/zh${suffix}` };
+const sw = { en: `${suffix}`, ms: `/ms${suffix}`, zh: `/zh${suffix}` };
 ---
 <header class="site-header">
   <div class="wrap">

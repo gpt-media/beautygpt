@@ -80,7 +80,7 @@ Begini cara permulaan yang lembut:
 
 Jangkakan tempoh penyesuaian yang singkat. Sedikit kekeringan dan sekali-sekala mengelupas memang biasa pada peringkat awal; rasa terbakar yang berterusan, kemerahan yang melecet atau bengkak pula tidak normal. Itu petanda untuk anda kurangkan kekerapan atau kepekatan, atau berhenti.
 
-Untuk gambaran lebih besar tentang kedudukan bahan aktif ini bersama semua yang lain, panduan kami tentang [cara merawat jerawat di Malaysia](/my/articles/how-to-treat-acne-malaysia/) terangkan bahan dan rutin yang benar-benar berkesan, dan [cara membina rutin penjagaan kulit untuk jerawat](/my/articles/how-to-build-acne-skincare-routine-malaysia/) tunjukkan susunan untuk melapis semuanya.
+Untuk gambaran lebih besar tentang kedudukan bahan aktif ini bersama semua yang lain, panduan kami tentang [cara merawat jerawat di Malaysia](/ms/articles/how-to-treat-acne-malaysia/) terangkan bahan dan rutin yang benar-benar berkesan, dan [cara membina rutin penjagaan kulit untuk jerawat](/ms/articles/how-to-build-acne-skincare-routine-malaysia/) tunjukkan susunan untuk melapis semuanya.
 
 ## Amaran luntur kain yang tidak ada siapa cakap sampai sudah terlambat
 
@@ -100,7 +100,7 @@ Untuk mengelakkannya:
 Kebanyakan orang tidak menggunakan benzoyl peroxide bersendirian, jadi penting untuk memberikan jarak masa yang sesuai apabila menggabungkannya dengan bahan lain.
 
 - **Dengan salicylic acid.** Kedua-duanya tidak jadi masalah, dan gandingan ini biasa (benzoyl peroxide pada jerawat meradang, salicylic acid pada liang tersumbat). Tetapi kedua-duanya mengeringkan, jadi jangan mulakan keduanya dalam minggu yang sama. Perkenalkan satu, biar kulit anda reda, kemudian tambah yang satu lagi.
-- **Dengan retinoid (adapalene, tretinoin).** Berhati-hati. Jika diguna pada masa yang sama, kedua-duanya boleh terlalu merengsakan kulit, dan benzoyl peroxide boleh menyahaktifkan sesetengah retinoid versi lama secara kimia bila bersentuhan. Penyelesaian biasa ialah pisahkannya: benzoyl peroxide pada waktu pagi, retinoid pada waktu malam. (Sesetengah formula yang lebih baharu distabilkan untuk diguna bersama, tetapi semak label.) Panduan kami tentang [adapalene di Malaysia](/my/articles/adapalene-malaysia/) menerangkan cara melapisnya dengan selamat.
+- **Dengan retinoid (adapalene, tretinoin).** Berhati-hati. Jika diguna pada masa yang sama, kedua-duanya boleh terlalu merengsakan kulit, dan benzoyl peroxide boleh menyahaktifkan sesetengah retinoid versi lama secara kimia bila bersentuhan. Penyelesaian biasa ialah pisahkannya: benzoyl peroxide pada waktu pagi, retinoid pada waktu malam. (Sesetengah formula yang lebih baharu distabilkan untuk diguna bersama, tetapi semak label.) Panduan kami tentang [adapalene di Malaysia](/ms/articles/adapalene-malaysia/) menerangkan cara melapisnya dengan selamat.
 - **Dengan niacinamide.** Gandingan yang serasi: niacinamide membantu menenangkan kemerahan dan menyokong lapisan pelindung kulit, sekali gus mengimbangi sebahagian kekeringan.
 - **Dengan vitamin C.** Benzoyl peroxide boleh mengoksidakan sesetengah bentuk vitamin C, lalu menumpulkan kesannya. Asingkan keduanya dalam rutin berbeza (satu pagi, satu malam).
 - **Sentiasa dengan pelindung matahari.** Benzoyl peroxide boleh menjadikan kulit sedikit lebih sensitif, dan merawat jerawat sambil mengumpul kerosakan matahari baharu serta tompok hitam memang sia-sia. Pelindung matahari SPF harian memang wajib di bawah matahari Malaysia.

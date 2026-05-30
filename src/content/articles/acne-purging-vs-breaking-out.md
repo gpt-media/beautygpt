@@ -30,7 +30,7 @@ Certain ingredients speed the whole cycle up. **Retinoids** (retinol, and prescr
 
 > Rule of thumb: purging isn't new acne. It's the acne you were *going to* get anyway, arriving early and all at once.
 
-That's the key idea. The actives aren't creating new blockages. They're fast-forwarding the ones already in the pipeline. Once that backlog clears, your skin typically ends up clearer than before. We cover how these ingredients fit into a full routine in [How to Treat Acne in Malaysia: The Ingredients and Routine That Actually Work](/my/articles/how-to-treat-acne-malaysia/).
+That's the key idea. The actives aren't creating new blockages. They're fast-forwarding the ones already in the pipeline. Once that backlog clears, your skin typically ends up clearer than before. We cover how these ingredients fit into a full routine in [How to Treat Acne in Malaysia: The Ingredients and Routine That Actually Work](/articles/how-to-treat-acne-malaysia/).
 
 ## The three questions that tell you which one it is
 
@@ -112,7 +112,7 @@ A note specific to our climate: Malaysia's humidity means heavy, occlusive cream
 
 ## Where retinoids and acids fit in the first place
 
-If all of this has you second-guessing whether to start a retinoid at all: the purge is temporary, the payoff is durable, and the trick is starting low and slow. A weaker retinoid two nights a week, buffered with moisturiser, gives most people a far smoother ride than diving in nightly at full strength. We break down the options, including the difference between over-the-counter retinol and prescription retinoids, in [Retinol vs Retinoids for Acne: Where to Start](/my/articles/retinol-vs-retinoids-for-acne/), and how to slot one into a sustainable regimen in [How to Build an Acne Skincare Routine (Malaysia)](/my/articles/how-to-build-acne-skincare-routine-malaysia/).
+If all of this has you second-guessing whether to start a retinoid at all: the purge is temporary, the payoff is durable, and the trick is starting low and slow. A weaker retinoid two nights a week, buffered with moisturiser, gives most people a far smoother ride than diving in nightly at full strength. We break down the options, including the difference between over-the-counter retinol and prescription retinoids, in [Retinol vs Retinoids for Acne: Where to Start](/articles/retinol-vs-retinoids-for-acne/), and how to slot one into a sustainable regimen in [How to Build an Acne Skincare Routine (Malaysia)](/articles/how-to-build-acne-skincare-routine-malaysia/).
 
 This is educational, not medical advice. For prescription treatments (including adapalene, tretinoin and oral acne medication) and for any acne that is severe, painful, cystic, or persistent, see a doctor or pharmacist. They can tell you whether what you're seeing is a normal purge or a reaction that needs a different plan.
 

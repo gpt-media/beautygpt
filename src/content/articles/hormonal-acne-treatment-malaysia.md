@@ -55,7 +55,7 @@ These are the evidence-backed actives worth building a routine around. They won'
 | **Azelaic acid** | Calms inflammation and antibacterial action, *and* fades the dark marks deep spots leave behind | Watsons, Guardian, marketplaces; ~10% over the counter | Gentle, good for sensitive and deeper skin tones; slow on pigment; often pregnancy-considered (confirm with a doctor) |
 | **Benzoyl peroxide** | Kills acne-causing bacteria and reduces inflammation; useful on actively inflamed spots | Pharmacies and marketplaces; OTC strengths roughly 2.5–10% | Can dry and irritate, and bleaches fabric. Lower strengths often work as well as higher with less irritation |
 
-A realistic starting routine for milder hormonal acne is a gentle cleanser, a retinoid at night a few times a week (built up slowly), a simple moisturiser, and broad-spectrum SPF every morning, adding azelaic acid or benzoyl peroxide where it fits. We walk through exactly how to assemble and sequence this in [how to build an acne skincare routine for Malaysian skin](/my/articles/how-to-build-acne-skincare-routine-malaysia/), and the broader ingredient-by-ingredient picture is in [how to treat acne in Malaysia: the ingredients and routine that actually work](/my/articles/how-to-treat-acne-malaysia/).
+A realistic starting routine for milder hormonal acne is a gentle cleanser, a retinoid at night a few times a week (built up slowly), a simple moisturiser, and broad-spectrum SPF every morning, adding azelaic acid or benzoyl peroxide where it fits. We walk through exactly how to assemble and sequence this in [how to build an acne skincare routine for Malaysian skin](/articles/how-to-build-acne-skincare-routine-malaysia/), and the broader ingredient-by-ingredient picture is in [how to treat acne in Malaysia: the ingredients and routine that actually work](/articles/how-to-treat-acne-malaysia/).
 
 A few honest limits. Topicals are preventive and gradual: they reduce the *next* round of breakouts over weeks, they don't rescue a painful cyst overnight. They do nothing for textured scars (the pitted or rolling kind), which need clinical treatment. And piling on three strong actives at once usually causes more dryness and irritation than benefit, which on inflamed hormonal skin can make things look worse.
 
@@ -72,7 +72,7 @@ We're deliberately not giving doses, eligibility, or "which one to ask for" here
 
 > Rule of thumb: if deep, painful spots keep returning on a cycle despite a consistent routine you've genuinely stuck with for two to three months, that's your signal to see a doctor, not to buy a stronger cream.
 
-So when should you stop self-treating and book an appointment? See a doctor or pharmacist if your acne is **deep, painful, cystic or scarring**; if it's **not improving after a couple of months** of a sensible routine; if it's **affecting your confidence or mood**; or if it comes with **irregular periods or excess hair growth**. Our guide on [when to see a dermatologist for acne in Malaysia](/my/articles/when-to-see-a-dermatologist-acne-malaysia/) covers what to expect, the difference between a GP and a dermatologist, and rough costs locally. There is nothing weak about getting prescription help; for hormonal acne it's often the thing that actually works.
+So when should you stop self-treating and book an appointment? See a doctor or pharmacist if your acne is **deep, painful, cystic or scarring**; if it's **not improving after a couple of months** of a sensible routine; if it's **affecting your confidence or mood**; or if it comes with **irregular periods or excess hair growth**. Our guide on [when to see a dermatologist for acne in Malaysia](/articles/when-to-see-a-dermatologist-acne-malaysia/) covers what to expect, the difference between a GP and a dermatologist, and rough costs locally. There is nothing weak about getting prescription help; for hormonal acne it's often the thing that actually works.
 
 ## Lifestyle and diet: what's real and what's myth
 
@@ -88,7 +88,7 @@ In short: clean up the obvious stuff (sugar, sleep, gentle skincare) if it helps
 
 ## A note on the marks left behind
 
-Deep hormonal spots are notorious for leaving flat brown or grey marks (post-inflammatory hyperpigmentation) that linger for months on Malaysian skin tones, often longer than the spot itself. The two things that fade them are time plus daily sunscreen, and gentle pigment-friendly actives like [azelaic acid, which treats acne and the dark marks at once](/my/articles/azelaic-acid-for-acne-and-pigmentation/). Picking at deep bumps makes both the spot and the eventual mark worse, so resist it. True scarring (actual texture change) is different and needs a clinic.
+Deep hormonal spots are notorious for leaving flat brown or grey marks (post-inflammatory hyperpigmentation) that linger for months on Malaysian skin tones, often longer than the spot itself. The two things that fade them are time plus daily sunscreen, and gentle pigment-friendly actives like [azelaic acid, which treats acne and the dark marks at once](/articles/azelaic-acid-for-acne-and-pigmentation/). Picking at deep bumps makes both the spot and the eventual mark worse, so resist it. True scarring (actual texture change) is different and needs a clinic.
 
 ## Bottom line
 

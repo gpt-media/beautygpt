@@ -14,9 +14,9 @@ const articleSchema = z.object({
 
 // One collection per language. Same schema; slugs match across languages so the
 // language versions of an article share a stable URL key (powers hreflang later).
-//   articles      -> en-MY  -> /my/articles/<slug>/
-//   articles-ms   -> ms-MY  -> /my/ms/articles/<slug>/
-//   articles-zh   -> zh-MY  -> /my/zh/articles/<slug>/
+//   articles      -> en-MY  -> /articles/<slug>/
+//   articles-ms   -> ms-MY  -> /ms/articles/<slug>/
+//   articles-zh   -> zh-MY  -> /zh/articles/<slug>/
 const articles = defineCollection({ type: 'content', schema: articleSchema });
 const articlesMs = defineCollection({ type: 'content', schema: articleSchema });
 const articlesZh = defineCollection({ type: 'content', schema: articleSchema });

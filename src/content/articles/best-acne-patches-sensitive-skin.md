@@ -62,7 +62,7 @@ Patch-testing takes one patch and a few hours, and it's the single best habit fo
 - **Leave it on:** a few hours, or overnight if you can.
 - **Check on removal:** look for redness, itching, a stinging feeling or a faint rash. A little temporary indentation or pale skin where the patch sat is normal and fades. Persistent redness or itch is not. That patch isn't for you.
 
-Do this with *any* new patch, and especially with medicated ones. If a brand sells a sensitive-skin or fragrance-free line, that's a sensible thing to test first, but the test still matters. "For sensitive skin" on a label isn't a guarantee for your skin specifically. If you want the fuller safety picture, our explainer on [whether pimple patches are safe and what dermatologists say](/my/articles/are-pimple-patches-safe/) goes deeper on the risks and how to use patches well.
+Do this with *any* new patch, and especially with medicated ones. If a brand sells a sensitive-skin or fragrance-free line, that's a sensible thing to test first, but the test still matters. "For sensitive skin" on a label isn't a guarantee for your skin specifically. If you want the fuller safety picture, our explainer on [whether pimple patches are safe and what dermatologists say](/articles/are-pimple-patches-safe/) goes deeper on the risks and how to use patches well.
 
 ## What to avoid on sensitive skin
 
@@ -70,7 +70,7 @@ A short list of things that make patches more likely to irritate reactive skin:
 
 - **Strong medicated patches as a first try.** A medicated patch like Oxy leans on an antibacterial action that's useful for some skin but is more than reactive skin usually needs. Start gentler.
 - **Applying to damp skin or over thick serum.** Trapped moisture under the patch softens skin and makes irritation and rough removal more likely. Dry skin first, always. That's doubly true in Malaysia's heat and humidity, where a patch can also briefly trap sweat.
-- **Ripping the patch off.** Peel slowly from one edge. If it's stuck, a splash of warm water loosens the gel. Tearing it off can damage the fresh skin underneath, which is also a common reason people worry about [whether patches leave marks or scars](/my/articles/do-acne-patches-leave-marks-or-scars/).
+- **Ripping the patch off.** Peel slowly from one edge. If it's stuck, a splash of warm water loosens the gel. Tearing it off can damage the fresh skin underneath, which is also a common reason people worry about [whether patches leave marks or scars](/articles/do-acne-patches-leave-marks-or-scars/).
 - **Wearing one too long or reusing it.** Once a hydrocolloid patch has turned white and saturated, it's done its job. Replace it, don't re-stick it.
 - **Fragranced or "cooling" novelty patches** if your skin is touchy. Added fragrance and menthol-type ingredients are extra reaction risks for no real healing benefit.
 
@@ -85,7 +85,7 @@ All approximate, so check the current listing, and compare the **per-patch** pri
 
 That STIK note is the whole article in miniature: the right patch for sensitive skin isn't the one with the most going on, it's the one with the least to react to. For early **under-skin** bumps (a different problem from a surfaced whitehead), patches like STIK MicroForce for Early Acne are microneedle, not plain dressings. They're useful, but not what you reach for to baby a reactive surface spot.
 
-If you want the wider landscape of options and how to match a patch to a pimple, see our pillar guide to the [best acne patches in Malaysia for 2026](/my/articles/best-acne-patches-malaysia-2026/). And if you're specifically weighing actives, our breakdown of [salicylic acid patches vs plain hydrocolloid](/my/articles/salicylic-acid-patches-vs-hydrocolloid/) covers exactly when the actives earn their place and when they don't.
+If you want the wider landscape of options and how to match a patch to a pimple, see our pillar guide to the [best acne patches in Malaysia for 2026](/articles/best-acne-patches-malaysia-2026/). And if you're specifically weighing actives, our breakdown of [salicylic acid patches vs plain hydrocolloid](/articles/salicylic-acid-patches-vs-hydrocolloid/) covers exactly when the actives earn their place and when they don't.
 
 ## A quick word on safety
 

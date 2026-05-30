@@ -80,7 +80,7 @@ A gentle on-ramp looks like this:
 
 Expect a short adjustment period. Some dryness and the odd bit of flaking is normal early on; persistent burning, raw redness or swelling is not. That is your cue to cut back the frequency or strength, or stop.
 
-For the bigger picture of where this active sits alongside everything else, our guide to [how to treat acne in Malaysia](/my/articles/how-to-treat-acne-malaysia/) walks through the ingredients and routine that actually work, and [how to build an acne skincare routine](/my/articles/how-to-build-acne-skincare-routine-malaysia/) shows you the order to layer things in.
+For the bigger picture of where this active sits alongside everything else, our guide to [how to treat acne in Malaysia](/articles/how-to-treat-acne-malaysia/) walks through the ingredients and routine that actually work, and [how to build an acne skincare routine](/articles/how-to-build-acne-skincare-routine-malaysia/) shows you the order to layer things in.
 
 ## The fabric-bleaching warning nobody mentions until it's too late
 
@@ -100,7 +100,7 @@ To avoid it:
 Most people don't use benzoyl peroxide in isolation, so spacing it correctly with other ingredients matters.
 
 - **With salicylic acid.** Both are fine, and the pairing is common (benzoyl peroxide on inflamed spots, salicylic acid on congestion). But both are drying, so don't start them in the same week. Introduce one, let your skin settle, then add the other.
-- **With retinoids (adapalene, tretinoin).** Be careful. Used at the same time, the two can over-irritate skin, and benzoyl peroxide can chemically deactivate some older retinoids on contact. The usual workaround is to separate them: benzoyl peroxide in the morning, the retinoid at night. (Some newer formulas are stabilised to be used together, but check the label.) Our guide to [adapalene in Malaysia](/my/articles/adapalene-malaysia/) covers how to layer it safely.
+- **With retinoids (adapalene, tretinoin).** Be careful. Used at the same time, the two can over-irritate skin, and benzoyl peroxide can chemically deactivate some older retinoids on contact. The usual workaround is to separate them: benzoyl peroxide in the morning, the retinoid at night. (Some newer formulas are stabilised to be used together, but check the label.) Our guide to [adapalene in Malaysia](/articles/adapalene-malaysia/) covers how to layer it safely.
 - **With niacinamide.** A friendly pairing: niacinamide helps calm redness and support the barrier, offsetting some of the dryness.
 - **With vitamin C.** Benzoyl peroxide can oxidise some forms of vitamin C, blunting it. Keep them in separate routines (one morning, one night).
 - **Always with sunscreen.** Benzoyl peroxide can leave skin a little more sensitive, and treating acne while collecting fresh sun damage and dark marks is self-defeating. Daily SPF is non-negotiable under Malaysian sun.

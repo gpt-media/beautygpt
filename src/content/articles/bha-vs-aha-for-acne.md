@@ -33,7 +33,7 @@ Here's why solubility is everything:
 
 > Rule of thumb: if the problem is *inside* the pore (blackheads, whiteheads, breakouts), reach for BHA. If the problem is *on* the surface (rough texture, dull tone, old marks), reach for AHA.
 
-This is why "BHA for blemishes, AHA for the after-effects" is a fair shorthand, though, as we'll see, the line blurs a little with marks. For a deeper look at the BHA on its own, see our guide to [salicylic acid for acne and how to use it](/my/articles/salicylic-acid-for-acne/).
+This is why "BHA for blemishes, AHA for the after-effects" is a fair shorthand, though, as we'll see, the line blurs a little with marks. For a deeper look at the BHA on its own, see our guide to [salicylic acid for acne and how to use it](/articles/salicylic-acid-for-acne/).
 
 ## Meet the acids individually
 
@@ -94,7 +94,7 @@ Our heat, humidity, and sweat change the game in a few practical ways:
 
 Where to buy locally: salicylic acid and AHA toners, serums, and exfoliating liquids are easy to find at **Watsons** and **Guardian**, and across **Shopee**, **TikTok Shop**, and **Lazada**. Widely available reference points include COSRX salicylic and AHA/BHA options (roughly RM50–RM90 depending on the product) and Some By Mi's AHA-BHA-PHA range (around RM60–RM100). Drugstore brands like Oxy carry medicated salicylic options at lower prices. These are approximate, so check the current listing, since prices and sizes shift with promotions. Don't assume pricier means stronger; a simple, well-formulated 2% salicylic product can outperform an expensive multi-acid blend for everyday acne.
 
-For where exfoliants fit alongside cleansing, moisturising, and treating, see [how to build an acne skincare routine for Malaysia](/my/articles/how-to-build-acne-skincare-routine-malaysia/). And for the bigger picture on which actives genuinely move the needle, our overview of [how to treat acne in Malaysia](/my/articles/how-to-treat-acne-malaysia/) walks through the full ingredient toolkit.
+For where exfoliants fit alongside cleansing, moisturising, and treating, see [how to build an acne skincare routine for Malaysia](/articles/how-to-build-acne-skincare-routine-malaysia/). And for the bigger picture on which actives genuinely move the needle, our overview of [how to treat acne in Malaysia](/articles/how-to-treat-acne-malaysia/) walks through the full ingredient toolkit.
 
 ## A quick word on expectations
 

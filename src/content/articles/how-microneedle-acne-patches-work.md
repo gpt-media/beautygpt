@@ -24,7 +24,7 @@ Below, we walk through what actually happens when you press one on, why that mat
 
 To understand microneedle patches, it helps to understand where ordinary spot treatments fall short.
 
-A normal flat patch, the hydrocolloid kind, like COSRX or the budget Watsons Acne Patch (a cheap, no-frills hydrocolloid sticker at roughly RM10–15 a pack that you can grab in any Watsons store nationwide), is an **absorbent dressing**. It works *after* a pimple has surfaced. Once there is a whitehead or some fluid, the patch draws it out and protects the spot from your fingers. We cover that whole category in detail in our guide to [hydrocolloid versus microneedle patches](/my/articles/hydrocolloid-vs-microneedle-acne-patches/), but the key limitation is simple: if nothing has surfaced, a flat patch has nothing to absorb. Stick one on a deep under-skin bump and it just sits there.
+A normal flat patch, the hydrocolloid kind, like COSRX or the budget Watsons Acne Patch (a cheap, no-frills hydrocolloid sticker at roughly RM10–15 a pack that you can grab in any Watsons store nationwide), is an **absorbent dressing**. It works *after* a pimple has surfaced. Once there is a whitehead or some fluid, the patch draws it out and protects the spot from your fingers. We cover that whole category in detail in our guide to [hydrocolloid versus microneedle patches](/articles/hydrocolloid-vs-microneedle-acne-patches/), but the key limitation is simple: if nothing has surfaced, a flat patch has nothing to absorb. Stick one on a deep under-skin bump and it just sits there.
 
 A serum or spot gel has the opposite problem. The active ingredients are right there in the bottle, but your skin's outermost layer, the stratum corneum, is a genuinely good barrier. It is designed to keep things out. So a lot of what you dab on never penetrates deep enough to matter, especially for a bump that is sitting *below* that barrier.
 
@@ -61,9 +61,9 @@ This is where honesty earns its keep, because microneedle patches are genuinely 
 
 **Do not bother with a microneedle patch when:**
 
-- The spot has **already surfaced**, with a visible whitehead or fluid. At that point a flat hydrocolloid patch is the better, cheaper tool, because it can actually absorb the gunk. (If you are unsure which spot is which, our [best acne patches in Malaysia guide](/my/articles/best-acne-patches-malaysia-2026/) breaks down matching the patch to the pimple.)
-- You are dealing with **blackheads or stubborn closed whiteheads**. Patches in general are weak on those, and we explain why in [do acne patches work on blackheads and whiteheads](/my/articles/do-acne-patches-work-on-blackheads-whiteheads/).
-- You have **true cystic acne**: deep, painful, recurring nodules. A patch can take the edge off a single early bump (our [guide to patches for cystic and under-the-skin acne](/my/articles/best-patch-for-cystic-under-skin-acne-malaysia/) covers what realistically helps), but recurring cystic acne is a medical issue. Please see the note at the end.
+- The spot has **already surfaced**, with a visible whitehead or fluid. At that point a flat hydrocolloid patch is the better, cheaper tool, because it can actually absorb the gunk. (If you are unsure which spot is which, our [best acne patches in Malaysia guide](/articles/best-acne-patches-malaysia-2026/) breaks down matching the patch to the pimple.)
+- You are dealing with **blackheads or stubborn closed whiteheads**. Patches in general are weak on those, and we explain why in [do acne patches work on blackheads and whiteheads](/articles/do-acne-patches-work-on-blackheads-whiteheads/).
+- You have **true cystic acne**: deep, painful, recurring nodules. A patch can take the edge off a single early bump (our [guide to patches for cystic and under-the-skin acne](/articles/best-patch-for-cystic-under-skin-acne-malaysia/) covers what realistically helps), but recurring cystic acne is a medical issue. Please see the note at the end.
 
 > Rule of thumb: if you can only *feel* it, a microneedle patch is worth trying. The second you can *see* white, switch to hydrocolloid.
 

@@ -44,7 +44,7 @@ That third action is the headline. Most acne treatments stop at the pimple and l
 
 Two reasons stand out for the local context.
 
-First, **PIH is the real complaint here.** On medium-to-deep skin tones, acne very often does not just disappear. It leaves a flat brown or greyish mark that can linger for months. For many people the marks are more bothersome and longer-lasting than the original spots. An ingredient that fades pigment *while* it treats acne is a much better fit for that reality than one that only clears the bump. (If marks are your main issue, our full guide on [how to fade acne dark spots (PIH) in Malaysia](/my/articles/how-to-fade-acne-scars-pih-malaysia/) goes deeper on the whole approach.)
+First, **PIH is the real complaint here.** On medium-to-deep skin tones, acne very often does not just disappear. It leaves a flat brown or greyish mark that can linger for months. For many people the marks are more bothersome and longer-lasting than the original spots. An ingredient that fades pigment *while* it treats acne is a much better fit for that reality than one that only clears the bump. (If marks are your main issue, our full guide on [how to fade acne dark spots (PIH) in Malaysia](/articles/how-to-fade-acne-scars-pih-malaysia/) goes deeper on the whole approach.)
 
 Second, **gentleness matters in this climate.** Hot, humid weather, lots of sun, and barrier-stripping cleansing routines already leave many people's skin reactive. Harsher actives can tip irritated skin into more inflammation, which, frustratingly, causes *more* dark marks. Azelaic acid is comparatively low-drama: less stinging, less peeling, less of the redness that stronger acids and high-strength retinoids can bring. That makes it easier to stick with, and consistency is what actually fades pigment.
 
@@ -69,7 +69,7 @@ It rarely works alone in real routines, so here is how it compares to the usual 
 | **Vitamin C** | Brightening, antioxidant, daytime glow | Moderate | Good on pigment but can be unstable and stingy |
 | **Adapalene / retinoids** | Stubborn acne + long-term renewal | Can irritate | Strong and effective; avoid in pregnancy; see a doctor/pharmacist |
 
-The practical takeaway: azelaic acid and [niacinamide](/my/articles/niacinamide-for-acne-and-marks/) are the two gentlest "treat the mark too" actives, and they happen to pair beautifully. If you only adopt one new active and your concern is acne-plus-marks, azelaic is the more complete single choice.
+The practical takeaway: azelaic acid and [niacinamide](/articles/niacinamide-for-acne-and-marks/) are the two gentlest "treat the mark too" actives, and they happen to pair beautifully. If you only adopt one new active and your concern is acne-plus-marks, azelaic is the more complete single choice.
 
 ## How to use it: a simple routine
 
@@ -80,7 +80,7 @@ You do not need anything elaborate. A workable daily approach:
 3. **Moisturise** with something simple and non-greasy.
 4. **Sunscreen every single morning.** This is non-negotiable with any pigment treatment. Without daily SPF, sun exposure re-darkens the very marks you are trying to fade, and you will spin your wheels for months. This matters even on cloudy or indoor days in Malaysia.
 
-A note on strengths: over-the-counter products here usually sit around **10 percent**, which is a sensible starting point. Higher strengths (commonly in the **15–20 percent** range) tend to be prescription or pharmacist-supplied and work faster on stubborn pigmentation, but are likelier to tingle at first. Treat these as general ranges and follow whatever your specific product's label says. For the bigger picture of how actives fit together into a full anti-acne routine, see our guide on [how to treat acne in Malaysia](/my/articles/how-to-treat-acne-malaysia/).
+A note on strengths: over-the-counter products here usually sit around **10 percent**, which is a sensible starting point. Higher strengths (commonly in the **15–20 percent** range) tend to be prescription or pharmacist-supplied and work faster on stubborn pigmentation, but are likelier to tingle at first. Treat these as general ranges and follow whatever your specific product's label says. For the bigger picture of how actives fit together into a full anti-acne routine, see our guide on [how to treat acne in Malaysia](/articles/how-to-treat-acne-malaysia/).
 
 ## Where to buy it in Malaysia, and rough prices
 

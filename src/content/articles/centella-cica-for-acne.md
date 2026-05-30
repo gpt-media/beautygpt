@@ -52,7 +52,7 @@ Think of centella as the peacemaker between your skin and your stronger products
 
 A few practical notes. You can apply a centella essence or serum after your active to reduce the sting, a "buffer" step. On nights when your retinoid leaves skin raw, you can even skip the active and use centella alone to let the barrier recover. And because cica is so gentle, you do not need to alternate days or "cycle" it the way you might with strong actives.
 
-If you want the full picture of which actives do the heavy lifting, our pillar guide on [how to treat acne in Malaysia](/my/articles/how-to-treat-acne-malaysia/) walks through the proven ingredients and how to layer them. Centella is best understood as the support layer wrapped around that core routine.
+If you want the full picture of which actives do the heavy lifting, our pillar guide on [how to treat acne in Malaysia](/articles/how-to-treat-acne-malaysia/) walks through the proven ingredients and how to layer them. Centella is best understood as the support layer wrapped around that core routine.
 
 ## Redness and marks: manage your expectations
 
@@ -60,7 +60,7 @@ This is where people get cica wrong, so let us be precise.
 
 Centella is excellent for **active redness and irritation**: the inflamed flush of a fresh breakout, the angry look of skin reacting to a new active, general sensitivity. Here it genuinely helps, and quickly.
 
-Centella is *not* a dedicated treatment for **post-inflammatory marks**, the flat brown or pink spots a pimple leaves behind after it heals. Those respond better to pigment-focused ingredients. For brown marks, [niacinamide](/my/articles/niacinamide-for-acne-and-marks/) and azelaic acid are the workhorses; vitamin C and a diligent sunscreen habit also matter a great deal. Cica can sit alongside these and keep the skin calm while they do the fading, but do not expect a cica cream alone to erase old marks. Anyone promising that is overselling it.
+Centella is *not* a dedicated treatment for **post-inflammatory marks**, the flat brown or pink spots a pimple leaves behind after it heals. Those respond better to pigment-focused ingredients. For brown marks, [niacinamide](/articles/niacinamide-for-acne-and-marks/) and azelaic acid are the workhorses; vitamin C and a diligent sunscreen habit also matter a great deal. Cica can sit alongside these and keep the skin calm while they do the fading, but do not expect a cica cream alone to erase old marks. Anyone promising that is overselling it.
 
 So: cica for the *red and angry now*; niacinamide, azelaic acid and friends for the *brown and lingering later*.
 
@@ -68,7 +68,7 @@ So: cica for the *red and angry now*; niacinamide, azelaic acid and friends for 
 
 Good news for oily and combination skin (and that is a lot of us in Malaysia's heat and humidity): centella itself is lightweight and does not clog pores. The catch is the *format* it comes in. A rich "cica balm" or heavy repair cream designed for dry, cold-climate skin can feel greasy and occlusive here. Reach instead for a **centella toner, essence, ampoule, gel or light serum**, which delivers the soothing benefit without the heavy finish.
 
-If your main concern is oiliness and breakouts rather than sensitivity, centella should be a supporting cast member, not the star. See our breakdown of the [best acne ingredients for oily skin in Malaysia](/my/articles/best-acne-ingredients-for-oily-skin-malaysia/) for the actives that actually control oil and clear pores. Layer cica on top of those when your skin feels irritated or over-treated.
+If your main concern is oiliness and breakouts rather than sensitivity, centella should be a supporting cast member, not the star. See our breakdown of the [best acne ingredients for oily skin in Malaysia](/articles/best-acne-ingredients-for-oily-skin-malaysia/) for the actives that actually control oil and clear pores. Layer cica on top of those when your skin feels irritated or over-treated.
 
 ### What is available locally, and rough prices
 

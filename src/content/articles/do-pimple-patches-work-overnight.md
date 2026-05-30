@@ -56,7 +56,7 @@ A **deep, blind, under-skin pimple** (the hard, painful lump that you can feel f
 
 That's not a faulty patch. It's the wrong tool for that pimple.
 
-For those early, under-skin bumps, the relevant tool is a **microneedle patch**, a completely different technology with hundreds of tiny dissolving cones that deliver actives *just below* the skin's surface, rather than absorbing from the top. Even then, set your expectations: a microneedle patch is a *head-start*, not an overnight miracle on a deep cyst either. Deep stuff takes time. We go deeper on matching patch-type to pimple-type in our [full guide to the best acne patches in Malaysia](/my/articles/best-acne-patches-malaysia-2026/).
+For those early, under-skin bumps, the relevant tool is a **microneedle patch**, a completely different technology with hundreds of tiny dissolving cones that deliver actives *just below* the skin's surface, rather than absorbing from the top. Even then, set your expectations: a microneedle patch is a *head-start*, not an overnight miracle on a deep cyst either. Deep stuff takes time. We go deeper on matching patch-type to pimple-type in our [full guide to the best acne patches in Malaysia](/articles/best-acne-patches-malaysia-2026/).
 
 And if a bump is large, hot, genuinely painful, or has been there for a week-plus? That's a "see a doctor," not a "buy a sticker." (This is educational, not medical advice. Persistent or cystic acne deserves a professional, and [Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/12233-acne) advises seeing a dermatologist for deep, painful cystic breakouts.)
 
@@ -81,9 +81,9 @@ Small things change the result more than which brand you buy:
 - **Clean, dry skin first.** Wash, pat fully dry, and apply *before* any moisturiser or oil so the patch grips. In Malaysia's heat and humidity this matters even more: any leftover sweat, sunscreen or moisturiser and the patch lifts off in the night.
 - **Pick a patch big enough to seal past the edge** of the spot, so it has a clean margin to stick to.
 - **One night, one patch.** Never reuse a patch. A saturated one can't absorb more and just presses old bacteria back against your skin.
-- **Don't pre-pop "to help it."** A patch on an unpopped surfaced whitehead works fine; deliberately squeezing first just adds trauma and scarring risk. Our piece on [pimple patches vs popping](/my/articles/pimple-patches-vs-popping/) covers why letting the patch do the work beats your fingers every time.
+- **Don't pre-pop "to help it."** A patch on an unpopped surfaced whitehead works fine; deliberately squeezing first just adds trauma and scarring risk. Our piece on [pimple patches vs popping](/articles/pimple-patches-vs-popping/) covers why letting the patch do the work beats your fingers every time.
 
-How long is "long enough"? Overnight (6–8 hours) is ideal precisely because hydrocolloid needs sustained contact to keep wicking; a quick 2-hour wear does far less. We break down ideal wear time in [how long you should leave a pimple patch on](/my/articles/how-long-to-leave-a-pimple-patch-on/).
+How long is "long enough"? Overnight (6–8 hours) is ideal precisely because hydrocolloid needs sustained contact to keep wicking; a quick 2-hour wear does far less. We break down ideal wear time in [how long you should leave a pimple patch on](/articles/how-long-to-leave-a-pimple-patch-on/).
 
 ## Picking an overnight patch in Malaysia
 
@@ -97,7 +97,7 @@ For overnight use you want plain hydrocolloid. You're asleep, so thinness and in
 
 For daytime, you'd swap to an ultra-thin invisible patch instead (something like STIK Air Dot disappears under makeup), but for pure overnight results, any solid hydrocolloid above will do the job. Buy from official stores, and compare the **per-patch** price, not the pack price.
 
-If you're wondering whether all this absorbing and healing leaves a mark, the patch is actually on your side there. By stopping picking and keeping the spot moist, it tends to *reduce* scarring risk. We cover that in [do acne patches leave marks or scars](/my/articles/do-acne-patches-leave-marks-or-scars/).
+If you're wondering whether all this absorbing and healing leaves a mark, the patch is actually on your side there. By stopping picking and keeping the spot moist, it tends to *reduce* scarring risk. We cover that in [do acne patches leave marks or scars](/articles/do-acne-patches-leave-marks-or-scars/).
 
 ## The bottom line
 

@@ -33,7 +33,7 @@ Inilah sebabnya keterlarutan ialah segala-galanya:
 
 > Petua mudah: jika masalahnya *di dalam* liang (komedo hitam, komedo putih, jerawat), pilih BHA. Jika masalahnya *di* permukaan (tekstur kasar, warna kusam, parut lama), pilih AHA.
 
-Inilah sebabnya "BHA untuk jerawat, AHA untuk kesan selepasnya" ialah ringkasan yang munasabah, walaupun, seperti yang akan kita lihat, garis itu menjadi sedikit kabur apabila melibatkan parut. Untuk pandangan lebih mendalam tentang BHA itu sendiri, lihat panduan kami tentang [asid salisilik untuk jerawat dan cara menggunakannya](/my/articles/salicylic-acid-for-acne/).
+Inilah sebabnya "BHA untuk jerawat, AHA untuk kesan selepasnya" ialah ringkasan yang munasabah, walaupun, seperti yang akan kita lihat, garis itu menjadi sedikit kabur apabila melibatkan parut. Untuk pandangan lebih mendalam tentang BHA itu sendiri, lihat panduan kami tentang [asid salisilik untuk jerawat dan cara menggunakannya](/ms/articles/salicylic-acid-for-acne/).
 
 ## Kenali asid-asid ini satu persatu
 
@@ -94,7 +94,7 @@ Cuaca panas, kelembapan, dan peluh kita mengubah keadaan dalam beberapa cara pra
 
 Tempat mahu beli secara tempatan: toner, serum, dan cecair eksfoliasi asid salisilik dan AHA mudah ditemui di **Watsons** dan **Guardian**, serta di **Shopee**, **TikTok Shop**, dan **Lazada**. Pilihan yang mudah didapati termasuk produk salisilik dan AHA/BHA COSRX (kira-kira RM50–RM90 bergantung pada produk) dan rangkaian AHA-BHA-PHA Some By Mi (sekitar RM60–RM100). Jenama farmasi seperti Oxy ada pilihan salisilik yang mengandungi ubat pada harga yang lebih rendah. Ini semua anggaran, jadi semak harga terkini, kerana harga dan saiz berubah dengan promosi. Jangan anggap yang lebih mahal bermakna lebih kuat; produk salisilik 2% yang ringkas dan diformulasikan dengan baik boleh mengatasi campuran pelbagai asid yang mahal untuk jerawat harian.
 
-Untuk melihat di mana eksfolian sesuai bersama membersihkan, melembapkan, dan merawat, lihat [cara membina rutin penjagaan kulit jerawat untuk Malaysia](/my/articles/how-to-build-acne-skincare-routine-malaysia/). Dan untuk gambaran yang lebih besar tentang bahan aktif mana yang benar-benar membawa kesan, gambaran keseluruhan kami tentang [cara merawat jerawat di Malaysia](/my/articles/how-to-treat-acne-malaysia/) menelusuri keseluruhan set bahan yang ada.
+Untuk melihat di mana eksfolian sesuai bersama membersihkan, melembapkan, dan merawat, lihat [cara membina rutin penjagaan kulit jerawat untuk Malaysia](/ms/articles/how-to-build-acne-skincare-routine-malaysia/). Dan untuk gambaran yang lebih besar tentang bahan aktif mana yang benar-benar membawa kesan, gambaran keseluruhan kami tentang [cara merawat jerawat di Malaysia](/ms/articles/how-to-treat-acne-malaysia/) menelusuri keseluruhan set bahan yang ada.
 
 ## Sepatah kata tentang jangkaan
 

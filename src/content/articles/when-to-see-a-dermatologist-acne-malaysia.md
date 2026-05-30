@@ -28,7 +28,7 @@ This guide is about recognising that line, what a dermatologist can actually do 
 
 It's worth saying plainly, because acne anxiety pushes a lot of people toward expensive specialists they may not need yet. Mild-to-moderate acne (the usual mix of blackheads, whiteheads, and the occasional inflamed spot) responds well to a consistent routine built around proven ingredients. A community pharmacist (the one behind the counter at Watsons or Guardian) can point you to the right starting actives for free, and a GP can prescribe a step up if needed.
 
-If you're not sure your routine is even giving treatment a fair chance, that's the first thing to fix, not the specialist booking. We walk through what actually works, and in what order, in [how to treat acne in Malaysia](/my/articles/how-to-treat-acne-malaysia/) and in the step-by-step [acne skincare routine guide](/my/articles/how-to-build-acne-skincare-routine-malaysia/). Three months of *doing the right things* beats three months of switching products every fortnight.
+If you're not sure your routine is even giving treatment a fair chance, that's the first thing to fix, not the specialist booking. We walk through what actually works, and in what order, in [how to treat acne in Malaysia](/articles/how-to-treat-acne-malaysia/) and in the step-by-step [acne skincare routine guide](/articles/how-to-build-acne-skincare-routine-malaysia/). Three months of *doing the right things* beats three months of switching products every fortnight.
 
 So a dermatologist isn't the default. It's the right move when specific signs show up.
 
@@ -61,7 +61,7 @@ This one gets left off lists, and it shouldn't. Acne is a medical condition, and
 
 ### 5. Your acne has a pattern that hints at something else
 
-Sometimes acne is a clue rather than the whole story. Sudden adult acne along the jaw and chin, breakouts that track tightly with your cycle, or acne alongside irregular periods or unusual hair growth can point to a hormonal driver. That's worth a professional look (we cover the specifics in [hormonal acne: what actually helps](/my/articles/hormonal-acne-treatment-malaysia/)), and a doctor can check whether anything underlying needs addressing.
+Sometimes acne is a clue rather than the whole story. Sudden adult acne along the jaw and chin, breakouts that track tightly with your cycle, or acne alongside irregular periods or unusual hair growth can point to a hormonal driver. That's worth a professional look (we cover the specifics in [hormonal acne: what actually helps](/articles/hormonal-acne-treatment-malaysia/)), and a doctor can check whether anything underlying needs addressing.
 
 ## What a dermatologist can actually offer
 

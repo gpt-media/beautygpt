@@ -32,7 +32,7 @@ Bila hydrocolloid berada di atas jerawat yang lembap atau terbuka, ia melakukan 
 - **Mengekalkan luka lembap dan tertutup.** Jerawat yang ditutup dan dikekalkan lembap sembuh lebih cepat dan kurang parut berbanding yang dibiar kering jadi keruping.
 - **Halang anda daripada memicit.** Ia penghalang fizikal antara jari anda dan jerawat, yang mengelakkan banyak kerosakan mekanikal yang menyebabkan parut.
 
-Yang paling penting, hydrocolloid buat semua ini **tanpa apa-apa bahan aktif**. Ia menyerap dan melindungi semata-mata. Untuk jerawat yang sudah bermata, itu biasanya keseluruhan tugasnya, dan sebab itu patch biasa boleh berfungsi dengan cantik manakala yang lebih mewah pula tidak tambah apa-apa yang anda boleh rasa. Kami huraikan mekanisme asas ini dengan lebih lanjut, termasuk di mana kedudukan patch berbanding jenis microneedle, dalam panduan kami tentang [bagaimana patch hydrocolloid dan microneedle berbeza](/my/articles/hydrocolloid-vs-microneedle-acne-patches/).
+Yang paling penting, hydrocolloid buat semua ini **tanpa apa-apa bahan aktif**. Ia menyerap dan melindungi semata-mata. Untuk jerawat yang sudah bermata, itu biasanya keseluruhan tugasnya, dan sebab itu patch biasa boleh berfungsi dengan cantik manakala yang lebih mewah pula tidak tambah apa-apa yang anda boleh rasa. Kami huraikan mekanisme asas ini dengan lebih lanjut, termasuk di mana kedudukan patch berbanding jenis microneedle, dalam panduan kami tentang [bagaimana patch hydrocolloid dan microneedle berbeza](/ms/articles/hydrocolloid-vs-microneedle-acne-patches/).
 
 ## Apa yang patch salicylic acid (yang mengandungi ubat) tambah
 
@@ -62,7 +62,7 @@ Inilah keputusannya, dihurai dengan jelas.
 - Kulit anda **kering, sensitif, atau sudah rengsa**, sama ada daripada retinoid, pengelupasan kimia baru-baru ini, terbakar matahari, atau kering kerana terlalu lama dalam bilik berhawa dingin. Di bawah keadaan tertutup, BHA boleh menjadikan kulit pedih, merah atau terkelupas.
 - Anda menampal patch atas kawasan yang **sudah dirawat** dengan bahan aktif lain (toner BHA, retinoid). Menindih asid di bawah lapisan yang menutup ialah jalan pintas ke arah jerawat yang terlebih kelupas dan mentah.
 
-Ringkasnya, patch biasa ialah pilihan lalai yang berisiko lebih rendah. Patch yang mengandungi ubat pula naik taraf yang bersasar untuk jerawat berminyak, tersumbat atau baru pada kulit yang boleh terima bahan aktif. Jika anda tidak pasti di mana kedudukan kulit anda, langkah selamat ialah mula dengan yang biasa. Perincian kami tentang [patch terbaik untuk kulit sensitif](/my/articles/best-acne-patches-sensitive-skin/) masuk lebih mendalam tentang membaca tahap rengsaan kulit anda sendiri sebelum anda tambah apa-apa bahan aktif.
+Ringkasnya, patch biasa ialah pilihan lalai yang berisiko lebih rendah. Patch yang mengandungi ubat pula naik taraf yang bersasar untuk jerawat berminyak, tersumbat atau baru pada kulit yang boleh terima bahan aktif. Jika anda tidak pasti di mana kedudukan kulit anda, langkah selamat ialah mula dengan yang biasa. Perincian kami tentang [patch terbaik untuk kulit sensitif](/ms/articles/best-acne-patches-sensitive-skin/) masuk lebih mendalam tentang membaca tahap rengsaan kulit anda sendiri sebelum anda tambah apa-apa bahan aktif.
 
 ## Bandingan sebelah-menyebelah
 
@@ -97,7 +97,7 @@ Pembahagian ini terpakai pada produk sebenar yang anda boleh beli di sini. Harga
 
 Dua peringatan jujur. Pertama, "mengandungi ubat" pada label tidak memberitahu anda kekuatan bahan aktif, dan paras BHA dalam patch umumnya rendah, jadi jangan harap kuasa toner tanpa bilas. Kedua, jika anda hanya mahu bantuan untuk komedo putih di permukaan dan kulit anda tenang dan normal, patch biasa paling murah dalam senarai ini pun berfungsi sama baik seperti apa-apa yang lebih mahal; jangan bayar lebih untuk bahan aktif yang anda tidak perlukan.
 
-Untuk senarai pendek penuh yang disusun sekali, lihat [panduan patch jerawat terbaik di Malaysia](/my/articles/best-acne-patches-malaysia-2026/) kami. Dan jika sasaran sebenar anda ialah liang tersumbat dan bukan jerawat yang sudah timbul, baca [sama ada patch jerawat berkesan pada komedo hitam dan komedo putih](/my/articles/do-acne-patches-work-on-blackheads-whiteheads/) sebelum anda putuskan yang patch mengandungi ubat itu jawapannya. Hasil sebenar di situ lebih sederhana daripada apa yang pemasaran cuba canangkan.
+Untuk senarai pendek penuh yang disusun sekali, lihat [panduan patch jerawat terbaik di Malaysia](/ms/articles/best-acne-patches-malaysia-2026/) kami. Dan jika sasaran sebenar anda ialah liang tersumbat dan bukan jerawat yang sudah timbul, baca [sama ada patch jerawat berkesan pada komedo hitam dan komedo putih](/ms/articles/do-acne-patches-work-on-blackheads-whiteheads/) sebelum anda putuskan yang patch mengandungi ubat itu jawapannya. Hasil sebenar di situ lebih sederhana daripada apa yang pemasaran cuba canangkan.
 
 ## Sepatah kata untuk iklim panas dan lembap kita
 

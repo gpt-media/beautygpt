@@ -46,11 +46,11 @@ Kebanyakan orang yang memilih rawatan setempat tanpa preskripsi sebenarnya sedan
 | **Benzoyl peroxide** | Membunuh bakteria jerawat, jerawat meradang secara menyeluruh | Kuat | Sederhana ke tinggi; boleh melunturkan kain | Rendah |
 | **Salicylic acid (BHA)** | Membuka liang tersumbat, komedo hitam, komedo putih | Lembut ke sederhana | Rendah ke sederhana | Rendah |
 
-Kesimpulan jujurnya: [benzoyl peroxide](/my/articles/benzoyl-peroxide-for-acne/) ialah bahan serba boleh yang paling terbukti untuk jerawat meradang, dan bagi ramai orang ia pilihan pertama yang lebih berkesan. [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) menyenaraikannya antara rawatan teras untuk jerawat meradang yang turut disasarkan oleh sulfur. Ia bunuh bakteria jerawat secara terus dan bertindak lebih cepat. Tetapi ia juga paling berkemungkinan tinggalkan kulit kering, mengelupas, merah atau pedih, dan ia boleh melunturkan tuala, sarung bantal dan pakaian gelap.
+Kesimpulan jujurnya: [benzoyl peroxide](/ms/articles/benzoyl-peroxide-for-acne/) ialah bahan serba boleh yang paling terbukti untuk jerawat meradang, dan bagi ramai orang ia pilihan pertama yang lebih berkesan. [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) menyenaraikannya antara rawatan teras untuk jerawat meradang yang turut disasarkan oleh sulfur. Ia bunuh bakteria jerawat secara terus dan bertindak lebih cepat. Tetapi ia juga paling berkemungkinan tinggalkan kulit kering, mengelupas, merah atau pedih, dan ia boleh melunturkan tuala, sarung bantal dan pakaian gelap.
 
 Di situlah sulfur jadi berharga. Jika benzoyl peroxide terlalu keras untuk anda, atau kulit anda sensitif dan reaktif, sulfur menawarkan cara yang lebih lembut untuk menyasarkan jenis jerawat yang sama. Ia juga tidak akan melunturkan cadar anda. Anggap sulfur bukan sebagai pesaing benzoyl peroxide, tetapi lebih sebagai alternatif yang lebih lembut untuk kulit yang tidak sesuai dengan bahan yang lebih kuat.
 
-[Salicylic acid](/my/articles/salicylic-acid-for-acne/) pula ada peranannya sendiri: ia BHA yang larut dalam minyak, jadi ia masuk *ke dalam* liang untuk membersihkan komedo hitam dan mencegah sumbatan. Sulfur dan salicylic acid malah boleh saling melengkapi (salicylic acid untuk pencegahan dan tekstur, sulfur untuk menenangkan pustul yang aktif), hanya anda perlu mula gunakannya dengan berhati-hati supaya kulit tidak jadi terlalu kering.
+[Salicylic acid](/ms/articles/salicylic-acid-for-acne/) pula ada peranannya sendiri: ia BHA yang larut dalam minyak, jadi ia masuk *ke dalam* liang untuk membersihkan komedo hitam dan mencegah sumbatan. Sulfur dan salicylic acid malah boleh saling melengkapi (salicylic acid untuk pencegahan dan tekstur, sulfur untuk menenangkan pustul yang aktif), hanya anda perlu mula gunakannya dengan berhati-hati supaya kulit tidak jadi terlalu kering.
 
 ### Mengapa "lebih lembut" itulah intinya
 
@@ -75,7 +75,7 @@ Dalam negara yang panas dan lembap, kawalan minyak memang penting, tetapi jangan
 - **Mula dengan dua atau tiga malam seminggu**, bukan setiap hari, dan tambah hanya jika kulit anda boleh terima.
 - **Sentiasa ikut dengan pelembap yang ringan.** Kulit berminyak pun perlukan kelembapan, dan ia mengimbangi kesan kering.
 - **Pakai pelindung matahari pada waktu siang.** Mana-mana bahan aktif jerawat boleh menjadikan kulit sedikit lebih reaktif, dan UV di Malaysia kuat sepanjang tahun.
-- **Jangan tambah semua sekali gus.** Jika anda sudah guna salicylic acid, benzoyl peroxide atau retinoid, tambah sulfur pada malam berselang dan perhatikan reaksi kulit anda. Penerangan penuh tentang cara melapis bahan aktif ada dalam panduan [cara merawat jerawat di Malaysia: bahan dan rutin yang benar-benar berkesan](/my/articles/how-to-treat-acne-malaysia/).
+- **Jangan tambah semua sekali gus.** Jika anda sudah guna salicylic acid, benzoyl peroxide atau retinoid, tambah sulfur pada malam berselang dan perhatikan reaksi kulit anda. Penerangan penuh tentang cara melapis bahan aktif ada dalam panduan [cara merawat jerawat di Malaysia: bahan dan rutin yang benar-benar berkesan](/ms/articles/how-to-treat-acne-malaysia/).
 
 ### Apa yang perlu dicari di rak tempatan
 

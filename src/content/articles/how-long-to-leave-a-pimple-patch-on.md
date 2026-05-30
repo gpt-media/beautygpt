@@ -59,7 +59,7 @@ A practical Malaysian note: in our heat and humidity, daytime patches face more 
 
 ## How to apply so the timing actually works
 
-The timing only holds if the patch is stuck on properly in the first place. The single biggest mistake is applying to damp or freshly-moisturised skin. Hydrocolloid simply won't grip, and in Malaysian humidity it'll slide off within the hour. (We cover this in depth in [why your pimple patch won't stick and how to fix it](/my/articles/pimple-patch-not-sticking-fixes/).)
+The timing only holds if the patch is stuck on properly in the first place. The single biggest mistake is applying to damp or freshly-moisturised skin. Hydrocolloid simply won't grip, and in Malaysian humidity it'll slide off within the hour. (We cover this in depth in [why your pimple patch won't stick and how to fix it](/articles/pimple-patch-not-sticking-fixes/).)
 
 The reliable routine:
 
@@ -68,7 +68,7 @@ The reliable routine:
 3. **Press, don't just place.** Hold the patch down with a clean fingertip for a few seconds so the adhesive warms and grips.
 4. **Then leave it alone** until it whitens or your 6–8 hours are up.
 
-This is also where patches fit into a wider routine: they're a spot treatment layered on clean skin, not a step you slather everywhere. If you're unsure where they slot in alongside cleanser, actives, and moisturiser, see [where acne patches fit in your skincare routine](/my/articles/where-do-acne-patches-fit-skincare-routine/).
+This is also where patches fit into a wider routine: they're a spot treatment layered on clean skin, not a step you slather everywhere. If you're unsure where they slot in alongside cleanser, actives, and moisturiser, see [where acne patches fit in your skincare routine](/articles/where-do-acne-patches-fit-skincare-routine/).
 
 ## Don't reuse a patch, here's why it backfires
 
@@ -80,7 +80,7 @@ Patches are single-use by design. The cost-effective move isn't reusing one; it'
 
 Patches aren't forever, even on one pimple. The clearest signal to stop is when the patch **comes off clear two or three times in a row.** That means there's no more fluid to draw out. The spot has finished its draining phase, and a patch from here just protects it rather than treats it. You can let the skin breathe and heal normally.
 
-There's a second, more important "stop" case: the patch isn't working *because it's the wrong tool*. A hydrocolloid patch can only absorb what's reached the surface. A deep, painful, under-the-skin bump that never comes to a head has nothing for the patch to pull out, so sticking one on it for days won't change anything. That kind of spot needs a different approach (a microneedle patch or a topical treatment), which is a separate question from timing. [DermNet](https://dermnetnz.org/topics/acne-vulgaris) outlines how acne is graded by severity and matched to treatments ranging from topical preparations to stronger options for deeper, inflammatory lesions. If you want to understand what a patch can and can't deliver by morning, [what to actually expect from a pimple patch overnight](/my/articles/do-pimple-patches-work-overnight/) walks through it, and our [full guide to the best acne patches in Malaysia](/my/articles/best-acne-patches-malaysia-2026/) covers which type suits which pimple.
+There's a second, more important "stop" case: the patch isn't working *because it's the wrong tool*. A hydrocolloid patch can only absorb what's reached the surface. A deep, painful, under-the-skin bump that never comes to a head has nothing for the patch to pull out, so sticking one on it for days won't change anything. That kind of spot needs a different approach (a microneedle patch or a topical treatment), which is a separate question from timing. [DermNet](https://dermnetnz.org/topics/acne-vulgaris) outlines how acne is graded by severity and matched to treatments ranging from topical preparations to stronger options for deeper, inflammatory lesions. If you want to understand what a patch can and can't deliver by morning, [what to actually expect from a pimple patch overnight](/articles/do-pimple-patches-work-overnight/) walks through it, and our [full guide to the best acne patches in Malaysia](/articles/best-acne-patches-malaysia-2026/) covers which type suits which pimple.
 
 This is educational, not medical advice. For severe, persistent, or painful cystic acne (the deep, under-skin kind that patches can't reach), see a doctor or a dermatologist rather than waiting it out with stickers; the [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) notes that different acne blemishes need different treatments, and the deep kind in particular benefits from professional care.
 

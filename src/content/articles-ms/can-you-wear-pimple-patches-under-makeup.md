@@ -33,7 +33,7 @@ Secara umumnya, ada dua jenis ketebalan di pasaran:
 
 > Petua mudah: jika anda boleh rasa patch itu dengan hujung jari masa mata tertutup, maknanya ia terlalu tebal untuk disorok bawah solekan. Jika anda terpaksa cari-cari di mana tepinya, ketipisan itu cukup untuk ia kelihatan cantik dipakai.
 
-Jadi soalannya bukan "boleh atau tidak pakai patch bawah solekan." Soalannya ialah "patch yang mana." Pilih yang paling nipis dan paling tidak kelihatan yang anda ada untuk waktu siang, dan simpan yang tebal khas untuk waktu tidur. Jika anda mahu gambaran penuh patch mana sesuai untuk situasi mana, [panduan kami yang utamakan mekanisme tentang patch jerawat terbaik di Malaysia](/my/articles/best-acne-patches-malaysia-2026/) menyusun jenis-jenisnya bersebelahan.
+Jadi soalannya bukan "boleh atau tidak pakai patch bawah solekan." Soalannya ialah "patch yang mana." Pilih yang paling nipis dan paling tidak kelihatan yang anda ada untuk waktu siang, dan simpan yang tebal khas untuk waktu tidur. Jika anda mahu gambaran penuh patch mana sesuai untuk situasi mana, [panduan kami yang utamakan mekanisme tentang patch jerawat terbaik di Malaysia](/ms/articles/best-acne-patches-malaysia-2026/) menyusun jenis-jenisnya bersebelahan.
 
 ## Patch pasaran Malaysia yang mana benar-benar berfungsi bawah solekan
 
@@ -66,7 +66,7 @@ Susunan itu segala-galanya. Patch melekat pada kulit yang kosong, bukan bedak as
 
 Itu sahaja. Jika dibuat ikut susunan ini, patch nipis akan kelihatan seperti satu kawasan kulit yang sedikit lebih licin bawah solekan anda, bukan satu benjolan.
 
-Patch ini rawatan setempat yang dilapis atas kulit yang bersih, bukan satu langkah yang anda sapu merata, jadi kedudukannya sama ada anda mahu keluar tanpa solekan atau dengan solekan penuh. Jika anda tidak pasti ia patut masuk di mana antara pencuci muka, bahan aktif, dan pelembap, [di mana patch jerawat sesuai dalam rutin penjagaan kulit anda](/my/articles/where-do-acne-patches-fit-skincare-routine/) menerangkan urutannya.
+Patch ini rawatan setempat yang dilapis atas kulit yang bersih, bukan satu langkah yang anda sapu merata, jadi kedudukannya sama ada anda mahu keluar tanpa solekan atau dengan solekan penuh. Jika anda tidak pasti ia patut masuk di mana antara pencuci muka, bahan aktif, dan pelembap, [di mana patch jerawat sesuai dalam rutin penjagaan kulit anda](/ms/articles/where-do-acne-patches-fit-skincare-routine/) menerangkan urutannya.
 
 ## Apa yang patut dijangka secara realistik
 
@@ -76,7 +76,7 @@ Jujurlah dengan diri sendiri tentang dua perkara.
 
 **Panas dan peluh ialah cabaran sebenar di Malaysia.** Gabungan foundation, patch dan kelembapan menguji daya lekat mana-mana pelekat. Tepi patch akan menjadi longgar lebih cepat berbanding dalam iklim berhawa dingin, dan concealer boleh tergelincir. Periksa patch secara ringkas sekitar tengah hari. Jika ia masih melekat, biarkan sahaja; jika anda mengusiknya, anda mungkin perlu membaiki semula solekan. Jika satu tepinya sudah terangkat, biasanya lebih baik tekan semula atau tanggalkan dengan kemas daripada memakai patch yang separuh melekat sepanjang petang.
 
-Ini cabaran yang sama yang menyukarkan [jerawat akibat pemakaian pelitup muka dalam iklim panas](/my/articles/acne-patches-for-maskne-malaysia/): peluh, geseran dan kelembapan semuanya menjejaskan patch serta apa-apa yang disapu di atasnya. Penyelesaiannya juga sama: kulit yang bersih dan kering, patch nipis, dan elakkan menyentuh kawasan itu dengan kerap.
+Ini cabaran yang sama yang menyukarkan [jerawat akibat pemakaian pelitup muka dalam iklim panas](/ms/articles/acne-patches-for-maskne-malaysia/): peluh, geseran dan kelembapan semuanya menjejaskan patch serta apa-apa yang disapu di atasnya. Penyelesaiannya juga sama: kulit yang bersih dan kering, patch nipis, dan elakkan menyentuh kawasan itu dengan kerap.
 
 ## Tanggalkan tanpa merosakkan muka anda
 
@@ -85,7 +85,7 @@ Cara paling kemas ialah dengan **pakai satu patch sepanjang hari dan tanggalkan 
 - Angkat patch perlahan-lahan dari satu tepi. Jika ia degil, jangan rentap; sedikit micellar water atau cleansing oil pada kapas di atas patch akan longgarkan pelekat dalam beberapa saat supaya ia tertanggal tanpa menarik kulit.
 - Kemudian cuci muka seperti biasa untuk buang solekan di atas dan sekelilingnya.
 
-Patch yang sudah tepu dan putih maknanya sudah selesai kerjanya dan patut dibuang, bukan diguna semula. Lepas ia serap cecair, ia hilang kelekatan dan keupayaannya, dan jika dilekat semula ia akan letak balik bakteria pada jerawat yang sedang sembuh. Berapa lama masa ia ambil untuk bertukar putih bergantung pada jerawat itu; untuk logik penuh tentang masa, lihat [berapa lama anda patut biarkan patch jerawat](/my/articles/how-long-to-leave-a-pimple-patch-on/).
+Patch yang sudah tepu dan putih maknanya sudah selesai kerjanya dan patut dibuang, bukan diguna semula. Lepas ia serap cecair, ia hilang kelekatan dan keupayaannya, dan jika dilekat semula ia akan letak balik bakteria pada jerawat yang sedang sembuh. Berapa lama masa ia ambil untuk bertukar putih bergantung pada jerawat itu; untuk logik penuh tentang masa, lihat [berapa lama anda patut biarkan patch jerawat](/ms/articles/how-long-to-leave-a-pimple-patch-on/).
 
 Sekadar peringatan ringan: ini bersifat pendidikan, bukan nasihat perubatan. Patch jerawat ini untuk jerawat permukaan yang biasa. Untuk jerawat kistik yang teruk, berterusan, atau menyakitkan (jenis yang dalam, di bawah kulit), [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) menasihatkan supaya jumpa pakar dermatologi dan bukannya tutup ia dengan solekan dan sekeping pelekat.
 

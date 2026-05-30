@@ -26,9 +26,9 @@ Here's why that's the right answer, and how to choose without overpaying.
 
 Most teenage breakouts are **surface whiteheads and small inflamed spots** driven by oil and hormones. The [NHS](https://www.nhs.uk/conditions/acne/) notes that hormones prompt the skin's glands to produce more oil and thicken the lining of the pores, which is exactly the kind of pimple a hydrocolloid patch is built for. Hydrocolloid is a gel-forming dressing borrowed from wound care. Stick it over a surfaced spot and it does two things: it **absorbs the fluid and oil** sitting in the pimple (you'll see it turn into a white dome), and it **physically blocks fingers** from poking and squeezing.
 
-That second part matters more for teens than almost anyone. School stress, mirrors between classes, and the urge to "just get rid of it" before a photo all lead to picking, and picking is what turns a one-week spot into a months-long dark mark. A patch is, bluntly, a sticker that stops the picking while the skin heals itself. If you want the full reasoning on why covering beats squeezing, we've laid it out in [pimple patches vs popping](/my/articles/pimple-patches-vs-popping/).
+That second part matters more for teens than almost anyone. School stress, mirrors between classes, and the urge to "just get rid of it" before a photo all lead to picking, and picking is what turns a one-week spot into a months-long dark mark. A patch is, bluntly, a sticker that stops the picking while the skin heals itself. If you want the full reasoning on why covering beats squeezing, we've laid it out in [pimple patches vs popping](/articles/pimple-patches-vs-popping/).
 
-The advice below is teen-specific. If you want the wider picture across all ages and skin types, start with our main guide to the [best acne patches in Malaysia](/my/articles/best-acne-patches-malaysia-2026/), then come back here for the school-budget angle.
+The advice below is teen-specific. If you want the wider picture across all ages and skin types, start with our main guide to the [best acne patches in Malaysia](/articles/best-acne-patches-malaysia-2026/), then come back here for the school-budget angle.
 
 > Rule of thumb for parents: if you can see a white or yellow head, a plain hydrocolloid patch is the right, gentle tool. If the spot is a deep, painful lump under the skin with nothing on the surface, a patch won't reach it, and repeated deep cysts are a reason to see a doctor, not buy a stronger sticker. The [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) advises seeing a dermatologist for deep, painful, or cystic acne, which needs proper treatment to avoid scarring.
 
@@ -68,7 +68,7 @@ How to read that list honestly:
 - **For value, the budget end wins.** STIK Original Dot (approximately RM7–10 for 15 mixed sizes) and Nexcare are the two that make most sense for a school budget. The multi-size dots are genuinely useful for teens, whose spots are often small and scattered, so you're not wasting a big patch on a tiny bump.
 - **COSRX is the "trusted name" middle ground.** If you'd rather buy the brand everyone's heard of and don't mind paying a bit more, it's a safe, effective choice. It's not *better* on the skin than the budget options; you're paying for reliability and availability.
 - **Watsons Acne Patch is the convenience pick** when you just need something tonight. It's a cheap, no-frills hydrocolloid sold in every Watsons in the country, so a parent can grab a pack on any shopping trip without hunting for a specific brand. Handy, even if it's nothing special on the skin.
-- **For school hours specifically, an invisible patch earns its place.** A thin clear patch like STIK Air Dot is made to vanish on the skin and wear under makeup, which is the difference between a teen wearing it confidently and peeling it off in the bathroom. If oily, humid skin is making patches slide off by lunchtime, our guide to [acne patches for oily skin in Malaysia's humidity](/my/articles/best-acne-patches-oily-skin-malaysia/) covers what stays put.
+- **For school hours specifically, an invisible patch earns its place.** A thin clear patch like STIK Air Dot is made to vanish on the skin and wear under makeup, which is the difference between a teen wearing it confidently and peeling it off in the bathroom. If oily, humid skin is making patches slide off by lunchtime, our guide to [acne patches for oily skin in Malaysia's humidity](/articles/best-acne-patches-oily-skin-malaysia/) covers what stays put.
 
 Notice what's *not* the deciding factor: price. The most expensive patch here is not the best one for a teenager. The cheapest two are arguably the smartest buys.
 
@@ -78,7 +78,7 @@ Notice what's *not* the deciding factor: price. The most expensive patch here is
 - **For school:** If the spot's still there, swap to a fresh thin or invisible patch. It keeps fingers off the spot during the day and stays low-key in class.
 - **Don't reuse patches**, and don't stack more than the odd medicated one. One clean patch per spot, replaced when it's saturated (gone white and puffy) or after about 6–8 hours.
 
-A patch fits into the routine as a **spot treatment**, not a moisturiser or a wash. If you're wondering where it sits among cleanser, actives and SPF, see [where acne patches fit in a skincare routine](/my/articles/where-do-acne-patches-fit-skincare-routine/).
+A patch fits into the routine as a **spot treatment**, not a moisturiser or a wash. If you're wondering where it sits among cleanser, actives and SPF, see [where acne patches fit in a skincare routine](/articles/where-do-acne-patches-fit-skincare-routine/).
 
 ## Where to buy in Malaysia (and how to not overpay)
 
@@ -86,7 +86,7 @@ A patch fits into the routine as a **spot treatment**, not a moisturiser or a wa
 - **Shopee / TikTok Shop / Lazada**: the widest range and best prices, including value options like STIK and the full spread of Korean brands. Buy from the brand's **official store**, read recent reviews, and check the expiry isn't close.
 - **Compare per-patch, not per-pack.** This is the single trick that saves a student the most money. A RM7 pack of 15 is about RM0.47 a patch; a RM30 pack of 24 is about RM1.25 a patch. For the same job, that adds up fast.
 
-For a full breakdown of current pricing and the cheapest legitimate sellers, our [where-to-buy acne patches price guide](/my/articles/where-to-buy-acne-patches-malaysia-price-guide/) goes deeper.
+For a full breakdown of current pricing and the cheapest legitimate sellers, our [where-to-buy acne patches price guide](/articles/where-to-buy-acne-patches-malaysia-price-guide/) goes deeper.
 
 ## Bottom line
 

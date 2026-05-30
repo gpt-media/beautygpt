@@ -30,7 +30,7 @@ Most acne patches (Korean, Western, or local) are built on **hydrocolloid**, a g
 
 > Rule of thumb: judge a patch by its thickness, stickiness, size range and ingredients, never by the flag on the box.
 
-If hydrocolloid itself is new to you, or you are weighing plain patches against ones with added acids, our explainer on [salicylic acid patches versus plain hydrocolloid](/my/articles/salicylic-acid-patches-vs-hydrocolloid/) covers when the extras are worth paying for. Everything below sits on top of that shared foundation.
+If hydrocolloid itself is new to you, or you are weighing plain patches against ones with added acids, our explainer on [salicylic acid patches versus plain hydrocolloid](/articles/salicylic-acid-patches-vs-hydrocolloid/) covers when the extras are worth paying for. Everything below sits on top of that shared foundation.
 
 ## Where Korean and Western patches genuinely differ
 
@@ -54,7 +54,7 @@ Korean brands experiment far more. You will routinely see:
 
 Many classic Western patches, by contrast, are deliberately **plain**: Nexcare Acne Dressing, for instance, is unmedicated hydrocolloid and nothing else, which is exactly why gentle, fragrance-free skin tends to tolerate it well.
 
-The catch is that variety is a *trend*, not a *rule*. Some local and Western patches now include actives too, and ingredients differ from product to product. So read the actual label. As one accuracy note, because assumptions cause real mistakes here: STIK MicroForce for Early Acne, a microneedle patch, uses ceramides, hyaluronic acid, peptides and salicylic acid. It does **not** contain niacinamide, even though some hydrocolloid patches do. Never assume two patches share an ingredient just because they are both "patches" or both from the same region. If the microneedle format interests you, we explain the mechanism in full in [how microneedle acne patches work](/my/articles/how-microneedle-acne-patches-work/).
+The catch is that variety is a *trend*, not a *rule*. Some local and Western patches now include actives too, and ingredients differ from product to product. So read the actual label. As one accuracy note, because assumptions cause real mistakes here: STIK MicroForce for Early Acne, a microneedle patch, uses ceramides, hyaluronic acid, peptides and salicylic acid. It does **not** contain niacinamide, even though some hydrocolloid patches do. Never assume two patches share an ingredient just because they are both "patches" or both from the same region. If the microneedle format interests you, we explain the mechanism in full in [how microneedle acne patches work](/articles/how-microneedle-acne-patches-work/).
 
 ### 3. Price and availability in Malaysia
 
@@ -80,7 +80,7 @@ On availability: Watsons and Guardian stock a fairly narrow in-store selection (
 
 ### 4. The fakes problem
 
-One under-discussed difference: **popular Korean brands attract counterfeits.** Because COSRX and similar names are in such high demand, fake or rebottled hydrocolloid patches show up on marketplace listings far more than for low-profile local or Western pharmacy brands. This is not a reason to avoid Korean patches. It is a reason to buy them from official stores and check reviews. If you want to learn the tells, we wrote a guide on [how to spot a fake hydrocolloid patch](/my/articles/how-to-spot-fake-hydrocolloid-patch/).
+One under-discussed difference: **popular Korean brands attract counterfeits.** Because COSRX and similar names are in such high demand, fake or rebottled hydrocolloid patches show up on marketplace listings far more than for low-profile local or Western pharmacy brands. This is not a reason to avoid Korean patches. It is a reason to buy them from official stores and check reviews. If you want to learn the tells, we wrote a guide on [how to spot a fake hydrocolloid patch](/articles/how-to-spot-fake-hydrocolloid-patch/).
 
 ## So which should you actually pick?
 
@@ -92,7 +92,7 @@ Drop the nationality and pick by need. Here is the practical breakdown.
 - **You break out often and want value.** Compare per-patch, not per-pack. Value options such as STIK Original Dot tend to win here on price for the same core hydrocolloid job.
 - **Your bump is deep and under the skin, with no white head.** None of the standard hydrocolloid patches (Korean or Western) will do much, because there is nothing on the surface to absorb. That is microneedle territory.
 
-For the full shortlist ranked side by side with current options, our [best acne patches in Malaysia guide](/my/articles/best-acne-patches-malaysia-2026/) lays them all out, and if you want a pure price-and-where-to-buy view, the [Malaysia acne patch price guide](/my/articles/where-to-buy-acne-patches-malaysia-price-guide/) compares listings across the marketplaces.
+For the full shortlist ranked side by side with current options, our [best acne patches in Malaysia guide](/articles/best-acne-patches-malaysia-2026/) lays them all out, and if you want a pure price-and-where-to-buy view, the [Malaysia acne patch price guide](/articles/where-to-buy-acne-patches-malaysia-price-guide/) compares listings across the marketplaces.
 
 ## A Malaysia-specific note on humidity
 

@@ -21,7 +21,7 @@ If you've ever stood in a Watsons aisle (or scrolled Shopee at midnight) wonderi
 
 So we'll start with the part that actually matters.
 
-(Patches treat individual spots. For the bigger picture, the ingredients and routine that actually keep acne away, see our companion guide on [how to treat acne in Malaysia](/my/articles/how-to-treat-acne-malaysia/).)
+(Patches treat individual spots. For the bigger picture, the ingredients and routine that actually keep acne away, see our companion guide on [how to treat acne in Malaysia](/articles/how-to-treat-acne-malaysia/).)
 
 ## First: what kind of pimple do you have?
 
@@ -29,11 +29,11 @@ There are two completely different technologies sold as "acne patches," and they
 
 **Hydrocolloid patches** are absorbent dressings. They work on a pimple that has **surfaced**: a whitehead, a popped spot, anything with visible fluid or "gunk." The patch draws that fluid out (you'll see it turn white), keeps your fingers off it, and lets it heal faster and cleaner. That barrier matters: the [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) notes that picking or popping pimples can worsen acne and lead to scarring. This is the classic "overnight pimple sticker."
 
-**Microneedle patches** are the opposite. They have hundreds of tiny dissolving cones that deliver actives **just below the skin's surface**. They're for the early, painful, under-skin bump that you can feel before you can see, the kind a hydrocolloid patch can't help because there's nothing on the surface to absorb yet. (These deeper, inflammatory lesions, such as papules and nodules, are a different problem from surface whiteheads; [DermNet](https://dermnetnz.org/topics/acne-vulgaris) describes the full range of acne lesion types.) (We break down the technology in [how microneedle acne patches work](/my/articles/how-microneedle-acne-patches-work/), and compare the two types head-to-head in [hydrocolloid vs microneedle patches](/my/articles/hydrocolloid-vs-microneedle-acne-patches/).)
+**Microneedle patches** are the opposite. They have hundreds of tiny dissolving cones that deliver actives **just below the skin's surface**. They're for the early, painful, under-skin bump that you can feel before you can see, the kind a hydrocolloid patch can't help because there's nothing on the surface to absorb yet. (These deeper, inflammatory lesions, such as papules and nodules, are a different problem from surface whiteheads; [DermNet](https://dermnetnz.org/topics/acne-vulgaris) describes the full range of acne lesion types.) (We break down the technology in [how microneedle acne patches work](/articles/how-microneedle-acne-patches-work/), and compare the two types head-to-head in [hydrocolloid vs microneedle patches](/articles/hydrocolloid-vs-microneedle-acne-patches/).)
 
 > Rule of thumb: if you can see white, use hydrocolloid. If you can only feel it, use microneedle.
 
-For the deep, painful lumps that never quite surface, we go further in our guide to the [best patch for cystic and under-the-skin acne](/my/articles/best-patch-for-cystic-under-skin-acne-malaysia/).
+For the deep, painful lumps that never quite surface, we go further in our guide to the [best patch for cystic and under-the-skin acne](/articles/best-patch-for-cystic-under-skin-acne-malaysia/).
 
 ## The shortlist (Malaysia, 2026)
 
@@ -68,7 +68,7 @@ A few notes:
 - **Shopee / TikTok Shop**: widest range and best prices, including Korean brands and value options like STIK. Buy from official stores and check reviews.
 - **Lazada**: similar to Shopee; compare the per-patch price, not the pack price.
 
-For current prices by brand, see our [Malaysia acne patch price guide](/my/articles/where-to-buy-acne-patches-malaysia-price-guide/), and check [how to spot a fake hydrocolloid patch](/my/articles/how-to-spot-fake-hydrocolloid-patch/) before you buy online.
+For current prices by brand, see our [Malaysia acne patch price guide](/articles/where-to-buy-acne-patches-malaysia-price-guide/), and check [how to spot a fake hydrocolloid patch](/articles/how-to-spot-fake-hydrocolloid-patch/) before you buy online.
 
 ## The one-line answer
 

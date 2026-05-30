@@ -42,7 +42,7 @@ This is where honesty earns its keep. Tea tree oil for acne is **not** backed by
 
 Put plainly: the signal is positive but modest, the studies are small, and the consistent theme is *gentler but slower and weaker*. That is a perfectly respectable profile for a mild adjunct. It is not the profile of a primary treatment, and any product promising dramatic clearing from tea tree alone is overselling it.
 
-If you want the ingredients that genuinely move the needle on acne, and the order to layer them in, we cover that in [how to treat acne in Malaysia: the ingredients and routine that actually work](/my/articles/how-to-treat-acne-malaysia/). Tea tree, at best, is a minor supporting player in that line-up.
+If you want the ingredients that genuinely move the needle on acne, and the order to layer them in, we cover that in [how to treat acne in Malaysia: the ingredients and routine that actually work](/articles/how-to-treat-acne-malaysia/). Tea tree, at best, is a minor supporting player in that line-up.
 
 ## Tea tree oil vs the alternatives, honestly
 
@@ -55,7 +55,7 @@ It helps to see where tea tree sits next to the things you would actually reach 
 | **Salicylic acid (BHA)** | Exfoliates inside the oily pore | Steady over weeks | Mild–moderate | Blackheads, whiteheads, congested oily skin |
 | **Adapalene (a retinoid)** | Normalises how the pore sheds skin | Slow build, strong overall | Purging, dryness early on | Preventing breakouts long-term (pharmacist/doctor guided) |
 
-A few takeaways from that table. **Benzoyl peroxide is the more effective spot-killer**, full stop. Tea tree's only honest advantage over it is gentleness, which is a legitimate reason to choose it if benzoyl peroxide leaves you raw. For congestion rather than red bumps, salicylic acid is the more logical tool; we explain its pore-level action in [salicylic acid for acne: how it works and how to use it](/my/articles/salicylic-acid-for-acne/). And if your skin runs red and reactive, a calming ingredient like centella may serve you better than another antibacterial. More on that in our guide to [centella (cica) for acne and redness](/my/articles/centella-cica-for-acne/).
+A few takeaways from that table. **Benzoyl peroxide is the more effective spot-killer**, full stop. Tea tree's only honest advantage over it is gentleness, which is a legitimate reason to choose it if benzoyl peroxide leaves you raw. For congestion rather than red bumps, salicylic acid is the more logical tool; we explain its pore-level action in [salicylic acid for acne: how it works and how to use it](/articles/salicylic-acid-for-acne/). And if your skin runs red and reactive, a calming ingredient like centella may serve you better than another antibacterial. More on that in our guide to [centella (cica) for acne and redness](/articles/centella-cica-for-acne/).
 
 ## The irritation problem nobody mentions on the label
 
@@ -84,7 +84,7 @@ On the shelves, you will find tea tree across Watsons, Guardian, and the Shopee,
 - **Tea tree spot gels and serums**, including ranges from brands like **Some By Mi** and **The Body Shop**, usually somewhere around RM30–RM70 (approximate, check the current listing). These are pre-diluted and far more foolproof.
 - **Tea tree as a minor ingredient** in cleansers, toners and pimple patches. Convenient, but at concentrations low enough that you should not expect much from the tea tree itself.
 
-That last point is worth being clear-eyed about. Plenty of acne products list tea tree on the front of the pack mainly for marketing appeal; the real work is often being done by other ingredients or, in the case of patches, by the hydrocolloid dressing itself. A few pimple patches do include a little tea tree alongside actives like salicylic acid, but on a spot that has already surfaced, it is the patch drawing out fluid and stopping you from picking that does most of the work, with the tea tree a minor extra rather than the reason it helps. If your spot has come to a head, that is really a patch question rather than a tea tree one, and we compare the options in our guide to the [best acne patches in Malaysia](/my/articles/best-acne-patches-malaysia-2026/).
+That last point is worth being clear-eyed about. Plenty of acne products list tea tree on the front of the pack mainly for marketing appeal; the real work is often being done by other ingredients or, in the case of patches, by the hydrocolloid dressing itself. A few pimple patches do include a little tea tree alongside actives like salicylic acid, but on a spot that has already surfaced, it is the patch drawing out fluid and stopping you from picking that does most of the work, with the tea tree a minor extra rather than the reason it helps. If your spot has come to a head, that is really a patch question rather than a tea tree one, and we compare the options in our guide to the [best acne patches in Malaysia](/articles/best-acne-patches-malaysia-2026/).
 
 ## When to skip tea tree and see someone instead
 

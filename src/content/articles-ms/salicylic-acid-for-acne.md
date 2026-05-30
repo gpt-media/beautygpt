@@ -34,7 +34,7 @@ Ia buat beberapa perkara berkaitan serentak:
 - **Mengekalkan liang lebih bersih dari masa ke masa.** Dengan penggunaan yang kerap, sumbatan kurang berpeluang membentuk komedo baharu.
 - **Menenangkan keradangan.** Salicylic acid berkaitan secara kimia dengan aspirin dan mempunyai kesan anti-radang yang ringan, yang boleh mengurangkan sedikit kemerahan garang pada jerawat.
 
-Inilah juga sebabnya salicylic acid tergolong dalam kumpulan BHA manakala glycolic dan lactic dalam kumpulan AHA. Idea sama (pengelupasan kimia), jangkauan berbeza. Jika anda sedang timbang satu kumpulan berbanding yang lain, kami pecahkannya satu-satu dalam [BHA vs AHA untuk jerawat: pengelupas mana yang anda perlukan?](/my/articles/bha-vs-aha-for-acne/). Peraturan paling ringkasnya:
+Inilah juga sebabnya salicylic acid tergolong dalam kumpulan BHA manakala glycolic dan lactic dalam kumpulan AHA. Idea sama (pengelupasan kimia), jangkauan berbeza. Jika anda sedang timbang satu kumpulan berbanding yang lain, kami pecahkannya satu-satu dalam [BHA vs AHA untuk jerawat: pengelupas mana yang anda perlukan?](/ms/articles/bha-vs-aha-for-acne/). Peraturan paling ringkasnya:
 
 > Jika masalah utama anda ialah liang tersumbat, komedo hitam dan kulit berminyak, anda mahu BHA, iaitu salicylic acid. Jika ia tekstur permukaan yang kusam, kasar atau kering tetapi berbintik, AHA biasanya lebih sesuai.
 
@@ -69,7 +69,7 @@ Kesilapan biasa ialah guna salicylic acid pada jerawat yang kelihatan sahaja. Ke
 
 ### 4. Bina ia ke dalam gambaran yang lebih besar
 
-Salicylic acid ialah satu cebisan rutin, bukan keseluruhannya. Rutin jerawat yang ringkas dan berkesan ialah pencuci muka yang lembut, satu bahan aktif yang memainkan peranan utama, pelembap dan pelindung matahari setiap hari. Jika anda mahu rangka kerja penuh (apa yang patut diguna waktu pagi vs malam, dan bagaimana cebisan-cebisan itu bersatu), lihat panduan utama kami tentang [cara merawat jerawat di Malaysia: bahan aktif dan rutin yang benar-benar berkesan](/my/articles/how-to-treat-acne-malaysia/).
+Salicylic acid ialah satu cebisan rutin, bukan keseluruhannya. Rutin jerawat yang ringkas dan berkesan ialah pencuci muka yang lembut, satu bahan aktif yang memainkan peranan utama, pelembap dan pelindung matahari setiap hari. Jika anda mahu rangka kerja penuh (apa yang patut diguna waktu pagi vs malam, dan bagaimana cebisan-cebisan itu bersatu), lihat panduan utama kami tentang [cara merawat jerawat di Malaysia: bahan aktif dan rutin yang benar-benar berkesan](/ms/articles/how-to-treat-acne-malaysia/).
 
 ## Apa yang patut dipadankan dengannya, dan apa yang perlu diasingkan
 
@@ -77,7 +77,7 @@ Salicylic acid padan baik dengan kebanyakan penjagaan kulit. Masalah hanya bermu
 
 **Padan baik:**
 
-- **Niacinamide.** Menenangkan, ia membantu dengan minyak dan kesan selepas jerawat dan memang pasangan yang baik. (Lebih lanjut tentang apa fungsinya dalam [niacinamide untuk jerawat dan kesan gelap](/my/articles/niacinamide-for-acne-and-marks/).)
+- **Niacinamide.** Menenangkan, ia membantu dengan minyak dan kesan selepas jerawat dan memang pasangan yang baik. (Lebih lanjut tentang apa fungsinya dalam [niacinamide untuk jerawat dan kesan gelap](/ms/articles/niacinamide-for-acne-and-marks/).)
 - **Hyaluronic acid dan ceramide.** Ini memulihkan kelembapan dan lapisan pelindung yang boleh dikurangkan oleh pengelupasan.
 - **Pelembap biasa.** Penting, bukan pilihan, walaupun untuk kulit berminyak.
 
@@ -101,7 +101,7 @@ Ia memang bagus, tetapi ia bukan penawar segala, dan jika kita anggap ia penawar
 
 - **Jerawat batu (kistik) yang dalam dan menyakitkan** berada terlalu jauh ke dalam untuk dicapai dengan berkesan oleh pengelupas topikal. Jika anda ada ketulan lembut di bawah kulit, itu perlu jumpa doktor, bukan tambah BHA yang lebih kuat. [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) mengesyorkan supaya berjumpa pakar dermatologi untuk jerawat yang dalam, menyakitkan atau meninggalkan parut.
 - **Kulit yang sememangnya kering atau sensitif** mungkin rasa mana-mana asid tanpa bilas terlalu banyak. *Pencuci muka* salicylic yang lembut mungkin sudah cukup untuk kulit sebegitu.
-- **Satu jerawat yang sudah timbul ke permukaan** tidak perlukan bahan aktif seluruh muka. Untuk satu jerawat yang garang dan sudah naik kepala, menutup dan melindunginya boleh lebih membantu berbanding menyapu asid di atasnya. Patch hydrocolloid salicylic acid ialah jalan sedang yang kemas di sini. Ia melindungi jerawat daripada dicubit sambil menyampaikan sedikit bahan aktif ke permukaan. Sama ada versi yang mengandungi ubat berbaloi berbanding yang biasa, itu bergantung pada jerawat itu, yang kami bincangkan dalam [patch salicylic acid vs hydrocolloid biasa](/my/articles/salicylic-acid-patches-vs-hydrocolloid/). Tetapi patch ialah alat untuk satu jerawat, bukan ganti untuk merawat seluruh kawasan.
+- **Satu jerawat yang sudah timbul ke permukaan** tidak perlukan bahan aktif seluruh muka. Untuk satu jerawat yang garang dan sudah naik kepala, menutup dan melindunginya boleh lebih membantu berbanding menyapu asid di atasnya. Patch hydrocolloid salicylic acid ialah jalan sedang yang kemas di sini. Ia melindungi jerawat daripada dicubit sambil menyampaikan sedikit bahan aktif ke permukaan. Sama ada versi yang mengandungi ubat berbaloi berbanding yang biasa, itu bergantung pada jerawat itu, yang kami bincangkan dalam [patch salicylic acid vs hydrocolloid biasa](/ms/articles/salicylic-acid-patches-vs-hydrocolloid/). Tetapi patch ialah alat untuk satu jerawat, bukan ganti untuk merawat seluruh kawasan.
 
 Dan terus terang tentang kos: pencuci muka salicylic asas ditambah pelembap dan pelindung matahari yang ringkas akan mengatasi satu laci penuh serum premium yang sudah separuh guna. Anda tidak perlu belanja banyak untuk bahan ini berkesan.
 

@@ -42,7 +42,7 @@ Pada jerawat, itu melakukan tiga perkara berguna serentak:
 
 Hydrocolloid **tidak** menghantar apa-apa bahan ke dalam kulit. Ia hanya menyerap. Jika jerawat masih berupa benjolan dalam yang tertutup tanpa apa-apa di permukaan, patch hydrocolloid belum ada cecair untuk diserap. Inilah sebab paling biasa orang kecewa dengan patch.
 
-Ada patch hydrocolloid yang menambah bahan aktif (salicylic acid, niacinamide, tea tree) untuk memberi manfaat tambahan. Kami bincangkan sama ada bahan tambahan itu berbaloi dalam ulasan kami tentang [patch salicylic acid berbanding hydrocolloid biasa](/my/articles/salicylic-acid-patches-vs-hydrocolloid/), kerana jawapannya bergantung pada kulit anda.
+Ada patch hydrocolloid yang menambah bahan aktif (salicylic acid, niacinamide, tea tree) untuk memberi manfaat tambahan. Kami bincangkan sama ada bahan tambahan itu berbaloi dalam ulasan kami tentang [patch salicylic acid berbanding hydrocolloid biasa](/ms/articles/salicylic-acid-patches-vs-hydrocolloid/), kerana jawapannya bergantung pada kulit anda.
 
 ## Bagaimana patch microneedle berfungsi
 
@@ -52,7 +52,7 @@ Berbeza daripada gel penyerap, patch ini diliputi ratusan kon kecil (microneedle
 
 Serum atau krim sapuan setempat perlu meresap melalui lapisan pelindung kulit. Microneedle pula menghantar bahan aktif melepasi lapisan pertama itu. Mekanisme ini lebih sesuai untuk benjolan awal yang dalam dan belum naik, iaitu jenis yang sakit apabila ditekan dan kelihatan seperti tompok merah tanpa kepala.
 
-Namanya mungkin kedengaran menakutkan, tetapi patch ini biasanya tidak menyakitkan dan tidak menyebabkan pendarahan. Kebanyakan orang hanya rasa cucukan halus ketika menampalnya. Jika anda mahu memahami mekanisme penuh, termasuk siapa yang sesuai dan siapa yang patut mengelakkannya, kami terangkan dengan mendalam dalam [bagaimana patch jerawat microneedle berfungsi](/my/articles/how-microneedle-acne-patches-work/).
+Namanya mungkin kedengaran menakutkan, tetapi patch ini biasanya tidak menyakitkan dan tidak menyebabkan pendarahan. Kebanyakan orang hanya rasa cucukan halus ketika menampalnya. Jika anda mahu memahami mekanisme penuh, termasuk siapa yang sesuai dan siapa yang patut mengelakkannya, kami terangkan dengan mendalam dalam [bagaimana patch jerawat microneedle berfungsi](/ms/articles/how-microneedle-acne-patches-work/).
 
 Satu nota penting tentang ketepatan: bahan berbeza mengikut produk, jadi baca label dan jangan membuat andaian. Sebagai contoh, **STIK MicroForce for Early Acne** menggunakan ceramides, hyaluronic acid, peptides dan salicylic acid. Ia **tidak** mengandungi niacinamide, walaupun sesetengah patch hydrocolloid mengandunginya. Jangan anggap dua patch berkongsi bahan yang sama hanya kerana kedua-duanya ialah "patch".
 
@@ -86,7 +86,7 @@ Satu hal praktikal di sini ialah ketersediaan. Di farmasi Malaysia seperti Watso
 
 **Patch microneedle mengisi jurang itu.** Kebanyakan rak fizikal langsung tidak jual, dan itu sebab besar mengapa ramai rakyat Malaysia tidak pernah cuba jenis yang sebenarnya sesuai dengan benjolan di bawah kulit mereka. Untuk itu, anda biasanya perlu beli dalam talian (Shopee, TikTok Shop atau Lazada), tempat anda boleh menemui pilihan seperti STIK MicroForce. Beli daripada kedai rasmi, baca ulasan terkini, dan banding harga **setiap patch**, bukan harga pek, sebab bilangan dalam satu pek berbeza-beza banyak.
 
-Jika anda mahu melihat kedua-dua jenis bersama pilihan semasa, [panduan patch jerawat terbaik di Malaysia](/my/articles/best-acne-patches-malaysia-2026/) kami menyediakan senarai pendek. Jika masalah sebenar anda ialah benjolan dalam yang sakit dan kerap berulang, bukan jerawat sekali-sekala, baca [patch terbaik untuk jerawat kistik dan jerawat bawah kulit di Malaysia](/my/articles/best-patch-for-cystic-under-skin-acne-malaysia/) sebelum membeli apa-apa.
+Jika anda mahu melihat kedua-dua jenis bersama pilihan semasa, [panduan patch jerawat terbaik di Malaysia](/ms/articles/best-acne-patches-malaysia-2026/) kami menyediakan senarai pendek. Jika masalah sebenar anda ialah benjolan dalam yang sakit dan kerap berulang, bukan jerawat sekali-sekala, baca [patch terbaik untuk jerawat kistik dan jerawat bawah kulit di Malaysia](/ms/articles/best-patch-for-cystic-under-skin-acne-malaysia/) sebelum membeli apa-apa.
 
 Satu nota tentang kelembapan: peluh dan haba menyukarkan patch melekat. Kedua-dua jenis melekat paling baik pada kulit yang bersih dan benar-benar kering. Hydrocolloid yang lebih tebal biasanya bertahan lebih lama daripada jenis nipis pada hari yang panas dan melekit. Jangan sekali-kali gunakan semula patch.
 

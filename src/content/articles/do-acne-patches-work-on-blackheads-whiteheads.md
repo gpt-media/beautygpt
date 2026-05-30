@@ -41,13 +41,13 @@ When hydrocolloid sits on a moist or surfaced spot, three things happen:
 2. **It keeps the area sealed and protected.** A covered spot heals in a cleaner, moist environment and is less likely to scab or scar.
 3. **It stops you picking.** It's a physical shield between your fingers and the spot, which prevents most of the squeezing damage that leaves marks.
 
-Notice what every one of those depends on: **something for the gel to absorb, or at least a surfaced spot to seal.** That's the hinge the whole blackhead question turns on. (We go deeper into the base mechanism, and how it compares to microneedle patches, in our guide to [how hydrocolloid and microneedle patches differ](/my/articles/hydrocolloid-vs-microneedle-acne-patches/).)
+Notice what every one of those depends on: **something for the gel to absorb, or at least a surfaced spot to seal.** That's the hinge the whole blackhead question turns on. (We go deeper into the base mechanism, and how it compares to microneedle patches, in our guide to [how hydrocolloid and microneedle patches differ](/articles/hydrocolloid-vs-microneedle-acne-patches/).)
 
 ## Why patches work on whiteheads
 
 A surfaced whitehead is the ideal target. It has come to a head, it's full of fluid, and that fluid is sitting right at the surface where the gel can reach it. Put a hydrocolloid patch on overnight and it draws the contents up and out, deflates the dome, calms the redness, and, just as importantly, keeps your hands off it. By morning a ready whitehead genuinely looks flatter and quieter.
 
-One caveat worth being honest about: this works best on a *surfaced* whitehead. A **closed, deep** whitehead that hasn't come to a head yet has nothing at the surface to absorb, so a plain patch does much less and mostly just protects the area while you wait. For those still-forming bumps, a medicated patch with an active can do a little more, which is the whole subject of [salicylic acid patches versus plain hydrocolloid](/my/articles/salicylic-acid-patches-vs-hydrocolloid/).
+One caveat worth being honest about: this works best on a *surfaced* whitehead. A **closed, deep** whitehead that hasn't come to a head yet has nothing at the surface to absorb, so a plain patch does much less and mostly just protects the area while you wait. For those still-forming bumps, a medicated patch with an active can do a little more, which is the whole subject of [salicylic acid patches versus plain hydrocolloid](/articles/salicylic-acid-patches-vs-hydrocolloid/).
 
 > Rule of thumb: if you can see fluid or a white head, a patch will help. If it's a dark dot or a closed bump with nothing at the surface, the patch has no fluid to grab, so reach for an exfoliant instead.
 
@@ -81,9 +81,9 @@ A quick note on one product some readers ask about, the salicylic-acid-bearing p
 
 ## Where patches genuinely belong
 
-To be clear, none of this is a knock on acne patches. It's about using them for the right job. On a surfaced whitehead they're excellent, low-risk, and often the single most satisfying thing in a skincare routine. The mistake is only in expecting them to clear blackheads or deep congestion, which is a different problem with a different fix. If you're shopping and want the shortlist ranked by use-case, our [best acne patches in Malaysia guide](/my/articles/best-acne-patches-malaysia-2026/) lays out which patch suits which spot, and where a patch isn't the right tool at all.
+To be clear, none of this is a knock on acne patches. It's about using them for the right job. On a surfaced whitehead they're excellent, low-risk, and often the single most satisfying thing in a skincare routine. The mistake is only in expecting them to clear blackheads or deep congestion, which is a different problem with a different fix. If you're shopping and want the shortlist ranked by use-case, our [best acne patches in Malaysia guide](/articles/best-acne-patches-malaysia-2026/) lays out which patch suits which spot, and where a patch isn't the right tool at all.
 
-For early, still-forming bumps that sit somewhere between "blackhead" and "ready whitehead," there's a separate type worth understanding, the microneedle patch, which delivers ingredients into the skin rather than absorbing fluid off it. That's a genuinely different mechanism, covered in [how microneedle acne patches work](/my/articles/how-microneedle-acne-patches-work/).
+For early, still-forming bumps that sit somewhere between "blackhead" and "ready whitehead," there's a separate type worth understanding, the microneedle patch, which delivers ingredients into the skin rather than absorbing fluid off it. That's a genuinely different mechanism, covered in [how microneedle acne patches work](/articles/how-microneedle-acne-patches-work/).
 
 ## A note for our climate
 

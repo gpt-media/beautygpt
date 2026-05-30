@@ -30,7 +30,7 @@ Kebanyakan patch jerawat (Korea, Barat, atau tempatan) dibina atas **hydrocolloi
 
 > Petua mudah: nilai patch ikut ketebalan, kelekatan, julat saiz dan bahannya, jangan pula ikut bendera pada kotaknya.
 
-Jika hydrocolloid sendiri masih baharu bagi anda, atau anda sedang timbang-timbang antara patch biasa dengan yang ada tambahan asid, penjelasan kami tentang [patch asid salisilik berbanding hydrocolloid biasa](/my/articles/salicylic-acid-patches-vs-hydrocolloid/) menerangkan bila tambahan itu berbaloi dibayar. Semua yang di bawah ini berdiri atas asas yang sama itu.
+Jika hydrocolloid sendiri masih baharu bagi anda, atau anda sedang timbang-timbang antara patch biasa dengan yang ada tambahan asid, penjelasan kami tentang [patch asid salisilik berbanding hydrocolloid biasa](/ms/articles/salicylic-acid-patches-vs-hydrocolloid/) menerangkan bila tambahan itu berbaloi dibayar. Semua yang di bawah ini berdiri atas asas yang sama itu.
 
 ## Di mana patch Korea dan Barat benar-benar berbeza
 
@@ -54,7 +54,7 @@ Jenama Korea bereksperimen jauh lebih banyak. Anda akan kerap kelihatan:
 
 Sebaliknya, banyak patch Barat klasik sengaja dibuat **biasa**: Nexcare Acne Dressing, contohnya, ialah hydrocolloid tanpa ubat dan tiada apa-apa lagi, dan itulah sebabnya kulit sensitif dan mereka yang mahu formula bebas wangian biasanya boleh terima patch jenis ini.
 
-Tetapi ingat, kepelbagaian ini hanya *trend*, bukan *peraturan*. Ada patch tempatan dan Barat yang kini turut mengandungi bahan aktif, dan bahannya berbeza dari satu produk ke produk lain. Jadi baca label sebenar. Satu nota penting, sebab andaian memang boleh menyebabkan orang tersilap di sini: STIK MicroForce for Early Acne, sebuah patch microneedle, menggunakan ceramides, hyaluronic acid, peptides dan salicylic acid. Ia **tidak** mengandungi niacinamide, walaupun ada patch hydrocolloid lain yang memang ada. Jangan andaikan dua patch ada bahan yang sama semata-mata sebab kedua-duanya "patch" atau kedua-duanya dari rantau yang sama. Jika format microneedle menarik minat anda, kami terangkan cara ia berfungsi dengan terperinci dalam [cara patch jerawat microneedle berfungsi](/my/articles/how-microneedle-acne-patches-work/).
+Tetapi ingat, kepelbagaian ini hanya *trend*, bukan *peraturan*. Ada patch tempatan dan Barat yang kini turut mengandungi bahan aktif, dan bahannya berbeza dari satu produk ke produk lain. Jadi baca label sebenar. Satu nota penting, sebab andaian memang boleh menyebabkan orang tersilap di sini: STIK MicroForce for Early Acne, sebuah patch microneedle, menggunakan ceramides, hyaluronic acid, peptides dan salicylic acid. Ia **tidak** mengandungi niacinamide, walaupun ada patch hydrocolloid lain yang memang ada. Jangan andaikan dua patch ada bahan yang sama semata-mata sebab kedua-duanya "patch" atau kedua-duanya dari rantau yang sama. Jika format microneedle menarik minat anda, kami terangkan cara ia berfungsi dengan terperinci dalam [cara patch jerawat microneedle berfungsi](/ms/articles/how-microneedle-acne-patches-work/).
 
 ### 3. Harga dan ketersediaan di Malaysia
 
@@ -80,7 +80,7 @@ Tentang ketersediaan: Watsons dan Guardian ada pilihan yang agak terhad di kedai
 
 ### 4. Masalah barang tiruan
 
-Satu beza yang jarang dibincangkan: **jenama Korea yang popular menarik barang tiruan.** Sebab COSRX dan nama seumpamanya tinggi permintaannya, patch hydrocolloid tiruan atau yang dibungkus semula muncul dalam senarai platform e-dagang jauh lebih banyak berbanding jenama tempatan atau farmasi Barat yang kurang menonjol. Ini bukan sebab untuk mengelak patch Korea. Ini sebab untuk belinya daripada kedai rasmi dan semak ulasan. Jika anda mahu tahu tandanya, kami sudah tulis satu panduan tentang [cara mengenal pasti patch hydrocolloid tiruan](/my/articles/how-to-spot-fake-hydrocolloid-patch/).
+Satu beza yang jarang dibincangkan: **jenama Korea yang popular menarik barang tiruan.** Sebab COSRX dan nama seumpamanya tinggi permintaannya, patch hydrocolloid tiruan atau yang dibungkus semula muncul dalam senarai platform e-dagang jauh lebih banyak berbanding jenama tempatan atau farmasi Barat yang kurang menonjol. Ini bukan sebab untuk mengelak patch Korea. Ini sebab untuk belinya daripada kedai rasmi dan semak ulasan. Jika anda mahu tahu tandanya, kami sudah tulis satu panduan tentang [cara mengenal pasti patch hydrocolloid tiruan](/ms/articles/how-to-spot-fake-hydrocolloid-patch/).
 
 ## Jadi yang mana patut anda pilih sebenarnya?
 
@@ -92,7 +92,7 @@ Ketepikan negara asal dan pilih ikut keperluan. Inilah panduan ringkasnya.
 - **Anda kerap berjerawat dan mahu yang berbaloi.** Banding setiap patch, bukan setiap pek. Pilihan berbaloi seperti STIK Original Dot biasanya menang di sini dari segi harga untuk kerja teras hydrocolloid yang sama.
 - **Benjolan anda dalam dan di bawah kulit, tanpa kepala putih.** Tiada satu pun patch hydrocolloid biasa (Korea atau Barat) akan banyak membantu, sebab tiada apa-apa di permukaan untuk diserap. Itu bidang patch microneedle.
 
-Untuk senarai pendek penuh yang disusun sebelah-menyebelah dengan pilihan semasa, [panduan patch jerawat terbaik di Malaysia](/my/articles/best-acne-patches-malaysia-2026/) kami menyusun kesemuanya, dan jika anda mahu pandangan jujur tentang harga-dan-tempat-beli, [panduan harga patch jerawat Malaysia](/my/articles/where-to-buy-acne-patches-malaysia-price-guide/) membandingkan senarai merentas platform e-dagang.
+Untuk senarai pendek penuh yang disusun sebelah-menyebelah dengan pilihan semasa, [panduan patch jerawat terbaik di Malaysia](/ms/articles/best-acne-patches-malaysia-2026/) kami menyusun kesemuanya, dan jika anda mahu pandangan jujur tentang harga-dan-tempat-beli, [panduan harga patch jerawat Malaysia](/ms/articles/where-to-buy-acne-patches-malaysia-price-guide/) membandingkan senarai merentas platform e-dagang.
 
 ## Satu nota khusus Malaysia tentang kelembapan
 

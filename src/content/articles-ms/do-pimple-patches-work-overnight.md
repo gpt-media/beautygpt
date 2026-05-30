@@ -56,7 +56,7 @@ Sebiji **jerawat dalam, buta, di bawah kulit** (benjolan keras dan menyakitkan y
 
 Itu bukan patch yang rosak. Itu alat yang salah untuk jerawat jenis itu.
 
-Untuk benjolan awal di bawah kulit itu, alat yang lebih sesuai ialah **patch microneedle**, satu teknologi yang berbeza sama sekali dengan beratus-ratus kon kecil yang melarut untuk menghantar bahan aktif *benar-benar di bawah* permukaan kulit, bukannya menyerap dari atas. Pun begitu, jangan letak harapan terlalu tinggi: patch microneedle ialah *permulaan awal*, bukan keajaiban semalaman pada jerawat kistik yang dalam juga. Benda yang dalam memang mengambil masa. Kami terangkan dengan lebih mendalam tentang cara memadankan jenis patch dengan jenis jerawat dalam [panduan penuh kami untuk patch jerawat terbaik di Malaysia](/my/articles/best-acne-patches-malaysia-2026/).
+Untuk benjolan awal di bawah kulit itu, alat yang lebih sesuai ialah **patch microneedle**, satu teknologi yang berbeza sama sekali dengan beratus-ratus kon kecil yang melarut untuk menghantar bahan aktif *benar-benar di bawah* permukaan kulit, bukannya menyerap dari atas. Pun begitu, jangan letak harapan terlalu tinggi: patch microneedle ialah *permulaan awal*, bukan keajaiban semalaman pada jerawat kistik yang dalam juga. Benda yang dalam memang mengambil masa. Kami terangkan dengan lebih mendalam tentang cara memadankan jenis patch dengan jenis jerawat dalam [panduan penuh kami untuk patch jerawat terbaik di Malaysia](/ms/articles/best-acne-patches-malaysia-2026/).
 
 Dan jika sebiji benjolan itu besar, panas, benar-benar menyakitkan, atau sudah ada di situ lebih seminggu? Itu kes "jumpa doktor", bukan "beli pelekat". (Ini bersifat pendidikan, bukan nasihat perubatan. Jerawat berterusan atau jerawat kistik patut dirujuk kepada profesional, dan [Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/12233-acne) menasihatkan supaya berjumpa pakar dermatologi untuk jerawat kistik yang dalam dan menyakitkan.)
 
@@ -81,9 +81,9 @@ Perkara-perkara kecil ini lebih banyak mengubah hasil berbanding jenama mana yan
 - **Kulit bersih dan kering terlebih dahulu.** Cuci, tepuk sampai benar-benar kering, dan lekatkan *sebelum* sebarang pelembap atau minyak supaya patch melekat. Dalam cuaca panas dan lembap Malaysia, ini lagi penting: ada sedikit baki peluh, pelindung matahari atau pelembap sahaja, patch akan terlucut pada waktu malam.
 - **Pilih patch yang cukup besar untuk menutup melepasi tepi** jerawat, supaya ia ada ruang bersih untuk dilekatkan.
 - **Satu malam, satu patch.** Jangan sekali-kali gunakan semula patch. Patch yang sudah tepu tidak boleh menyerap lagi dan hanya menolak bakteria lama balik ke kulit anda.
-- **Jangan picit terlebih dahulu "untuk membantunya".** Patch pada komedo putih yang sudah timbul tetapi belum dipicit memang berfungsi dengan baik; sengaja picit terlebih dahulu hanya menambah trauma dan risiko parut. Tulisan kami tentang [patch jerawat vs memicit](/my/articles/pimple-patches-vs-popping/) menerangkan mengapa membiarkan patch buat kerja lebih baik daripada jari anda setiap kali.
+- **Jangan picit terlebih dahulu "untuk membantunya".** Patch pada komedo putih yang sudah timbul tetapi belum dipicit memang berfungsi dengan baik; sengaja picit terlebih dahulu hanya menambah trauma dan risiko parut. Tulisan kami tentang [patch jerawat vs memicit](/ms/articles/pimple-patches-vs-popping/) menerangkan mengapa membiarkan patch buat kerja lebih baik daripada jari anda setiap kali.
 
-Berapa lama yang dikira "cukup lama"? Semalaman (6–8 jam) memang ideal sebab hydrocolloid perlu sentuhan berterusan untuk terus menyerap; pemakaian pantas 2 jam beri kesan yang jauh lebih sedikit. Kami pecahkan masa pemakaian ideal dalam [berapa lama anda patut biarkan patch jerawat](/my/articles/how-long-to-leave-a-pimple-patch-on/).
+Berapa lama yang dikira "cukup lama"? Semalaman (6–8 jam) memang ideal sebab hydrocolloid perlu sentuhan berterusan untuk terus menyerap; pemakaian pantas 2 jam beri kesan yang jauh lebih sedikit. Kami pecahkan masa pemakaian ideal dalam [berapa lama anda patut biarkan patch jerawat](/ms/articles/how-long-to-leave-a-pimple-patch-on/).
 
 ## Memilih patch semalaman di Malaysia
 
@@ -97,7 +97,7 @@ Untuk kegunaan semalaman, anda mahu hydrocolloid biasa. Anda sedang tidur, jadi 
 
 Untuk waktu siang, anda akan beralih kepada patch halus yang amat nipis dan tidak kelihatan (seperti STIK Air Dot yang hilang di bawah solekan), tetapi untuk hasil semalaman semata-mata, mana-mana hydrocolloid yang kukuh di atas akan buat kerja itu. Beli dari kedai rasmi, dan bandingkan harga **setiap patch**, bukan harga satu pek.
 
-Jika anda tertanya-tanya sama ada semua kerja menyerap dan menyembuhkan ini meninggalkan kesan, sebenarnya patch berada di pihak anda di situ. Dengan menghalang anda daripada memicit dan mengekalkan jerawat dalam keadaan lembap, ia cenderung *mengurangkan* risiko parut. Kami terangkan hal itu dalam [adakah patch jerawat meninggalkan kesan atau parut](/my/articles/do-acne-patches-leave-marks-or-scars/).
+Jika anda tertanya-tanya sama ada semua kerja menyerap dan menyembuhkan ini meninggalkan kesan, sebenarnya patch berada di pihak anda di situ. Dengan menghalang anda daripada memicit dan mengekalkan jerawat dalam keadaan lembap, ia cenderung *mengurangkan* risiko parut. Kami terangkan hal itu dalam [adakah patch jerawat meninggalkan kesan atau parut](/ms/articles/do-acne-patches-leave-marks-or-scars/).
 
 ## Kesimpulannya
 

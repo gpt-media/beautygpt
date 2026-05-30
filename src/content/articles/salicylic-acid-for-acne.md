@@ -34,7 +34,7 @@ It does a few related things at once:
 - **Keeps pores clearer over time.** With regular use, congestion has less chance to build into a fresh comedone.
 - **Calms inflammation.** Salicylic acid is chemically related to aspirin and has a mild anti-inflammatory effect, which can take some of the angry redness out of a spot.
 
-This is also why salicylic acid sits in the BHA camp while glycolic and lactic sit in the AHA camp. Same idea (chemical exfoliation), different reach. If you are weighing one family against the other, we break that down properly in [BHA vs AHA for acne: which exfoliant do you need?](/my/articles/bha-vs-aha-for-acne/). The very short rule:
+This is also why salicylic acid sits in the BHA camp while glycolic and lactic sit in the AHA camp. Same idea (chemical exfoliation), different reach. If you are weighing one family against the other, we break that down properly in [BHA vs AHA for acne: which exfoliant do you need?](/articles/bha-vs-aha-for-acne/). The very short rule:
 
 > If your main problem is clogged pores, blackheads and oiliness, you want a BHA, namely salicylic acid. If it is dull, rough or dry-but-bumpy surface texture, an AHA is often the better fit.
 
@@ -69,7 +69,7 @@ A common mistake is using salicylic acid only on a visible pimple. Its real stre
 
 ### 4. Build it into the bigger picture
 
-Salicylic acid is one piece of a routine, not the whole thing. A simple, effective acne routine is a gentle cleanser, one active doing the heavy lifting, a moisturiser and daily sunscreen. If you want the full framework (what to use morning vs night, and how the pieces fit), see our main guide on [how to treat acne in Malaysia: the ingredients and routine that actually work](/my/articles/how-to-treat-acne-malaysia/).
+Salicylic acid is one piece of a routine, not the whole thing. A simple, effective acne routine is a gentle cleanser, one active doing the heavy lifting, a moisturiser and daily sunscreen. If you want the full framework (what to use morning vs night, and how the pieces fit), see our main guide on [how to treat acne in Malaysia: the ingredients and routine that actually work](/articles/how-to-treat-acne-malaysia/).
 
 ## What to pair it with, and what to keep apart
 
@@ -77,7 +77,7 @@ Salicylic acid plays nicely with most of skincare. The trouble starts only when 
 
 **Pairs well:**
 
-- **Niacinamide.** Calming, it helps with oil and post-pimple marks and is a genuinely good partner. (More on what it does in [niacinamide for acne and dark marks](/my/articles/niacinamide-for-acne-and-marks/).)
+- **Niacinamide.** Calming, it helps with oil and post-pimple marks and is a genuinely good partner. (More on what it does in [niacinamide for acne and dark marks](/articles/niacinamide-for-acne-and-marks/).)
 - **Hyaluronic acid and ceramides.** These restore the hydration and barrier that exfoliation can deplete.
 - **A plain moisturiser.** Essential, not optional, even for oily skin.
 
@@ -101,7 +101,7 @@ It is genuinely good, but it is not a cure-all, and pretending otherwise would n
 
 - **Deep, painful cystic acne** sits too far down for a topical exfoliant to reach meaningfully. If you have tender, under-the-skin lumps, that is a conversation for a doctor, not a stronger BHA. The [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) recommends seeing a dermatologist for acne that is deep, painful or leaving scars.
 - **Already dry or sensitive skin** can find any leave-on acid too much. A gentle salicylic *cleanser* may be all such skin wants.
-- **A single pimple that has already surfaced** does not need a whole-face active. For one angry, come-to-a-head spot, occluding and protecting it can do more than dabbing acid on top. A salicylic-acid hydrocolloid patch is a neat middle ground here. It shields the spot from picking while delivering a little of the active to the surface. Whether the active version is worth it over a plain one depends on the spot, which we cover in [salicylic acid patches vs plain hydrocolloid](/my/articles/salicylic-acid-patches-vs-hydrocolloid/). Patches are a spot tool, though, not a replacement for treating the whole area.
+- **A single pimple that has already surfaced** does not need a whole-face active. For one angry, come-to-a-head spot, occluding and protecting it can do more than dabbing acid on top. A salicylic-acid hydrocolloid patch is a neat middle ground here. It shields the spot from picking while delivering a little of the active to the surface. Whether the active version is worth it over a plain one depends on the spot, which we cover in [salicylic acid patches vs plain hydrocolloid](/articles/salicylic-acid-patches-vs-hydrocolloid/). Patches are a spot tool, though, not a replacement for treating the whole area.
 
 And the plain truth on cost: a basic salicylic cleanser plus a simple moisturiser and sunscreen will out-perform a drawer of half-used premium serums. You do not need to spend a lot for this ingredient to work.
 

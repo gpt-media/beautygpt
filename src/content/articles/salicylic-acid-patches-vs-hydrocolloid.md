@@ -32,7 +32,7 @@ When hydrocolloid sits on a moist or open spot, it does three things:
 - **Keeps the wound moist and sealed.** A covered, moist spot heals faster and scars less than one left to dry into a scab.
 - **Stops you picking.** It is a physical barrier between your fingers and the spot, which prevents a lot of the mechanical damage that causes scarring.
 
-Crucially, hydrocolloid does all of this **without any active ingredient**. It is purely absorbent and protective. For a pimple that has come to a head, that is often the entire job, which is why a plain patch can work beautifully and a fancier one would add nothing you can feel. We unpack the base mechanism further, including where patches sit against microneedle types, in our guide to [how hydrocolloid and microneedle patches differ](/my/articles/hydrocolloid-vs-microneedle-acne-patches/).
+Crucially, hydrocolloid does all of this **without any active ingredient**. It is purely absorbent and protective. For a pimple that has come to a head, that is often the entire job, which is why a plain patch can work beautifully and a fancier one would add nothing you can feel. We unpack the base mechanism further, including where patches sit against microneedle types, in our guide to [how hydrocolloid and microneedle patches differ](/articles/hydrocolloid-vs-microneedle-acne-patches/).
 
 ## What the salicylic acid (medicated) patch adds
 
@@ -62,7 +62,7 @@ This is the decision, laid out plainly.
 - Your skin is **dry, sensitive, or already irritated**, whether from retinoids, a recent peel, sunburn, or windburn from too much aircon. Under occlusion, a BHA can sting, redden or peel.
 - You are layering the patch over an area **already treated** with other actives (a BHA toner, a retinoid). Stacking acids under a sealed dressing is the fast route to an over-exfoliated, raw spot.
 
-A plain patch is, in short, the lower-risk default. A medicated patch is the targeted upgrade for oily, congested or early spots on skin that tolerates actives. If you are unsure where your skin sits, the safe move is to start plain. Our breakdown of the [best patches for sensitive skin](/my/articles/best-acne-patches-sensitive-skin/) goes deeper on reading your own reactivity before you add any active.
+A plain patch is, in short, the lower-risk default. A medicated patch is the targeted upgrade for oily, congested or early spots on skin that tolerates actives. If you are unsure where your skin sits, the safe move is to start plain. Our breakdown of the [best patches for sensitive skin](/articles/best-acne-patches-sensitive-skin/) goes deeper on reading your own reactivity before you add any active.
 
 ## Side by side
 
@@ -97,7 +97,7 @@ The split maps onto real products you can buy locally. Prices are approximate, s
 
 Two honest caveats. First, "medicated" on a label does not tell you the strength of the active, and patch BHA levels are generally low, so do not expect a leave-on toner's punch. Second, if you mainly want help with surface whiteheads and have calm, normal skin, the cheapest plain patch in this list will serve you just as well as anything dearer; do not pay up for an active you do not need.
 
-For the full shortlist ranked together, see our [best acne patches in Malaysia guide](/my/articles/best-acne-patches-malaysia-2026/). And if your real target is clogged pores rather than raised pimples, read [whether acne patches work on blackheads and whiteheads](/my/articles/do-acne-patches-work-on-blackheads-whiteheads/) before you decide a medicated patch is the answer. The realistic result there is more modest than the marketing suggests.
+For the full shortlist ranked together, see our [best acne patches in Malaysia guide](/articles/best-acne-patches-malaysia-2026/). And if your real target is clogged pores rather than raised pimples, read [whether acne patches work on blackheads and whiteheads](/articles/do-acne-patches-work-on-blackheads-whiteheads/) before you decide a medicated patch is the answer. The realistic result there is more modest than the marketing suggests.
 
 ## A note for our hot, humid climate
 

@@ -53,9 +53,9 @@ Retinoids work on that root step. As the [American Academy of Dermatology](https
 
 That last point matters a lot for Malaysian skin, where post-acne marks (the brown or dark patches left after a spot heals) are often more stubborn and more visible than the spot itself.
 
-Notice what this means: a retinoid is a *preventive* treatment, not a spot zapper. It works by stopping the next month's breakouts, not by shrinking tonight's pimple. That is why you have to give it weeks, and why it is the backbone of a real acne routine rather than a quick fix. We cover how it fits alongside cleansers, actives and moisturiser in our guide to [building an acne skincare routine in Malaysia](/my/articles/how-to-build-acne-skincare-routine-malaysia/).
+Notice what this means: a retinoid is a *preventive* treatment, not a spot zapper. It works by stopping the next month's breakouts, not by shrinking tonight's pimple. That is why you have to give it weeks, and why it is the backbone of a real acne routine rather than a quick fix. We cover how it fits alongside cleansers, actives and moisturiser in our guide to [building an acne skincare routine in Malaysia](/articles/how-to-build-acne-skincare-routine-malaysia/).
 
-Benzoyl peroxide and salicylic acid attack acne from other angles. Benzoyl peroxide kills acne-causing bacteria, while salicylic acid is a BHA that exfoliates inside the pore. Retinoids are the third pillar, working on cell turnover. They are not rivals; the strongest routines often combine them, which we lay out in [how to treat acne in Malaysia](/my/articles/how-to-treat-acne-malaysia/).
+Benzoyl peroxide and salicylic acid attack acne from other angles. Benzoyl peroxide kills acne-causing bacteria, while salicylic acid is a BHA that exfoliates inside the pore. Retinoids are the third pillar, working on cell turnover. They are not rivals; the strongest routines often combine them, which we lay out in [how to treat acne in Malaysia](/articles/how-to-treat-acne-malaysia/).
 
 ## Purging: the bit nobody warns you about
 
@@ -84,7 +84,7 @@ A sane beginner schedule looks like this:
 
 > If your skin is stinging, peeling and red, that is not "the retinoid working harder." That is your barrier asking you to slow down. Back off, repair, rebuild.
 
-For an adapalene-specific walkthrough (strengths, how to layer it, and what to expect week by week), see our dedicated guide to [adapalene (Differin) in Malaysia](/my/articles/adapalene-malaysia/).
+For an adapalene-specific walkthrough (strengths, how to layer it, and what to expect week by week), see our dedicated guide to [adapalene (Differin) in Malaysia](/articles/adapalene-malaysia/).
 
 ## Sun sensitivity: a Malaysia-specific warning
 

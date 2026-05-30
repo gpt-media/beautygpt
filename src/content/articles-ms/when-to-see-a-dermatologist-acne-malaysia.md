@@ -28,7 +28,7 @@ Panduan ini tentang cara mengenal pasti garisan itu, apa yang pakar dermatologi 
 
 Ini perlu sebut terang-terang, sebab risau tentang jerawat biasanya menolak ramai orang pergi ke pakar yang mahal sedangkan mereka mungkin belum perlukan lagi. Jerawat ringan hingga sederhana (campuran biasa komedo hitam, komedo putih, dan sekali-sekala jerawat meradang) bertindak balas dengan baik kepada rutin konsisten yang dibina sekitar bahan yang terbukti. Ahli farmasi komuniti (yang ada di belakang kaunter di Watsons atau Guardian) boleh tunjukkan bahan aktif permulaan yang betul secara percuma, dan GP boleh beri preskripsi yang lebih kuat jika perlu.
 
-Jika anda tidak pasti sama ada rutin anda sendiri pun bagi peluang yang adil pada rawatan itu, itulah perkara pertama yang perlu betulkan, bukan terus tempah dengan pakar. Panduan ini terangkan langkah demi langkah apa yang benar-benar berkesan, dan dalam susunan yang mana, dalam [cara merawat jerawat di Malaysia](/my/articles/how-to-treat-acne-malaysia/) serta dalam [panduan rutin penjagaan kulit jerawat](/my/articles/how-to-build-acne-skincare-routine-malaysia/) langkah demi langkah. Tiga bulan *buat perkara yang betul* jauh lebih baik daripada tiga bulan tukar-tukar produk setiap dua minggu.
+Jika anda tidak pasti sama ada rutin anda sendiri pun bagi peluang yang adil pada rawatan itu, itulah perkara pertama yang perlu betulkan, bukan terus tempah dengan pakar. Panduan ini terangkan langkah demi langkah apa yang benar-benar berkesan, dan dalam susunan yang mana, dalam [cara merawat jerawat di Malaysia](/ms/articles/how-to-treat-acne-malaysia/) serta dalam [panduan rutin penjagaan kulit jerawat](/ms/articles/how-to-build-acne-skincare-routine-malaysia/) langkah demi langkah. Tiga bulan *buat perkara yang betul* jauh lebih baik daripada tiga bulan tukar-tukar produk setiap dua minggu.
 
 Jadi pakar dermatologi bukanlah pilihan asas. Ia langkah yang betul bila tanda-tanda tertentu sudah mula muncul.
 
@@ -61,7 +61,7 @@ Yang ini selalu tertinggal daripada senarai, sedangkan ia tidak sepatutnya. Jera
 
 ### 5. Jerawat anda ada corak yang menandakan sesuatu yang lain
 
-Kadangkala jerawat hanya petunjuk, bukannya cerita penuh. Jerawat dewasa yang muncul tiba-tiba di sepanjang rahang dan dagu, jerawat yang seiring rapat dengan kitaran haid anda, atau jerawat bersama haid tidak teratur atau pertumbuhan bulu yang luar biasa boleh menandakan pemacu hormon. Itu berbaloi untuk diperiksa oleh profesional (butirannya dikupas dalam [jerawat hormon: apa yang benar-benar membantu](/my/articles/hormonal-acne-treatment-malaysia/)), dan doktor boleh periksa sama ada ada apa-apa masalah asas yang perlu ditangani.
+Kadangkala jerawat hanya petunjuk, bukannya cerita penuh. Jerawat dewasa yang muncul tiba-tiba di sepanjang rahang dan dagu, jerawat yang seiring rapat dengan kitaran haid anda, atau jerawat bersama haid tidak teratur atau pertumbuhan bulu yang luar biasa boleh menandakan pemacu hormon. Itu berbaloi untuk diperiksa oleh profesional (butirannya dikupas dalam [jerawat hormon: apa yang benar-benar membantu](/ms/articles/hormonal-acne-treatment-malaysia/)), dan doktor boleh periksa sama ada ada apa-apa masalah asas yang perlu ditangani.
 
 ## Apa sebenarnya yang pakar dermatologi boleh tawarkan
 

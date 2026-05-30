@@ -42,10 +42,10 @@ A hydrocolloid patch is a thin, flexible dressing made of a gel-forming material
 Three things follow from that, and all three *reduce* your scar and mark risk rather than raise it:
 
 1. **It seals the spot off.** Your fingers, your pillow, your phone, the humid Malaysian air full of sweat and bacteria: none of it reaches the open spot. Less contamination, less inflammation.
-2. **It stops you picking.** This is the underrated one. The single most effective thing most people can do to avoid scars and dark marks is to leave the spot alone, and a patch makes that physically easy. We've written a full breakdown of why this beats squeezing in [pimple patches versus popping](/my/articles/pimple-patches-vs-popping/).
+2. **It stops you picking.** This is the underrated one. The single most effective thing most people can do to avoid scars and dark marks is to leave the spot alone, and a patch makes that physically easy. We've written a full breakdown of why this beats squeezing in [pimple patches versus popping](/articles/pimple-patches-vs-popping/).
 3. **It keeps the wound moist.** Moist healing produces less crusting and scabbing than letting a spot dry out and form a hard scab you're tempted to flick off.
 
-Because the patch never penetrates the dermis, it has no pathway to create a scar. The mechanism simply doesn't exist. For more on the safety profile generally, dermatologists' view is summarised in [are pimple patches safe](/my/articles/are-pimple-patches-safe/).
+Because the patch never penetrates the dermis, it has no pathway to create a scar. The mechanism simply doesn't exist. For more on the safety profile generally, dermatologists' view is summarised in [are pimple patches safe](/articles/are-pimple-patches-safe/).
 
 ## So what's the dent, the ring, and the redness?
 
@@ -93,7 +93,7 @@ Because the patch's job here is *protection and pick-prevention*, a gentle, well
 
 If your worry is daytime marks under makeup, an ultra-thin invisible patch like **STIK Air Dot** disappears better than a thick opaque one and lets you keep protecting the spot during the day rather than picking at it. And if you're dealing with an early, under-the-skin bump rather than a weeping whitehead, a microneedle patch such as **STIK MicroForce for Early Acne** (ceramides, hyaluronic acid, peptides and salicylic acid) targets that stage differently, though for a classic open or weeping spot, a plain hydrocolloid is still the right tool.
 
-Prices are approximate, so always check the current listing, and on Shopee, TikTok Shop or Lazada compare the **per-patch** price, buy from official stores, and read recent reviews. For the full ranked comparison across budgets and skin types, see our pillar guide to the [best acne patches in Malaysia](/my/articles/best-acne-patches-malaysia-2026/). And if you're wondering how fast you'll see a difference, [what to expect by morning](/my/articles/do-pimple-patches-work-overnight/) sets realistic timelines.
+Prices are approximate, so always check the current listing, and on Shopee, TikTok Shop or Lazada compare the **per-patch** price, buy from official stores, and read recent reviews. For the full ranked comparison across budgets and skin types, see our pillar guide to the [best acne patches in Malaysia](/articles/best-acne-patches-malaysia-2026/). And if you're wondering how fast you'll see a difference, [what to expect by morning](/articles/do-pimple-patches-work-overnight/) sets realistic timelines.
 
 ## The bottom line
 
