@@ -36,7 +36,7 @@ We'll keep one rule throughout: **understand how something works before you buy 
 | Deep, painful lumps under the skin that don't surface | Cystic / nodular acne | See a doctor; usually needs prescription help |
 | Flat brown or red marks left after a spot | Post-acne marks (not active acne) | Niacinamide, azelaic acid, sunscreen, time |
 
-Most people have a mix. The point isn't to diagnose yourself perfectly. It's to notice whether your main problem is **clogged pores**, **inflamed spots**, **deep cysts**, or **leftover marks**, because each points to a different active. If your acne is mostly deep, painful cysts, skip the shopping and read [when to see a dermatologist for acne in Malaysia](/articles/when-to-see-a-dermatologist-acne-malaysia/), because that type rarely clears with over-the-counter products alone.
+Most people have a mix. The point isn't to diagnose yourself perfectly. It's to notice whether your main problem is **clogged pores**, **inflamed spots**, **deep cysts**, or **leftover marks**, because each points to a different active. If your acne is mostly deep, painful cysts, skip the shopping and read [when to see a dermatologist for acne in Malaysia](/my/articles/when-to-see-a-dermatologist-acne-malaysia/), because that type rarely clears with over-the-counter products alone.
 
 ## Step 2: The five proven ingredients (and how each works)
 
@@ -44,19 +44,19 @@ These five do the heavy lifting. Everything else is mostly support.
 
 ### Salicylic acid: for clogged pores and blackheads
 
-Salicylic acid is a beta-hydroxy acid (BHA). It's oil-soluble, so it can get *inside* the pore and dissolve the mix of dead skin and sebum that clogs it. That makes it the go-to for blackheads, whiteheads, and generally congested, oily skin, which is common in our climate. It's found in cleansers, toners and leave-on serums, typically at low single-digit percentages; follow the product label and start a few times a week. Full detail in [salicylic acid for acne: how it works and how to use it](/articles/salicylic-acid-for-acne/).
+Salicylic acid is a beta-hydroxy acid (BHA). It's oil-soluble, so it can get *inside* the pore and dissolve the mix of dead skin and sebum that clogs it. That makes it the go-to for blackheads, whiteheads, and generally congested, oily skin, which is common in our climate. It's found in cleansers, toners and leave-on serums, typically at low single-digit percentages; follow the product label and start a few times a week. Full detail in [salicylic acid for acne: how it works and how to use it](/my/articles/salicylic-acid-for-acne/).
 
 ### Benzoyl peroxide: for red, inflamed spots
 
-Benzoyl peroxide kills the acne-causing bacteria (*C. acnes*) that drive red, angry, pus-filled spots, and it does so without bacteria building resistance to it. It's one of the most effective over-the-counter actives for inflammatory acne and often works within a couple of weeks; the [American Academy of Dermatology](https://www.aad.org/public/diseases/acne/derm-treat/treat) lists it among the first-line topical treatments dermatologists rely on. Typical OTC strengths range roughly from 2.5% up to about 10%, and higher is *not* better here; lower strengths work nearly as well with far less dryness and irritation, which matters a lot in humidity where skin is already stressed. It can bleach towels and fabric, so be careful. See [benzoyl peroxide for acne: the complete guide](/articles/benzoyl-peroxide-for-acne/).
+Benzoyl peroxide kills the acne-causing bacteria (*C. acnes*) that drive red, angry, pus-filled spots, and it does so without bacteria building resistance to it. It's one of the most effective over-the-counter actives for inflammatory acne and often works within a couple of weeks; the [American Academy of Dermatology](https://www.aad.org/public/diseases/acne/derm-treat/treat) lists it among the first-line topical treatments dermatologists rely on. Typical OTC strengths range roughly from 2.5% up to about 10%, and higher is *not* better here; lower strengths work nearly as well with far less dryness and irritation, which matters a lot in humidity where skin is already stressed. It can bleach towels and fabric, so be careful. See [benzoyl peroxide for acne: the complete guide](/my/articles/benzoyl-peroxide-for-acne/).
 
 ### Retinoids (including adapalene): the long-term game-changer
 
-Retinoids are vitamin-A derivatives that speed up skin-cell turnover and stop pores clogging in the first place, which is why, as [DermNet](https://dermnetnz.org/topics/acne-vulgaris) notes, they help almost every type of acne *and* improve marks and texture over time. Adapalene is a retinoid that's commonly available over the counter from Malaysian pharmacists (often behind the counter, so just ask). The catch: it takes patience. Expect 8–12 weeks before real results, and an adjustment period of dryness or purging at the start. Start two or three nights a week, always at night, always with sunscreen the next day. We explain the difference between cosmetic retinol and true retinoids in [retinol vs retinoids for acne: where to start](/articles/retinol-vs-retinoids-for-acne/). Higher-strength prescription retinoids and oral options are a doctor's call.
+Retinoids are vitamin-A derivatives that speed up skin-cell turnover and stop pores clogging in the first place, which is why, as [DermNet](https://dermnetnz.org/topics/acne-vulgaris) notes, they help almost every type of acne *and* improve marks and texture over time. Adapalene is a retinoid that's commonly available over the counter from Malaysian pharmacists (often behind the counter, so just ask). The catch: it takes patience. Expect 8–12 weeks before real results, and an adjustment period of dryness or purging at the start. Start two or three nights a week, always at night, always with sunscreen the next day. We explain the difference between cosmetic retinol and true retinoids in [retinol vs retinoids for acne: where to start](/my/articles/retinol-vs-retinoids-for-acne/). Higher-strength prescription retinoids and oral options are a doctor's call.
 
 ### Niacinamide: the gentle all-rounder
 
-Niacinamide (vitamin B3) calms inflammation, helps regulate oil, supports the skin barrier, and can fade post-acne marks over time. It's gentle, plays nicely with almost everything, and is a sensible addition if strong actives are leaving your skin irritated. It won't clear acne on its own, but it's one of the most useful supporting ingredients, especially for the brown marks spots leave behind. More in [niacinamide for acne and dark marks: what it actually does](/articles/niacinamide-for-acne-and-marks/).
+Niacinamide (vitamin B3) calms inflammation, helps regulate oil, supports the skin barrier, and can fade post-acne marks over time. It's gentle, plays nicely with almost everything, and is a sensible addition if strong actives are leaving your skin irritated. It won't clear acne on its own, but it's one of the most useful supporting ingredients, especially for the brown marks spots leave behind. More in [niacinamide for acne and dark marks: what it actually does](/my/articles/niacinamide-for-acne-and-marks/).
 
 ### Azelaic acid: quietly excellent, especially for marks
 
@@ -79,13 +79,13 @@ A few climate-specific habits that matter more than any single product:
 - **Go light on layering.** Thick, occlusive products trapped under sweat are a common, avoidable trigger here.
 - **Don't combine strong actives carelessly.** Benzoyl peroxide in the morning and a retinoid at night, for example, is gentler than piling everything on at once.
 
-For a full step-by-step including how to introduce actives without wrecking your barrier, see [how to build an acne skincare routine for Malaysia](/articles/how-to-build-acne-skincare-routine-malaysia/).
+For a full step-by-step including how to introduce actives without wrecking your barrier, see [how to build an acne skincare routine for Malaysia](/my/articles/how-to-build-acne-skincare-routine-malaysia/).
 
 ## Step 4: Where pimple patches fit (and where they don't)
 
 Patches are a spot-care *tool*, not an acne *treatment*. They do one job well: when a single pimple has surfaced into a whitehead, a hydrocolloid patch absorbs the fluid and, just as importantly, physically stops you picking at it, which is what causes scars and marks. That's genuinely useful as one small step on top of a real routine.
 
-What they don't do is address *why* you break out; that's the job of the actives above. So use a patch on the occasional surfaced spot, but don't expect it to control acne on its own. If you do reach for them, our companion guide [the best acne patches in Malaysia](/articles/best-acne-patches-malaysia-2026/) compares the real options, including COSRX, the cheap-and-everywhere Watsons Acne Patch, Nexcare, Some By Mi, and value picks like STIK MicroForce for Early Acne. It also explains which type suits which spot, plus where they help versus where you're better off with an active or seeing a pharmacist.
+What they don't do is address *why* you break out; that's the job of the actives above. So use a patch on the occasional surfaced spot, but don't expect it to control acne on its own. If you do reach for them, our companion guide [the best acne patches in Malaysia](/my/articles/best-acne-patches-malaysia-2026/) compares the real options, including COSRX, the cheap-and-everywhere Watsons Acne Patch, Nexcare, Some By Mi, and value picks like STIK MicroForce for Early Acne. It also explains which type suits which spot, plus where they help versus where you're better off with an active or seeing a pharmacist.
 
 ## Step 5: Know when to stop self-treating
 
@@ -98,7 +98,7 @@ See a doctor or pharmacist if:
 - You've used a proven OTC active **consistently for 8–12 weeks** with no real improvement.
 - Breakouts are affecting your confidence or mood. That counts, and it's treatable.
 
-Prescription options such as stronger retinoids, oral antibiotics, hormonal treatment, or isotretinoin for severe cases work well and are managed by a doctor. We don't give dosing here on purpose: that's a clinical decision. [When to see a dermatologist for acne in Malaysia](/articles/when-to-see-a-dermatologist-acne-malaysia/) covers what to expect and roughly what it costs.
+Prescription options such as stronger retinoids, oral antibiotics, hormonal treatment, or isotretinoin for severe cases work well and are managed by a doctor. We don't give dosing here on purpose: that's a clinical decision. [When to see a dermatologist for acne in Malaysia](/my/articles/when-to-see-a-dermatologist-acne-malaysia/) covers what to expect and roughly what it costs.
 
 ## What this costs in Malaysia
 

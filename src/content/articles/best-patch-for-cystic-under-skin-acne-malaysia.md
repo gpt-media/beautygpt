@@ -30,13 +30,13 @@ A cyst is a different animal entirely. It's a pocket of inflammation, oil and de
 
 > Rule of thumb: if you can't see a white or yellow head, a hydrocolloid sticker has nothing to grab onto. No head, no absorption, no result.
 
-This is the single most useful thing to understand about cystic acne and patches, and it saves a lot of wasted ringgit. If you want the full side-by-side on the two formats, we cover it in depth in [hydrocolloid vs microneedle acne patches](/articles/hydrocolloid-vs-microneedle-acne-patches/).
+This is the single most useful thing to understand about cystic acne and patches, and it saves a lot of wasted ringgit. If you want the full side-by-side on the two formats, we cover it in depth in [hydrocolloid vs microneedle acne patches](/my/articles/hydrocolloid-vs-microneedle-acne-patches/).
 
 ## Where a microneedle patch genuinely helps
 
 Now the more hopeful part. A **microneedle patch** (sometimes called a dissolving-tip or micro-dart patch) is built differently. Instead of sitting flat on top, it has hundreds of tiny soluble cones on the underside. You press it on and leave it for a few hours; the tips gently penetrate the top layer of skin and dissolve, releasing their actives **below the surface, right where a closed bump lives.**
 
-That changes what's possible. For an **early under-the-skin bump** (the firm, sore, not-yet-surfaced kind), a microneedle patch can deliver soothing and anti-inflammatory ingredients to where the problem actually is, and may help calm it before it grows. This is the one patch format with a real mechanism for closed spots. We explain the full how-and-who in [how microneedle acne patches work](/articles/how-microneedle-acne-patches-work/).
+That changes what's possible. For an **early under-the-skin bump** (the firm, sore, not-yet-surfaced kind), a microneedle patch can deliver soothing and anti-inflammatory ingredients to where the problem actually is, and may help calm it before it grows. This is the one patch format with a real mechanism for closed spots. We explain the full how-and-who in [how microneedle acne patches work](/my/articles/how-microneedle-acne-patches-work/).
 
 But here is where honesty matters most: **a microneedle patch is for early, small, under-skin bumps, not for a fully-formed cyst.** Once a cyst is large, deep, tense and painful, the micro-tips simply cannot reach the depth of the problem, and pressing on an angry cyst is uncomfortable and unhelpful. Manage your expectations by the *stage* of the spot, not the marketing.
 
@@ -79,14 +79,14 @@ So if a sticker won't fix a cyst, what's worth your money? For the **early under
 - **Some By Mi Clear Spot Patch**: breathable K-beauty hydrocolloid, roughly RM15–25 (approximate).
 - **STIK Original Dot**: hydrocolloid with salicylic acid, niacinamide and tea tree, multi-size, a value pick around RM7–10 (approximate).
 
-Whichever way you go, none of these hydrocolloid options is the answer to a deep cyst. They're listed so you can match the right tool to a *surfaced* spot. For the complete rundown across every format and budget, see our pillar guide to the [best acne patches in Malaysia for 2026](/articles/best-acne-patches-malaysia-2026/).
+Whichever way you go, none of these hydrocolloid options is the answer to a deep cyst. They're listed so you can match the right tool to a *surfaced* spot. For the complete rundown across every format and budget, see our pillar guide to the [best acne patches in Malaysia for 2026](/my/articles/best-acne-patches-malaysia-2026/).
 
 ### Where and how to buy
 
 - **Watsons and Guardian** stock the everyday hydrocolloids in-store. COSRX, Oxy and Nexcare are easy to find when you want one today.
 - **Shopee, TikTok Shop and Lazada** carry the widest range, the best prices, and the harder-to-find formats including Korean brands and options like STIK. Buy from the official store, skim recent reviews, and **compare per-patch, not per-pack**. A cheaper box with fewer or smaller patches isn't always the better deal.
 
-A quick safety note on the microneedle format: because the tips break the skin's surface, apply to clean skin, use a fresh patch each time, and don't apply over broken or weeping skin. If you've ever wondered whether any of this is safe to do regularly, we go through the evidence in [are pimple patches safe](/articles/are-pimple-patches-safe/).
+A quick safety note on the microneedle format: because the tips break the skin's surface, apply to clean skin, use a fresh patch each time, and don't apply over broken or weeping skin. If you've ever wondered whether any of this is safe to do regularly, we go through the evidence in [are pimple patches safe](/my/articles/are-pimple-patches-safe/).
 
 ## The honest bottom line
 

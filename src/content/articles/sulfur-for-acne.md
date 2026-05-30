@@ -46,11 +46,11 @@ Most people choosing an over-the-counter spot treatment are really deciding betw
 | **Benzoyl peroxide** | Killing acne bacteria, all-round inflamed acne | Strong | Moderate-high; can bleach fabric | Low |
 | **Salicylic acid (BHA)** | Unclogging pores, blackheads, whiteheads | Mild-moderate | Low-moderate | Low |
 
-The honest summary: [benzoyl peroxide](/articles/benzoyl-peroxide-for-acne/) is the most proven all-rounder for inflamed acne, and for many people it's the more effective first choice. The [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) lists it among the core treatments for the inflamed lesions sulfur also targets. It kills acne bacteria directly and works faster. But it's also the most likely to leave skin dry, flaky, red, or stinging, and it can bleach towels, pillowcases, and dark clothing.
+The honest summary: [benzoyl peroxide](/my/articles/benzoyl-peroxide-for-acne/) is the most proven all-rounder for inflamed acne, and for many people it's the more effective first choice. The [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) lists it among the core treatments for the inflamed lesions sulfur also targets. It kills acne bacteria directly and works faster. But it's also the most likely to leave skin dry, flaky, red, or stinging, and it can bleach towels, pillowcases, and dark clothing.
 
 That's exactly where sulfur becomes valuable. If benzoyl peroxide is too harsh for you, or your skin is sensitive and reactive, sulfur offers a gentler way to target the same kind of pimple. It won't bleach your bedding either. Think of sulfur less as a benzoyl-peroxide rival and more as the calmer alternative for skin that can't handle the stronger stuff.
 
-[Salicylic acid](/articles/salicylic-acid-for-acne/) sits in its own lane: it's a BHA that's oil-soluble, so it gets *inside* the pore to clear blackheads and prevent clogs. Sulfur and salicylic acid can even be complementary (salicylic acid for prevention and texture, sulfur to calm an active pustule), though you'll want to introduce them carefully to avoid over-drying.
+[Salicylic acid](/my/articles/salicylic-acid-for-acne/) sits in its own lane: it's a BHA that's oil-soluble, so it gets *inside* the pore to clear blackheads and prevent clogs. Sulfur and salicylic acid can even be complementary (salicylic acid for prevention and texture, sulfur to calm an active pustule), though you'll want to introduce them carefully to avoid over-drying.
 
 ### Why "gentler" is the whole point
 
@@ -75,7 +75,7 @@ In a hot, humid country, oil control matters, but so does not stripping your ski
 - **Start two or three nights a week**, not daily, and build up only if your skin tolerates it.
 - **Always follow with a lightweight moisturiser.** Even oily skin needs hydration, and it offsets the drying effect.
 - **Wear sunscreen in the day.** Any acne active can leave skin a little more reactive, and Malaysia's UV is strong year-round.
-- **Don't stack everything at once.** If you're already using salicylic acid, benzoyl peroxide, or a retinoid, add sulfur on alternate nights and watch how your skin responds. A full breakdown of how to layer actives sits in our guide to [building an acne routine that actually works](/articles/how-to-treat-acne-malaysia/).
+- **Don't stack everything at once.** If you're already using salicylic acid, benzoyl peroxide, or a retinoid, add sulfur on alternate nights and watch how your skin responds. A full breakdown of how to layer actives sits in our guide to [building an acne routine that actually works](/my/articles/how-to-treat-acne-malaysia/).
 
 ### What to look for on local shelves
 

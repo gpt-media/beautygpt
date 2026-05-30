@@ -48,6 +48,13 @@ h3 { font-size: 1.25rem; margin: 1.5em 0 0.4em; }
 .hero p { font-size: 1.15rem; color: var(--ink-soft); max-width: 600px; margin: 0; }
 .kicker { text-transform: uppercase; letter-spacing: 0.12em; font-size: 0.78rem; font-weight: 700; color: var(--accent); margin: 0 0 14px; }
 
+/* Root region-selector landing */
+.region-list { list-style: none; padding: 0; margin: 28px 0 0; }
+.region-list li { padding: 18px 0; border-bottom: 1px solid var(--line); }
+.region-list > li > a { font-family: var(--serif); font-size: 1.5rem; color: var(--ink); text-decoration: none; letter-spacing: -0.01em; }
+.region-list > li > a:hover { color: var(--accent); }
+.region-list .langs { font-size: 0.95rem; color: var(--ink-soft); margin-top: 4px; }
+
 /* Article list */
 .article-list { list-style: none; padding: 0; margin: 28px 0; }
 .article-list li { padding: 22px 0; border-bottom: 1px solid var(--line); }

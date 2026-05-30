@@ -33,7 +33,7 @@ There are, broadly, two thicknesses on the market:
 
 > Rule of thumb: if you can feel the patch with your fingertip through closed eyes, it's too thick to hide under makeup. If you have to hunt for the edge, it'll wear beautifully.
 
-So the question isn't really "can you wear a patch under makeup." It's "which patch." Reach for the thinnest, most invisible one you own for daytime, and keep the chunky ones strictly for sleep. If you want the full landscape of which patch suits which situation, our [mechanism-first guide to the best acne patches in Malaysia](/articles/best-acne-patches-malaysia-2026/) lays out the types side by side.
+So the question isn't really "can you wear a patch under makeup." It's "which patch." Reach for the thinnest, most invisible one you own for daytime, and keep the chunky ones strictly for sleep. If you want the full landscape of which patch suits which situation, our [mechanism-first guide to the best acne patches in Malaysia](/my/articles/best-acne-patches-malaysia-2026/) lays out the types side by side.
 
 ## Which Malaysian-market patches actually work under makeup
 
@@ -66,7 +66,7 @@ The order is the whole game. A patch grips bare skin, not foundation, so it goes
 
 That's it. Done in this order, a thin patch reads as a slightly smoother patch of skin under your makeup, not a bump.
 
-Patches are a spot treatment layered onto clean skin, not a step you spread everywhere, so they slot into the same place whether you're going makeup-free or full-face. If you're unsure where they sit alongside cleanser, actives, and moisturiser, [where acne patches fit in your skincare routine](/articles/where-do-acne-patches-fit-skincare-routine/) walks through the sequence.
+Patches are a spot treatment layered onto clean skin, not a step you spread everywhere, so they slot into the same place whether you're going makeup-free or full-face. If you're unsure where they sit alongside cleanser, actives, and moisturiser, [where acne patches fit in your skincare routine](/my/articles/where-do-acne-patches-fit-skincare-routine/) walks through the sequence.
 
 ## What to realistically expect
 
@@ -76,7 +76,7 @@ Be honest with yourself about two things.
 
 **Heat and sweat are the real enemy in Malaysia.** Foundation plus a patch plus humidity is a lot to ask of any adhesive. Edges loosen sooner than they would in an air-conditioned climate, and concealer can slide. Check the patch discreetly around midday. If it's still clinging, leave it; disturbing it means redoing your makeup. If it has lifted at one edge, it's usually better to press it back down or remove it cleanly than to fight a half-stuck patch all afternoon.
 
-This is the same battle that makes [mask-acne in a hot climate](/articles/acne-patches-for-maskne-malaysia/) so tricky: sweat, friction, and humidity working against both the patch and whatever's on top of it. The fixes overlap: clean dry skin, thin patches, and not over-handling the area.
+This is the same battle that makes [mask-acne in a hot climate](/my/articles/acne-patches-for-maskne-malaysia/) so tricky: sweat, friction, and humidity working against both the patch and whatever's on top of it. The fixes overlap: clean dry skin, thin patches, and not over-handling the area.
 
 ## Taking it off without wrecking your face
 
@@ -85,7 +85,7 @@ The cleanest approach is to **wear one patch through the day and remove it at ni
 - Lift the patch slowly from one edge. If it resists, don't yank; a little micellar water or cleansing oil on a cotton pad over the patch loosens the adhesive in a few seconds so it comes away without dragging the skin.
 - Then cleanse as normal to take off the makeup over and around it.
 
-A saturated, white patch has finished its job and should be binned, not reused. Once it's absorbed fluid it's lost its stickiness and its capacity, and re-sticking it puts bacteria back on a healing spot. How long it takes to turn white depends on the spot; for the full timing logic, see [how long you should leave a pimple patch on](/articles/how-long-to-leave-a-pimple-patch-on/).
+A saturated, white patch has finished its job and should be binned, not reused. Once it's absorbed fluid it's lost its stickiness and its capacity, and re-sticking it puts bacteria back on a healing spot. How long it takes to turn white depends on the spot; for the full timing logic, see [how long you should leave a pimple patch on](/my/articles/how-long-to-leave-a-pimple-patch-on/).
 
 A light reminder: this is educational, not medical advice. Pimple patches are for ordinary surface spots. For severe, persistent, or painful cystic acne (the deep, under-skin kind), the [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) advises seeing a dermatologist rather than covering it with makeup and a sticker.
 

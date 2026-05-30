@@ -59,7 +59,7 @@ Beberapa nota jujur tentang senarai ini:
 - **STIK Original Dot** ialah pilihan berbaloi jika harga setiap patch menjadi keutamaan anda, pada sekitar RM7 hingga RM10 untuk 15 patch pelbagai saiz dengan salicylic acid, niacinamide dan tea tree. Harga setiap patch lebih murah berbanding produk import yang menjalankan fungsi sama. Ia dijual dalam talian (Shopee, TikTok Shop), bukan di farmasi.
 - **Patch microneedle dan halimunan** (seperti STIK MicroForce dan STIK Air Dot) hampir tidak pernah ada di rak fizikal, jadi jika anda mahu jenis itu, anda akan beli dalam talian biasanya.
 
-Jika anda mahu semua ini disusun mengikut *jerawat jenis mana yang sesuai* dan bukan mengikut harga, itu soalan yang berbeza, dan kami bincangkannya dalam [panduan patch jerawat terbaik di Malaysia](/ms/articles/best-acne-patches-malaysia-2026/).
+Jika anda mahu semua ini disusun mengikut *jerawat jenis mana yang sesuai* dan bukan mengikut harga, itu soalan yang berbeza, dan kami bincangkannya dalam [panduan patch jerawat terbaik di Malaysia](/my/ms/articles/best-acne-patches-malaysia-2026/).
 
 ## Satu tabiat yang menjimatkan duit anda: bandingkan setiap patch, bukan setiap kotak
 
@@ -88,15 +88,15 @@ Pasaran terbuka ialah tempat letaknya nilai, tetapi ia juga tempat barang tiruan
 4. **Semak pembungkusan dan tarikh luput semasa barang sampai.** Patch tulen datang dalam pembungkusan yang bersegel dan tidak rosak dengan tarikh luput yang dicetak jelas. Tulisan yang salah eja, cetakan kabur, atau ketiadaan tarikh adalah tanda yang buruk.
 5. **Biar patch itu buktikan dirinya.** Patch hydrocolloid yang tulen bertukar putih dengan jelas semasa menyerap cecair daripada jerawat yang timbul ke permukaan, dan ia kekal melekat berjam-jam. Jika kedua-duanya tidak jadi (tidak bertukar putih, tertanggal dalam sejam), mungkin anda dapat barang tiruan, dan anda patut tinggalkan ulasan jujur serta laporkan penjual itu.
 
-Jika anda mahu penjelasan visual penuh tentang rupa dan kelakuan patch yang tulen, kami tulis panduan khusus tentang [cara mengesan patch hydrocolloid tiruan](/ms/articles/how-to-spot-fake-hydrocolloid-patch/). Berbaloi dibaca selama dua minit sebelum pesanan dalam talian pertama anda.
+Jika anda mahu penjelasan visual penuh tentang rupa dan kelakuan patch yang tulen, kami tulis panduan khusus tentang [cara mengesan patch hydrocolloid tiruan](/my/ms/articles/how-to-spot-fake-hydrocolloid-patch/). Berbaloi dibaca selama dua minit sebelum pesanan dalam talian pertama anda.
 
 ## Sedikit nota tentang jenama Korea dan di mana tempatnya
 
-Banyak patch yang diingini rakyat Malaysia (COSRX, Some By Mi, dan pilihan K-beauty secara umum) berasal dari Korea, dan inilah produk yang akan anda jumpa dalam talian jauh lebih mudah berbanding di farmasi. Ia popular atas sebab yang baik: nipis, boleh bernafas, dan biasanya dibungkus cantik. Tetapi "Korea" bukanlah gred kualiti dengan sendirinya, dan hydrocolloid dari Barat atau tempat lain boleh buat kerja yang serupa. Jika anda menimbang antara dua kumpulan ini, kami bandingkannya secara mengutamakan mekanisme dalam [patch jerawat Korea lawan Barat](/ms/articles/korean-vs-western-acne-patches/) supaya anda tidak membayar untuk label.
+Banyak patch yang diingini rakyat Malaysia (COSRX, Some By Mi, dan pilihan K-beauty secara umum) berasal dari Korea, dan inilah produk yang akan anda jumpa dalam talian jauh lebih mudah berbanding di farmasi. Ia popular atas sebab yang baik: nipis, boleh bernafas, dan biasanya dibungkus cantik. Tetapi "Korea" bukanlah gred kualiti dengan sendirinya, dan hydrocolloid dari Barat atau tempat lain boleh buat kerja yang serupa. Jika anda menimbang antara dua kumpulan ini, kami bandingkannya secara mengutamakan mekanisme dalam [patch jerawat Korea lawan Barat](/my/ms/articles/korean-vs-western-acne-patches/) supaya anda tidak membayar untuk label.
 
 ## Membeli untuk anak remaja
 
-Jika anda ibu bapa yang membeli patch untuk anak remaja, dua perkara lebih penting daripada jenama: kelembutan dan harga, sebab kulit remaja kerap berjerawat dan anda akan kerap mengisi semula. Hydrocolloid yang tidak mengandungi ubat (Nexcare, atau versi biasa kebanyakan jenama) ialah titik permulaan yang selamat dan rendah kerengsaan, dan kotak nilai bilangan tinggi pula mengekalkan kos setiap patch rendah untuk penggunaan kerap. Kami kumpulkan pilihan khusus dalam [patch jerawat terbaik untuk remaja di Malaysia](/ms/articles/best-acne-patches-for-teens-malaysia/) jika anda mahu pilihan yang berpandu.
+Jika anda ibu bapa yang membeli patch untuk anak remaja, dua perkara lebih penting daripada jenama: kelembutan dan harga, sebab kulit remaja kerap berjerawat dan anda akan kerap mengisi semula. Hydrocolloid yang tidak mengandungi ubat (Nexcare, atau versi biasa kebanyakan jenama) ialah titik permulaan yang selamat dan rendah kerengsaan, dan kotak nilai bilangan tinggi pula mengekalkan kos setiap patch rendah untuk penggunaan kerap. Kami kumpulkan pilihan khusus dalam [patch jerawat terbaik untuk remaja di Malaysia](/my/ms/articles/best-acne-patches-for-teens-malaysia/) jika anda mahu pilihan yang berpandu.
 
 ## Bila patch bukan jawapannya
 

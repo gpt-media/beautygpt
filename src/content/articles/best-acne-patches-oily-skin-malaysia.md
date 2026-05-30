@@ -50,7 +50,7 @@ Notice what is **not** on that list: medication. A lot of oily-skinned people as
 
 ## How to apply a patch so it survives a Malaysian day
 
-This is where most of the result lives. The single biggest reason patches fail on oily skin here is application on damp, oily, or product-covered skin. Our full breakdown of [why pimple patches stop sticking and how to fix it](/articles/pimple-patch-not-sticking-fixes/) goes deeper, but the essentials:
+This is where most of the result lives. The single biggest reason patches fail on oily skin here is application on damp, oily, or product-covered skin. Our full breakdown of [why pimple patches stop sticking and how to fix it](/my/articles/pimple-patch-not-sticking-fixes/) goes deeper, but the essentials:
 
 1. **Cleanse and fully dry the spot.** Pat with a clean towel, then give it a few extra seconds in front of a fan or aircon. "Feels dry" is not the same as dry on oily skin.
 2. **Skip moisturiser and sunscreen directly under the patch.** Apply your skincare around the spot, leave the spot itself bare, then place the patch on clean skin. Layer sunscreen over the top afterwards if needed.
@@ -74,11 +74,11 @@ Prices below are **approximate, so always check the current listing**, and on Sh
 - **STIK Air Dot.** An ultra-thin, near-invisible daytime patch. Its relevance here is specifically the daytime/under-makeup problem: thin profile, low-visibility, designed to sit flat under sunscreen or foundation. One option among several if your issue is wearing a patch out in the heat without it showing.
 - **STIK MicroForce for Early Acne.** A microneedle patch (ceramides, hyaluronic acid, peptides, salicylic acid) aimed at early, deeper bumps that have not surfaced yet, rather than open whiteheads. Different job from the flat hydrocolloids above; mentioned only so you do not buy it expecting a standard absorbing patch.
 
-If you want the broader field with full comparisons across budgets and skin types, our pillar guide to the [best acne patches in Malaysia for 2026](/articles/best-acne-patches-malaysia-2026/) ranks the lot. Younger, oilier skin in particular may find our notes on the [best acne patches for teens in Malaysia](/articles/best-acne-patches-for-teens-malaysia/) useful, since teen skin tends to be oilier and more breakout-prone.
+If you want the broader field with full comparisons across budgets and skin types, our pillar guide to the [best acne patches in Malaysia for 2026](/my/articles/best-acne-patches-malaysia-2026/) ranks the lot. Younger, oilier skin in particular may find our notes on the [best acne patches for teens in Malaysia](/my/articles/best-acne-patches-for-teens-malaysia/) useful, since teen skin tends to be oilier and more breakout-prone.
 
 ### A related humid-climate problem: maskne
 
-If you mask up on the commute, in clinics, or at work, you have probably noticed breakouts along the jaw and chin. That is friction plus trapped heat and sweat, the same adhesion enemies, made worse. Thin patches that sit flat under a mask edge tend to fare best; we cover the specifics in [treating mask acne in a hot climate](/articles/acne-patches-for-maskne-malaysia/).
+If you mask up on the commute, in clinics, or at work, you have probably noticed breakouts along the jaw and chin. That is friction plus trapped heat and sweat, the same adhesion enemies, made worse. Thin patches that sit flat under a mask edge tend to fare best; we cover the specifics in [treating mask acne in a hot climate](/my/articles/acne-patches-for-maskne-malaysia/).
 
 ## When a patch is the wrong tool
 

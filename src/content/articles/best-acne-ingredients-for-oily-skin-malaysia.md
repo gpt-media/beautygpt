@@ -28,7 +28,7 @@ Sebum, your skin's natural oil, is produced more heavily in heat and humidity. T
 
 So the job of a good oily-skin routine is twofold: **keep pores clear** and **avoid adding more grease on top**. A lot of acne advice written for temperate climates leans on rich, occlusive moisturisers and heavy creams. In Kuala Lumpur or Penang at 90% humidity, those same products can sit on the skin, trap heat and sweat, and make congestion worse. The active ingredient might be fine. The texture is what lets you down.
 
-There's one more wrinkle specific to humid Malaysia: not every bumpy breakout is ordinary acne. If your "acne" is lots of small, itchy, uniform bumps on the forehead, chest, or back that flare in heat and sweat, it may be **fungal acne** (malassezia folliculitis), which doesn't respond to normal acne actives at all. We cover how to tell the difference in [Fungal Acne in Malaysia's Humidity: How to Tell and Treat It](/articles/fungal-acne-malaysia-humidity/). It's worth ruling out before you blame your salicylic acid for "not working."
+There's one more wrinkle specific to humid Malaysia: not every bumpy breakout is ordinary acne. If your "acne" is lots of small, itchy, uniform bumps on the forehead, chest, or back that flare in heat and sweat, it may be **fungal acne** (malassezia folliculitis), which doesn't respond to normal acne actives at all. We cover how to tell the difference in [Fungal Acne in Malaysia's Humidity: How to Tell and Treat It](/my/articles/fungal-acne-malaysia-humidity/). It's worth ruling out before you blame your salicylic acid for "not working."
 
 ## The core actives, and how each one works
 
@@ -38,7 +38,7 @@ Salicylic acid is a beta-hydroxy acid, and its defining trait is that it's **oil
 
 That mechanism is exactly why it's the standout active for oily, congested skin, blackheads, and whiteheads. It's also mildly anti-inflammatory (it's chemically related to aspirin), so it can take some of the redness out of a spot.
 
-Over-the-counter leave-on products typically range from roughly **0.5% to 2%** salicylic acid, with 2% being a common effective strength, but treat that as a general range and follow the product label rather than a fixed number. Start two to three times a week and build up. There's a deeper how-to in [Salicylic Acid for Acne: How It Works and How to Use It](/articles/salicylic-acid-for-acne/).
+Over-the-counter leave-on products typically range from roughly **0.5% to 2%** salicylic acid, with 2% being a common effective strength, but treat that as a general range and follow the product label rather than a fixed number. Start two to three times a week and build up. There's a deeper how-to in [Salicylic Acid for Acne: How It Works and How to Use It](/my/articles/salicylic-acid-for-acne/).
 
 > Rule of thumb: if your main problem is oiliness, clogged pores, blackheads, and whiteheads, salicylic acid is the first active to reach for.
 
@@ -46,7 +46,7 @@ Over-the-counter leave-on products typically range from roughly **0.5% to 2%** s
 
 Niacinamide (vitamin B3) is the ideal partner for oily skin because it does several useful things at once and is unusually well tolerated. It helps **regulate sebum production**, strengthens the skin barrier so the skin holds water without feeling greasy, calms inflammation, and gradually **fades the flat brown marks** left behind after a pimple heals, a major concern in Malaysia, where strong UV darkens those marks.
 
-Common formulas sit around 4% to 5%, and it layers comfortably under sunscreen or moisturiser. Because it's gentle, it's one of the few actives you can usually use morning and night without drama. Full detail in [Niacinamide for Acne and Dark Marks: What It Actually Does](/articles/niacinamide-for-acne-and-marks/).
+Common formulas sit around 4% to 5%, and it layers comfortably under sunscreen or moisturiser. Because it's gentle, it's one of the few actives you can usually use morning and night without drama. Full detail in [Niacinamide for Acne and Dark Marks: What It Actually Does](/my/articles/niacinamide-for-acne-and-marks/).
 
 ### Lightweight daily SPF: the non-negotiable
 
@@ -79,7 +79,7 @@ You don't need ten steps. A lean routine you'll actually keep up with beats an e
 - **Morning:** gentle cleanser → niacinamide (optional) → light gel moisturiser → lightweight SPF.
 - **Night:** gentle cleanser → salicylic acid as your treatment step (start 2–3x/week) → light gel moisturiser.
 
-Cleanse to remove the day's oil and sunscreen, but don't over-wash or scrub, as that strips the barrier and triggers more oil. The [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) offers general guidance on caring for acne-prone skin and the everyday habits that can make breakouts worse. A salicylic acid *cleanser* is a brief contact and counts as gentler than a leave-on, which is a reasonable starting point if a leave-on feels too much. For the full step-by-step logic of building this up, see [How to Build an Acne Skincare Routine in Malaysia](/articles/how-to-build-acne-skincare-routine-malaysia/), and for the bigger picture on what actually clears acne, [How to Treat Acne in Malaysia: The Ingredients and Routine That Actually Work](/articles/how-to-treat-acne-malaysia/).
+Cleanse to remove the day's oil and sunscreen, but don't over-wash or scrub, as that strips the barrier and triggers more oil. The [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) offers general guidance on caring for acne-prone skin and the everyday habits that can make breakouts worse. A salicylic acid *cleanser* is a brief contact and counts as gentler than a leave-on, which is a reasonable starting point if a leave-on feels too much. For the full step-by-step logic of building this up, see [How to Build an Acne Skincare Routine in Malaysia](/my/articles/how-to-build-acne-skincare-routine-malaysia/), and for the bigger picture on what actually clears acne, [How to Treat Acne in Malaysia: The Ingredients and Routine That Actually Work](/my/articles/how-to-treat-acne-malaysia/).
 
 ### Where a spot patch fits, and where it doesn't
 
@@ -91,11 +91,11 @@ You can build the whole routine from Watsons, Guardian, or the major e-commerce 
 
 - **Salicylic acid serums/toners (e.g. COSRX, Some By Mi):** widely stocked; roughly **RM30–RM70**. Some By Mi's AHA-BHA-PHA range is popular for congested skin; COSRX has accessible BHA options.
 - **Niacinamide serums (e.g. COSRX 5% niacinamide and many local/Korean options):** roughly **RM25–RM70**. A high-value, low-drama buy.
-- **Medicated benzoyl peroxide options (e.g. Oxy):** found at pharmacies for inflamed spots; benzoyl peroxide kills acne-causing bacteria, but it can be drying, so spot-apply and ease in. See [Benzoyl Peroxide for Acne](/articles/benzoyl-peroxide-for-acne/).
+- **Medicated benzoyl peroxide options (e.g. Oxy):** found at pharmacies for inflamed spots; benzoyl peroxide kills acne-causing bacteria, but it can be drying, so spot-apply and ease in. See [Benzoyl Peroxide for Acne](/my/articles/benzoyl-peroxide-for-acne/).
 - **Lightweight gel sunscreens:** plenty of fluid/gel SPF options around **RM30–RM80**; prioritise a texture you'll wear daily over the exact filter.
 - **Hydrocolloid spot patches (e.g. Watsons Acne Patch, Nexcare, COSRX, STIK):** roughly **RM15–RM45** a pack, useful as occasional spot-care, not a core oily-skin active. The Watsons Acne Patch is a cheap, basic hydrocolloid option (around **RM10–RM15** a pack, approximate) and is the easy convenience pick since it's stocked in every Watsons store nationwide.
 
-For prescription-strength options (adapalene and other retinoids, or oral medication for stubborn or severe cases), talk to a doctor or pharmacist rather than self-prescribing. Adapalene is available in Malaysia and is genuinely effective for many people; we cover it in [Adapalene in Malaysia](/articles/adapalene-malaysia/), but dosing and suitability are a clinical call.
+For prescription-strength options (adapalene and other retinoids, or oral medication for stubborn or severe cases), talk to a doctor or pharmacist rather than self-prescribing. Adapalene is available in Malaysia and is genuinely effective for many people; we cover it in [Adapalene in Malaysia](/my/articles/adapalene-malaysia/), but dosing and suitability are a clinical call.
 
 ## The bottom line
 

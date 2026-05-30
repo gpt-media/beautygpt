@@ -62,7 +62,7 @@ Ujian tampalan hanya perlukan satu patch dan beberapa jam, dan ia tabiat terbaik
 - **Biarkan ia:** selama beberapa jam, atau semalaman jika boleh.
 - **Periksa masa tanggal:** lihat jika ada kemerahan, gatal, rasa pedih atau ruam yang samar. Sedikit lekukan sementara atau kulit yang pucat di tempat patch tadi ditampal memang normal dan akan hilang. Kemerahan atau gatal yang berterusan tidak normal. Patch itu bukan untuk anda.
 
-Buat ini untuk *mana-mana* patch baru, dan terutamanya patch yang mengandungi ubat. Jika sesuatu jenama jual barisan khas kulit sensitif atau bebas pewangi, itu memang berbaloi diuji terlebih dahulu, tetapi ujian itu masih penting. "Untuk kulit sensitif" pada label bukan jaminan untuk kulit anda secara khusus. Jika anda mahu gambaran keselamatan yang lebih lengkap, penerangan kami tentang [adakah patch jerawat selamat dan apa kata pakar dermatologi](/ms/articles/are-pimple-patches-safe/) bincangkan risikonya dengan lebih mendalam serta cara menggunakan patch dengan betul.
+Buat ini untuk *mana-mana* patch baru, dan terutamanya patch yang mengandungi ubat. Jika sesuatu jenama jual barisan khas kulit sensitif atau bebas pewangi, itu memang berbaloi diuji terlebih dahulu, tetapi ujian itu masih penting. "Untuk kulit sensitif" pada label bukan jaminan untuk kulit anda secara khusus. Jika anda mahu gambaran keselamatan yang lebih lengkap, penerangan kami tentang [adakah patch jerawat selamat dan apa kata pakar dermatologi](/my/ms/articles/are-pimple-patches-safe/) bincangkan risikonya dengan lebih mendalam serta cara menggunakan patch dengan betul.
 
 ## Apa yang patut dielakkan pada kulit sensitif
 
@@ -70,7 +70,7 @@ Senarai pendek perkara yang menjadikan patch lebih cenderung mencetuskan kerengs
 
 - **Patch kuat yang mengandungi ubat sebagai percubaan pertama.** Patch yang mengandungi ubat seperti Oxy bergantung pada tindakan antibakteria yang berguna untuk sesetengah kulit tetapi lebih daripada apa yang biasanya kulit yang mudah bertindak balas perlukan. Mula dengan yang lebih lembut.
 - **Menampal pada kulit lembap atau di atas serum yang tebal.** Kelembapan yang terperangkap di bawah patch melembutkan kulit dan menjadikan kerengsaan serta tanggalan yang kasar lebih berkemungkinan. Keringkan kulit terlebih dahulu, selalu. Itu lagi-lagi benar dalam cuaca panas dan lembap Malaysia, di mana patch pun boleh memerangkap peluh seketika.
-- **Menyentap patch sampai tertanggal.** Tanggalkan perlahan-lahan dari satu hujung. Jika ia melekat, sedikit air suam akan melonggarkan gel itu. Menyentapnya boleh merosakkan kulit baru di bawahnya, yang juga sebab biasa orang risau sama ada [patch meninggalkan kesan atau parut](/ms/articles/do-acne-patches-leave-marks-or-scars/).
+- **Menyentap patch sampai tertanggal.** Tanggalkan perlahan-lahan dari satu hujung. Jika ia melekat, sedikit air suam akan melonggarkan gel itu. Menyentapnya boleh merosakkan kulit baru di bawahnya, yang juga sebab biasa orang risau sama ada [patch meninggalkan kesan atau parut](/my/ms/articles/do-acne-patches-leave-marks-or-scars/).
 - **Memakai satu patch terlalu lama atau menggunakannya semula.** Sebaik sahaja patch hydrocolloid sudah bertukar putih dan tepu, ia sudah selesai tugasnya. Tukar dengan yang baru, jangan tampal semula.
 - **Patch novelti yang berwangi atau "menyejukkan"** jika kulit anda mudah bertindak balas. Pewangi tambahan dan bahan jenis menthol ialah risiko tindak balas tambahan tanpa manfaat penyembuhan yang sebenar.
 
@@ -85,7 +85,7 @@ Semuanya anggaran, jadi semak harga terkini, dan bandingkan harga **setiap patch
 
 Nota tentang STIK itu ialah ringkasan keseluruhan artikel ini: patch yang tepat untuk kulit sensitif bukan yang paling banyak isinya, tetapi yang paling sedikit untuk kulit bertindak balas terhadapnya. Untuk benjolan **bawah kulit** yang awal (masalah yang berbeza daripada jerawat putih yang sudah timbul ke permukaan), patch seperti STIK MicroForce for Early Acne ialah jenis microneedle, bukan pelekat biasa. Ia berguna, tetapi bukan apa yang anda sambar untuk rawat dengan lembut jerawat permukaan yang mudah bertindak balas.
 
-Jika anda mahu gambaran lebih luas tentang pilihan yang ada dan cara padankan patch dengan jenis jerawat, lihat panduan tunjang kami tentang [patch jerawat terbaik di Malaysia untuk 2026](/ms/articles/best-acne-patches-malaysia-2026/). Dan jika anda khusus mahu timbang bahan aktif, perincian kami tentang [patch salicylic acid lawan hydrocolloid biasa](/ms/articles/salicylic-acid-patches-vs-hydrocolloid/) terangkan dengan tepat bila bahan aktif itu berbaloi dan bila ia tidak.
+Jika anda mahu gambaran lebih luas tentang pilihan yang ada dan cara padankan patch dengan jenis jerawat, lihat panduan tunjang kami tentang [patch jerawat terbaik di Malaysia untuk 2026](/my/ms/articles/best-acne-patches-malaysia-2026/). Dan jika anda khusus mahu timbang bahan aktif, perincian kami tentang [patch salicylic acid lawan hydrocolloid biasa](/my/ms/articles/salicylic-acid-patches-vs-hydrocolloid/) terangkan dengan tepat bila bahan aktif itu berbaloi dan bila ia tidak.
 
 ## Sepatah kata tentang keselamatan
 

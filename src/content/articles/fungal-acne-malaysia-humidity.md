@@ -60,7 +60,7 @@ One honest caveat: you can have both at once, and they can genuinely be hard to 
 
 It's worth understanding the mechanism, because it explains the frustration so many people feel.
 
-Ordinary acne is, simplified, a clogged-pore-plus-bacteria problem. As the [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) explains, dead skin and oil plug a pore, and a bacterium (*Cutibacterium acnes*) drives the inflammation. That's the entire target our usual actives are designed around. [Salicylic acid](/articles/salicylic-acid-for-acne/) is an oil-soluble exfoliant that clears the clog; [benzoyl peroxide](/articles/benzoyl-peroxide-for-acne/) kills that acne bacterium. Both are excellent at *bacterial, oil-driven acne*.
+Ordinary acne is, simplified, a clogged-pore-plus-bacteria problem. As the [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) explains, dead skin and oil plug a pore, and a bacterium (*Cutibacterium acnes*) drives the inflammation. That's the entire target our usual actives are designed around. [Salicylic acid](/my/articles/salicylic-acid-for-acne/) is an oil-soluble exfoliant that clears the clog; [benzoyl peroxide](/my/articles/benzoyl-peroxide-for-acne/) kills that acne bacterium. Both are excellent at *bacterial, oil-driven acne*.
 
 Fungal folliculitis is a different organism entirely: a **yeast**, not a bacterium, overgrowing inside the follicle. So the standard kit misses on the mechanism:
 
@@ -99,11 +99,11 @@ Get both parts working together and most cases settle within a few weeks.
 
 ## Where this fits in your bigger skincare picture
 
-If it turns out you *don't* have fungal folliculitis (your bumps are varied, not itchy, with blackheads and whiteheads in the mix), then you're back in ordinary-acne territory, and the usual playbook applies. Our main guide on [how to treat acne in Malaysia: the ingredients and routine that actually work](/articles/how-to-treat-acne-malaysia/) walks through matching the right active to your acne type and building a routine for the heat. And because so many Malaysians are dealing with oil and shine on top of breakouts, [the best acne ingredients for oily skin in Malaysia](/articles/best-acne-ingredients-for-oily-skin-malaysia/) is a useful companion read.
+If it turns out you *don't* have fungal folliculitis (your bumps are varied, not itchy, with blackheads and whiteheads in the mix), then you're back in ordinary-acne territory, and the usual playbook applies. Our main guide on [how to treat acne in Malaysia: the ingredients and routine that actually work](/my/articles/how-to-treat-acne-malaysia/) walks through matching the right active to your acne type and building a routine for the heat. And because so many Malaysians are dealing with oil and shine on top of breakouts, [the best acne ingredients for oily skin in Malaysia](/my/articles/best-acne-ingredients-for-oily-skin-malaysia/) is a useful companion read.
 
 But if the bumps are uniform, itchy, and have shrugged off everything you've thrown at them, resist the urge to escalate your acne routine. More salicylic acid or a stronger benzoyl peroxide won't touch a yeast problem. It just irritates skin that's already unhappy.
 
-**This article is educational, not medical advice.** Fungal folliculitis is common and often manageable with over-the-counter antifungal washes plus sweat management, but it's easy to confuse with ordinary acne, and the two need different treatment. See a pharmacist or doctor to confirm what you're actually dealing with, for guidance on using an antifungal correctly, and, importantly, [for any acne or skin condition that is severe, painful, persistent, or simply not improving](/articles/when-to-see-a-dermatologist-acne-malaysia/). Getting the diagnosis right is the whole game here.
+**This article is educational, not medical advice.** Fungal folliculitis is common and often manageable with over-the-counter antifungal washes plus sweat management, but it's easy to confuse with ordinary acne, and the two need different treatment. See a pharmacist or doctor to confirm what you're actually dealing with, for guidance on using an antifungal correctly, and, importantly, [for any acne or skin condition that is severe, painful, persistent, or simply not improving](/my/articles/when-to-see-a-dermatologist-acne-malaysia/). Getting the diagnosis right is the whole game here.
 
 ## Bottom line
 

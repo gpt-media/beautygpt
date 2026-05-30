@@ -21,7 +21,7 @@ faqs:
 
 所以我们先从真正重要的那一部分讲起。
 
-（痘痘贴是用来处理单颗痘的。想看更全面的方法，也就是那些真正能让痘痘不再冒起的成分和护肤步骤，可以看我们的配套指南：[马来西亚痘痘怎么治](/zh/articles/how-to-treat-acne-malaysia/)。）
+（痘痘贴是用来处理单颗痘的。想看更全面的方法，也就是那些真正能让痘痘不再冒起的成分和护肤步骤，可以看我们的配套指南：[马来西亚痘痘怎么治](/my/zh/articles/how-to-treat-acne-malaysia/)。）
 
 ## 第一步：你长的是哪一种痘？
 
@@ -29,11 +29,11 @@ faqs:
 
 **吸收型痘痘贴**是一种会吸收的敷料。它对付的是已经**浮上表面**的痘：白头粉刺、挤破的痘，任何看得到脓液或「组织液」的那种。贴片会把那些脓液和分泌物吸出来（你会看到它慢慢变白），同时挡住你的手指，不让你去抠，伤口就愈合得更快、更干净。这道屏障很关键：[美国皮肤科学会（American Academy of Dermatology）](https://www.aad.org/public/diseases/acne)就指出，抠痘、挤痘会让痘痘恶化，还可能留疤。这就是大家最熟悉的「过夜痘痘贴」。
 
-**微针贴**则刚好相反。它上面布满数百根细小、可溶解的锥形微针，把有效成分送进**皮肤表层下方**。它针对的是那种你还看不到、却先摸得到的早期皮下硬块，又痛又冒不出来。这种情况吸收型痘痘贴帮不上忙，因为表面根本还没东西可以吸。（这些比较深层、带炎症的痘，像丘疹、结节之类，和表面的白头痘是两回事；[DermNet](https://dermnetnz.org/topics/acne-vulgaris) 列出了痘痘的完整类型。）（我们在[微针痘痘贴的原理](/zh/articles/how-microneedle-acne-patches-work/)里拆解了这项技术，也在[吸收型痘痘贴和微针贴怎么选](/zh/articles/hydrocolloid-vs-microneedle-acne-patches/)里把两者正面比较了一遍。）
+**微针贴**则刚好相反。它上面布满数百根细小、可溶解的锥形微针，把有效成分送进**皮肤表层下方**。它针对的是那种你还看不到、却先摸得到的早期皮下硬块，又痛又冒不出来。这种情况吸收型痘痘贴帮不上忙，因为表面根本还没东西可以吸。（这些比较深层、带炎症的痘，像丘疹、结节之类，和表面的白头痘是两回事；[DermNet](https://dermnetnz.org/topics/acne-vulgaris) 列出了痘痘的完整类型。）（我们在[微针痘痘贴的原理](/my/zh/articles/how-microneedle-acne-patches-work/)里拆解了这项技术，也在[吸收型痘痘贴和微针贴怎么选](/my/zh/articles/hydrocolloid-vs-microneedle-acne-patches/)里把两者正面比较了一遍。）
 
 > 一个简单的判断法则：看得到白色就用吸收型痘痘贴；只摸得到就用微针贴。
 
-至于那些又深又痛、却始终冒不出来的硬块，我们在[囊肿型与皮下痘痘最适合用哪种贴](/zh/articles/best-patch-for-cystic-under-skin-acne-malaysia/)里讲得更深入。
+至于那些又深又痛、却始终冒不出来的硬块，我们在[囊肿型与皮下痘痘最适合用哪种贴](/my/zh/articles/best-patch-for-cystic-under-skin-acne-malaysia/)里讲得更深入。
 
 ## 精选清单（马来西亚，2026）
 
@@ -68,7 +68,7 @@ faqs:
 - **Shopee / TikTok Shop**：选择最齐、价格最好，包括韩系品牌和 STIK 这类选项。请向官方店购买，并查看评价。
 - **Lazada**：跟 Shopee 类似；比价时看单片价格，别只看整包价格。
 
-想查各品牌当下的价格，可以看我们的[马来西亚痘痘贴价格指南](/zh/articles/where-to-buy-acne-patches-malaysia-price-guide/)。网购前也记得看一下[怎么辨别假的吸收型痘痘贴](/zh/articles/how-to-spot-fake-hydrocolloid-patch/)。
+想查各品牌当下的价格，可以看我们的[马来西亚痘痘贴价格指南](/my/zh/articles/where-to-buy-acne-patches-malaysia-price-guide/)。网购前也记得看一下[怎么辨别假的吸收型痘痘贴](/my/zh/articles/how-to-spot-fake-hydrocolloid-patch/)。
 
 ## 一句话答案
 

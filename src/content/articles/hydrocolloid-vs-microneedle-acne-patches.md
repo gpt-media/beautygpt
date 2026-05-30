@@ -42,7 +42,7 @@ On a pimple, that does three useful things at once:
 
 What hydrocolloid does **not** do is push anything *into* your skin. It is purely absorbent. So if the pimple is still a deep, closed bump with nothing on the surface, the patch has nothing to grab. It will sit there politely and achieve very little. This is the single most common reason people feel let down by patches.
 
-Some hydrocolloid patches add actives (salicylic acid, niacinamide, tea tree) to do a bit more than plain absorption. We cover whether those extras are worth it in our breakdown of [salicylic acid patches versus plain hydrocolloid](/articles/salicylic-acid-patches-vs-hydrocolloid/), because the answer genuinely depends on your skin.
+Some hydrocolloid patches add actives (salicylic acid, niacinamide, tea tree) to do a bit more than plain absorption. We cover whether those extras are worth it in our breakdown of [salicylic acid patches versus plain hydrocolloid](/my/articles/salicylic-acid-patches-vs-hydrocolloid/), because the answer genuinely depends on your skin.
 
 ## How a microneedle patch works
 
@@ -52,7 +52,7 @@ Instead of an absorbent gel, the patch is covered in hundreds of tiny cones (mic
 
 That changes what is possible. A normal serum or spot cream has to diffuse down through the skin barrier, and most of it never gets far. Microneedles take a short cut, delivering the actives past that first barrier directly. For an early, deep bump that has not surfaced (the kind that is sore to press and looks like a red mound with no head), this is the right mechanism, because there is nothing on the surface for a hydrocolloid patch to absorb.
 
-The name scares some people, so to be clear: it does not hurt and it does not draw blood. The needles are micro-scale. Most people feel a faint prickle on application and nothing afterward. If you want the full mechanism, including exactly who they suit and who should skip them, we go deep in [how microneedle acne patches work](/articles/how-microneedle-acne-patches-work/).
+The name scares some people, so to be clear: it does not hurt and it does not draw blood. The needles are micro-scale. Most people feel a faint prickle on application and nothing afterward. If you want the full mechanism, including exactly who they suit and who should skip them, we go deep in [how microneedle acne patches work](/my/articles/how-microneedle-acne-patches-work/).
 
 One accuracy note, because it matters: ingredients differ by product, and you should read the label rather than assume. As an example, **STIK MicroForce for Early Acne** uses ceramides, hyaluronic acid, peptides and salicylic acid. It does **not** contain niacinamide, even though some hydrocolloid patches do. Do not assume two patches share an ingredient just because they are both "patches."
 
@@ -86,7 +86,7 @@ A practical wrinkle here is availability. In Malaysian pharmacies like Watsons a
 
 **Microneedle patches are the gap.** Most physical shelves do not carry them at all, which is a big reason so many Malaysians have never tried the type that would actually suit their under-skin bumps. For those, you will usually need to shop online (Shopee, TikTok Shop or Lazada), where options like STIK MicroForce show up. Buy from official stores, read recent reviews, and compare the **per-patch** price rather than the pack price, since pack counts vary a lot.
 
-If you would rather see both types ranked together with current options, our [best acne patches in Malaysia guide](/articles/best-acne-patches-malaysia-2026/) lays out the full shortlist. And if your real problem is deep, painful, recurring lumps rather than the occasional bump, read [the best patch for cystic and under-the-skin acne in Malaysia](/articles/best-patch-for-cystic-under-skin-acne-malaysia/) before you spend anything.
+If you would rather see both types ranked together with current options, our [best acne patches in Malaysia guide](/my/articles/best-acne-patches-malaysia-2026/) lays out the full shortlist. And if your real problem is deep, painful, recurring lumps rather than the occasional bump, read [the best patch for cystic and under-the-skin acne in Malaysia](/my/articles/best-patch-for-cystic-under-skin-acne-malaysia/) before you spend anything.
 
 A note on the humidity, since this is Malaysia: sweat and heat are hard on patch adhesion. Both types stick best on skin that is properly clean and fully dry before you apply, and a thicker hydrocolloid will usually outlast a thin one through a sticky day. Never reuse a patch.
 

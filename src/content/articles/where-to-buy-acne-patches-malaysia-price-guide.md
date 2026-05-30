@@ -59,7 +59,7 @@ A few honest notes on this list:
 - **STIK Original Dot** is the value pick if price-per-patch is your priority, at approximately RM7 to RM10 for 15 mixed-size patches with salicylic acid, niacinamide and tea tree, which works out cheaper per patch than the imports doing the same job. It's an online buy (Shopee, TikTok Shop), not a pharmacy one.
 - **Microneedle and invisible patches** (like STIK MicroForce and STIK Air Dot) are almost never on physical shelves, so if you want that type you'll be shopping online by default.
 
-If you want these ranked by *which pimple they suit* rather than by price, that's a different question, and we cover it in the [best acne patches in Malaysia guide](/articles/best-acne-patches-malaysia-2026/).
+If you want these ranked by *which pimple they suit* rather than by price, that's a different question, and we cover it in the [best acne patches in Malaysia guide](/my/articles/best-acne-patches-malaysia-2026/).
 
 ## The one habit that saves you money: compare per-patch, not per-pack
 
@@ -88,15 +88,15 @@ The open marketplaces are where the value is, but they're also where counterfeit
 4. **Check the packaging and expiry on arrival.** Genuine patches come in sealed, undamaged packaging with a clearly printed expiry date. Misspelt text, blurry printing, or a missing date are bad signs.
 5. **Let the patch prove itself.** A real hydrocolloid patch turns visibly white as it absorbs fluid from a surfaced pimple, and it stays stuck for hours. If it does neither (no whitening, peels off in an hour), you may have a fake, and you should leave an honest review and report the seller.
 
-If you want the full visual breakdown of what a genuine patch looks and behaves like, we wrote a dedicated guide on [how to spot a fake hydrocolloid patch](/articles/how-to-spot-fake-hydrocolloid-patch/). It's worth a two-minute read before your first online order.
+If you want the full visual breakdown of what a genuine patch looks and behaves like, we wrote a dedicated guide on [how to spot a fake hydrocolloid patch](/my/articles/how-to-spot-fake-hydrocolloid-patch/). It's worth a two-minute read before your first online order.
 
 ## A note on Korean brands and where they fit
 
-A lot of the patches Malaysians want (COSRX, Some By Mi, and the K-beauty options generally) are Korean, and these are exactly the products you'll find online far more easily than in a pharmacy. They're popular for good reason: thin, breathable, often nicely packaged. But "Korean" is not a quality grade by itself, and a Western or local hydrocolloid can do the identical job. If you're weighing the two camps, we compare them mechanism-first in [Korean vs Western acne patches](/articles/korean-vs-western-acne-patches/) so you're not paying for a label.
+A lot of the patches Malaysians want (COSRX, Some By Mi, and the K-beauty options generally) are Korean, and these are exactly the products you'll find online far more easily than in a pharmacy. They're popular for good reason: thin, breathable, often nicely packaged. But "Korean" is not a quality grade by itself, and a Western or local hydrocolloid can do the identical job. If you're weighing the two camps, we compare them mechanism-first in [Korean vs Western acne patches](/my/articles/korean-vs-western-acne-patches/) so you're not paying for a label.
 
 ## Buying for a teenager
 
-If you're a parent buying patches for a teen, two things matter more than brand: gentleness and price, because teenage skin breaks out often and you'll be restocking. Unmedicated hydrocolloid (Nexcare, or the plain version of most brands) is a safe, low-irritation starting point, and a higher-count value pack keeps the per-patch cost down for frequent use. We put together specific picks in [the best acne patches for teens in Malaysia](/articles/best-acne-patches-for-teens-malaysia/) if you want guided options.
+If you're a parent buying patches for a teen, two things matter more than brand: gentleness and price, because teenage skin breaks out often and you'll be restocking. Unmedicated hydrocolloid (Nexcare, or the plain version of most brands) is a safe, low-irritation starting point, and a higher-count value pack keeps the per-patch cost down for frequent use. We put together specific picks in [the best acne patches for teens in Malaysia](/my/articles/best-acne-patches-for-teens-malaysia/) if you want guided options.
 
 ## When a patch isn't the answer
 

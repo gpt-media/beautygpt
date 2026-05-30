@@ -35,7 +35,7 @@ That has two important consequences:
 - **It is preventive, not a spot-zapper.** Adapalene is not what you dab on one angry pimple the night before an event. It works across the whole area over weeks, stopping the *next* round of breakouts from forming. That is why you spread a thin layer over the full face, not a dot on one spot.
 - **It speeds up turnover, which is why skin flakes and reddens at first.** The same action that unclogs pores also brings up newer, more sensitive skin faster than usual. Early dryness and peeling are the active working, not a sign it is wrong for you, within reason.
 
-If you want the bigger picture of where retinoids sit next to gentler vitamin-A options like retinol, we cover that in [retinol vs retinoids for acne and where to start](/articles/retinol-vs-retinoids-for-acne/). The one-line version: retinol is milder and slower; adapalene is a true retinoid and more directly studied for acne.
+If you want the bigger picture of where retinoids sit next to gentler vitamin-A options like retinol, we cover that in [retinol vs retinoids for acne and where to start](/my/articles/retinol-vs-retinoids-for-acne/). The one-line version: retinol is milder and slower; adapalene is a true retinoid and more directly studied for acne.
 
 ## Where to get it in Malaysia, and roughly what it costs
 
@@ -73,7 +73,7 @@ If two to three nights a week sits fine for a couple of weeks (no raw, weepy or 
 
 ### 5. Sunscreen every single morning
 
-Non-negotiable. Adapalene brings up fresher skin that burns more easily, and Malaysia's UV index is high all year, cloud or shine. Use a **broad-spectrum SPF 30 or higher** every morning, and reapply if you are out for long stretches. Skipping SPF undoes the work and risks dark marks, exactly the thing most people are trying to fade. (Benzoyl peroxide, another mainstay, comes with its own usage rules; we cover those in the [complete guide to benzoyl peroxide for acne](/articles/benzoyl-peroxide-for-acne/).)
+Non-negotiable. Adapalene brings up fresher skin that burns more easily, and Malaysia's UV index is high all year, cloud or shine. Use a **broad-spectrum SPF 30 or higher** every morning, and reapply if you are out for long stretches. Skipping SPF undoes the work and risks dark marks, exactly the thing most people are trying to fade. (Benzoyl peroxide, another mainstay, comes with its own usage rules; we cover those in the [complete guide to benzoyl peroxide for acne](/my/articles/benzoyl-peroxide-for-acne/).)
 
 ## The purge, and why patience is the whole strategy
 
@@ -97,7 +97,7 @@ Buying a tube yourself is reasonable for typical mild-to-moderate clogged or inf
 - You are **pregnant, breastfeeding, or trying to conceive.** Topical retinoids, adapalene included, are generally advised against. The label says so. Ask about pregnancy-safer options such as azelaic acid.
 - You already use **prescription acne medication**, oral or topical, and want to add adapalene. Let the prescriber sequence it.
 - You have **very sensitive, eczema-prone or compromised skin**, or you have tried adapalene before and reacted badly.
-- You are unsure how to **combine it** with benzoyl peroxide, a salicylic acid product, or an exfoliating acid. A pharmacist can map out a morning/night or alternate-night schedule so you are not stacking irritation. For the wider routine (cleanser, actives, moisturiser, SPF and how the pieces fit), see [how to treat acne in Malaysia: the ingredients and routine that actually work](/articles/how-to-treat-acne-malaysia/).
+- You are unsure how to **combine it** with benzoyl peroxide, a salicylic acid product, or an exfoliating acid. A pharmacist can map out a morning/night or alternate-night schedule so you are not stacking irritation. For the wider routine (cleanser, actives, moisturiser, SPF and how the pieces fit), see [how to treat acne in Malaysia: the ingredients and routine that actually work](/my/articles/how-to-treat-acne-malaysia/).
 
 Crucially, do not chase a stronger prescription retinoid on your own because adapalene "isn't working" at week four. Nine times out of ten the fix is more time and less irritation, not more strength.
 

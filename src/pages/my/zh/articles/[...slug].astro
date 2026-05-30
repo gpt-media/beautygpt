@@ -1,6 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
-import BaseLayout from '../../../layouts/BaseLayout.astro';
+import BaseLayout from '../../../../layouts/BaseLayout.astro';
 
 export async function getStaticPaths() {
   const articles = await getCollection('articles-zh');
@@ -11,7 +11,7 @@ const { entry } = Astro.props;
 const { Content } = await entry.render();
 const d = entry.data;
 const fmt = (dt: Date) => dt.toLocaleDateString('zh-CN', { year: 'numeric', month: 'long', day: 'numeric' });
-const url = new URL(`/zh/articles/${entry.slug}/`, Astro.site).href;
+const url = new URL(`/my/zh/articles/${entry.slug}/`, Astro.site).href;
 
 const articleSchema = {
   '@context': 'https://schema.org',

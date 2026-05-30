@@ -61,7 +61,7 @@ Pat the spot dry with a clean towel, then give it a moment in the air. "Dry to t
 
 ### 3. Apply to bare skin only, no skincare on the spot
 
-Do your serum, moisturiser and (in the morning) sunscreen *around* the area, but leave the exact spot clean. If you have already moisturised your whole face, gently wipe just that spot with a dry tissue before applying. This is also why patches and makeup are a specific skill of their own. If you want one under foundation, the order of operations matters, which we cover in [wearing pimple patches under makeup](/articles/can-you-wear-pimple-patches-under-makeup/).
+Do your serum, moisturiser and (in the morning) sunscreen *around* the area, but leave the exact spot clean. If you have already moisturised your whole face, gently wipe just that spot with a dry tissue before applying. This is also why patches and makeup are a specific skill of their own. If you want one under foundation, the order of operations matters, which we cover in [wearing pimple patches under makeup](/my/articles/can-you-wear-pimple-patches-under-makeup/).
 
 ### 4. Press and hold for 30 seconds
 
@@ -69,11 +69,11 @@ Don't just tap it on. Press the whole patch down with a clean fingertip and hold
 
 ### 5. Match the size to the spot
 
-The patch needs healthy skin around the blemish to anchor to. Too small and there's nothing to grip; the edges lift immediately. This is where **multi-size packs earn their place**: you can pick a disc that leaves a clear margin around a tiny whitehead and a bigger one for an angry spot. The **STIK Original Dot** (~RM7-10, approximate, check the current listing) comes in multiple sizes and is one of the cheaper hydrocolloid options, while the **Watsons Acne Patch** (~RM10-15 per pack, approximate) is a budget hydrocolloid patch you can grab off the shelf in just about any Watsons store nationwide, the easy convenience pick when you need one today. Both are hydrocolloid; the difference is mostly thickness, size range and price, not magic. We compare the full field in [the best acne patches in Malaysia](/articles/best-acne-patches-malaysia-2026/).
+The patch needs healthy skin around the blemish to anchor to. Too small and there's nothing to grip; the edges lift immediately. This is where **multi-size packs earn their place**: you can pick a disc that leaves a clear margin around a tiny whitehead and a bigger one for an angry spot. The **STIK Original Dot** (~RM7-10, approximate, check the current listing) comes in multiple sizes and is one of the cheaper hydrocolloid options, while the **Watsons Acne Patch** (~RM10-15 per pack, approximate) is a budget hydrocolloid patch you can grab off the shelf in just about any Watsons store nationwide, the easy convenience pick when you need one today. Both are hydrocolloid; the difference is mostly thickness, size range and price, not magic. We compare the full field in [the best acne patches in Malaysia](/my/articles/best-acne-patches-malaysia-2026/).
 
 ### 6. Pick the right patch for the *conditions*, not just the spot
 
-This is the climate-aware part. For **overnight** wear, a slightly thicker patch survives a sweaty pillow better, but it's visible. For **daytime** in the heat, a thick patch will sweat off and look obvious, so an ultra-thin, near-invisible patch (options here include the **STIK Air Dot** and the clear/thin patches from COSRX) tends to stay flatter and less visible, and (for some) sits under light makeup. If your problem is specifically that patches slide off your oily face by lunchtime, that's less about brand loyalty and more about thin-patch-plus-good-prep; we go deep on this in [acne patches for oily skin in Malaysia's humidity](/articles/best-acne-patches-oily-skin-malaysia/).
+This is the climate-aware part. For **overnight** wear, a slightly thicker patch survives a sweaty pillow better, but it's visible. For **daytime** in the heat, a thick patch will sweat off and look obvious, so an ultra-thin, near-invisible patch (options here include the **STIK Air Dot** and the clear/thin patches from COSRX) tends to stay flatter and less visible, and (for some) sits under light makeup. If your problem is specifically that patches slide off your oily face by lunchtime, that's less about brand loyalty and more about thin-patch-plus-good-prep; we go deep on this in [acne patches for oily skin in Malaysia's humidity](/my/articles/best-acne-patches-oily-skin-malaysia/).
 
 ### 7. Rule out expired or fake
 
@@ -81,7 +81,7 @@ If a patch feels barely tacky straight out of the pack, two things are likely. E
 
 ## A quick word on how long it should stay on
 
-Sometimes the patch isn't falling off too early. Your expectation is just off. A hydrocolloid patch is "done" once it's gone mostly white, which can be anywhere from a few hours to overnight depending on how much the spot is weeping. Pulling it off and replacing it every hour wastes patches and irritates skin. If you're unsure how long to leave one on before swapping, we walk through it in [how long to leave a pimple patch on](/articles/how-long-to-leave-a-pimple-patch-on/).
+Sometimes the patch isn't falling off too early. Your expectation is just off. A hydrocolloid patch is "done" once it's gone mostly white, which can be anywhere from a few hours to overnight depending on how much the spot is weeping. Pulling it off and replacing it every hour wastes patches and irritates skin. If you're unsure how long to leave one on before swapping, we walk through it in [how long to leave a pimple patch on](/my/articles/how-long-to-leave-a-pimple-patch-on/).
 
 ## When the patch genuinely isn't the right tool
 

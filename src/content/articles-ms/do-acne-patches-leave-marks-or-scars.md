@@ -42,10 +42,10 @@ Patch hydrocolloid ialah balutan nipis dan fleksibel yang diperbuat daripada bah
 Tiga perkara berikut adalah hasil daripada itu, dan ketiga-tiganya *kurangkan* risiko parut dan kesan anda, bukan menambahnya:
 
 1. **Ia menutup jerawat itu.** Jari anda, bantal anda, telefon anda, udara lembap Malaysia yang penuh peluh dan bakteria: tiada satu pun daripadanya sampai ke jerawat yang terbuka. Kurang pencemaran, kurang keradangan.
-2. **Ia menghalang anda daripada mengorek.** Inilah yang selalu dipandang remeh. Perkara paling berkesan yang kebanyakan orang boleh buat untuk elakkan parut dan kesan gelap ialah biarkan sahaja jerawat itu, dan patch jadikan ia mudah secara fizikal. Kami sudah tulis huraian penuh tentang mengapa ini lebih baik daripada memicit dalam [patch jerawat lawan memicit](/ms/articles/pimple-patches-vs-popping/).
+2. **Ia menghalang anda daripada mengorek.** Inilah yang selalu dipandang remeh. Perkara paling berkesan yang kebanyakan orang boleh buat untuk elakkan parut dan kesan gelap ialah biarkan sahaja jerawat itu, dan patch jadikan ia mudah secara fizikal. Kami sudah tulis huraian penuh tentang mengapa ini lebih baik daripada memicit dalam [patch jerawat lawan memicit](/my/ms/articles/pimple-patches-vs-popping/).
 3. **Ia kekalkan luka dalam keadaan lembap.** Penyembuhan dalam keadaan lembap hasilkan kurang keruping berbanding biarkan jerawat kering dan bentuk keruping keras yang menggoda anda untuk mengopeknya.
 
-Sebab patch tidak pernah tembusi dermis, ia tiada jalan untuk bentuk parut. Mekanisme itu memang tidak wujud. Untuk maklumat lanjut tentang profil keselamatan secara umum, pandangan pakar dermatologi diringkaskan dalam [adakah patch jerawat selamat](/ms/articles/are-pimple-patches-safe/).
+Sebab patch tidak pernah tembusi dermis, ia tiada jalan untuk bentuk parut. Mekanisme itu memang tidak wujud. Untuk maklumat lanjut tentang profil keselamatan secara umum, pandangan pakar dermatologi diringkaskan dalam [adakah patch jerawat selamat](/my/ms/articles/are-pimple-patches-safe/).
 
 ## Jadi apakah lekuk, bulatan, dan kemerahan itu?
 
@@ -93,7 +93,7 @@ Sebab tugas patch di sini ialah *perlindungan dan pencegahan korek*, hydrocolloi
 
 Jika kerisauan anda ialah kesan pada siang hari di bawah solekan, patch halimunan yang ultra-nipis seperti **STIK Air Dot** hilang lebih baik daripada patch tebal yang legap dan membolehkan anda terus lindungi jerawat sepanjang hari, bukannya mengoreknya. Dan jika anda berdepan dengan benjolan awal di bawah kulit dan bukan komedo putih yang berair, patch microneedle seperti **STIK MicroForce for Early Acne** (ceramides, hyaluronic acid, peptides dan salicylic acid) sasarkan peringkat itu dengan cara yang berbeza, walaupun untuk jerawat terbuka atau berair yang klasik, hydrocolloid biasa masih alat yang betul.
 
-Harga ini anggaran sahaja, jadi sentiasa semak harga terkini, dan di Shopee, TikTok Shop atau Lazada, bandingkan harga **setiap patch**, beli dari kedai rasmi, dan baca ulasan terkini. Untuk perbandingan penuh yang disusun mengikut bajet dan jenis kulit, lihat panduan tonggak kami tentang [patch jerawat terbaik di Malaysia](/ms/articles/best-acne-patches-malaysia-2026/). Jika anda tertanya-tanya berapa cepat anda akan melihat perbezaan, [apa yang boleh dijangka menjelang pagi](/ms/articles/do-pimple-patches-work-overnight/) menetapkan jangka masa yang realistik.
+Harga ini anggaran sahaja, jadi sentiasa semak harga terkini, dan di Shopee, TikTok Shop atau Lazada, bandingkan harga **setiap patch**, beli dari kedai rasmi, dan baca ulasan terkini. Untuk perbandingan penuh yang disusun mengikut bajet dan jenis kulit, lihat panduan tonggak kami tentang [patch jerawat terbaik di Malaysia](/my/ms/articles/best-acne-patches-malaysia-2026/). Jika anda tertanya-tanya berapa cepat anda akan melihat perbezaan, [apa yang boleh dijangka menjelang pagi](/my/ms/articles/do-pimple-patches-work-overnight/) menetapkan jangka masa yang realistik.
 
 ## Kesimpulannya
 

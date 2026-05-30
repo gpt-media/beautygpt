@@ -21,7 +21,7 @@ Jika anda pernah berdiri di lorong Watsons (atau meneliti Shopee pada lewat mala
 
 Jadi kita mulakan dengan bahagian yang benar-benar penting.
 
-(Patch merawat jerawat satu demi satu. Untuk gambaran yang lebih besar, iaitu bahan dan rutin yang benar-benar menghalang jerawat daripada datang balik, baca panduan susulan kami tentang [cara merawat jerawat di Malaysia](/ms/articles/how-to-treat-acne-malaysia/).)
+(Patch merawat jerawat satu demi satu. Untuk gambaran yang lebih besar, iaitu bahan dan rutin yang benar-benar menghalang jerawat daripada datang balik, baca panduan susulan kami tentang [cara merawat jerawat di Malaysia](/my/ms/articles/how-to-treat-acne-malaysia/).)
 
 ## Pertama: jerawat jenis apa yang anda ada?
 
@@ -29,11 +29,11 @@ Ada dua teknologi yang benar-benar berbeza yang dijual sebagai "patch jerawat," 
 
 **Patch hydrocolloid** ialah pembalut penyerap. Ia berkesan untuk jerawat yang sudah **timbul** ke permukaan, iaitu komedo putih, jerawat yang sudah pecah, apa-apa yang ada cecair atau "nanah" yang kelihatan. Patch ini menyedut keluar cecair itu (anda akan melihatnya bertukar putih), menjauhkan jari anda daripadanya, dan biarkan ia sembuh lebih cepat dan lebih bersih. Lapisan pelindung itu penting: [American Academy of Dermatology](https://www.aad.org/public/diseases/acne) menyatakan bahawa memicit atau memecahkan jerawat boleh memburukkan keadaan dan menyebabkan parut. Inilah "pelekat jerawat untuk dipakai semalaman" yang biasa anda dengar itu.
 
-**Patch microneedle** pula sebaliknya. Ia ada beratus-ratus kon halus yang larut, yang menghantar bahan aktif **terus ke bawah permukaan kulit**. Ia untuk benjolan awal di bawah kulit yang sakit, yang boleh anda rasa sebelum sempat kelihatan. Inilah jenis yang patch hydrocolloid tidak mampu bantu sebab tiada apa-apa di permukaan mahu diserap lagi. (Lesi yang lebih dalam dan meradang ini, seperti papula, nodul dan seumpamanya, ialah masalah yang berbeza daripada komedo putih di permukaan; [DermNet](https://dermnetnz.org/topics/acne-vulgaris) menerangkan seluruh julat jenis lesi jerawat.) (Kami huraikan teknologinya dalam [cara patch jerawat microneedle berfungsi](/ms/articles/how-microneedle-acne-patches-work/), dan bandingkan kedua-dua jenis secara langsung dalam [hydrocolloid lawan patch microneedle](/ms/articles/hydrocolloid-vs-microneedle-acne-patches/).)
+**Patch microneedle** pula sebaliknya. Ia ada beratus-ratus kon halus yang larut, yang menghantar bahan aktif **terus ke bawah permukaan kulit**. Ia untuk benjolan awal di bawah kulit yang sakit, yang boleh anda rasa sebelum sempat kelihatan. Inilah jenis yang patch hydrocolloid tidak mampu bantu sebab tiada apa-apa di permukaan mahu diserap lagi. (Lesi yang lebih dalam dan meradang ini, seperti papula, nodul dan seumpamanya, ialah masalah yang berbeza daripada komedo putih di permukaan; [DermNet](https://dermnetnz.org/topics/acne-vulgaris) menerangkan seluruh julat jenis lesi jerawat.) (Kami huraikan teknologinya dalam [cara patch jerawat microneedle berfungsi](/my/ms/articles/how-microneedle-acne-patches-work/), dan bandingkan kedua-dua jenis secara langsung dalam [hydrocolloid lawan patch microneedle](/my/ms/articles/hydrocolloid-vs-microneedle-acne-patches/).)
 
 > Petua mudah: jika anda boleh melihat warna putih, guna hydrocolloid. Jika anda hanya boleh rasa, guna microneedle.
 
-Untuk benjolan dalam yang sakit dan tidak pernah benar-benar timbul ke permukaan, kami bincang lebih lanjut dalam panduan kami tentang [patch terbaik untuk jerawat kistik dan jerawat di bawah kulit](/ms/articles/best-patch-for-cystic-under-skin-acne-malaysia/).
+Untuk benjolan dalam yang sakit dan tidak pernah benar-benar timbul ke permukaan, kami bincang lebih lanjut dalam panduan kami tentang [patch terbaik untuk jerawat kistik dan jerawat di bawah kulit](/my/ms/articles/best-patch-for-cystic-under-skin-acne-malaysia/).
 
 ## Senarai pilihan (Malaysia, 2026)
 
@@ -68,7 +68,7 @@ Beberapa nota:
 - **Shopee / TikTok Shop**: pilihan paling luas dan harga terbaik, termasuk jenama Korea dan pilihan jimat seperti STIK. Beli dari kedai rasmi dan semak ulasan.
 - **Lazada**: lebih kurang sama dengan Shopee; bandingkan harga setiap patch, bukan harga setiap pek.
 
-Untuk harga semasa mengikut jenama, lihat [panduan harga patch jerawat Malaysia](/ms/articles/where-to-buy-acne-patches-malaysia-price-guide/) kami. Semak juga [cara mengenal pasti patch hydrocolloid tiruan](/ms/articles/how-to-spot-fake-hydrocolloid-patch/) sebelum anda membeli dalam talian.
+Untuk harga semasa mengikut jenama, lihat [panduan harga patch jerawat Malaysia](/my/ms/articles/where-to-buy-acne-patches-malaysia-price-guide/) kami. Semak juga [cara mengenal pasti patch hydrocolloid tiruan](/my/ms/articles/how-to-spot-fake-hydrocolloid-patch/) sebelum anda membeli dalam talian.
 
 ## Jawapan satu baris
 

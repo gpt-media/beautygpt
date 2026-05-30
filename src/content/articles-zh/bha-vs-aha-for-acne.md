@@ -33,7 +33,7 @@ faqs:
 
 > 经验法则：如果问题在毛孔*内部*（黑头、白头、冒痘），就选 BHA。如果问题在表面*上*（粗糙质地、暗沉肤色、旧痘印），就选 AHA。
 
-这就是为什么「BHA 对付痘痘，AHA 收拾后续」是个挺到位的简化说法，不过等下你会看到，碰到痘印这条界线会变得有点模糊。想单独深入了解这种 BHA，可以看我们这篇[水杨酸祛痘以及该怎么用](/zh/articles/salicylic-acid-for-acne/)。
+这就是为什么「BHA 对付痘痘，AHA 收拾后续」是个挺到位的简化说法，不过等下你会看到，碰到痘印这条界线会变得有点模糊。想单独深入了解这种 BHA，可以看我们这篇[水杨酸祛痘以及该怎么用](/my/zh/articles/salicylic-acid-for-acne/)。
 
 ## 一个一个认识这些酸
 
@@ -94,7 +94,7 @@ faqs:
 
 本地哪里买：水杨酸和 AHA 的爽肤水、精华、去角质液在 **Watsons** 和 **Guardian** 都很容易找到，**Shopee**、**TikTok Shop** 和 **Lazada** 上也都有。常见的参考选项包括 COSRX 的水杨酸和 AHA/BHA 系列（视产品大约 RM50–RM90），以及 Some By Mi 的 AHA-BHA-PHA 系列（大约 RM60–RM100）。像 Oxy 这样的药妆品牌也有价格更低的药用水杨酸产品。这些都是大概价，以官方店铺标价为准，因为价格和规格会随促销变动。别以为越贵就越强；对付日常痘痘，一款简单、配方扎实的 2% 水杨酸产品，常常能赢过昂贵的多酸混合产品。
 
-至于去角质成分在洁面、保湿和针对性护理里该摆在哪个位置，可以看[在马来西亚怎么搭一套祛痘护肤流程](/zh/articles/how-to-build-acne-skincare-routine-malaysia/)。想看更大的全景、了解哪些活性成分是真正有用的，我们这篇[在马来西亚怎么治痘痘](/zh/articles/how-to-treat-acne-malaysia/)概览，会把整套成分工具箱走一遍。
+至于去角质成分在洁面、保湿和针对性护理里该摆在哪个位置，可以看[在马来西亚怎么搭一套祛痘护肤流程](/my/zh/articles/how-to-build-acne-skincare-routine-malaysia/)。想看更大的全景、了解哪些活性成分是真正有用的，我们这篇[在马来西亚怎么治痘痘](/my/zh/articles/how-to-treat-acne-malaysia/)概览，会把整套成分工具箱走一遍。
 
 ## 关于预期，简单说一句
 

@@ -44,7 +44,7 @@ Tindakan ketiga itulah tajuk utamanya. Kebanyakan rawatan jerawat berhenti pada 
 
 Dua sebab menonjol dalam konteks tempatan.
 
-Pertama, **PIH ialah masalah sebenar di sini.** Pada warna kulit sederhana hingga gelap, jerawat biasanya tidak hilang begitu sahaja. Ia meninggalkan kesan rata berwarna hitam atau keperang-perangan yang boleh berlarutan selama berbulan-bulan. Bagi ramai orang, kesan itu lebih menjengkelkan dan lebih lama bertahan berbanding jerawat asalnya. Bahan yang memudarkan pigmen *sambil* merawat jerawat jauh lebih sesuai dengan realiti itu berbanding bahan yang hanya membersihkan jerawat. (Jika kesan hitam masalah utama anda, panduan penuh kami tentang [cara memudarkan kesan hitam jerawat (PIH) di Malaysia](/ms/articles/how-to-fade-acne-scars-pih-malaysia/) membincangkan keseluruhan pendekatannya dengan lebih mendalam.)
+Pertama, **PIH ialah masalah sebenar di sini.** Pada warna kulit sederhana hingga gelap, jerawat biasanya tidak hilang begitu sahaja. Ia meninggalkan kesan rata berwarna hitam atau keperang-perangan yang boleh berlarutan selama berbulan-bulan. Bagi ramai orang, kesan itu lebih menjengkelkan dan lebih lama bertahan berbanding jerawat asalnya. Bahan yang memudarkan pigmen *sambil* merawat jerawat jauh lebih sesuai dengan realiti itu berbanding bahan yang hanya membersihkan jerawat. (Jika kesan hitam masalah utama anda, panduan penuh kami tentang [cara memudarkan kesan hitam jerawat (PIH) di Malaysia](/my/ms/articles/how-to-fade-acne-scars-pih-malaysia/) membincangkan keseluruhan pendekatannya dengan lebih mendalam.)
 
 Kedua, **kelembutan penting dalam iklim ini.** Cuaca panas dan lembap, sinaran matahari yang banyak, dan rutin membersih muka yang mengikis lapisan pelindung kulit sudah pun menjadikan kulit ramai orang jadi reaktif. Bahan aktif yang lebih keras boleh menjadikan kulit yang sudah merengsa jadi lebih radang, yang ironinya, datangkan *lebih banyak* kesan hitam. Azelaic acid agak kurang drama: kurang pedih, kurang mengelupas, kurang kemerahan yang boleh dibawa oleh asid yang lebih kuat dan retinoid berkepekatan tinggi. Itu menjadikannya lebih mudah diteruskan, dan konsistenlah yang sebenarnya memudarkan pigmen.
 
@@ -69,7 +69,7 @@ Ia jarang bekerja bersendirian dalam rutin sebenar, jadi inilah perbandingannya 
 | **Vitamin C** | Mencerahkan, antioksidan, seri pada waktu siang | Sederhana | Bagus pada pigmen tetapi boleh jadi tidak stabil dan pedih |
 | **Adapalene / retinoid** | Jerawat degil + pembaharuan jangka panjang | Boleh merengsa | Kuat dan berkesan; mengelakkan semasa mengandung; jumpa doktor/ahli farmasi |
 
-Pengajaran praktikalnya: azelaic acid dan [niacinamide](/ms/articles/niacinamide-for-acne-and-marks/) ialah dua bahan aktif "merawat kesan juga" yang paling lembut, dan kebetulan keduanya serasi sangat. Jika anda hanya mahu ambil satu bahan aktif baharu dan masalah anda ialah jerawat-dan-kesan, azelaic acid pilihan tunggal yang lebih lengkap.
+Pengajaran praktikalnya: azelaic acid dan [niacinamide](/my/ms/articles/niacinamide-for-acne-and-marks/) ialah dua bahan aktif "merawat kesan juga" yang paling lembut, dan kebetulan keduanya serasi sangat. Jika anda hanya mahu ambil satu bahan aktif baharu dan masalah anda ialah jerawat-dan-kesan, azelaic acid pilihan tunggal yang lebih lengkap.
 
 ## Bagaimana mahu guna: rutin yang ringkas
 
@@ -80,7 +80,7 @@ Anda tidak perlukan apa-apa yang rumit. Pendekatan harian yang mudah dijalankan:
 3. **Lembapkan** dengan sesuatu yang ringkas dan tidak berminyak.
 4. **Pelindung matahari setiap pagi, jangan tinggal.** Ini tidak boleh tawar-menawar dengan sebarang rawatan pigmen. Tanpa SPF setiap hari, pendedahan kepada matahari akan menggelapkan semula kesan yang sedang anda cuba pudarkan, dan anda akan berpusing-pusing di tempat yang sama selama berbulan-bulan. Ini penting walaupun pada hari mendung atau hari anda berada di dalam bangunan di Malaysia.
 
-Satu nota tentang kepekatan: produk tanpa preskripsi di sini biasanya berkepekatan sekitar **10 peratus**, dan itu titik permulaan yang masuk akal. Kepekatan yang lebih tinggi (lazimnya dalam julat **15–20 peratus**) biasanya perlukan preskripsi atau dibekalkan ahli farmasi dan berkesan lebih cepat pada pigmentasi yang degil, tetapi lebih berkemungkinan terasa kesemutan pada mulanya. Anggap ini sebagai julat umum dan ikut apa sahaja yang tertera pada label produk anda. Untuk gambaran yang lebih besar tentang bagaimana bahan aktif disatukan ke dalam rutin anti-jerawat yang penuh, lihat panduan kami tentang [cara merawat jerawat di Malaysia](/ms/articles/how-to-treat-acne-malaysia/).
+Satu nota tentang kepekatan: produk tanpa preskripsi di sini biasanya berkepekatan sekitar **10 peratus**, dan itu titik permulaan yang masuk akal. Kepekatan yang lebih tinggi (lazimnya dalam julat **15–20 peratus**) biasanya perlukan preskripsi atau dibekalkan ahli farmasi dan berkesan lebih cepat pada pigmentasi yang degil, tetapi lebih berkemungkinan terasa kesemutan pada mulanya. Anggap ini sebagai julat umum dan ikut apa sahaja yang tertera pada label produk anda. Untuk gambaran yang lebih besar tentang bagaimana bahan aktif disatukan ke dalam rutin anti-jerawat yang penuh, lihat panduan kami tentang [cara merawat jerawat di Malaysia](/my/ms/articles/how-to-treat-acne-malaysia/).
 
 ## Di mana mahu beli di Malaysia, dan anggaran harga
 

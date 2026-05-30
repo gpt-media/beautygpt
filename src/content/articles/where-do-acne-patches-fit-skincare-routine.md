@@ -44,7 +44,7 @@ Overnight is the classic window for a thick hydrocolloid patch. You're not going
 
 In the morning, peel the patch off gently, cleanse, and carry on as normal. If you saw white "gunk" collect in the patch, that's it working. Don't reapply to the same fully-drained spot indefinitely.
 
-For an overnight, treat-while-you-sleep patch, a standard hydrocolloid like **COSRX Acne Pimple Master**, the budget **Watsons Acne Patch** (a cheap, no-frills hydrocolloid you can grab off the shelf in just about any Watsons nationwide, roughly RM10-15 a pack, the convenience pick when you need one tonight), or a multi-size option such as **STIK Original Dot** all do the same core job; pick on price and the size that fits the spot. If your blemish is an early, painful *under-skin* bump with nothing on the surface yet, a flat hydrocolloid has nothing to absorb. That's a different tool entirely, which we cover in [salicylic acid patches vs plain hydrocolloid](/articles/salicylic-acid-patches-vs-hydrocolloid/).
+For an overnight, treat-while-you-sleep patch, a standard hydrocolloid like **COSRX Acne Pimple Master**, the budget **Watsons Acne Patch** (a cheap, no-frills hydrocolloid you can grab off the shelf in just about any Watsons nationwide, roughly RM10-15 a pack, the convenience pick when you need one tonight), or a multi-size option such as **STIK Original Dot** all do the same core job; pick on price and the size that fits the spot. If your blemish is an early, painful *under-skin* bump with nothing on the surface yet, a flat hydrocolloid has nothing to absorb. That's a different tool entirely, which we cover in [salicylic acid patches vs plain hydrocolloid](/my/articles/salicylic-acid-patches-vs-hydrocolloid/).
 
 ## The day routine (and the makeup question)
 
@@ -57,7 +57,7 @@ The fix is a different format: an **ultra-thin, invisible day patch** designed t
 - **Apply the thin day patch to the bare, dry spot.**
 - **Sunscreen and makeup over the top**, using a gentle patting motion so you don't drag the patch edges loose. Sunscreen still goes on all the skin the patch doesn't cover; the patch is not sun protection.
 
-A few honest caveats. No patch is truly invisible on every skin tone or under every foundation; a thin one is *discreet*, not magic. Heavy, repeated rubbing (an oily T-zone, a mask strap, a hot commute) will eventually lift any daytime patch. And if you cake thick foundation directly over a patch, you're more likely to peel it off when you blot. For the full makeup walk-through, see [can you wear pimple patches under makeup](/articles/can-you-wear-pimple-patches-under-makeup/).
+A few honest caveats. No patch is truly invisible on every skin tone or under every foundation; a thin one is *discreet*, not magic. Heavy, repeated rubbing (an oily T-zone, a mask strap, a hot commute) will eventually lift any daytime patch. And if you cake thick foundation directly over a patch, you're more likely to peel it off when you blot. For the full makeup walk-through, see [can you wear pimple patches under makeup](/my/articles/can-you-wear-pimple-patches-under-makeup/).
 
 ## What not to layer directly under a patch
 
@@ -76,9 +76,9 @@ The single rule behind the whole table: **occlusion amplifies whatever is undern
 
 Most "my patch won't stick" complaints in Malaysia come down to two local factors. First, **humidity slows drying**: skin that feels dry in a drier climate can still be faintly tacky here, so give it the extra minute or two before patching. Second, **heat and sweat lift edges**, so if you're heading straight out into the afternoon, press the patch firmly and expect a daytime one to need replacing sooner than the packet's "up to X hours" suggests.
 
-How long to leave it on once it's stuck is its own question. Broadly, leave it until it's saturated or you've hit the recommended wear time, not "as long as humanly possible." We cover the timing properly in [how long to leave a pimple patch on](/articles/how-long-to-leave-a-pimple-patch-on/).
+How long to leave it on once it's stuck is its own question. Broadly, leave it until it's saturated or you've hit the recommended wear time, not "as long as humanly possible." We cover the timing properly in [how long to leave a pimple patch on](/my/articles/how-long-to-leave-a-pimple-patch-on/).
 
-You can buy all of these locally: Watsons and Guardian stock COSRX, Oxy and Nexcare in-store; Shopee, TikTok Shop and Lazada carry the widest range (including thin day patches and Korean brands), usually at the best prices. Buy from official stores, read the reviews, and compare the **per-patch** price rather than the pack price. If you're still choosing a patch in the first place, start with our pillar guide, [the best acne patches in Malaysia](/articles/best-acne-patches-malaysia-2026/).
+You can buy all of these locally: Watsons and Guardian stock COSRX, Oxy and Nexcare in-store; Shopee, TikTok Shop and Lazada carry the widest range (including thin day patches and Korean brands), usually at the best prices. Buy from official stores, read the reviews, and compare the **per-patch** price rather than the pack price. If you're still choosing a patch in the first place, start with our pillar guide, [the best acne patches in Malaysia](/my/articles/best-acne-patches-malaysia-2026/).
 
 This is educational, not medical advice. For severe, persistent, or painful cystic acne (the deep, under-skin kind that patches won't fix), [DermNet](https://dermnetnz.org/topics/acne-vulgaris) recommends seeing a doctor or dermatologist rather than relying on stickers.
 
