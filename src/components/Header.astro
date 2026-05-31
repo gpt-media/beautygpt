@@ -9,7 +9,6 @@ const market = isMY ? 'my' : isSG ? 'sg' : null;
 let lang: 'en' | 'ms' | 'zh' = 'en';
 let home = '/';
 let about = '/';
-let sw = { en: '/', ms: '/', zh: '/' };
 if (market) {
   const mB = `/${market}`;
   let rest = p.slice(3) || '/';
@@ -18,7 +17,6 @@ if (market) {
   const lB = lang === 'en' ? '' : `/${lang}`;
   home = `${mB}${lB}/`;
   about = `${mB}${lB}/about/`;
-  sw = { en: `${mB}${rest}`, ms: `${mB}/ms${rest}`, zh: `${mB}/zh${rest}` };
 }
 const t = {
   home: { en: 'Home', ms: 'Laman Utama', zh: '首页' }[lang],
@@ -32,11 +30,6 @@ const t = {
       <nav>
         <a href={home}>{t.home}</a>
         <a href={about}>{t.about}</a>
-        <span class="lang-switch">
-          <a href={sw.en} class={lang === 'en' ? 'on' : ''}>EN</a>
-          <a href={sw.ms} class={lang === 'ms' ? 'on' : ''}>BM</a>
-          <a href={sw.zh} class={lang === 'zh' ? 'on' : ''}>中文</a>
-        </span>
       </nav>
     )}
   </div>

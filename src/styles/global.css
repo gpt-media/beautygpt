@@ -94,6 +94,9 @@ h3 { font-size: 1.25rem; margin: 1.5em 0 0.4em; }
 .footer-nav { margin: 0 0 12px; }
 .footer-nav a { color: var(--ink-soft); text-decoration: none; font-size: 0.85rem; margin-right: 18px; }
 .footer-nav a:hover { color: var(--accent); }
+/* Language switch relocated to the footer (clean header) */
+.footer-langs { display: block; margin: 0 0 14px; }
+.footer-langs a { margin-left: 0; margin-right: 14px; }
 
 @media (max-width: 640px) {
   body { font-size: 17px; }

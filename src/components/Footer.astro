@@ -5,13 +5,18 @@ const isMY = p === '/my' || p.startsWith('/my/');
 const isSG = p === '/sg' || p.startsWith('/sg/');
 const market = isMY ? 'my' : isSG ? 'sg' : null;
 
+// Region/language switch lives in the footer now (clean, authority-style header).
+// Compute the same-page link in each language. No auto-redirect; the reader chooses.
 let lang: 'en' | 'ms' | 'zh' = 'en';
 let base = '';
+let sw = { en: '/', ms: '/', zh: '/' };
 if (market) {
+  const mB = `/${market}`;
   let rest = p.slice(3) || '/';
-  if (rest === '/ms' || rest.startsWith('/ms/')) lang = 'ms';
-  else if (rest === '/zh' || rest.startsWith('/zh/')) lang = 'zh';
-  base = `/${market}${lang === 'en' ? '' : '/' + lang}`;
+  if (rest === '/ms' || rest.startsWith('/ms/')) { lang = 'ms'; rest = rest.slice(3) || '/'; }
+  else if (rest === '/zh' || rest.startsWith('/zh/')) { lang = 'zh'; rest = rest.slice(3) || '/'; }
+  base = `${mB}${lang === 'en' ? '' : '/' + lang}`;
+  sw = { en: `${mB}${rest}`, ms: `${mB}/ms${rest}`, zh: `${mB}/zh${rest}` };
 }
 const t = {
   about: { en: 'About', ms: 'Tentang', zh: '关于' }[lang],
@@ -27,6 +32,13 @@ const t = {
         <a href={`${base}/editorial-standards/`}>{t.standards}</a>
         <a href={`${base}/medical-disclaimer/`}>{t.disclaimer}</a>
       </nav>
+    )}
+    {market && (
+      <span class="lang-switch footer-langs">
+        <a href={sw.en} class={lang === 'en' ? 'on' : ''}>EN</a>
+        <a href={sw.ms} class={lang === 'ms' ? 'on' : ''}>BM</a>
+        <a href={sw.zh} class={lang === 'zh' ? 'on' : ''}>中文</a>
+      </span>
     )}
     <p class="fineprint">&copy; {year} TheBeautyGPT. All rights reserved.</p>
   </div>
