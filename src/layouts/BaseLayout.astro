@@ -81,6 +81,16 @@ const breadcrumbLd = Astro.url.pathname === editionRoot
       description: 'Evidence-led skincare guidance for Malaysian skin.',
     })} />
 
+    <!-- WebSite structured data - site-level entity for search + AI engines -->
+    <script type="application/ld+json" set:html={JSON.stringify({
+      '@context': 'https://schema.org',
+      '@type': 'WebSite',
+      name: 'TheBeautyGPT',
+      url: 'https://thebeautygpt.com',
+      inLanguage: langCode,
+      publisher: { '@type': 'Organization', name: 'TheBeautyGPT', url: 'https://thebeautygpt.com' },
+    })} />
+
     {breadcrumbLd && (
       <script type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} />
     )}
