@@ -2,6 +2,8 @@
 title: "How Microneedle Acne Patches Work (and Who They're For)"
 description: "Microneedle acne patches use hundreds of tiny dissolving cones to deliver actives just below the skin's surface, reaching early, painful, under-skin bumps before they ever surface, exactly where a flat hydrocolloid patch has nothing to absorb."
 publishDate: 2026-04-14
+updatedDate: 2026-06-07
+buyStik: true
 category: "Acne"
 faqs:
   - q: "How do microneedle acne patches work?"

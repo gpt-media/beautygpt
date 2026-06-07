@@ -2,6 +2,8 @@
 title: "Best Acne Patches for Oily Skin in Malaysia's Humidity"
 description: "For oily skin in Malaysia's heat, the best acne patches are thin, breathable hydrocolloid patches with strong adhesive and tapered edges that resist sweat and sebum. Change them sooner once they turn white and saturate."
 publishDate: 2026-04-22
+updatedDate: 2026-06-07
+buyStik: true
 category: "Acne"
 faqs:
   - q: "Why do my pimple patches keep falling off in Malaysia's heat?"

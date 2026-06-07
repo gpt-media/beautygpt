@@ -2,6 +2,8 @@
 title: "Best Patch for Cystic & Under-the-Skin Acne in Malaysia"
 description: "For deep cystic acne, a regular hydrocolloid sticker does almost nothing. There's no open wound to absorb. For early under-skin bumps, a microneedle patch is the right tool; for a true painful cyst, see a doctor."
 publishDate: 2026-04-20
+updatedDate: 2026-06-07
+buyStik: true
 category: "Acne"
 faqs:
   - q: "Do pimple patches work on cystic acne?"

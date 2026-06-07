@@ -2,6 +2,8 @@
 title: "Patch Terbaik untuk Jerawat Cystic & Jerawat Bawah Kulit di Malaysia"
 description: "Untuk jerawat kistik yang dalam, patch hydrocolloid biasa memang hampir tidak berkesan. Tiada luka terbuka untuk diserap. Untuk benjolan awal bawah kulit, patch microneedle barulah alat yang betul; untuk jerawat kistik yang benar-benar sakit, jumpa doktor."
 publishDate: 2026-04-20
+updatedDate: 2026-06-07
+buyStik: true
 category: "Jerawat"
 faqs:
   - q: "Adakah patch jerawat berkesan pada jerawat kistik?"

@@ -42,3 +42,18 @@ export const NEWSLETTER = { enabled: false, action: '' };
 
 /** Cloudflare Web Analytics beacon token (privacy-first, cookieless; separate property per site to preserve independence) */
 export const CF_BEACON_TOKEN = 'a285616ef0bd4f178e282b35a5ea3a28';
+
+/** STIK retail channels, single source of truth for the "where to buy" note on patch-purchase-intent
+ *  articles. These are STIK's LIVE Malaysia channels. No UTM params (would signal ownership of this
+ *  independent-presenting site); the BuyStik component links them with rel="nofollow noopener". The
+ *  official store is the only channel safe to show in markets beyond MY. */
+export const STIK_BUY = {
+  /** Malaysia channels (all three). */
+  my: {
+    shopee: 'https://shopee.com.my/stikbrand',
+    tiktokShop: 'https://www.tiktok.com/@stikbrand.my',
+    officialStore: 'https://stikbrand.com',
+  },
+  /** Market-agnostic official store, used as the safe fallback outside MY. */
+  officialStore: 'https://stikbrand.com',
+};

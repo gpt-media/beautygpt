@@ -1,0 +1,64 @@
+---
+// BuyStik.astro: a neutral "where to find it" note for readers who have decided on a STIK patch.
+//
+// This is an independent-presenting review site, so this block reads like a normal review-site
+// "where to buy" note, NOT a loud CTA. Factual, in-language, no hype. Links carry
+// rel="nofollow noopener" target="_blank" and NO UTM params (UTM would signal ownership).
+//
+// Single source of truth for the links is STIK_BUY in lib/site.ts.
+// Market-aware: market='my' shows all three MY channels; any other market shows only the
+// official store (the safe fallback while non-MY channels are unconfirmed).
+import { STIK_BUY } from '../lib/site';
+
+interface Props {
+  lang?: 'en' | 'ms' | 'zh';
+  market?: 'my' | 'sg';
+}
+const { lang = 'en', market = 'my' } = Astro.props;
+
+// In-language copy. Headings name the market explicitly (Malaysia for the MY channels).
+const COPY = {
+  en: {
+    heading: 'Where to buy STIK in Malaysia',
+    intro: 'STIK patches are sold on these official channels in Malaysia:',
+    shopee: 'Shopee',
+    tiktokShop: 'TikTok Shop',
+    officialStore: 'Official store',
+  },
+  ms: {
+    heading: 'Di mana untuk membeli STIK di Malaysia',
+    intro: 'Patch STIK dijual di saluran rasmi ini di Malaysia:',
+    shopee: 'Shopee',
+    tiktokShop: 'TikTok Shop',
+    officialStore: 'Kedai rasmi',
+  },
+  zh: {
+    heading: '在马来西亚哪里购买 STIK',
+    intro: 'STIK 痘痘贴在马来西亚通过以下官方渠道销售：',
+    shopee: 'Shopee',
+    tiktokShop: 'TikTok Shop',
+    officialStore: '官方商店',
+  },
+} as const;
+const c = COPY[lang];
+
+// Build the link list per market. MY: all three. Otherwise: official store only.
+const links = market === 'my'
+  ? [
+      { label: c.shopee, href: STIK_BUY.my.shopee },
+      { label: c.tiktokShop, href: STIK_BUY.my.tiktokShop },
+      { label: c.officialStore, href: STIK_BUY.my.officialStore },
+    ]
+  : [{ label: c.officialStore, href: STIK_BUY.officialStore }];
+---
+<aside class="buy-stik" aria-label={c.heading}>
+  <p class="bs-label">{c.heading}</p>
+  <p class="bs-intro">{c.intro}</p>
+  <ul class="bs-links">
+    {links.map((l) => (
+      <li>
+        <a href={l.href} rel="nofollow noopener" target="_blank">{l.label}</a>
+      </li>
+    ))}
+  </ul>
+</aside>

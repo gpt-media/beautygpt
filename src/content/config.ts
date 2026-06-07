@@ -12,6 +12,9 @@ const articleSchema = z.object({
   /** optional absolute path to a per-article OG/social image; drives og:image + ImageObject. */
   image: z.string().optional(),
   faqs: z.array(z.object({ q: z.string(), a: z.string() })).default([]),
+  /** When true, renders the neutral "Where to buy STIK" note near the foot of the article.
+   *  Set ONLY on patch-purchase-intent articles (a reader who has decided on a patch). */
+  buyStik: z.boolean().optional(),
 });
 
 // One collection per language. Same schema; slugs match across languages so the

@@ -2,6 +2,8 @@
 title: "Patch Jerawat Terbaik untuk Kulit Berminyak dalam Kelembapan Malaysia"
 description: "Untuk kulit berminyak dalam cuaca panas Malaysia, patch jerawat terbaik ialah patch hydrocolloid yang nipis, boleh bernafas, melekat kuat dan bertepi halus supaya tahan peluh dan sebum. Tukar lebih awal sebaik saja sudah bertukar putih dan penuh menyerap."
 publishDate: 2026-04-22
+updatedDate: 2026-06-07
+buyStik: true
 category: "Jerawat"
 faqs:
   - q: "Mengapa patch jerawat saya kerap tertanggal dalam cuaca panas Malaysia?"

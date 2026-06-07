@@ -2,6 +2,8 @@
 title: "Patch Jerawat Terbaik untuk Remaja di Malaysia"
 description: "Bagi remaja Malaysia, patch jerawat terbaik ialah patch hydrocolloid nipis yang cukup murah untuk bajet sekolah, cukup halus untuk dipakai dalam kelas, dan lembut pada kulit muda. Nexcare dan STIK Original Dot muat dengan bajet; patch yang tidak kelihatan pula sesuai untuk waktu sekolah."
 publishDate: 2026-04-29
+updatedDate: 2026-06-07
+buyStik: true
 category: "Jerawat"
 faqs:
   - q: "Apakah patch jerawat terbaik untuk remaja di Malaysia?"

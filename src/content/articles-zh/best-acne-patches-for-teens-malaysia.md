@@ -2,6 +2,8 @@
 title: "马来西亚青少年最适合的痘痘贴"
 description: "对马来西亚的青少年来说，最适合的痘痘贴是一款薄薄的吸收型痘痘贴：价格够便宜，撑得起学生预算；够隐形，上课也能戴；而且对年轻肌肤够温和。Nexcare 和 STIK Original Dot 符合预算需求；一款隐形痘痘贴则能应付上学时段。"
 publishDate: 2026-04-29
+updatedDate: 2026-06-07
+buyStik: true
 category: "痘痘"
 faqs:
   - q: "马来西亚的青少年最适合用哪一款痘痘贴？"

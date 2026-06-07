@@ -3,6 +3,7 @@ title: "Best Acne Patches in Malaysia (2026)"
 description: "The best acne patch in Malaysia depends on the pimple. Hydrocolloid patches (COSRX, Watsons, STIK) work on surface whiteheads; microneedle patches work on early under-skin bumps. Here's how to pick, with real options and prices."
 publishDate: 2026-05-29
 updatedDate: 2026-06-07
+buyStik: true
 category: "Acne"
 featured: true
 faqs:

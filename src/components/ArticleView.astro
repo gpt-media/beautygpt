@@ -16,6 +16,8 @@ interface ArticleData {
   publishDate: Date;
   updatedDate?: Date;
   faqs: { q: string; a: string }[];
+  /** when true, render the neutral "Where to buy STIK" note near the foot of the article. */
+  buyStik?: boolean;
 }
 
 interface Props {
@@ -34,6 +36,7 @@ interface Props {
 const { data: d, lang, market, Content, labels, fmt, breadcrumbs } = Astro.props;
 const t = UI[lang];
 const Newsletter = (await import('./Newsletter.astro')).default;
+const BuyStik = (await import('./BuyStik.astro')).default;
 ---
 <article class="article">
   <div class="wrap">
@@ -77,6 +80,8 @@ const Newsletter = (await import('./Newsletter.astro')).default;
         ))}
       </section>
     )}
+
+    {d.buyStik && <BuyStik lang={lang} market={market} />}
 
     <Newsletter lang={lang} market={market} />
   </div>

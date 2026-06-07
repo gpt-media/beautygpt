@@ -114,6 +114,14 @@ h3 { font-size: 1.25rem; margin: 1.5em 0 0.4em; }
 .quick-answer .qa-label { font-family: var(--sans); font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.12em; color: var(--accent); margin: 0 0 4px; }
 .quick-answer p:last-child { margin: 0; font-size: 1.02rem; color: var(--ink); }
 
+/* "Where to buy STIK" note — a neutral bordered block on patch-purchase-intent articles. Quiet
+   by design (this is an independent-presenting review site): bordered like .quick-answer, not a CTA. */
+.buy-stik { background: var(--paper-2); border: 1px solid var(--line); border-radius: 4px; padding: 16px 18px; margin: 40px 0 0; }
+.buy-stik .bs-label { font-family: var(--sans); font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.12em; color: var(--accent); margin: 0 0 6px; }
+.buy-stik .bs-intro { margin: 0 0 10px; font-size: 1rem; color: var(--ink); }
+.buy-stik .bs-links { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 8px 20px; }
+.buy-stik .bs-links a { color: var(--accent); font-size: 0.98rem; }
+
 /* Newsletter capture (dormant until enabled) */
 .newsletter { border-top: 1px solid var(--line); margin: 48px 0 0; padding: 32px 0 8px; }
 .newsletter .nl-heading { font-size: 1.35rem; margin: 0 0 6px; }

@@ -2,6 +2,8 @@
 title: "Patch Jerawat Korea vs Barat: Apa Bezanya Sebenarnya?"
 description: "Beza sebenarnya ialah ketipisan, kemasan dan format, bukan negara asal. Patch Korea biasanya lebih nipis dengan lebih banyak pilihan (CICA, tea tree, microneedle); jenama Barat pula biasanya lebih tebal dan dijual di farmasi. Lapisan hydrocolloid di bawahnya tetap bahan rawatan luka yang sama."
 publishDate: 2026-05-08
+updatedDate: 2026-06-07
+buyStik: true
 category: "Jerawat"
 faqs:
   - q: "Apa beza sebenar antara patch jerawat Korea dan Barat?"

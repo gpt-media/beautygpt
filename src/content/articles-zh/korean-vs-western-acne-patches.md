@@ -2,6 +2,8 @@
 title: "韩系 vs 西方痘痘贴：到底差在哪？"
 description: "真正的区别在于厚薄、贴上后的效果和款式，而不是产地。韩系痘痘贴通常更薄、款式更多，积雪草 (centella)、茶树油 (tea tree)、微针；西方品牌往往更厚，主要在药房有售。但底层那层吸收材质，两边其实是同一种伤口护理材质。"
 publishDate: 2026-05-08
+updatedDate: 2026-06-07
+buyStik: true
 category: "痘痘"
 faqs:
   - q: "韩系和西方痘痘贴真正的区别是什么？"

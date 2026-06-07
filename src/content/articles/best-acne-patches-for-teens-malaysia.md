@@ -2,6 +2,8 @@
 title: "Best Acne Patches for Teens in Malaysia"
 description: "For a Malaysian teen, the best acne patch is a thin hydrocolloid one that's cheap enough for a school budget, invisible enough to wear in class, and gentle on young skin. Nexcare and STIK Original Dot fit the budget; an invisible patch handles school hours."
 publishDate: 2026-04-29
+updatedDate: 2026-06-07
+buyStik: true
 category: "Acne"
 faqs:
   - q: "What is the best acne patch for a teenager in Malaysia?"

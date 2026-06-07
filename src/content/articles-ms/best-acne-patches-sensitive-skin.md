@@ -2,6 +2,8 @@
 title: "Patch Jerawat Terbaik untuk Kulit Sensitif"
 description: "Untuk kulit sensitif yang mudah bertindak balas, patch hydrocolloid biasa yang tidak mengandungi ubat seperti Nexcare atau Some By Mi biasanya pilihan paling selamat. Patch yang mengandungi ubat dan bahan aktif lebih cenderung mencetuskan kerengsaan. Ini dia pertimbangannya, cara melakukan ujian tampalan, dan apa yang patut dielakkan."
 publishDate: 2026-04-25
+updatedDate: 2026-06-07
+buyStik: true
 category: "Jerawat"
 faqs:
   - q: "Apakah patch jerawat terbaik untuk kulit sensitif?"

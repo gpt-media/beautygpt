@@ -3,6 +3,7 @@ title: "How to Spot a Fake Hydrocolloid Patch"
 description: "To tell if an acne patch is fake: check for a printed batch number and expiry date, be suspicious of prices far below the official store, and buy only from verified official sellers. Fakes often skip these details, and a non-hydrocolloid sticker won't absorb anything."
 publishDate: 2026-05-14
 updatedDate: 2026-06-07
+buyStik: true
 category: "Acne"
 faqs:
   - q: "How can I tell if a pimple patch is fake?"
