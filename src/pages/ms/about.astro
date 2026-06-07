@@ -1,6 +1,6 @@
 ---
-import BaseLayout from '../../../layouts/BaseLayout.astro';
-import { SITE_NAME, SITE_URL, AUTHOR, FOUNDING_DATE, KNOWS_ABOUT, PUBLISHING_PRINCIPLES } from '../../../lib/site';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { SITE_NAME, SITE_URL, AUTHOR, FOUNDING_DATE, KNOWS_ABOUT, PUBLISHING_PRINCIPLES } from '../../lib/site';
 
 const abs = (p: string) => new URL(p, Astro.site).href;
 const aboutLd = [
@@ -8,7 +8,7 @@ const aboutLd = [
     '@context': 'https://schema.org',
     '@type': 'AboutPage',
     name: `About ${SITE_NAME}`,
-    url: abs('/my/ms/about/'),
+    url: abs('/ms/about/'),
     mainEntity: {
       '@type': 'Organization',
       name: SITE_NAME,
@@ -24,6 +24,7 @@ const aboutLd = [
 <BaseLayout
   lang="ms"
   path="/about/"
+  neutral
   jsonLd={aboutLd}
   title="Tentang"
   description="TheBeautyGPT memberi jawapan penjagaan kulit berasaskan bukti untuk kulit orang Malaysia: perbandingan yang jelas, mekanisme sebenar, dan panduan yang relevan dengan produk, harga, dan cuaca tempatan."
@@ -44,8 +45,8 @@ const aboutLd = [
 
         <h2>Siapa yang menulis dan menyemak</h2>
         <p>Artikel kami dikaji dan ditulis oleh <strong>{AUTHOR.name}</strong>, pasukan berasaskan penyelidikan yang membaca sumber dermatologi (panduan klinikal daripada badan seperti American Academy of Dermatology, DermNet, dan NHS) dan menterjemahkannya ke dalam bahasa yang mudah. Kami menggred sekuat mana bukti itu sebenarnya (kukuh, bercampur, atau awal) dan bukannya menyampaikan semuanya seolah-olah sudah muktamad.</p>
-        <p>Setiap artikel disemak mengikut <a href="/my/ms/editorial-standards/">piawaian editorial</a> kami: mekanisme diterangkan, bukti digred secara jujur, bahan diterangkan dengan tepat, dan tiada dakwaan dilebih-lebihkan melebihi sokongan penyelidikan. Apabila jawapan jujurnya ialah "buktinya lemah" atau "anda tidak memerlukannya," kami katakan begitu. Kami tidak menerbitkan menggunakan nama palsu.</p>
-        <p>Untuk cara kami menyelidik, menggred bukti, dan mengulas setiap artikel, serta nota jujur tentang semakan perubatan, lihat <a href="/my/ms/how-we-review/">cara kami mengulas</a>.</p>
+        <p>Setiap artikel disemak mengikut <a href="/ms/editorial-standards/">piawaian editorial</a> kami: mekanisme diterangkan, bukti digred secara jujur, bahan diterangkan dengan tepat, dan tiada dakwaan dilebih-lebihkan melebihi sokongan penyelidikan. Apabila jawapan jujurnya ialah "buktinya lemah" atau "anda tidak memerlukannya," kami katakan begitu. Kami tidak menerbitkan menggunakan nama palsu.</p>
+        <p>Untuk cara kami menyelidik, menggred bukti, dan mengulas setiap artikel, serta nota jujur tentang semakan perubatan, lihat <a href="/ms/how-we-review/">cara kami mengulas</a>.</p>
 
         <h2>Bukan nasihat perubatan</h2>
         <p>Kandungan kami bersifat pendidikan. Untuk masalah kulit yang berterusan, menyakitkan, atau teruk, jumpa doktor atau pakar dermatologi bertauliah.</p>

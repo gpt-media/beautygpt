@@ -9,11 +9,11 @@ export const SITE_NAME = 'TheBeautyGPT';
 export const SITE_URL = 'https://thebeautygpt.com';
 
 /** Article-schema author + visible byline. A real, honest editorial entity (not a fabricated
- *  person); links to /my/about/ where the team + method are described (E-E-A-T). */
-export const AUTHOR = { name: 'TheBeautyGPT Editorial Team', url: 'https://thebeautygpt.com/my/about/' };
+ *  person); links to /about/ where the team + method are described (E-E-A-T). */
+export const AUTHOR = { name: 'TheBeautyGPT Editorial Team', url: 'https://thebeautygpt.com/about/' };
 
-/** publishingPrinciples target — the canonical editorial-standards page (EN/MY edition). */
-export const PUBLISHING_PRINCIPLES = 'https://thebeautygpt.com/my/editorial-standards/';
+/** publishingPrinciples target: the canonical (country-neutral) editorial-standards page. */
+export const PUBLISHING_PRINCIPLES = 'https://thebeautygpt.com/editorial-standards/';
 
 /** Organization E-E-A-T signals. */
 export const FOUNDING_DATE = '2026';

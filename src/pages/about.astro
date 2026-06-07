@@ -1,6 +1,6 @@
 ---
-import BaseLayout from '../../layouts/BaseLayout.astro';
-import { SITE_NAME, SITE_URL, AUTHOR, FOUNDING_DATE, KNOWS_ABOUT, PUBLISHING_PRINCIPLES } from '../../lib/site';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE_NAME, SITE_URL, AUTHOR, FOUNDING_DATE, KNOWS_ABOUT, PUBLISHING_PRINCIPLES } from '../lib/site';
 
 const abs = (p: string) => new URL(p, Astro.site).href;
 // AboutPage + Organization (the publisher entity): the E-E-A-T surface AI engines read to
@@ -10,7 +10,7 @@ const aboutLd = [
     '@context': 'https://schema.org',
     '@type': 'AboutPage',
     name: `About ${SITE_NAME}`,
-    url: abs('/my/about/'),
+    url: abs('/about/'),
     mainEntity: {
       '@type': 'Organization',
       name: SITE_NAME,
@@ -28,6 +28,7 @@ const aboutLd = [
   description="TheBeautyGPT gives evidence-led skincare answers for Malaysian skin: clear comparisons, real mechanisms, and guidance relevant to local products, prices, and climate."
   jsonLd={aboutLd}
   path="/about/"
+  neutral
 >
   <article class="article">
     <div class="wrap">
@@ -45,8 +46,8 @@ const aboutLd = [
 
         <h2>Who writes and reviews this</h2>
         <p>Our articles are researched and written by the <strong>{AUTHOR.name}</strong>, a research-led team that reads dermatology sources (clinical guidance from bodies like the American Academy of Dermatology, DermNet, and the NHS) and translates it into plain English. We grade how strong the evidence actually is (strong, mixed, or preliminary) rather than presenting everything as settled.</p>
-        <p>Every article is checked against our <a href="/my/editorial-standards/">editorial standards</a>: mechanism explained, evidence graded honestly, ingredients described accurately, and no claim stretched beyond what the research supports. When the honest answer is "the evidence is weak" or "you don't need this," we say so. We do not publish under fabricated bylines.</p>
-        <p>For exactly how we research, grade evidence, and review each article, plus an honest note on medical review, see <a href="/my/how-we-review/">how we review</a>.</p>
+        <p>Every article is checked against our <a href="/editorial-standards/">editorial standards</a>: mechanism explained, evidence graded honestly, ingredients described accurately, and no claim stretched beyond what the research supports. When the honest answer is "the evidence is weak" or "you don't need this," we say so. We do not publish under fabricated bylines.</p>
+        <p>For exactly how we research, grade evidence, and review each article, plus an honest note on medical review, see <a href="/how-we-review/">how we review</a>.</p>
 
         <h2>Not medical advice</h2>
         <p>Our content is educational. For persistent, painful, or severe skin concerns, see a doctor or a certified dermatologist.</p>

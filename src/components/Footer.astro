@@ -1,23 +1,44 @@
 ---
 const year = 2026;
 const p = Astro.url.pathname;
+// The footer renders on EVERY page. Two independent concerns:
+//
+//  1. General-page nav (About / Editorial Standards / How We Review / Medical Disclaimer / Privacy)
+//     ALWAYS points at the country-neutral governance pages, in the detected language:
+//     en at /about/, ms at /ms/about/, zh at /zh/about/. This holds on market article pages too,
+//     so we never link to a deleted /my/about/-style URL.
+//
+//  2. Language switch (EN / BM / 中文):
+//     - on market pages (/my/*, /sg/*) it keeps market-correct same-page switching, exactly as
+//       before, so an article stays inside its market edition when you change language.
+//     - on neutral pages (/, /about/, /ms/*, /zh/* general pages) it switches between the
+//       language-only versions of the current page.
 const isMY = p === '/my' || p.startsWith('/my/');
 const isSG = p === '/sg' || p.startsWith('/sg/');
 const market = isMY ? 'my' : isSG ? 'sg' : null;
 
-// Region/language switch lives in the footer now (clean, authority-style header).
-// Compute the same-page link in each language. No auto-redirect; the reader chooses.
+// Detect the content language from the path (works for both market and neutral URLs).
 let lang: 'en' | 'ms' | 'zh' = 'en';
-let base = '';
-let sw = { en: '/', ms: '/', zh: '/' };
+let sw = { en: '/', ms: '/ms/', zh: '/zh/' };
+
 if (market) {
   const mB = `/${market}`;
   let rest = p.slice(3) || '/';
   if (rest === '/ms' || rest.startsWith('/ms/')) { lang = 'ms'; rest = rest.slice(3) || '/'; }
   else if (rest === '/zh' || rest.startsWith('/zh/')) { lang = 'zh'; rest = rest.slice(3) || '/'; }
-  base = `${mB}${lang === 'en' ? '' : '/' + lang}`;
+  // Market-correct language switch (same page, same edition).
   sw = { en: `${mB}${rest}`, ms: `${mB}/ms${rest}`, zh: `${mB}/zh${rest}` };
+} else {
+  let rest = p;
+  if (p === '/ms' || p.startsWith('/ms/')) { lang = 'ms'; rest = p.slice(3) || '/'; }
+  else if (p === '/zh' || p.startsWith('/zh/')) { lang = 'zh'; rest = p.slice(3) || '/'; }
+  // Neutral language switch (language-only versions of the current page).
+  sw = { en: `${rest}`, ms: `/ms${rest}`, zh: `/zh${rest}` };
 }
+
+// General-nav prefix: always country-neutral, language-only (en = '', ms = '/ms', zh = '/zh').
+const gen = lang === 'en' ? '' : `/${lang}`;
+
 const t = {
   about: { en: 'About', ms: 'Tentang', zh: '关于' }[lang],
   standards: { en: 'Editorial Standards', ms: 'Piawaian Editorial', zh: '编辑标准' }[lang],
@@ -28,22 +49,18 @@ const t = {
 ---
 <footer class="site-footer">
   <div class="wrap">
-    {market && (
-      <nav class="footer-nav">
-        <a href={`${base}/about/`}>{t.about}</a>
-        <a href={`${base}/editorial-standards/`}>{t.standards}</a>
-        <a href={`${base}/how-we-review/`}>{t.howWeReview}</a>
-        <a href={`${base}/medical-disclaimer/`}>{t.disclaimer}</a>
-        <a href={`${base}/privacy/`}>{t.privacy}</a>
-      </nav>
-    )}
-    {market && (
-      <span class="lang-switch footer-langs">
-        <a href={sw.en} class={lang === 'en' ? 'on' : ''}>EN</a>
-        <a href={sw.ms} class={lang === 'ms' ? 'on' : ''}>BM</a>
-        <a href={sw.zh} class={lang === 'zh' ? 'on' : ''}>中文</a>
-      </span>
-    )}
+    <nav class="footer-nav">
+      <a href={`${gen}/about/`}>{t.about}</a>
+      <a href={`${gen}/editorial-standards/`}>{t.standards}</a>
+      <a href={`${gen}/how-we-review/`}>{t.howWeReview}</a>
+      <a href={`${gen}/medical-disclaimer/`}>{t.disclaimer}</a>
+      <a href={`${gen}/privacy/`}>{t.privacy}</a>
+    </nav>
+    <span class="lang-switch footer-langs">
+      <a href={sw.en} class={lang === 'en' ? 'on' : ''}>EN</a>
+      <a href={sw.ms} class={lang === 'ms' ? 'on' : ''}>BM</a>
+      <a href={sw.zh} class={lang === 'zh' ? 'on' : ''}>中文</a>
+    </span>
     <p class="fineprint">&copy; {year} TheBeautyGPT. All rights reserved.</p>
   </div>
 </footer>

@@ -1,6 +1,6 @@
 ---
-import BaseLayout from '../../layouts/BaseLayout.astro';
-import { SITE_NAME, SITE_URL, AUTHOR, FOUNDING_DATE, KNOWS_ABOUT, PUBLISHING_PRINCIPLES } from '../../lib/site';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE_NAME, SITE_URL, AUTHOR, FOUNDING_DATE, KNOWS_ABOUT, PUBLISHING_PRINCIPLES } from '../lib/site';
 
 const abs = (p: string) => new URL(p, Astro.site).href;
 // WebPage + Organization (the publisher entity): the E-E-A-T surface AI engines read to
@@ -10,12 +10,12 @@ const reviewLd = [
     '@context': 'https://schema.org',
     '@type': 'WebPage',
     name: `How ${SITE_NAME} Reviews Content`,
-    url: abs('/sg/how-we-review/'),
+    url: abs('/how-we-review/'),
     publisher: {
       '@type': 'Organization',
       name: SITE_NAME,
       url: SITE_URL,
-      description: 'Evidence-led skincare guidance for skin in Singapore.',
+      description: 'Evidence-led skincare guidance for Malaysian skin.',
       foundingDate: FOUNDING_DATE,
       knowsAbout: KNOWS_ABOUT,
       publishingPrinciples: PUBLISHING_PRINCIPLES,
@@ -27,9 +27,8 @@ const reviewLd = [
   title="How We Review"
   description="How TheBeautyGPT researches, grades evidence, fact-checks, and reviews every skincare answer: dermatology sources, explicit evidence tiers, in-house editorial review, and prompt corrections."
   jsonLd={reviewLd}
-  lang="en"
-  market="sg"
   path="/how-we-review/"
+  neutral
 >
   <article class="article">
     <div class="wrap">
@@ -54,12 +53,12 @@ const reviewLd = [
         <p>Every article is written, fact-checked, and reviewed in-house by the {AUTHOR.name} against the standards above before it is published. Each claim is traceable to a cited primary source, and we link those sources so you can check them yourself. A reviewer confirms that the mechanism is described accurately, the evidence grade matches what the research supports, and no claim has been stretched beyond it. If a piece cannot meet that bar, it does not publish, and we do not publish under fabricated bylines.</p>
 
         <h2>On medical review</h2>
-        <p>To be transparent: our articles are researched, written, and reviewed by the editorial team against the standards above. This site is educational and is not a substitute for personalized medical advice. We do not list a named external medical reviewer, and we will never invent or imply a credential we do not have. Stating this plainly is itself part of how we keep your trust. For diagnosis or treatment, particularly for severe, persistent, or painful acne, or before starting any prescription treatment, please consult a qualified doctor or certified dermatologist. See our <a href="/sg/medical-disclaimer/">medical disclaimer</a> for more.</p>
+        <p>To be transparent: our articles are researched, written, and reviewed by the editorial team against the standards above. This site is educational and is not a substitute for personalized medical advice. We do not list a named external medical reviewer, and we will never invent or imply a credential we do not have. Stating this plainly is itself part of how we keep your trust. For diagnosis or treatment, particularly for severe, persistent, or painful acne, or before starting any prescription treatment, please consult a qualified doctor or certified dermatologist. See our <a href="/medical-disclaimer/">medical disclaimer</a> for more.</p>
 
         <h2>Corrections &amp; updates</h2>
         <p>Skincare guidance evolves and products change. When we find an error, we correct it promptly. We revise articles as the evidence moves, and every article shows a published or updated date so you always know how current it is. If you spot something that looks wrong, we want to hear about it.</p>
 
-        <p>For the principles behind all of this, see our <a href="/sg/editorial-standards/">editorial standards</a>.</p>
+        <p>For the principles behind all of this, see our <a href="/editorial-standards/">editorial standards</a>.</p>
       </div>
     </div>
   </article>

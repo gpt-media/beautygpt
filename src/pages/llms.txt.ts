@@ -20,9 +20,9 @@ export const GET: APIRoute = async () => {
     '> Evidence-led, independent skincare answers for Malaysian skin. Plain-English guidance on acne, pimple patches, active ingredients, and routines.',
     '',
     '## Key pages',
-    `- [About](${SITE}/my/about/): Who we are and how we work`,
-    `- [Editorial Standards](${SITE}/my/editorial-standards/): How articles are researched and reviewed`,
-    `- [Medical Disclaimer](${SITE}/my/medical-disclaimer/): Guidance only, not a substitute for medical advice`,
+    `- [About](${SITE}/about/): Who we are and how we work`,
+    `- [Editorial Standards](${SITE}/editorial-standards/): How articles are researched and reviewed`,
+    `- [Medical Disclaimer](${SITE}/medical-disclaimer/): Guidance only, not a substitute for medical advice`,
     '',
     '## Articles',
     ...articles.map(

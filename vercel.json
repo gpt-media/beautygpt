@@ -2,10 +2,50 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "redirects": [
     { "source": "/articles/:path*", "destination": "/my/articles/:path*", "permanent": true },
-    { "source": "/ms/:path*", "destination": "/my/ms/:path*", "permanent": true },
-    { "source": "/zh/:path*", "destination": "/my/zh/:path*", "permanent": true },
-    { "source": "/about/", "destination": "/my/about/", "permanent": true },
-    { "source": "/editorial-standards/", "destination": "/my/editorial-standards/", "permanent": true },
-    { "source": "/medical-disclaimer/", "destination": "/my/medical-disclaimer/", "permanent": true }
+
+    { "source": "/my", "destination": "/", "permanent": true },
+    { "source": "/my/", "destination": "/", "permanent": true },
+
+    { "source": "/ms", "destination": "/my/ms/", "permanent": true },
+    { "source": "/ms/", "destination": "/my/ms/", "permanent": true },
+    { "source": "/ms/articles/:path*", "destination": "/my/ms/articles/:path*", "permanent": true },
+    { "source": "/zh", "destination": "/my/zh/", "permanent": true },
+    { "source": "/zh/", "destination": "/my/zh/", "permanent": true },
+    { "source": "/zh/articles/:path*", "destination": "/my/zh/articles/:path*", "permanent": true },
+
+    { "source": "/my/about/", "destination": "/about/", "permanent": true },
+    { "source": "/sg/about/", "destination": "/about/", "permanent": true },
+    { "source": "/my/ms/about/", "destination": "/ms/about/", "permanent": true },
+    { "source": "/sg/ms/about/", "destination": "/ms/about/", "permanent": true },
+    { "source": "/my/zh/about/", "destination": "/zh/about/", "permanent": true },
+    { "source": "/sg/zh/about/", "destination": "/zh/about/", "permanent": true },
+
+    { "source": "/my/editorial-standards/", "destination": "/editorial-standards/", "permanent": true },
+    { "source": "/sg/editorial-standards/", "destination": "/editorial-standards/", "permanent": true },
+    { "source": "/my/ms/editorial-standards/", "destination": "/ms/editorial-standards/", "permanent": true },
+    { "source": "/sg/ms/editorial-standards/", "destination": "/ms/editorial-standards/", "permanent": true },
+    { "source": "/my/zh/editorial-standards/", "destination": "/zh/editorial-standards/", "permanent": true },
+    { "source": "/sg/zh/editorial-standards/", "destination": "/zh/editorial-standards/", "permanent": true },
+
+    { "source": "/my/medical-disclaimer/", "destination": "/medical-disclaimer/", "permanent": true },
+    { "source": "/sg/medical-disclaimer/", "destination": "/medical-disclaimer/", "permanent": true },
+    { "source": "/my/ms/medical-disclaimer/", "destination": "/ms/medical-disclaimer/", "permanent": true },
+    { "source": "/sg/ms/medical-disclaimer/", "destination": "/ms/medical-disclaimer/", "permanent": true },
+    { "source": "/my/zh/medical-disclaimer/", "destination": "/zh/medical-disclaimer/", "permanent": true },
+    { "source": "/sg/zh/medical-disclaimer/", "destination": "/zh/medical-disclaimer/", "permanent": true },
+
+    { "source": "/my/how-we-review/", "destination": "/how-we-review/", "permanent": true },
+    { "source": "/sg/how-we-review/", "destination": "/how-we-review/", "permanent": true },
+    { "source": "/my/ms/how-we-review/", "destination": "/ms/how-we-review/", "permanent": true },
+    { "source": "/sg/ms/how-we-review/", "destination": "/ms/how-we-review/", "permanent": true },
+    { "source": "/my/zh/how-we-review/", "destination": "/zh/how-we-review/", "permanent": true },
+    { "source": "/sg/zh/how-we-review/", "destination": "/zh/how-we-review/", "permanent": true },
+
+    { "source": "/my/privacy/", "destination": "/privacy/", "permanent": true },
+    { "source": "/sg/privacy/", "destination": "/privacy/", "permanent": true },
+    { "source": "/my/ms/privacy/", "destination": "/ms/privacy/", "permanent": true },
+    { "source": "/sg/ms/privacy/", "destination": "/ms/privacy/", "permanent": true },
+    { "source": "/my/zh/privacy/", "destination": "/zh/privacy/", "permanent": true },
+    { "source": "/sg/zh/privacy/", "destination": "/zh/privacy/", "permanent": true }
   ]
 }

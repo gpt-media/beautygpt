@@ -1,23 +1,25 @@
 ---
-// Markets live under /my/ and /sg/; the bare root is a region landing.
-// Detect market + language so logo, nav, and switcher point to the right place.
+// Logo always returns to the root homepage (/). The nav renders on every page: Home -> /,
+// About -> the country-neutral About page in the detected language (en /about/, ms /ms/about/,
+// zh /zh/about/). Language is detected from the path for both market (/my/*, /sg/*) and neutral
+// (/, /ms/*, /zh/*) URLs.
 const p = Astro.url.pathname;
 const isMY = p === '/my' || p.startsWith('/my/');
 const isSG = p === '/sg' || p.startsWith('/sg/');
 const market = isMY ? 'my' : isSG ? 'sg' : null;
 
 let lang: 'en' | 'ms' | 'zh' = 'en';
-let home = '/';
-let about = '/';
 if (market) {
-  const mB = `/${market}`;
-  let rest = p.slice(3) || '/';
-  if (rest === '/ms' || rest.startsWith('/ms/')) { lang = 'ms'; rest = rest.slice(3) || '/'; }
-  else if (rest === '/zh' || rest.startsWith('/zh/')) { lang = 'zh'; rest = rest.slice(3) || '/'; }
-  const lB = lang === 'en' ? '' : `/${lang}`;
-  home = `${mB}${lB}/`;
-  about = `${mB}${lB}/about/`;
+  const rest = p.slice(3) || '/';
+  if (rest === '/ms' || rest.startsWith('/ms/')) lang = 'ms';
+  else if (rest === '/zh' || rest.startsWith('/zh/')) lang = 'zh';
+} else {
+  if (p === '/ms' || p.startsWith('/ms/')) lang = 'ms';
+  else if (p === '/zh' || p.startsWith('/zh/')) lang = 'zh';
 }
+const gen = lang === 'en' ? '' : `/${lang}`;
+const home = '/';
+const about = `${gen}/about/`;
 const t = {
   home: { en: 'Home', ms: 'Laman Utama', zh: '首页' }[lang],
   about: { en: 'About', ms: 'Tentang', zh: '关于' }[lang],
@@ -25,12 +27,10 @@ const t = {
 ---
 <header class="site-header">
   <div class="wrap">
-    <a href={market ? home : '/'} class="logo">The<span>Beauty</span>GPT</a>
-    {market && (
-      <nav>
-        <a href={home}>{t.home}</a>
-        <a href={about}>{t.about}</a>
-      </nav>
-    )}
+    <a href="/" class="logo">The<span>Beauty</span>GPT</a>
+    <nav>
+      <a href={home}>{t.home}</a>
+      <a href={about}>{t.about}</a>
+    </nav>
   </div>
 </header>
