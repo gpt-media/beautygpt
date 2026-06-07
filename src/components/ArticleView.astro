@@ -1,0 +1,71 @@
+---
+// ArticleView.astro — shared article body for all six per-locale [...slug].astro templates.
+//
+// Renders kicker / h1 / byline / AEO quick-answer / content / FAQ / newsletter. The six templates
+// differ only in locale strings + collection wiring, so they pass those in and this component
+// renders the identical structure once (dedupe rather than hand-edit six near-identical files).
+import { AUTHOR, REVIEWER } from '../lib/site';
+import { UI } from '../lib/i18n';
+import type { Lang } from '../lib/i18n';
+
+interface ArticleData {
+  title: string;
+  description: string;
+  category: string;
+  author: string;
+  publishDate: Date;
+  updatedDate?: Date;
+  faqs: { q: string; a: string }[];
+}
+
+interface Props {
+  data: ArticleData;
+  lang: Lang;
+  market: 'my' | 'sg';
+  /** rendered Astro component for the markdown body. */
+  Content: any;
+  /** in-language byline label parts. */
+  labels: { by: string; published: string; updated: string; faqHeading: string };
+  /** date formatter for this locale. */
+  fmt: (d: Date) => string;
+}
+const { data: d, lang, market, Content, labels, fmt } = Astro.props;
+const t = UI[lang];
+const Newsletter = (await import('./Newsletter.astro')).default;
+---
+<article class="article">
+  <div class="wrap">
+    <p class="kicker">{d.category}</p>
+    <h1>{d.title}</h1>
+    <p class="meta">
+      {labels.by} <a href={AUTHOR.url} rel="author">{d.author}</a>
+      {REVIEWER && <> · {t.metaReviewed} {REVIEWER.name}, {REVIEWER.credential}</>}
+      · {labels.published} {fmt(d.publishDate)}
+      {d.updatedDate && <> · {labels.updated} {fmt(d.updatedDate)}</>}
+    </p>
+
+    {/* AEO: a liftable, direct answer up top — the exact shape AI engines quote. */}
+    <div class="quick-answer">
+      <p class="qa-label">{t.quickAnswer}</p>
+      <p>{d.description}</p>
+    </div>
+
+    <div class="article-body">
+      <Content />
+    </div>
+
+    {d.faqs.length > 0 && (
+      <section class="faq">
+        <h2>{labels.faqHeading}</h2>
+        {d.faqs.map((f) => (
+          <details>
+            <summary>{f.q}</summary>
+            <p>{f.a}</p>
+          </details>
+        ))}
+      </section>
+    )}
+
+    <Newsletter lang={lang} market={market} />
+  </div>
+</article>

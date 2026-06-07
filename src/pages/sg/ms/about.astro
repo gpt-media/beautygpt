@@ -1,9 +1,30 @@
 ---
 import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { SITE_NAME, SITE_URL, AUTHOR, FOUNDING_DATE, KNOWS_ABOUT, PUBLISHING_PRINCIPLES } from '../../../lib/site';
+
+const abs = (p: string) => new URL(p, Astro.site).href;
+const aboutLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'AboutPage',
+    name: `About ${SITE_NAME}`,
+    url: abs('/sg/ms/about/'),
+    mainEntity: {
+      '@type': 'Organization',
+      name: SITE_NAME,
+      url: SITE_URL,
+      description: 'Evidence-led skincare guidance for skin in Singapore.',
+      foundingDate: FOUNDING_DATE,
+      knowsAbout: KNOWS_ABOUT,
+      publishingPrinciples: PUBLISHING_PRINCIPLES,
+    },
+  },
+];
 ---
 <BaseLayout
   lang="ms" market="sg"
   path="/about/"
+  jsonLd={aboutLd}
   title="Tentang"
   description="TheBeautyGPT memberi jawapan penjagaan kulit berasaskan bukti untuk kulit orang Singapura: perbandingan yang jelas, mekanisme sebenar, dan panduan yang relevan dengan produk, harga, dan cuaca tempatan."
 >
@@ -20,6 +41,10 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
           <li><strong>Perbandingan sebenar.</strong> Kami menimbang pilihan sebenar yang anda boleh beli di Singapura, sebelah-menyebelah.</li>
           <li><strong>Realiti tempatan.</strong> Harga dalam dolar Singapura, tempat untuk membeli (Shopee, Watsons, Guardian), dan apa yang sesuai dengan iklim yang panas dan lembap.</li>
         </ul>
+
+        <h2>Siapa yang menulis dan menyemak</h2>
+        <p>Artikel kami dikaji dan ditulis oleh <strong>{AUTHOR.name}</strong> — pasukan berasaskan penyelidikan yang membaca sumber dermatologi (panduan klinikal daripada badan seperti American Academy of Dermatology, DermNet, dan NHS) dan menterjemahkannya ke dalam bahasa yang mudah. Kami menggred sekuat mana bukti itu sebenarnya — kukuh, bercampur, atau awal — bukannya menyampaikan semuanya seolah-olah sudah muktamad.</p>
+        <p>Setiap artikel disemak mengikut <a href="/sg/ms/editorial-standards/">piawaian editorial</a> kami: mekanisme diterangkan, bukti digred secara jujur, bahan diterangkan dengan tepat, dan tiada dakwaan dilebih-lebihkan melebihi sokongan penyelidikan. Apabila jawapan jujurnya ialah "buktinya lemah" atau "anda tidak memerlukannya," kami katakan begitu. Kami tidak menerbitkan menggunakan nama palsu.</p>
 
         <h2>Bukan nasihat perubatan</h2>
         <p>Kandungan kami bersifat pendidikan. Untuk masalah kulit yang berterusan, menyakitkan, atau teruk, jumpa doktor atau pakar dermatologi bertauliah.</p>

@@ -22,6 +22,7 @@ const t = {
   about: { en: 'About', ms: 'Tentang', zh: '关于' }[lang],
   standards: { en: 'Editorial Standards', ms: 'Piawaian Editorial', zh: '编辑标准' }[lang],
   disclaimer: { en: 'Medical Disclaimer', ms: 'Penafian Perubatan', zh: '医疗免责声明' }[lang],
+  privacy: { en: 'Privacy', ms: 'Privasi', zh: '隐私' }[lang],
 };
 ---
 <footer class="site-footer">
@@ -31,6 +32,7 @@ const t = {
         <a href={`${base}/about/`}>{t.about}</a>
         <a href={`${base}/editorial-standards/`}>{t.standards}</a>
         <a href={`${base}/medical-disclaimer/`}>{t.disclaimer}</a>
+        <a href={`${base}/privacy/`}>{t.privacy}</a>
       </nav>
     )}
     {market && (

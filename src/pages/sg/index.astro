@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import Newsletter from '../../components/Newsletter.astro';
 
 const all = (await getCollection('articles-sg')).sort(
   (a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf()
@@ -58,5 +59,6 @@ const sections = [
         </ul>
       </section>
     ))}
+    <Newsletter lang="en" market="sg" />
   </div>
 </BaseLayout>

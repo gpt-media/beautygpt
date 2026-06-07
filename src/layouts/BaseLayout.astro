@@ -1,6 +1,7 @@
 ---
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import { SITE_NAME, SITE_URL, OG_IMAGE, FOUNDING_DATE, KNOWS_ABOUT, PUBLISHING_PRINCIPLES } from '../lib/site';
 import '../styles/global.css';
 
 interface Props {
@@ -15,13 +16,17 @@ interface Props {
   market?: 'my' | 'sg';
   /** Language-agnostic path suffix (e.g. '/', '/about/', '/articles/foo/') used to build hreflang alternates. */
   path?: string;
+  /** per-page OG/social image (absolute path under the domain); falls back to OG_IMAGE. */
+  image?: string;
 }
 
-const { title, description, jsonLd = [], ogType = 'website', lang = 'en', market = 'my', path } = Astro.props;
+const { title, description, jsonLd = [], ogType = 'website', lang = 'en', market = 'my', path, image } = Astro.props;
 const reg = market === 'sg' ? 'SG' : 'MY';
 const langCode = `${ { en: 'en', ms: 'ms', zh: 'zh' }[lang] }-${reg}`;
 const ogLocale = `${ { en: 'en', ms: 'ms', zh: 'zh' }[lang] }_${reg}`;
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
+const ogImage = image ?? OG_IMAGE;
+const ogImageAbs = ogImage ? new URL(ogImage, Astro.site).href : '';
 // hreflang alternates (only when the page exists in all three languages — pass `path`).
 const hb = market === 'sg' ? '/sg' : '/my';
 const alternates = path
@@ -70,15 +75,20 @@ const breadcrumbLd = Astro.url.pathname === editionRoot
     <meta property="og:url" content={canonical} />
     <meta property="og:site_name" content="TheBeautyGPT" />
     <meta property="og:locale" content={ogLocale} />
+    {ogImageAbs && <meta property="og:image" content={ogImageAbs} />}
     <meta name="twitter:card" content="summary_large_image" />
+    {ogImageAbs && <meta name="twitter:image" content={ogImageAbs} />}
 
     <!-- Organization structured data - establishes the publisher entity for AI engines -->
     <script type="application/ld+json" set:html={JSON.stringify({
       '@context': 'https://schema.org',
       '@type': 'Organization',
-      name: 'TheBeautyGPT',
-      url: 'https://thebeautygpt.com',
+      name: SITE_NAME,
+      url: SITE_URL,
       description: 'Evidence-led skincare guidance for Malaysian skin.',
+      foundingDate: FOUNDING_DATE,
+      knowsAbout: KNOWS_ABOUT,
+      publishingPrinciples: PUBLISHING_PRINCIPLES,
     })} />
 
     <!-- WebSite structured data - site-level entity for search + AI engines -->

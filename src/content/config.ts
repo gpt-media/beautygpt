@@ -6,9 +6,11 @@ const articleSchema = z.object({
   description: z.string(),               // the direct-answer summary; also the meta description
   publishDate: z.coerce.date(),
   updatedDate: z.coerce.date().optional(),
-  author: z.string().default('TheBeautyGPT Editors'),
+  author: z.string().default('TheBeautyGPT Editorial Team'),
   category: z.string().default('Skincare'),
   featured: z.boolean().default(false),
+  /** optional absolute path to a per-article OG/social image; drives og:image + ImageObject. */
+  image: z.string().optional(),
   faqs: z.array(z.object({ q: z.string(), a: z.string() })).default([]),
 });
 
