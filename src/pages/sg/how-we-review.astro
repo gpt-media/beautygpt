@@ -1,0 +1,66 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { SITE_NAME, SITE_URL, AUTHOR, FOUNDING_DATE, KNOWS_ABOUT, PUBLISHING_PRINCIPLES } from '../../lib/site';
+
+const abs = (p: string) => new URL(p, Astro.site).href;
+// WebPage + Organization (the publisher entity) — the E-E-A-T surface AI engines read to
+// understand exactly how these skincare answers are researched, graded, and reviewed.
+const reviewLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    name: `How ${SITE_NAME} Reviews Content`,
+    url: abs('/sg/how-we-review/'),
+    publisher: {
+      '@type': 'Organization',
+      name: SITE_NAME,
+      url: SITE_URL,
+      description: 'Evidence-led skincare guidance for skin in Singapore.',
+      foundingDate: FOUNDING_DATE,
+      knowsAbout: KNOWS_ABOUT,
+      publishingPrinciples: PUBLISHING_PRINCIPLES,
+    },
+  },
+];
+---
+<BaseLayout
+  title="How We Review"
+  description="How TheBeautyGPT researches, grades evidence, fact-checks, and reviews every skincare answer: dermatology sources, explicit evidence tiers, in-house editorial review, and prompt corrections."
+  jsonLd={reviewLd}
+  lang="en"
+  market="sg"
+  path="/how-we-review/"
+>
+  <article class="article">
+    <div class="wrap">
+      <p class="kicker">Methodology</p>
+      <h1>How we review.</h1>
+      <div class="article-body">
+        <p>Your skin is your health, so we treat every answer as a claim that has to be earned. This page explains exactly how an article on TheBeautyGPT is researched, how we grade the evidence behind it, and how it is reviewed before you read it. We would rather show you our work than ask you to take it on trust.</p>
+
+        <h2>How we research</h2>
+        <p>We start from primary literature and authoritative dermatology bodies, not from marketing copy or other blogs. For how an ingredient or treatment actually works, we lean on the American Academy of Dermatology (AAD), DermNet, the UK's NHS, and peer-reviewed dermatology research. We do not invent statistics, percentages, or efficacy claims, and we read the underlying source rather than relying on a headline about it.</p>
+
+        <h2>How we grade evidence</h2>
+        <p>Not all evidence is equal, so we say which kind we have. We grade every claim against explicit tiers and tell you which one applies:</p>
+        <ul>
+          <li><strong>Strong human evidence</strong> — multiple well-run human trials, or a systematic review, pointing the same way.</li>
+          <li><strong>Mixed or limited</strong> — some human studies, but small, conflicting, or short-term, so the answer is "promising but not settled."</li>
+          <li><strong>Preliminary or animal/lab only</strong> — mechanism, animal, or test-tube findings that have not been shown to hold on real skin.</li>
+        </ul>
+        <p>We do not present preliminary findings as settled fact. When a popular ingredient claim rests only on a single small study or on lab data, we say so plainly.</p>
+
+        <h2>How articles are reviewed</h2>
+        <p>Every article is written, fact-checked, and reviewed in-house by the {AUTHOR.name} against the standards above before it is published. Each claim is traceable to a cited primary source, and we link those sources so you can check them yourself. A reviewer confirms that the mechanism is described accurately, the evidence grade matches what the research supports, and no claim has been stretched beyond it. If a piece cannot meet that bar, it does not publish, and we do not publish under fabricated bylines.</p>
+
+        <h2>On medical review</h2>
+        <p>To be transparent: our articles are researched, written, and reviewed by the editorial team against the standards above. This site is educational and is not a substitute for personalized medical advice. We do not list a named external medical reviewer, and we will never invent or imply a credential we do not have — stating this plainly is itself part of how we keep your trust. For diagnosis or treatment — particularly for severe, persistent, or painful acne, or before starting any prescription treatment — please consult a qualified doctor or certified dermatologist. See our <a href="/sg/medical-disclaimer/">medical disclaimer</a> for more.</p>
+
+        <h2>Corrections &amp; updates</h2>
+        <p>Skincare guidance evolves and products change. When we find an error, we correct it promptly. We revise articles as the evidence moves, and every article shows a published or updated date so you always know how current it is. If you spot something that looks wrong, we want to hear about it.</p>
+
+        <p>For the principles behind all of this, see our <a href="/sg/editorial-standards/">editorial standards</a>.</p>
+      </div>
+    </div>
+  </article>
+</BaseLayout>
