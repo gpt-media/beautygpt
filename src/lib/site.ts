@@ -39,3 +39,6 @@ export const REVIEWER: null | { name: string; credential: string; url?: string }
  *  independent-publication footprint are a founder call. When enabled the form renders site-wide
  *  and POSTs to `action`. Until then it ships dormant: no dead form on the live site. */
 export const NEWSLETTER = { enabled: false, action: '' };
+
+/** Cloudflare Web Analytics beacon token (privacy-first, cookieless; separate property per site to preserve independence) */
+export const CF_BEACON_TOKEN = 'a285616ef0bd4f178e282b35a5ea3a28';

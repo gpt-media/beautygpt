@@ -1,7 +1,7 @@
 ---
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
-import { SITE_NAME, SITE_URL, OG_IMAGE, FOUNDING_DATE, KNOWS_ABOUT, PUBLISHING_PRINCIPLES } from '../lib/site';
+import { SITE_NAME, SITE_URL, OG_IMAGE, FOUNDING_DATE, KNOWS_ABOUT, PUBLISHING_PRINCIPLES, CF_BEACON_TOKEN } from '../lib/site';
 import '../styles/global.css';
 
 interface Props {
@@ -134,5 +134,6 @@ const breadcrumbLd = Astro.url.pathname === editionRoot
       <slot />
     </main>
     <Footer />
+    {CF_BEACON_TOKEN && <script is:inline defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon={JSON.stringify({ token: CF_BEACON_TOKEN })}></script>}
   </body>
 </html>
