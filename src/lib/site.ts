@@ -48,12 +48,23 @@ export const CF_BEACON_TOKEN = 'a285616ef0bd4f178e282b35a5ea3a28';
  *  independent-presenting site); the BuyStik component links them with rel="nofollow noopener". The
  *  official store is the only channel safe to show in markets beyond MY. */
 export const STIK_BUY = {
-  /** Malaysia channels (all three). */
+  /** Malaysia channels (all live — Wone Core > Storefronts). */
   my: {
     shopee: 'https://shopee.com.my/stikbrand',
     tiktokShop: 'https://www.tiktok.com/@stikbrand.my',
     officialStore: 'https://stikbrand.com',
   },
-  /** Market-agnostic official store, used as the safe fallback outside MY. */
+  /** Singapore channels — DRAFTED, not yet live. Fill from Wone Core > Storefronts when the SG
+   *  storefronts open, then set `buyStik: true` on the SG-edition article files (articles-sg*,
+   *  the same slugs as MY). The BuyStik block renders only the NON-EMPTY channels here, and
+   *  renders nothing if all are empty — so it stays dormant until you populate it.
+   *  ⚠️ officialStore left '' on purpose: stikbrand.com is a MYR/MY Shopify store — confirm it
+   *  ships to SG (or use a dedicated SG store) before listing it as the SG official store. */
+  sg: {
+    shopee: '',
+    tiktokShop: '',
+    officialStore: '',
+  },
+  /** Market-agnostic official store (back-compat). */
   officialStore: 'https://stikbrand.com',
 };

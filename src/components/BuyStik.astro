@@ -6,8 +6,9 @@
 // rel="nofollow noopener" target="_blank" and NO UTM params (UTM would signal ownership).
 //
 // Single source of truth for the links is STIK_BUY in lib/site.ts.
-// Market-aware: market='my' shows all three MY channels; any other market shows only the
-// official store (the safe fallback while non-MY channels are unconfirmed).
+// Market-aware: renders only the NON-EMPTY channels for the given market (Shopee / TikTok Shop /
+// official store), and renders NOTHING if that market has no channels yet. So the SG path stays
+// dormant until STIK_BUY.sg is populated — no code change needed to light it up.
 import { STIK_BUY } from '../lib/site';
 
 interface Props {
@@ -16,49 +17,45 @@ interface Props {
 }
 const { lang = 'en', market = 'my' } = Astro.props;
 
-// In-language copy. Headings name the market explicitly (Malaysia for the MY channels).
-const COPY = {
-  en: {
-    heading: 'Where to buy STIK in Malaysia',
-    intro: 'STIK patches are sold on these official channels in Malaysia:',
-    shopee: 'Shopee',
-    tiktokShop: 'TikTok Shop',
-    officialStore: 'Official store',
-  },
-  ms: {
-    heading: 'Di mana untuk membeli STIK di Malaysia',
-    intro: 'Patch STIK dijual di saluran rasmi ini di Malaysia:',
-    shopee: 'Shopee',
-    tiktokShop: 'TikTok Shop',
-    officialStore: 'Kedai rasmi',
-  },
-  zh: {
-    heading: '在马来西亚哪里购买 STIK',
-    intro: 'STIK 痘痘贴在马来西亚通过以下官方渠道销售：',
-    shopee: 'Shopee',
-    tiktokShop: 'TikTok Shop',
-    officialStore: '官方商店',
-  },
+const MARKET_NAME = {
+  my: { en: 'Malaysia', ms: 'Malaysia', zh: '马来西亚' },
+  sg: { en: 'Singapore', ms: 'Singapura', zh: '新加坡' },
 } as const;
-const c = COPY[lang];
+const m = MARKET_NAME[market][lang];
 
-// Build the link list per market. MY: all three. Otherwise: official store only.
-const links = market === 'my'
-  ? [
-      { label: c.shopee, href: STIK_BUY.my.shopee },
-      { label: c.tiktokShop, href: STIK_BUY.my.tiktokShop },
-      { label: c.officialStore, href: STIK_BUY.my.officialStore },
-    ]
-  : [{ label: c.officialStore, href: STIK_BUY.officialStore }];
+const LABELS = {
+  en: { shopee: 'Shopee', tiktokShop: 'TikTok Shop', officialStore: 'Official store' },
+  ms: { shopee: 'Shopee', tiktokShop: 'TikTok Shop', officialStore: 'Kedai rasmi' },
+  zh: { shopee: 'Shopee', tiktokShop: 'TikTok Shop', officialStore: '官方商店' },
+} as const;
+const lab = LABELS[lang];
+
+// Market-named heading + intro (in-language).
+const HEAD = {
+  en: { heading: `Where to buy STIK in ${m}`, intro: `STIK patches are sold on these official channels in ${m}:` },
+  ms: { heading: `Di mana untuk membeli STIK di ${m}`, intro: `Patch STIK dijual di saluran rasmi ini di ${m}:` },
+  zh: { heading: `在${m}哪里购买 STIK`, intro: `STIK 痘痘贴在${m}通过以下官方渠道销售：` },
+} as const;
+const c = HEAD[lang];
+
+// Build from the market's channels; drop any empty (unconfigured) channel.
+const ch = STIK_BUY[market];
+const links = [
+  { label: lab.shopee, href: ch.shopee },
+  { label: lab.tiktokShop, href: ch.tiktokShop },
+  { label: lab.officialStore, href: ch.officialStore },
+].filter((l) => l.href);
 ---
-<aside class="buy-stik" aria-label={c.heading}>
-  <p class="bs-label">{c.heading}</p>
-  <p class="bs-intro">{c.intro}</p>
-  <ul class="bs-links">
-    {links.map((l) => (
-      <li>
-        <a href={l.href} rel="nofollow noopener" target="_blank">{l.label}</a>
-      </li>
-    ))}
-  </ul>
-</aside>
+{links.length > 0 && (
+  <aside class="buy-stik" aria-label={c.heading}>
+    <p class="bs-label">{c.heading}</p>
+    <p class="bs-intro">{c.intro}</p>
+    <ul class="bs-links">
+      {links.map((l) => (
+        <li>
+          <a href={l.href} rel="nofollow noopener" target="_blank">{l.label}</a>
+        </li>
+      ))}
+    </ul>
+  </aside>
+)}
