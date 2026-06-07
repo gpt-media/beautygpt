@@ -44,7 +44,7 @@ const bySlug = new Map(all.map((a) => [a.slug, a]));
 const pillar = bySlug.get(PILLAR_SLUG);
 const items = CLUSTER.filter((s) => s !== PILLAR_SLUG).map((s) => bySlug.get(s)).filter(Boolean);
 
-// CollectionPage structured data — tells search + AI engines this is the canonical
+// CollectionPage structured data: tells search + AI engines this is the canonical
 // hub for the acne-patch cluster, with the pillar as its primary entry.
 const abs = (p: string) => new URL(p, Astro.site).href;
 const collectionLd = [
@@ -80,7 +80,7 @@ const collectionLd = [
   <div class="wrap">
     {pillar && (
       <section class="cluster">
-        <h2 class="section-title">Start here — the pillar guide</h2>
+        <h2 class="section-title">Start here: the pillar guide</h2>
         <ul class="article-list">
           <li>
             <a class="title" href={`/my/articles/${pillar.slug}/`}>{pillar.data.title}</a>

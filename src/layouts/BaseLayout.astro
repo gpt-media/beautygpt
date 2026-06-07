@@ -19,7 +19,7 @@ interface Props {
   /** per-page OG/social image (absolute path under the domain); falls back to OG_IMAGE. */
   image?: string;
   /** Optional explicit breadcrumb trail (name + path under the edition root, excluding Home).
-   *  When provided, overrides the auto-derived 2-level (Home > page) trail — used to give
+   *  When provided, overrides the auto-derived 2-level (Home > page) trail. Used to give
    *  cluster articles a 3-level trail (Home > Acne Patches > article). */
   breadcrumbs?: { name: string; path: string }[];
 }
@@ -31,7 +31,7 @@ const ogLocale = `${ { en: 'en', ms: 'ms', zh: 'zh' }[lang] }_${reg}`;
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
 const ogImage = image ?? OG_IMAGE;
 const ogImageAbs = ogImage ? new URL(ogImage, Astro.site).href : '';
-// hreflang alternates (only when the page exists in all three languages — pass `path`).
+// hreflang alternates (only when the page exists in all three languages; pass `path`).
 const hb = market === 'sg' ? '/sg' : '/my';
 const alternates = path
   ? [
@@ -45,7 +45,7 @@ const fullTitle = title === 'TheBeautyGPT'
   ? 'TheBeautyGPT: Smarter answers for your skin'
   : `${title} | TheBeautyGPT`;
 
-// BreadcrumbList — derived from the URL so every non-home page gets a valid trail
+// BreadcrumbList, derived from the URL so every non-home page gets a valid trail
 // (Home > current page) with no per-page wiring. Home crumb points at the edition
 // root for the page's market+language; publisher entity stays TheBeautyGPT.
 const editionRoot = hb + (lang === 'en' ? '' : '/' + lang) + '/';

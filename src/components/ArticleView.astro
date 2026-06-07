@@ -1,5 +1,5 @@
 ---
-// ArticleView.astro — shared article body for all six per-locale [...slug].astro templates.
+// ArticleView.astro: shared article body for all six per-locale [...slug].astro templates.
 //
 // Renders kicker / h1 / byline / AEO quick-answer / content / FAQ / newsletter. The six templates
 // differ only in locale strings + collection wiring, so they pass those in and this component
@@ -56,7 +56,7 @@ const Newsletter = (await import('./Newsletter.astro')).default;
       {d.updatedDate && <> · {labels.updated} {fmt(d.updatedDate)}</>}
     </p>
 
-    {/* AEO: a liftable, direct answer up top — the exact shape AI engines quote. */}
+    {/* AEO: a liftable, direct answer up top, the exact shape AI engines quote. */}
     <div class="quick-answer">
       <p class="qa-label">{t.quickAnswer}</p>
       <p>{d.description}</p>
