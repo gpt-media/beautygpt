@@ -1,0 +1,109 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Newsletter from '../../components/Newsletter.astro';
+
+const all = await getCollection('articles');
+const fmt = (d: Date) => d.toLocaleDateString('en-MY', { year: 'numeric', month: 'short', day: 'numeric' });
+
+// The acne-patches cluster hub. The pillar is the center; every segment article
+// below is a demand-catcher ("best acne patches [segment]", how-tos, comparisons)
+// that links UP to the pillar + this hub. This resolves the "best acne patches
+// [segment]" cannibalization by making the hub + pillar the obvious canonical center.
+const PILLAR_SLUG = 'best-acne-patches-malaysia-2026';
+const CLUSTER = [
+  // pillar first
+  PILLAR_SLUG,
+  // segment "best ... for [skin/age]" demand-catchers
+  'best-acne-patches-sensitive-skin',
+  'best-acne-patches-oily-skin-malaysia',
+  'best-acne-patches-for-teens-malaysia',
+  'best-patch-for-cystic-under-skin-acne-malaysia',
+  'acne-patches-for-maskne-malaysia',
+  // comparisons / mechanism
+  'hydrocolloid-vs-microneedle-acne-patches',
+  'how-microneedle-acne-patches-work',
+  'salicylic-acid-patches-vs-hydrocolloid',
+  'korean-vs-western-acne-patches',
+  // usage how-tos
+  'do-pimple-patches-work-overnight',
+  'how-long-to-leave-a-pimple-patch-on',
+  'where-do-acne-patches-fit-skincare-routine',
+  'can-you-wear-pimple-patches-under-makeup',
+  'pimple-patch-not-sticking-fixes',
+  'do-acne-patches-leave-marks-or-scars',
+  'are-pimple-patches-safe',
+  'pimple-patches-vs-popping',
+  'do-acne-patches-work-on-blackheads-whiteheads',
+  // buying
+  'where-to-buy-acne-patches-malaysia-price-guide',
+  'how-to-spot-fake-hydrocolloid-patch',
+];
+
+const bySlug = new Map(all.map((a) => [a.slug, a]));
+const pillar = bySlug.get(PILLAR_SLUG);
+const items = CLUSTER.filter((s) => s !== PILLAR_SLUG).map((s) => bySlug.get(s)).filter(Boolean);
+
+// CollectionPage structured data — tells search + AI engines this is the canonical
+// hub for the acne-patch cluster, with the pillar as its primary entry.
+const abs = (p: string) => new URL(p, Astro.site).href;
+const collectionLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: 'Acne Patches in Malaysia',
+    url: abs('/my/acne-patches/'),
+    description: 'The complete TheBeautyGPT guide to acne patches in Malaysia: which type works for which pimple, by skin type, plus how to use and where to buy.',
+    isPartOf: { '@type': 'WebSite', name: 'TheBeautyGPT', url: 'https://thebeautygpt.com' },
+    hasPart: [pillar, ...items].filter(Boolean).map((a: any) => ({
+      '@type': 'Article',
+      name: a.data.title,
+      url: abs(`/my/articles/${a.slug}/`),
+    })),
+  },
+];
+---
+<BaseLayout
+  title="Acne Patches in Malaysia"
+  description="The complete guide to acne patches in Malaysia: which type works for which pimple (hydrocolloid vs microneedle), the best patch by skin type, how to use them, and where to buy. Evidence-led, with prices in ringgit."
+  jsonLd={collectionLd}
+  path="/acne-patches/"
+>
+  <section class="hero">
+    <div class="wrap">
+      <p class="kicker">Topic hub</p>
+      <h1 class="tagline">Acne patches in Malaysia.</h1>
+      <p>The "best" acne patch depends on the pimple. Hydrocolloid patches absorb fluid from a surfaced whitehead; microneedle patches deliver actives into an early under-skin bump. Get the <em>type</em> right first, then the brand. Everything below is evidence-led, with real Malaysian options and prices.</p>
+    </div>
+  </section>
+
+  <div class="wrap">
+    {pillar && (
+      <section class="cluster">
+        <h2 class="section-title">Start here — the pillar guide</h2>
+        <ul class="article-list">
+          <li>
+            <a class="title" href={`/my/articles/${pillar.slug}/`}>{pillar.data.title}</a>
+            <p>{pillar.data.description}</p>
+            <span class="meta">{pillar.data.category} · {fmt(pillar.data.publishDate)}</span>
+          </li>
+        </ul>
+      </section>
+    )}
+
+    <section class="cluster">
+      <h2 class="section-title">Everything else on patches</h2>
+      <ul class="article-list">
+        {items.map((a: any) => (
+          <li>
+            <a class="title" href={`/my/articles/${a.slug}/`}>{a.data.title}</a>
+            <p>{a.data.description}</p>
+            <span class="meta">{a.data.category} · {fmt(a.data.publishDate)}</span>
+          </li>
+        ))}
+      </ul>
+    </section>
+
+    <Newsletter lang="en" market="my" />
+  </div>
+</BaseLayout>

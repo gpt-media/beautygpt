@@ -28,13 +28,25 @@ interface Props {
   labels: { by: string; published: string; updated: string; faqHeading: string };
   /** date formatter for this locale. */
   fmt: (d: Date) => string;
+  /** optional visible breadcrumb trail (Home > … > article); links + final crumb label. */
+  breadcrumbs?: { name: string; href?: string }[];
 }
-const { data: d, lang, market, Content, labels, fmt } = Astro.props;
+const { data: d, lang, market, Content, labels, fmt, breadcrumbs } = Astro.props;
 const t = UI[lang];
 const Newsletter = (await import('./Newsletter.astro')).default;
 ---
 <article class="article">
   <div class="wrap">
+    {breadcrumbs && breadcrumbs.length > 0 && (
+      <nav class="breadcrumbs" aria-label="Breadcrumb">
+        {breadcrumbs.map((c, i) => (
+          <>
+            {i > 0 && <span class="sep"> › </span>}
+            {c.href ? <a href={c.href}>{c.name}</a> : <span aria-current="page">{c.name}</span>}
+          </>
+        ))}
+      </nav>
+    )}
     <p class="kicker">{d.category}</p>
     <h1>{d.title}</h1>
     <p class="meta">

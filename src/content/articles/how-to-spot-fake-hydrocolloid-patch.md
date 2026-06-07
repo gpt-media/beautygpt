@@ -2,6 +2,7 @@
 title: "How to Spot a Fake Hydrocolloid Patch"
 description: "To tell if an acne patch is fake: check for a printed batch number and expiry date, be suspicious of prices far below the official store, and buy only from verified official sellers. Fakes often skip these details, and a non-hydrocolloid sticker won't absorb anything."
 publishDate: 2026-05-14
+updatedDate: 2026-06-07
 category: "Acne"
 faqs:
   - q: "How can I tell if a pimple patch is fake?"
@@ -26,7 +27,7 @@ That's the checklist. Now let's explain *why* each signal works, so you can judg
 
 Acne patches are a near-perfect target for counterfeiters. They're small, cheap to print packaging for, sold in huge volumes, and bought impulsively, often at midnight on the phone, when nobody is scrutinising a lot number. The popular imports (COSRX, Some By Mi) carry import-price premiums in Malaysia, which leaves a tempting gap for a "same thing, half price" knock-off.
 
-The catch is that a hydrocolloid patch only works because of *what it's made of*. Real hydrocolloid is a specific gel-forming material that absorbs wound fluid; as [Cleveland Clinic](https://health.clevelandclinic.org/how-do-pimple-patches-work) explains, the patch draws out fluids like pus and oil from a picked-open or surfaced spot. It's the same tech used in medical wound dressings, where [research indexed by the NIH](https://pmc.ncbi.nlm.nih.gov/my/articles/PMC11856799/) describes a hydrocolloid layer that forms a gel as it absorbs exudate. A counterfeit that swaps in a generic adhesive film looks identical in a sealed pack, but it has none of the absorbing chemistry. So unlike a fake handbag, which still carries your things, a fake acne patch can fail at the one job you bought it for. If you're still deciding which genuine patch suits your skin in the first place, our [guide to the best acne patches in Malaysia](/my/articles/best-acne-patches-malaysia-2026/) covers that by pimple type.
+The catch is that a hydrocolloid patch only works because of *what it's made of*. Real hydrocolloid is a specific gel-forming material that absorbs wound fluid; as [Cleveland Clinic](https://health.clevelandclinic.org/how-do-pimple-patches-work) explains, the patch draws out fluids like pus and oil from a picked-open or surfaced spot. It's the same tech used in medical wound dressings, where [research indexed by the NIH](https://pmc.ncbi.nlm.nih.gov/articles/PMC11856799/) describes a hydrocolloid layer that forms a gel as it absorbs exudate. A counterfeit that swaps in a generic adhesive film looks identical in a sealed pack, but it has none of the absorbing chemistry. So unlike a fake handbag, which still carries your things, a fake acne patch can fail at the one job you bought it for. If you're still deciding which genuine patch suits your skin in the first place, our [guide to the best acne patches in Malaysia](/my/articles/best-acne-patches-malaysia-2026/) covers that by pimple type.
 
 ## The five signs of a fake (and what each one really tells you)
 

@@ -18,9 +18,13 @@ interface Props {
   path?: string;
   /** per-page OG/social image (absolute path under the domain); falls back to OG_IMAGE. */
   image?: string;
+  /** Optional explicit breadcrumb trail (name + path under the edition root, excluding Home).
+   *  When provided, overrides the auto-derived 2-level (Home > page) trail — used to give
+   *  cluster articles a 3-level trail (Home > Acne Patches > article). */
+  breadcrumbs?: { name: string; path: string }[];
 }
 
-const { title, description, jsonLd = [], ogType = 'website', lang = 'en', market = 'my', path, image } = Astro.props;
+const { title, description, jsonLd = [], ogType = 'website', lang = 'en', market = 'my', path, image, breadcrumbs } = Astro.props;
 const reg = market === 'sg' ? 'SG' : 'MY';
 const langCode = `${ { en: 'en', ms: 'ms', zh: 'zh' }[lang] }-${reg}`;
 const ogLocale = `${ { en: 'en', ms: 'ms', zh: 'zh' }[lang] }_${reg}`;
@@ -45,15 +49,28 @@ const fullTitle = title === 'TheBeautyGPT'
 // (Home > current page) with no per-page wiring. Home crumb points at the edition
 // root for the page's market+language; publisher entity stays TheBeautyGPT.
 const editionRoot = hb + (lang === 'en' ? '' : '/' + lang) + '/';
+// Explicit trail (e.g. Home > Acne Patches > article) when `breadcrumbs` is passed;
+// otherwise the auto-derived Home > current-page trail.
+const crumbItems = breadcrumbs
+  ? [
+      { '@type': 'ListItem', position: 1, name: 'TheBeautyGPT', item: new URL(editionRoot, Astro.site).href },
+      ...breadcrumbs.map((c, i) => ({
+        '@type': 'ListItem',
+        position: i + 2,
+        name: c.name,
+        item: new URL(c.path, Astro.site).href,
+      })),
+    ]
+  : [
+      { '@type': 'ListItem', position: 1, name: 'TheBeautyGPT', item: new URL(editionRoot, Astro.site).href },
+      { '@type': 'ListItem', position: 2, name: title, item: canonical },
+    ];
 const breadcrumbLd = Astro.url.pathname === editionRoot
   ? null
   : {
       '@context': 'https://schema.org',
       '@type': 'BreadcrumbList',
-      itemListElement: [
-        { '@type': 'ListItem', position: 1, name: 'TheBeautyGPT', item: new URL(editionRoot, Astro.site).href },
-        { '@type': 'ListItem', position: 2, name: title, item: canonical },
-      ],
+      itemListElement: crumbItems,
     };
 ---
 <!doctype html>

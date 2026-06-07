@@ -17,14 +17,36 @@ const abs = (p: string) => new URL(p, Astro.site).href;
 const url = abs(`/my/articles/${entry.slug}/`);
 
 const jsonLd = buildArticleJsonLd({ data: d, inLanguage: 'en-MY', url, abs });
+
+// Patch-cluster articles get a 3-level trail (Home > Acne Patches > article) so the
+// hub sits between the home and every spoke — reinforces the cluster center for AI engines.
+const PATCH_CLUSTER = new Set([
+  'best-acne-patches-malaysia-2026', 'best-acne-patches-sensitive-skin', 'best-acne-patches-oily-skin-malaysia',
+  'best-acne-patches-for-teens-malaysia', 'best-patch-for-cystic-under-skin-acne-malaysia', 'acne-patches-for-maskne-malaysia',
+  'hydrocolloid-vs-microneedle-acne-patches', 'how-microneedle-acne-patches-work', 'salicylic-acid-patches-vs-hydrocolloid',
+  'korean-vs-western-acne-patches', 'do-pimple-patches-work-overnight', 'how-long-to-leave-a-pimple-patch-on',
+  'where-do-acne-patches-fit-skincare-routine', 'can-you-wear-pimple-patches-under-makeup', 'pimple-patch-not-sticking-fixes',
+  'do-acne-patches-leave-marks-or-scars', 'are-pimple-patches-safe', 'pimple-patches-vs-popping',
+  'do-acne-patches-work-on-blackheads-whiteheads', 'where-to-buy-acne-patches-malaysia-price-guide', 'how-to-spot-fake-hydrocolloid-patch',
+]);
+const inPatchCluster = PATCH_CLUSTER.has(entry.slug);
+// JSON-LD trail (paths under domain); names exclude the implicit Home crumb.
+const ldCrumbs = inPatchCluster
+  ? [{ name: 'Acne Patches', path: '/my/acne-patches/' }, { name: d.title, path: `/my/articles/${entry.slug}/` }]
+  : undefined;
+// Visible trail (Home crumb included).
+const navCrumbs = inPatchCluster
+  ? [{ name: 'Home', href: '/my/' }, { name: 'Acne Patches', href: '/my/acne-patches/' }, { name: d.title }]
+  : undefined;
 ---
-<BaseLayout title={d.title} description={d.description} jsonLd={jsonLd} ogType="article" image={d.image} path={`/articles/${entry.slug}/`}>
+<BaseLayout title={d.title} description={d.description} jsonLd={jsonLd} ogType="article" image={d.image} path={`/articles/${entry.slug}/`} breadcrumbs={ldCrumbs}>
   <ArticleView
     data={d}
     lang="en"
     market="my"
     Content={Content}
     fmt={fmt}
+    breadcrumbs={navCrumbs}
     labels={{ by: 'By', published: 'Published', updated: 'Updated', faqHeading: 'Frequently asked questions' }}
   />
 </BaseLayout>

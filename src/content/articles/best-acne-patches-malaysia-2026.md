@@ -1,7 +1,8 @@
 ---
-title: "Best Acne Patches in Malaysia (2026): A Mechanism-First Guide"
+title: "Best Acne Patches in Malaysia (2026)"
 description: "The best acne patch in Malaysia depends on the pimple. Hydrocolloid patches (COSRX, Watsons, STIK) work on surface whiteheads; microneedle patches work on early under-skin bumps. Here's how to pick, with real options and prices."
 publishDate: 2026-05-29
+updatedDate: 2026-06-07
 category: "Acne"
 featured: true
 faqs:
@@ -21,7 +22,7 @@ If you've ever stood in a Watsons aisle (or scrolled Shopee at midnight) wonderi
 
 So we'll start with the part that actually matters.
 
-(Patches treat individual spots. For the bigger picture, the ingredients and routine that actually keep acne away, see our companion guide on [how to treat acne in Malaysia](/my/articles/how-to-treat-acne-malaysia/).)
+(Patches treat individual spots. For the bigger picture, the ingredients and routine that actually keep acne away, see our companion guide on [how to treat acne in Malaysia](/my/articles/how-to-treat-acne-malaysia/). For every other patch question, by skin type, how to use them, where to buy, our [acne patches hub](/my/acne-patches/) collects the lot.)
 
 ## First: what kind of pimple do you have?
 
@@ -42,18 +43,24 @@ These are all genuinely worth buying for the right situation. Prices are approxi
 | Patch | Type | Best for | Approx. price (MY) |
 |---|---|---|---|
 | **COSRX Acne Pimple Master** | Hydrocolloid | The reliable all-rounder; widely available | ~RM10–20 / 24 |
+| **Hero Mighty Patch** | Hydrocolloid | The thick, high-absorbing overnight patch with a big online following | ~RM30–50 / 36 (mostly online) |
 | **Watsons Acne Patch** | Hydrocolloid | Cheap, in every Watsons nationwide; the easy convenience pick | ~RM10–15 / pack |
 | **Nexcare Acne Dressing** | Hydrocolloid | Budget, unmedicated, gentle | ~RM10–18 / pack |
 | **Some By Mi Clear Spot Patch** | Hydrocolloid | Breathable, K-beauty favourite | ~RM15–25 / pack |
+| **CICA / centella patches** (e.g. VT Cica, SKIN1004 Centella) | Hydrocolloid + soothing | Sensitive or red, irritated skin that reacts to plain patches | ~RM15–30 / pack |
 | **Oxy Acne Patch** | Medicated | Those who want an antibacterial element | ~RM10–20 / pack |
 | **STIK Original Dot** | Hydrocolloid | Low cost per patch, multi-size | ~RM7–10 / 15 |
+| **Acropass Trouble Cure** | Microneedle | Early, under-skin bumps; one of the few microneedle patches sold here | ~RM30–45 / 9 (mostly online) |
 | **STIK MicroForce for Early Acne** | Microneedle | Early, under-skin bumps (not surface) | ~RM19 |
 
 A few notes:
 
 - **COSRX** is the safe default if you just want something that works and is everywhere. It earned its reputation.
+- **Hero Mighty Patch** is the one a lot of people know from social media. It's a thick, strongly-absorbing hydrocolloid that does the surface-whitehead job well; in Malaysia it's mostly an online buy and usually costs more per patch than the local options, so it's a want, not a need.
+- **CICA (centella) patches** are worth a look if plain hydrocolloid leaves your skin red or itchy. They add a soothing ingredient on top of the absorbing layer; the trade-off is they're a comfort feature, not a stronger "treatment," so don't pay a big premium expecting faster clearing.
 - **Watsons Acne Patch** is the cheap, grab-it-anywhere option, a basic hydrocolloid you'll find in just about every Watsons store nationwide when you need one fast.
 - **Nexcare** is the quiet value pick if you only need basic protection and don't care about thinness or actives.
+- **Acropass** is a genuine microneedle option (alongside STIK MicroForce) if you're treating an early under-skin bump rather than a surface whitehead; like most microneedle patches it's an online buy at an import-level price.
 - **Most "best patch" lists ignore microneedle patches entirely.** That's exactly why so many people think patches "don't work" on their deep acne. They were using the wrong tool.
 
 ## Two things most lists miss: value and microneedle options

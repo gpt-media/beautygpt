@@ -2,6 +2,7 @@
 title: "Where Do Acne Patches Fit in Your Skincare Routine?"
 description: "An acne patch goes on LAST, on clean, dry skin, after your actives and moisturiser have fully absorbed. Or skip your serums directly under the spot so the patch sticks and the actives don't get trapped. Here's the full day and night sequence."
 publishDate: 2026-04-16
+updatedDate: 2026-06-07
 category: "Skincare"
 faqs:
   - q: "Do you put a pimple patch on before or after moisturiser?"
@@ -44,7 +45,7 @@ Overnight is the classic window for a thick hydrocolloid patch. You're not going
 
 In the morning, peel the patch off gently, cleanse, and carry on as normal. If you saw white "gunk" collect in the patch, that's it working. Don't reapply to the same fully-drained spot indefinitely.
 
-For an overnight, treat-while-you-sleep patch, a standard hydrocolloid like **COSRX Acne Pimple Master**, the budget **Watsons Acne Patch** (a cheap, no-frills hydrocolloid you can grab off the shelf in just about any Watsons nationwide, roughly RM10-15 a pack, the convenience pick when you need one tonight), or a multi-size option such as **STIK Original Dot** all do the same core job; pick on price and the size that fits the spot. If your blemish is an early, painful *under-skin* bump with nothing on the surface yet, a flat hydrocolloid has nothing to absorb. That's a different tool entirely, which we cover in [salicylic acid patches vs plain hydrocolloid](/my/articles/salicylic-acid-patches-vs-hydrocolloid/).
+For an overnight, treat-while-you-sleep patch, a standard hydrocolloid like **COSRX Acne Pimple Master**, the budget **Watsons Acne Patch** (a cheap, no-frills hydrocolloid you can grab off the shelf in just about any Watsons nationwide, roughly RM10-15 a pack, the convenience pick when you need one tonight), or a multi-size option such as **STIK Original Dot** all do the same core job; pick on price and the size that fits the spot. If your blemish is an early, painful *under-skin* bump with nothing on the surface yet, a flat hydrocolloid has nothing to absorb. That's a different tool entirely, which we cover in [how microneedle acne patches work](/my/articles/how-microneedle-acne-patches-work/).
 
 ## The day routine (and the makeup question)
 

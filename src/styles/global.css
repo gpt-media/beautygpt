@@ -70,6 +70,10 @@ h3 { font-size: 1.25rem; margin: 1.5em 0 0.4em; }
 
 /* Article body */
 .article { padding: 48px 0 24px; }
+.breadcrumbs { font-size: 0.82rem; color: var(--ink-soft); margin-bottom: 18px; }
+.breadcrumbs a { color: var(--ink-soft); text-decoration: none; }
+.breadcrumbs a:hover { color: var(--accent); }
+.breadcrumbs .sep { color: var(--line); padding: 0 2px; }
 .article .meta { font-size: 0.88rem; color: var(--ink-soft); margin-bottom: 28px; }
 .article-body { font-size: 1.08rem; }
 .article-body p, .article-body ul, .article-body ol { margin: 1em 0; }
