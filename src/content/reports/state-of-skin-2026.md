@@ -3,6 +3,7 @@ title: "The State of Skin 2026: The Acne Index"
 description: "An original-data map of who actually has acne worldwide, built from Global Burden of Disease prevalence figures and peer-reviewed dermatology epidemiology. Global prevalence, peak age, sex differences, and geography."
 publishDate: 2026-06-10
 category: "Report"
+image: "/reports/state-of-skin-2026-og.png"
 ---
 
 Acne vulgaris affects an estimated 9.4 percent of the global population, making it the eighth most prevalent disease in the world, and the most recent Global Burden of Disease modelling counts roughly 231 million people living with it in a single year.
