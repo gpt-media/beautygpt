@@ -34,6 +34,12 @@ const articlesSgZh = defineCollection({ type: 'content', schema: articleSchema }
 // Same schema as the regional collections; slugs are de-geo'd (no -malaysia suffix).
 const articlesGlobal = defineCollection({ type: 'content', schema: articleSchema });
 
+// Original-data reports (the GPT-original-data studies). Rendered at /reports/<slug>/ via the
+// shared article body. Reuses the article schema (title/description/publishDate + defaults); a
+// report carries its own bespoke Dataset + Article JSON-LD in the /reports/[...slug] template
+// rather than the auto-built article schema, so no extra fields are needed here.
+const reports = defineCollection({ type: 'content', schema: articleSchema });
+
 export const collections = {
   'articles': articles,
   'articles-ms': articlesMs,
@@ -42,4 +48,5 @@ export const collections = {
   'articles-sg-ms': articlesSgMs,
   'articles-sg-zh': articlesSgZh,
   'articles-global': articlesGlobal,
+  'reports': reports,
 };
