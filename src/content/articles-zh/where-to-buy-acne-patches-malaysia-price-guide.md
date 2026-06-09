@@ -3,7 +3,6 @@ title: "马来西亚哪里买痘痘贴（2026 价格指南）"
 description: "在马来西亚买痘痘贴有两条路：Watsons 和 Guardian 实体店随手可得，或者上 Shopee、TikTok Shop 和 Lazada（种类最齐、价格最划算）。一包大约 RM7 到 RM45。记得看每片单价、别只看每包价格，并从官方店铺购买以免买到假货。"
 publishDate: 2026-05-11
 updatedDate: 2026-06-07
-buyStik: true
 category: "痘痘"
 faqs:
   - q: "马来西亚哪里可以买到痘痘贴？"

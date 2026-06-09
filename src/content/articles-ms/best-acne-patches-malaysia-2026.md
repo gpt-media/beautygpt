@@ -3,7 +3,6 @@ title: "Patch Jerawat Terbaik di Malaysia (2026): Panduan Ikut Cara Kerja"
 description: "Patch jerawat terbaik di Malaysia bergantung pada jenis jerawat anda. Patch hydrocolloid (COSRX, Watsons, STIK) berkesan untuk komedo putih di permukaan; patch microneedle pula untuk benjolan awal di bawah kulit. Ini caranya mahu pilih, lengkap dengan pilihan sebenar dan harganya."
 publishDate: 2026-05-29
 updatedDate: 2026-06-07
-buyStik: true
 category: "Jerawat"
 featured: true
 faqs:

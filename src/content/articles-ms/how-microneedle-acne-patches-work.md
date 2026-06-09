@@ -3,7 +3,6 @@ title: "Seperti Mana Patch Jerawat Microneedle Berfungsi (dan Untuk Siapa Ia Ses
 description: "Patch jerawat microneedle menggunakan ratusan kon halus yang larut untuk menghantar bahan aktif tepat di bawah permukaan kulit, mencapai benjolan awal yang sakit dan terperap di bawah kulit sebelum ia timbul, tepat di tempat patch hydrocolloid yang rata tiada apa-apa untuk diserap."
 publishDate: 2026-04-14
 updatedDate: 2026-06-07
-buyStik: true
 category: "Jerawat"
 faqs:
   - q: "Bagaimana patch jerawat microneedle berfungsi?"

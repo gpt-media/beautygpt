@@ -3,7 +3,6 @@ title: "Korean vs Western Acne Patches: What's Actually Different?"
 description: "The real differences are thinness, finish and format, not nationality. Korean patches tend to be thinner with more variety (CICA, tea tree, microneedle); Western brands tend to be thicker and pharmacy-stocked. The hydrocolloid underneath is the same wound-care material either way."
 publishDate: 2026-05-08
 updatedDate: 2026-06-07
-buyStik: true
 category: "Acne"
 faqs:
   - q: "What is the real difference between Korean and Western acne patches?"

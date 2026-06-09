@@ -3,7 +3,6 @@ title: "Adakah Patch Jerawat Berkesan Semalaman? Apa yang Boleh Diharapkan Menje
 description: "Ya, untuk jenis jerawat yang betul. Patch hydrocolloid pada komedo putih yang sudah timbul memang berkesan semalaman: ia menyerap cecair, meleperkan jerawat, dan menghalang anda daripada memicit. Ia tidak akan meleperkan jerawat kistik dalam di bawah kulit menjelang pagi. Inilah yang sebenarnya berlaku dalam 8 jam."
 publishDate: 2026-04-08
 updatedDate: 2026-06-07
-buyStik: true
 category: "Jerawat"
 faqs:
   - q: "Adakah patch jerawat berkesan semalaman?"

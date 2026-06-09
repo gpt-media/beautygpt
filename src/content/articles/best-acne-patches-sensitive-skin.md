@@ -3,7 +3,6 @@ title: "Best Acne Patches for Sensitive Skin"
 description: "For sensitive, reactive skin, a plain unmedicated hydrocolloid patch like Nexcare or Some By Mi is usually the safest pick. Medicated and active-laced patches are more likely to irritate. Here's the trade-off, how to patch-test, and what to avoid."
 publishDate: 2026-04-25
 updatedDate: 2026-06-07
-buyStik: true
 category: "Acne"
 faqs:
   - q: "What is the best acne patch for sensitive skin?"

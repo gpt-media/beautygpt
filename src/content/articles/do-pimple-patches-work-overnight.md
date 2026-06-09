@@ -3,7 +3,6 @@ title: "Do Pimple Patches Work Overnight? What to Expect by Morning"
 description: "Yes, for the right pimple. A hydrocolloid patch on a surfaced whitehead visibly works overnight: it absorbs fluid, flattens the spot, and stops you picking. It will not flatten a deep under-skin cyst by morning. Here's what 8 hours realistically does."
 publishDate: 2026-04-08
 updatedDate: 2026-06-07
-buyStik: true
 category: "Acne"
 faqs:
   - q: "Do pimple patches work overnight?"

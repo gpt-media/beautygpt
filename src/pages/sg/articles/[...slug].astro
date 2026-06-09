@@ -16,7 +16,7 @@ const fmt = (dt: Date) => dt.toLocaleDateString('en-SG', { year: 'numeric', mont
 const abs = (p: string) => new URL(p, Astro.site).href;
 const url = abs(`/sg/articles/${entry.slug}/`);
 
-const jsonLd = buildArticleJsonLd({ data: d, inLanguage: 'en-SG', url, abs });
+const jsonLd = buildArticleJsonLd({ data: d, inLanguage: 'en-SG', url, abs, body: entry.body });
 ---
 <BaseLayout title={d.title} description={d.description} jsonLd={jsonLd} ogType="article" lang="en" market="sg" image={d.image} path={`/articles/${entry.slug}/`}>
   <ArticleView

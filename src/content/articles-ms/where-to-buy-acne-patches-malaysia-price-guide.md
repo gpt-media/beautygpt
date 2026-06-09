@@ -3,7 +3,6 @@ title: "Di Mana Nak Beli Patch Jerawat di Malaysia (Panduan Harga 2026)"
 description: "Beli patch jerawat di Malaysia di Watsons dan Guardian (di kedai) atau Shopee, TikTok Shop dan Lazada (pilihan paling luas, harga paling murah). Biasanya dalam lingkungan RM7 hingga RM45 sekotak. Bandingkan harga setiap patch, bukan setiap kotak, dan beli dari kedai rasmi untuk mengelakkan barang tiruan."
 publishDate: 2026-05-11
 updatedDate: 2026-06-07
-buyStik: true
 category: "Jerawat"
 faqs:
   - q: "Di mana saya boleh beli patch jerawat di Malaysia?"

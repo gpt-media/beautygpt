@@ -3,7 +3,6 @@ title: "马来西亚最好的痘痘贴（2026）：先弄清原理再选"
 description: "马来西亚最好的痘痘贴，其实要看你长的是哪一种痘。普通的吸收型痘痘贴（COSRX、Watsons、STIK）对付浮上表面的白头粉刺；微针贴则针对刚冒起、还埋在皮肤底下的硬块。这篇教你怎么选，附上真实选项和价格。"
 publishDate: 2026-05-29
 updatedDate: 2026-06-07
-buyStik: true
 category: "痘痘护理"
 featured: true
 faqs:

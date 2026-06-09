@@ -3,7 +3,6 @@ title: "敏感肌最适合的痘痘贴"
 description: "对于敏感、易反应的肌肤，像 Nexcare 或 Some By Mi 这类不含药物成分的吸收型痘痘贴，通常是最安全的选择。加了药物或活性成分的痘痘贴更容易刺激肌肤。这篇文章会讲清楚其中的取舍、怎么做肌肤测试，以及该避开什么。"
 publishDate: 2026-04-25
 updatedDate: 2026-06-07
-buyStik: true
 category: "痘痘"
 faqs:
   - q: "敏感肌最适合用哪种痘痘贴？"

@@ -3,7 +3,6 @@ title: "Cara Kenal Patch Hydrocolloid Tiruan"
 description: "Untuk tahu sama ada patch jerawat itu tiruan: semak nombor batch dan tarikh luput yang dicetak, curiga dengan harga yang jauh lebih murah daripada kedai rasmi, dan beli hanya daripada penjual rasmi yang disahkan. Produk tiruan biasanya tiada butiran ini, dan pelekat yang bukan hydrocolloid tidak akan menyerap apa-apa."
 publishDate: 2026-05-14
 updatedDate: 2026-06-07
-buyStik: true
 category: "Jerawat"
 faqs:
   - q: "Bagaimana saya mahu tahu patch jerawat itu tiruan?"

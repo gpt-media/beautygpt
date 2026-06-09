@@ -16,8 +16,6 @@ interface ArticleData {
   publishDate: Date;
   updatedDate?: Date;
   faqs: { q: string; a: string }[];
-  /** when true, render the neutral "Where to buy STIK" note near the foot of the article. */
-  buyStik?: boolean;
 }
 
 interface Props {
@@ -25,8 +23,8 @@ interface Props {
   lang: Lang;
   /** Market region for the regional editions. Omitted (with global=true) for the global edition. */
   market?: 'my' | 'sg';
-  /** Global/market-less edition (rendered at /articles/<slug>/). Suppresses any BuyStik block
-   *  (global articles never set buyStik) and points the newsletter privacy link at the neutral page. */
+  /** Global/market-less edition (rendered at /articles/<slug>/). Points the newsletter privacy
+   *  link at the neutral page. */
   global?: boolean;
   /** rendered Astro component for the markdown body. */
   Content: any;
@@ -40,7 +38,6 @@ interface Props {
 const { data: d, lang, market = 'my', global = false, Content, labels, fmt, breadcrumbs } = Astro.props;
 const t = UI[lang];
 const Newsletter = (await import('./Newsletter.astro')).default;
-const BuyStik = (await import('./BuyStik.astro')).default;
 ---
 <article class="article">
   <div class="wrap">
@@ -84,8 +81,6 @@ const BuyStik = (await import('./BuyStik.astro')).default;
         ))}
       </section>
     )}
-
-    {d.buyStik && !global && <BuyStik lang={lang} market={market} />}
 
     <Newsletter lang={lang} market={market} global={global} />
   </div>

@@ -3,7 +3,6 @@ title: "Where to Buy Acne Patches in Malaysia (2026 Price Guide)"
 description: "Buy acne patches in Malaysia at Watsons and Guardian (in-store) or Shopee, TikTok Shop and Lazada (widest range, best prices). Expect roughly RM7 to RM45 a pack. Compare per-patch, not per-pack, and buy from official stores to avoid fakes."
 publishDate: 2026-05-11
 updatedDate: 2026-06-07
-buyStik: true
 category: "Acne"
 faqs:
   - q: "Where can I buy acne patches in Malaysia?"
