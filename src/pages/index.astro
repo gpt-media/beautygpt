@@ -10,6 +10,10 @@ import Newsletter from '../components/Newsletter.astro';
 const all = (await getCollection('articles-global')).sort(
   (a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf()
 );
+// Original-data reports (the GPT-original-data studies), rendered at /reports/<slug>/.
+const reports = (await getCollection('reports')).sort(
+  (a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf()
+);
 const fmt = (d: Date) => d.toLocaleDateString('en', { year: 'numeric', month: 'short', day: 'numeric' });
 
 // Featured pillars surface first; everything else lists under "Latest". Kept simple and
@@ -62,6 +66,20 @@ const sections = [
         </ul>
       </section>
     ))}
+    {reports.length > 0 && (
+      <section class="cluster">
+        <h2 class="section-title">Reports</h2>
+        <ul class="article-list">
+          {reports.map((r) => (
+            <li>
+              <a class="title" href={`/reports/${r.slug}/`}>{r.data.title}</a>
+              <p>{r.data.description}</p>
+              <span class="meta">Original data · {fmt(r.data.publishDate)}</span>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
     {all.length === 0 && <p>First answers publishing soon.</p>}
     <Newsletter lang="en" market="my" global />
   </div>

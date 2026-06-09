@@ -13,6 +13,10 @@ export const GET: APIRoute = async () => {
   const articles = (await getCollection('articles')).sort(
     (a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf()
   );
+  // Original-data reports (the GPT-original-data studies), rendered at /reports/<slug>/.
+  const reports = (await getCollection('reports')).sort(
+    (a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf()
+  );
 
   const lines = [
     '# TheBeautyGPT',
@@ -24,6 +28,15 @@ export const GET: APIRoute = async () => {
     `- [Editorial Standards](${SITE}/editorial-standards/): How articles are researched and reviewed`,
     `- [Medical Disclaimer](${SITE}/medical-disclaimer/): Guidance only, not a substitute for medical advice`,
     '',
+    ...(reports.length
+      ? [
+          '## Reports',
+          ...reports.map(
+            (r) => `- [${clean(r.data.title)}](${SITE}/reports/${r.slug}/): ${clean(r.data.description)}`
+          ),
+          '',
+        ]
+      : []),
     '## Articles',
     ...articles.map(
       (a) => `- [${clean(a.data.title)}](${SITE}/my/articles/${a.slug}/): ${clean(a.data.description)}`
