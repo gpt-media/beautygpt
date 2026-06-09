@@ -11,12 +11,17 @@ import type { Lang } from '../lib/i18n';
 interface Props {
   lang?: Lang;
   market?: 'my' | 'sg';
+  /** Global/market-less edition: link the neutral privacy page (/privacy/, /ms/privacy/ ...)
+   *  rather than a market-scoped one. */
+  global?: boolean;
 }
-const { lang = 'en', market = 'my' } = Astro.props;
+const { lang = 'en', market = 'my', global = false } = Astro.props;
 const t = UI[lang];
 const nl = NEWSLETTER;
-// Privacy link in the matching edition (market + language).
-const privacyHref = `/${market}${lang === 'en' ? '' : '/' + lang}/privacy/`;
+// Privacy link: neutral edition (/privacy/) when global, else the market+language edition.
+const privacyHref = global
+  ? `/${lang === 'en' ? '' : lang + '/'}privacy/`
+  : `/${market}${lang === 'en' ? '' : '/' + lang}/privacy/`;
 ---
 {nl.enabled && (
   <aside class="newsletter" aria-label={t.nlHeading}>

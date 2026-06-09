@@ -23,7 +23,11 @@ interface ArticleData {
 interface Props {
   data: ArticleData;
   lang: Lang;
-  market: 'my' | 'sg';
+  /** Market region for the regional editions. Omitted (with global=true) for the global edition. */
+  market?: 'my' | 'sg';
+  /** Global/market-less edition (rendered at /articles/<slug>/). Suppresses any BuyStik block
+   *  (global articles never set buyStik) and points the newsletter privacy link at the neutral page. */
+  global?: boolean;
   /** rendered Astro component for the markdown body. */
   Content: any;
   /** in-language byline label parts. */
@@ -33,7 +37,7 @@ interface Props {
   /** optional visible breadcrumb trail (Home > … > article); links + final crumb label. */
   breadcrumbs?: { name: string; href?: string }[];
 }
-const { data: d, lang, market, Content, labels, fmt, breadcrumbs } = Astro.props;
+const { data: d, lang, market = 'my', global = false, Content, labels, fmt, breadcrumbs } = Astro.props;
 const t = UI[lang];
 const Newsletter = (await import('./Newsletter.astro')).default;
 const BuyStik = (await import('./BuyStik.astro')).default;
@@ -81,8 +85,8 @@ const BuyStik = (await import('./BuyStik.astro')).default;
       </section>
     )}
 
-    {d.buyStik && <BuyStik lang={lang} market={market} />}
+    {d.buyStik && !global && <BuyStik lang={lang} market={market} />}
 
-    <Newsletter lang={lang} market={market} />
+    <Newsletter lang={lang} market={market} global={global} />
   </div>
 </article>

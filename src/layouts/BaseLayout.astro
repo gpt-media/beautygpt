@@ -21,6 +21,12 @@ interface Props {
    *  no market segment, and the lang/locale codes drop the region suffix. Articles + the /sg/,
    *  /my/ms/ ... edition homepages leave this false and keep their market-scoped behavior. */
   neutral?: boolean;
+  /** Global English edition page (the x-default, rooted at /articles/<slug>/). Like `neutral`
+   *  it drops the region suffix (lang 'en', og:locale 'en'), but it is a STANDALONE English
+   *  cluster: hreflang emits only en + x-default, BOTH self-referencing `path` (no /ms//zh/
+   *  alternates, since the global edition has no translations and does not cross-link the
+   *  market editions, whose slugs differ). Implies neutral behavior for lang/locale + Home crumb. */
+  global?: boolean;
   /** per-page OG/social image (absolute path under the domain); falls back to OG_IMAGE. */
   image?: string;
   /** Optional explicit breadcrumb trail (name + path under the edition root, excluding Home).
@@ -29,20 +35,29 @@ interface Props {
   breadcrumbs?: { name: string; path: string }[];
 }
 
-const { title, description, jsonLd = [], ogType = 'website', lang = 'en', market = 'my', path, image, breadcrumbs, neutral = false } = Astro.props;
+const { title, description, jsonLd = [], ogType = 'website', lang = 'en', market = 'my', path, image, breadcrumbs, neutral = false, global = false } = Astro.props;
 const reg = market === 'sg' ? 'SG' : 'MY';
-// Neutral (country-agnostic) pages use language-only codes; market pages keep the region suffix.
-const langCode = neutral ? { en: 'en', ms: 'ms', zh: 'zh' }[lang] : `${ { en: 'en', ms: 'ms', zh: 'zh' }[lang] }-${reg}`;
-const ogLocale = neutral ? { en: 'en', ms: 'ms', zh: 'zh' }[lang] : `${ { en: 'en', ms: 'ms', zh: 'zh' }[lang] }_${reg}`;
+// Global + neutral pages both drop the region suffix (language-only codes); market pages keep it.
+const noRegion = neutral || global;
+const langCode = noRegion ? { en: 'en', ms: 'ms', zh: 'zh' }[lang] : `${ { en: 'en', ms: 'ms', zh: 'zh' }[lang] }-${reg}`;
+const ogLocale = noRegion ? { en: 'en', ms: 'ms', zh: 'zh' }[lang] : `${ { en: 'en', ms: 'ms', zh: 'zh' }[lang] }_${reg}`;
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
 const ogImage = image ?? OG_IMAGE;
 const ogImageAbs = ogImage ? new URL(ogImage, Astro.site).href : '';
 // hreflang alternates (only when the page exists in all three languages; pass `path`).
+// Global pages: STANDALONE English cluster — en + x-default both self-referencing `path`
+//   (which is the /articles/<slug>/ URL itself). No /ms//zh/ alternates: the global edition
+//   has no translations and the market editions use different slugs.
 // Neutral pages: en at /, ms at /ms/, zh at /zh/ (no market segment), x-default -> English root.
 // Market pages: /my|/sg root with /ms, /zh language sub-paths, x-default -> the en market root.
 const hb = market === 'sg' ? '/sg' : '/my';
 const alternates = path
-  ? neutral
+  ? global
+    ? [
+        { hreflang: 'en', href: new URL(`${path}`, Astro.site).href },
+        { hreflang: 'x-default', href: new URL(`${path}`, Astro.site).href },
+      ]
+    : neutral
     ? [
         { hreflang: 'en', href: new URL(`${path}`, Astro.site).href },
         { hreflang: 'ms', href: new URL(`/ms${path}`, Astro.site).href },
@@ -63,7 +78,7 @@ const fullTitle = title === 'TheBeautyGPT'
 // BreadcrumbList, derived from the URL so every non-home page gets a valid trail
 // (Home > current page) with no per-page wiring. Home crumb points at the edition
 // root for the page's market+language; publisher entity stays TheBeautyGPT.
-const editionRoot = (neutral ? '' : hb) + (lang === 'en' ? '' : '/' + lang) + '/';
+const editionRoot = (noRegion ? '' : hb) + (lang === 'en' ? '' : '/' + lang) + '/';
 // Explicit trail (e.g. Home > Acne Patches > article) when `breadcrumbs` is passed;
 // otherwise the auto-derived Home > current-page trail.
 const crumbItems = breadcrumbs

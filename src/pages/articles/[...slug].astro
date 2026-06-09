@@ -1,0 +1,33 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleView from '../../components/ArticleView.astro';
+import { buildArticleJsonLd } from '../../lib/article-schema';
+
+// Global English edition — the x-default. Rendered at /articles/<slug>/ as a STANDALONE
+// English cluster (en + x-default self-referencing; no /my//sg/ cross-links). Market-less,
+// de-geo'd content. Mirrors the regional [...slug].astro templates, configured global.
+export async function getStaticPaths() {
+  const articles = await getCollection('articles-global');
+  return articles.map((entry) => ({ params: { slug: entry.slug }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+const d = entry.data;
+const fmt = (dt: Date) => dt.toLocaleDateString('en', { year: 'numeric', month: 'long', day: 'numeric' });
+const abs = (p: string) => new URL(p, Astro.site).href;
+const url = abs(`/articles/${entry.slug}/`);
+
+const jsonLd = buildArticleJsonLd({ data: d, inLanguage: 'en', url, abs });
+---
+<BaseLayout title={d.title} description={d.description} jsonLd={jsonLd} ogType="article" lang="en" global image={d.image} path={`/articles/${entry.slug}/`}>
+  <ArticleView
+    data={d}
+    lang="en"
+    global
+    Content={Content}
+    fmt={fmt}
+    labels={{ by: 'By', published: 'Published', updated: 'Updated', faqHeading: 'Frequently asked questions' }}
+  />
+</BaseLayout>

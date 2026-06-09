@@ -29,6 +29,10 @@ const articlesZh = defineCollection({ type: 'content', schema: articleSchema });
 const articlesSg = defineCollection({ type: 'content', schema: articleSchema });
 const articlesSgMs = defineCollection({ type: 'content', schema: articleSchema });
 const articlesSgZh = defineCollection({ type: 'content', schema: articleSchema });
+// Global English edition (the x-default). Market-less, de-geo'd content rendered at
+// /articles/<slug>/ as a standalone English cluster (en + x-default both self-referencing).
+// Same schema as the regional collections; slugs are de-geo'd (no -malaysia suffix).
+const articlesGlobal = defineCollection({ type: 'content', schema: articleSchema });
 
 export const collections = {
   'articles': articles,
@@ -37,4 +41,5 @@ export const collections = {
   'articles-sg': articlesSg,
   'articles-sg-ms': articlesSgMs,
   'articles-sg-zh': articlesSgZh,
+  'articles-global': articlesGlobal,
 };
