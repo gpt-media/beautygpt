@@ -1,4 +1,6 @@
 ---
+import { EDITIONS } from '../lib/site';
+
 const year = 2026;
 const p = Astro.url.pathname;
 // The footer renders on EVERY page. Two independent concerns:
@@ -8,33 +10,24 @@ const p = Astro.url.pathname;
 //     en at /about/, ms at /ms/about/, zh at /zh/about/. This holds on market article pages too,
 //     so we never link to a deleted /my/about/-style URL.
 //
-//  2. Language switch (EN / BM / 中文):
-//     - on market pages (/my/*, /sg/*) it keeps market-correct same-page switching, exactly as
-//       before, so an article stays inside its market edition when you change language.
-//     - on neutral pages (/, /about/, /ms/*, /zh/* general pages) it switches between the
-//       language-only versions of the current page.
+//  2. Language switch: a compact zero-JS <details> disclosure listing the EDITIONS (from
+//     src/lib/site.ts), one line per region. Links go to edition HOMEPAGES only — never per-page
+//     alternates, which 404 on pages that exist only in the global English edition (e.g.
+//     /reports/* and /articles/* have no /ms/ or /zh/ twins). The current edition (detected
+//     market + language) renders bold and non-linked.
 const isMY = p === '/my' || p.startsWith('/my/');
 const isSG = p === '/sg' || p.startsWith('/sg/');
 const market = isMY ? 'my' : isSG ? 'sg' : null;
 
 // Detect the content language from the path (works for both market and neutral URLs).
 let lang: 'en' | 'ms' | 'zh' = 'en';
-let sw = { en: '/', ms: '/ms/', zh: '/zh/' };
+const rest = market ? p.slice(3) || '/' : p;
+if (rest === '/ms' || rest.startsWith('/ms/')) lang = 'ms';
+else if (rest === '/zh' || rest.startsWith('/zh/')) lang = 'zh';
 
-if (market) {
-  const mB = `/${market}`;
-  let rest = p.slice(3) || '/';
-  if (rest === '/ms' || rest.startsWith('/ms/')) { lang = 'ms'; rest = rest.slice(3) || '/'; }
-  else if (rest === '/zh' || rest.startsWith('/zh/')) { lang = 'zh'; rest = rest.slice(3) || '/'; }
-  // Market-correct language switch (same page, same edition).
-  sw = { en: `${mB}${rest}`, ms: `${mB}/ms${rest}`, zh: `${mB}/zh${rest}` };
-} else {
-  let rest = p;
-  if (p === '/ms' || p.startsWith('/ms/')) { lang = 'ms'; rest = p.slice(3) || '/'; }
-  else if (p === '/zh' || p.startsWith('/zh/')) { lang = 'zh'; rest = p.slice(3) || '/'; }
-  // Neutral language switch (language-only versions of the current page).
-  sw = { en: `${rest}`, ms: `/ms${rest}`, zh: `/zh${rest}` };
-}
+// Current edition key (region/lang). Neutral ms/zh pages (e.g. /ms/about/) have no matching
+// global edition homepage, so nothing is marked current there and every edition stays clickable.
+const current = `${market ?? 'global'}/${lang}`;
 
 // General-nav prefix: always country-neutral, language-only (en = '', ms = '/ms', zh = '/zh').
 const gen = lang === 'en' ? '' : `/${lang}`;
@@ -45,6 +38,7 @@ const t = {
   howWeReview: { en: 'How We Review', ms: 'Cara Kami Mengulas', zh: '我们如何评测' }[lang],
   disclaimer: { en: 'Medical Disclaimer', ms: 'Penafian Perubatan', zh: '医疗免责声明' }[lang],
   privacy: { en: 'Privacy', ms: 'Privasi', zh: '隐私' }[lang],
+  language: { en: 'Language', ms: 'Bahasa', zh: '语言' }[lang],
 };
 ---
 <footer class="site-footer">
@@ -56,11 +50,26 @@ const t = {
       <a href={`${gen}/medical-disclaimer/`}>{t.disclaimer}</a>
       <a href={`${gen}/privacy/`}>{t.privacy}</a>
     </nav>
-    <span class="lang-switch footer-langs">
-      <a href={sw.en} class={lang === 'en' ? 'on' : ''}>EN</a>
-      <a href={sw.ms} class={lang === 'ms' ? 'on' : ''}>BM</a>
-      <a href={sw.zh} class={lang === 'zh' ? 'on' : ''}>中文</a>
-    </span>
+    <details class="lang-switch">
+      <summary>{'\u{1F310}'} {t.language}</summary>
+      <ul>
+        {EDITIONS.map((ed) => (
+          <li>
+            <span class="region">{ed.flag} {ed.label}</span> –
+            {ed.languages.map((l, i) => (
+              <Fragment>
+                {i > 0 && ' · '}
+                {current === `${ed.region}/${l.code}` ? (
+                  <strong aria-current="true">{l.name}</strong>
+                ) : (
+                  <a href={l.href}>{l.name}</a>
+                )}
+              </Fragment>
+            ))}
+          </li>
+        ))}
+      </ul>
+    </details>
     <p class="fineprint">&copy; {year} TheBeautyGPT. All rights reserved.</p>
   </div>
 </footer>

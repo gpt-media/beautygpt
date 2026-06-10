@@ -43,6 +43,49 @@ export const NEWSLETTER = { enabled: false, action: '' };
 /** Cloudflare Web Analytics beacon token (privacy-first, cookieless; separate property per site to preserve independence) */
 export const CF_BEACON_TOKEN = 'a285616ef0bd4f178e282b35a5ea3a28';
 
+/** Edition homepages, grouped by region — drives the footer language switch (compact zero-JS
+ *  <details> disclosure). This site has no edition objects (identity is hardcoded), so this list
+ *  is the single source of truth for WHICH editions exist. Links are edition HOMEPAGES on
+ *  purpose, never per-page alternates: pages that exist only in the global English edition
+ *  (/articles/*, /reports/*) have no /ms/ or /zh/ twins, so per-page alternate links 404 there.
+ *  NOTE: /my/ 308-redirects to / (vercel.json) since the MY-English homepage merged into the
+ *  root; the link still lands on the English homepage and self-heals if /my/ is ever un-merged.
+ *  Region labels stay in English (recognizable from any edition); language names are autonyms.
+ *  Add a row/language here when a new edition ships. */
+export const EDITIONS: {
+  region: string;
+  flag: string;
+  label: string;
+  languages: { code: 'en' | 'ms' | 'zh'; name: string; href: string }[];
+}[] = [
+  {
+    region: 'global',
+    flag: '\u{1F30D}',
+    label: 'Global',
+    languages: [{ code: 'en', name: 'English', href: '/' }],
+  },
+  {
+    region: 'my',
+    flag: '\u{1F1F2}\u{1F1FE}',
+    label: 'Malaysia',
+    languages: [
+      { code: 'en', name: 'English', href: '/my/' },
+      { code: 'ms', name: 'Bahasa Malaysia', href: '/my/ms/' },
+      { code: 'zh', name: '中文', href: '/my/zh/' },
+    ],
+  },
+  {
+    region: 'sg',
+    flag: '\u{1F1F8}\u{1F1EC}',
+    label: 'Singapore',
+    languages: [
+      { code: 'en', name: 'English', href: '/sg/' },
+      { code: 'ms', name: 'Bahasa Malaysia', href: '/sg/ms/' },
+      { code: 'zh', name: '中文', href: '/sg/zh/' },
+    ],
+  },
+];
+
 /** STIK retail channels, single source of truth for the "where to buy" note on patch-purchase-intent
  *  articles. These are STIK's LIVE Malaysia channels. No UTM params (would signal ownership of this
  *  independent-presenting site); the BuyStik component links them with rel="nofollow noopener". The

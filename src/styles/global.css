@@ -32,9 +32,6 @@ a:hover { opacity: 0.8; }
 .logo span { color: var(--accent); }
 .site-header nav a { color: var(--ink-soft); text-decoration: none; margin-left: 20px; font-size: 16px; }
 .site-header nav a:hover { color: var(--accent); }
-.lang-switch { margin-left: 14px; }
-.lang-switch a { margin-left: 8px; font-size: 14px; color: var(--ink-soft); text-decoration: none; }
-.lang-switch a.on { color: var(--ink); font-weight: 700; }
 
 /* Headlines */
 h1, h2, h3 { font-family: var(--serif); line-height: 1.2; letter-spacing: -0.01em; }
@@ -98,9 +95,14 @@ h3 { font-size: 1.25rem; margin: 1.5em 0 0.4em; }
 .footer-nav { margin: 0 0 12px; }
 .footer-nav a { color: var(--ink-soft); text-decoration: none; font-size: 0.85rem; margin-right: 18px; }
 .footer-nav a:hover { color: var(--accent); }
-/* Language switch relocated to the footer (clean header) */
-.footer-langs { display: block; margin: 0 0 14px; }
-.footer-langs a { margin-left: 0; margin-right: 14px; }
+/* Footer language switch: compact zero-JS disclosure (details/summary), links to edition homepages */
+.lang-switch { margin: 0 0 14px; font-size: 0.85rem; color: var(--ink-soft); }
+.lang-switch summary { cursor: pointer; }
+.lang-switch ul { list-style: none; margin: 8px 0 0; padding: 0; }
+.lang-switch li { margin: 4px 0; }
+.lang-switch a { color: var(--ink-soft); text-decoration: none; }
+.lang-switch a:hover { color: var(--accent); }
+.lang-switch strong { color: var(--ink); font-weight: 700; }
 
 @media (max-width: 640px) {
   body { font-size: 17px; }
